@@ -19,4 +19,4 @@ Výsledek voleb je promarněná příležitost, ale ne tragédie.
 
 Prezident Zeman dusí budoucnost nejen mojí generace, celé země. A ještě nějakou dobu dusit bude. Akce však vyvolává reakci. Kyvadlo se dříve nebo později vychýlí na druhou stranu. A důležité je, co na té straně bude. Na tom teď záleží. A jedním ze střípků budoucnosti je, koho lepšího se pokusíme udělat prezidentem příště? Necháme se dál definovat technology moci jako Zeman, Babiš nebo Okamura? Nebo najdeme svou společnou a srozumitelnou definici budoucnosti a dokážeme s ní vyhrát?
 
-Ivo Vlasatý, MS Českobudějovicko
+Ivo Vlasatý, MS Piráti Českobudějovicko
