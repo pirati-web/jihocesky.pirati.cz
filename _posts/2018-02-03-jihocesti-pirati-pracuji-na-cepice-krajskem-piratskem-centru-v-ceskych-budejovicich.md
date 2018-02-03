@@ -5,7 +5,7 @@ published: true
 title: >-
   Jihočeští Piráti pracují na ČePiCE – krajském Pirátském centru v Českých
   Budějovicích
-date: '2018-02-03 08:37pm'
+date: '2018-02-03 08:37am'
 author: Zbyněk Konvička
 image: /assets/img/posts/cepice1.jpg
 description: 'Piráti, Jihočeský, kraj, Pirátské, centrum, ČePICE '
@@ -18,8 +18,6 @@ Pirátské centrum by mělo být otevřeným místem pro setkávání Pirátů, 
 Jako nejvhodnější objekt byl vybrán historický dům v Hradební ulici čp. 13. Jedná se o podsklepený třípatrový dům s gotickými klenbami v přízemí, dřevěným stropem v prvním patře, a s členitou zahradou ve vnitrobloku s výhledem na dominantu města, Černou věž. Nyní se dům svépomocí připravuje na své nové využití – na Pirátské centrum pro jižní Čechy.
 
 Pokud máte vlastní nápady či návrhy na program ČePiCE či vlastního zapojení se do aktivit Pirátského centra, dejte nám o nich určitě vědět;), na [**FACEBOOKU**](https://www.facebook.com/pirati.jck/) Piráti Jihočeský kraj.
-
-
 
 ![Vizualizace ČePICE](/assets/img/posts/cepice3.jpg)
 
