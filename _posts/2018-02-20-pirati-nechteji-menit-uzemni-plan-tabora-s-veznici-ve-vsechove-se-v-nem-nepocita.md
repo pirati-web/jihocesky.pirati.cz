@@ -5,7 +5,7 @@ published: true
 title: >-
   Piráti nechtějí měnit územní plán Tábora. S věznicí ve Všechově se v něm
   nepočítá
-date: '2018-02-20 08:22pm'
+date: '2018-02-20 08:30pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/ne_veznice.jpg
 description: 'Piráti, Tábor, Všechov, věznice'
