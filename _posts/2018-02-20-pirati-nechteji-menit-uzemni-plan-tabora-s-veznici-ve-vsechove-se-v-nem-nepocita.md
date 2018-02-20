@@ -17,4 +17,4 @@ Pirátská strana, jako potencionální nový subjekt v budoucím zastupitelstvu
 
 „Piráti se současně chtějí vymezit vůči vzniklé atmosféře plné emocí a vyvolávání umělého strachu, kterou šíří hlavně petice NE věznici a diskuse na sociálních sítích. Piráti budou vždy vycházet z věcných faktů a argumentů, třídění dostupných informací a kritického myšlení,“ uzavírá Martin Mareda.
 
-Piráti Táborsko
+Piráti Tábor
