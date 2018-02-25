@@ -9,9 +9,9 @@ image: /assets/img/posts/dema.jpg
 description: 'Piráti, ČePiCe, koncert, Démophobia'
 tags: 'Piráti, ČePiCe, koncert, Démophobia'
 ---
-Koncert se koná v Pirátském centru ČePiCe v Hradební ulici čp. 13.
+Koncert se koná v Pirátském centru ČePiCe v Hradební ulici čp. 13 dne **6. března od 18 hodin**.
 
-Sólový projekt Démophobia – Démy, kytaristy a zpěváka kultovní skupiny Znouzectnost není třeba jejím fanouškům nijak zvlášť představovat. A těm, co tento bizarní název slyší poprvé, se sluší říci, že když se s hravou poetikou Démophobie seznámí, už nikdy nebudou vnímat folk, tak jak ho vnímali doposud. Přesvědčit se o tom ostatně mohou již 6. března od 18 hodin.
+Sólový projekt Démophobia – Démy, kytaristy a zpěváka kultovní skupiny Znouzectnost není třeba jejím fanouškům nijak zvlášť představovat. A těm, co tento bizarní název slyší poprvé, se sluší říci, že když se s hravou poetikou Démophobie seznámí, už nikdy nebudou vnímat folk, tak jak ho vnímali doposud. 
 
 Původně sólový projekt kytaristy a zpěváka plzeňské Znouzectnosti Démy, který v roce 1995 nahrál s přáteli první album „Démophobia aneb Plzeňské pověsti, písně a jiné plísně jak je vyvedl Déma von Nouze za pomoci svých kumpánů“, se rozšířil na duo. K punkovému klaunovi Démovi se přidal hostující člen „Znouze“ Michal Röhrich. A právě spojení bravurního kytaristy Michala se surrealistickým punkerem a bavičem Démou, s hravým až dětsky naivním pohledem na svět, se ukázalo být velice šťastným a příjemným osvěžením. A to jak pro celkové aranžmá písní, tak pro veřejné koncerty. V tomto duu už byla v roce 1999 nahrána druhá deska „Vycpávky“, kde sice ubylo zhudebněných pověstí, zato přibylo víc Démových surrealistických hříček a legrácek s lehce morbidním humorem.
 
