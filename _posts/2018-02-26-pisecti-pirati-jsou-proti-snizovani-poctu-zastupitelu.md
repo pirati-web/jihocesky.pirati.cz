@@ -9,7 +9,7 @@ image: /assets/img/posts/chmee-2-wikimedia-pisecka-radnice.jpg
 description: 'Písek, Piráti, radnice, zastupitelstvo'
 tags: 'Písek, Piráti, radnice, zastupitelstvo'
 ---
-Na příštím zasedání zastupitelstva dne 8. března bude projednáván návrh na snížení, zachování či zvýšení počtu zastupitelů města Písku. Navrhovatelem je podle předloženého materiálu do zastupitelstva města starostka Písku Eva Vanžurová (Jihočeši 2012), která doporučuje zachovat počet 27 zastupitelů.
+Na příštím zasedání zastupitelstva dne 8. března bude projednáván návrh na zachování počtu zastupitelů města Písku. Návrh zpracovala tajemnice úřadu Zlatuše Hofmanová a zastupitelstvu jej předkládá starostka Písku Eva Vanžurová (Jihočeši 2012). Návrh doporučuje zachovat počet 27 zastupitelů.
 
 Objevují se však snahy na výrazné snížení počtu zastupitelů. Dle námi zjištěných informací se jedná zejména o návrh místostarosty města Jiřího Hořánka (ANO), který bude navrhovat snížení počtu členů na 21. Tento zásah má vliv i na velikost Rady města, která by v takovém případě mohla čítat maximálně 7 členů. Návrh ovlivňuje nejen komunální volby, které se budou konat v tomto roce a které by zvýhodnily některé strany, ale i následnou práci radnice.
 
