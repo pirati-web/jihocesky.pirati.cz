@@ -9,7 +9,7 @@ image: /assets/img/posts/cepice4.jpg
 description: 'Čepice, Piráti, centrum, coworking, '
 tags: 'Čepice, Piráti, centrum, coworking, '
 ---
-**Hudba, fotografie, obrazy, diskuze, tvoření, pohyb a myšlenky zaplní prostor historického domu číslo 13 v budějovické Hradební ulici.**
+Hudba, fotografie, obrazy, diskuze, tvoření, pohyb a myšlenky zaplní prostor historického domu číslo 13 v budějovické Hradební ulici.
 
 Jihočeští Piráti tam připravují k otevření Pirátské centrum s názvem ČePiCe. Plánované prostory budou multifunkční. Poslouží nejen potřebám Pirátské strany, ale také široké veřejnosti. Část programu zajistí svými silami přímo Piráti a část bude otevřená všem kreativním lidem a organizacím, kteří chtějí společně sdílet zajímavé informace, rozmanité oblasti poznání či různé formy umění. 
 
