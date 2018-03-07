@@ -15,7 +15,7 @@ Jihočeští Piráti před oficiálním otevřením Pirátského centra ČePiCe 
 
 ![V ČePiCi panovala pohodová atmosféra.](/assets/img/posts/2018dsc_0015.jpg)
 
-Během večera zazněly písně ze všech čtyřech alb interpreta. Nejvíce pak z poslední desky Třetí poloha. Na toto album Déma uspořádal vloni úspěšnou crowdfundingovou kampaň pouze prostřednictvím svého facebookového profilu. Dá se říci „po Pirátsku“ či „punkově – udělej si sám“ jako za starých časů – tedy se obešel i bez podpory oficiálních serverů Hit Hit či Startovač. K tomu, aby mu fanoušci zaslali dostatečný obnos na natočení nové písňové kolekce a de facto si „předplatili“ nové album mu stačil pouhý měsíc. Ten jim jako poděkování nejen zaslal podepsané nové album, ale uspořádal procházku po Plzni po místech, k nimž se vážou jeho zhudebněné pověsti a putování zakončil speciálním koncertem.
+Během večera zazněly písně ze všech čtyř alb interpreta. Nejvíce pak z poslední desky Třetí poloha. Na toto album Déma uspořádal vloni úspěšnou crowdfundingovou kampaň pouze prostřednictvím svého facebookového profilu. Dá se říci „po Pirátsku“ či „punkově – udělej si sám“ jako za starých časů – tedy se obešel i bez podpory oficiálních serverů Hit Hit či Startovač. K tomu, aby mu fanoušci zaslali dostatečný obnos na natočení nové písňové kolekce a de facto si „předplatili“ nové album mu stačil pouhý měsíc. Ten jim jako poděkování nejen zaslal podepsané nové album, ale uspořádal procházku po Plzni po místech, k nimž se vážou jeho zhudebněné pověsti a putování zakončil speciálním koncertem.
 
 ![Budějovičtí Piráti Zuzana Kudláčková a Honza Hošek.](/assets/img/posts/2018dsc_0012.jpg)
 
