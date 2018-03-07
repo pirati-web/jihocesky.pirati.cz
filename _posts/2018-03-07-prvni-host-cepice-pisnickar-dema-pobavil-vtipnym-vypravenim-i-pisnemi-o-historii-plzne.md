@@ -5,7 +5,7 @@ published: true
 title: >-
   První host ČePiCe, písničkář Déma, pobavil vtipným vyprávěním i písněmi o
   historii Plzně
-date: '2018-03-07 12:12am'
+date: '2018-03-07 12:12pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/2018dsc_0010.jpg
 description: 'Piráti, Démophobia, ČePiCe'
