@@ -11,7 +11,7 @@ image: /assets/img/posts/2018dsc_0010.jpg
 description: 'Piráti, Démophobia, ČePiCe'
 tags: 'Piráti, Démophobia, ČePiCe'
 ---
-Jihočeští Piráti před oficiálním otevřením Pirátského centra ČePiCe v Hradební ulici 13 uspořádali 6. března první hudební večer. Jeho hostem byl písničkář Déma, známý jako zpěvák a kytarista kultovní skupiny Znouzectnost. Do prvního patra centra si cestu našlo kolem dvaceti lidí. Ti plzeňskému patriotovi, který zhudebňuje místní pověsti a koření je barvitým vyprávěním nejen o historii Plzně, vytvořili příjemnou takřka domácí pohodu.
+Jihočeští Piráti před oficiálním otevřením Pirátského centra ČePiCe v Hradební ulici 13 uspořádali 6. března první hudební večer. Jeho hostem byl písničkář Déma, známý jako zpěvák a kytarista kultovní skupiny Znouzectnost. Do prvního patra centra si cestu našlo kolem dvaceti lidí. Ti plzeňskému patriotovi, který zhudebňuje místní pověsti a koření je barvitým vyprávěním nejen o historii Plzně, vytvořili příjemnou takřka domácí pohodu. 
 
 ![V ČePiCi panovala pohodová atmosféra.](/assets/img/posts/2018dsc_0015.jpg)
 
