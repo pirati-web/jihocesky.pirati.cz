@@ -7,7 +7,7 @@ title: >-
   historii Plzně
 date: '2018-03-07 12:12pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/2018dsc_0010.jpg
+image: /assets/img/posts/dema-bezny.jpg
 description: 'Piráti, Démophobia, ČePiCe'
 tags: 'Piráti, Démophobia, ČePiCe'
 ---
@@ -22,3 +22,5 @@ Během večera zazněly písně ze všech čtyřech alb interpreta. Nejvíce pak
 V ČePiCi se posluchači královsky bavili a Dému odměňovali zaslouženým potleskem, kdy si vyžádali i několik přídavků. „Vždycky mě potěší, když přijdou na koncert lidé, kteří se navzájem skoro všichni znají a vítají se „Ahoj“, to je dneska velká vzácnost,“ komentoval v úvodu koncertu příchod prvních návštěvníků ČePiCe písničkář. Pravdou je, že většina posluchačů šla takříkajíc najisto, ale našli se i tací, kteří si plzeňské pověsti a hravé dadaistické Démovy hříčky se slovy poslechli úplně poprvé. Všichni však odcházeli dobře naladění s pochvalným hodnocením prostor Pirátského centra, což někteří zvěčnili i v Pamětní knize ČepiCe.
 
 Budeme se těšit na další setkání u nás v ČePiCi, která by se měla oficiálně otevřít začátkem dubna. Jakékoliv náměty či nápady, které by mohly Pirátské centrum více oživit, zasílejte na e-mail: [lukas.mares@pirati.cz](lukas.mares@pirati.cz).
+
+Foto: Pavel Šramhauser
