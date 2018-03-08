@@ -13,4 +13,4 @@ Odbor školství městského úřadu Tábor pod vedením místostarostky Michael
 
 Není pravda, že se jedná o útok na stávající ředitele. Ti se mohou přihlásit také a obhájit své místo. Jedná se o snahu dát prostor těm nejlepším, kteří přinesou modernější, lepší a odbornější vizi, a posunou tak školu dál. Prodlužováním funkčního období stávajících ředitelů politickým rozhodnutím toho jistě nedosáhneme.
 
-_Dokončení článku naleznete na stránkách _[**_PIRÁTI TÁBOR_**](https://tabor.pirati.cz/clanky/2018/02/28/pirati-podporuji-vyberka-redilete/)_._
+Dokončení článku naleznete na stránkách [PIRÁTI TÁBOR](https://tabor.pirati.cz/clanky/2018/02/28/pirati-podporuji-vyberka-redilete/).
