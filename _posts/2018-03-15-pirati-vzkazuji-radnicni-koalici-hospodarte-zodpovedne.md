@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Piráti vzkazují radniční koalici: Hospodařte zodpovědně'
+title: 'Piráti vzkazují radniční koalici v Písku: Hospodařte zodpovědně'
 date: '2018-03-15 10:52am'
 author: Zbyněk Konvička
 image: /assets/img/posts/prazdna-truhla.jpg
