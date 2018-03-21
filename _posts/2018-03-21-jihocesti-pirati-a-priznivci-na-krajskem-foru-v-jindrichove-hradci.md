@@ -11,9 +11,9 @@ tags: 'Piráti, krajské, fórum, Jihočeský, kraj'
 ---
 V sídlištní restauraci Jiskra v Jindřichově Hradci se 17. března setkali jihočeští Piráti na krajském fóru. Dorazilo několik příznivců i zájemců o členství v Pirátské straně. Řešili aktuální situaci volebních týmů měst, kde bude postavena pirátská kandidátka. Hovořilo se o podpoře těchto týmů prostřednictvím mediálního odboru, který bude připravovat Pirátské listy. Na programu byly i aktivity pirátského centra ČePiCe a primární volby do Senátu.  
 
-Po představení nováčků prezentovaly jednotlivá místní sdružení a města své přípravy na komunální volby, které se uskuteční letos v říjnu. Ve Vimperku plánují samostatnou kandidátku nezávislých s podporou Pirátů, která by byla složená ze zástupců různých spolků. V Českých Budějovicích budou Piráti spolupracovat s dalšími regionálními subjekty. Ambici postavit vlastní pirátskou kandidátku mají i v Hluboké nad Vltavou. Samostatně se Piráti rozhodli kandidovat v Písku, Táboře, Soběslavi a Týnu nad Vltavou. Strakonice se rozhodnou ve chvíli, kdy bude jasné, zda budou schopny naplnit kandidátku. Ve Vodňanech vzniká nezávislá kandidátka s podporou Pirátů. V Jindřichově Hradci uvažují otevřít kandidátku i spolkům apod. Ve hře je i Třeboň.
+Po představení nováčků prezentovaly jednotlivá místní sdružení a města své přípravy na komunální volby, které se uskuteční letos v říjnu. Ve Vimperku plánují samostatnou kandidátku nezávislých s podporou Pirátů, která by byla složená ze zástupců různých spolků. V Českých Budějovicích budou Piráti spolupracovat s dalšími regionálními subjekty. Samostatně se Piráti rozhodli kandidovat v Písku, Táboře, Soběslavi a Týnu nad Vltavou. Strakonice se rozhodnou ve chvíli, kdy bude jasné, zda budou schopny naplnit kandidátku. Ve Vodňanech vzniká nezávislá kandidátka s podporou Pirátů. V Jindřichově Hradci uvažují otevřít kandidátku i spolkům apod. Ve hře je i Třeboň.
 
-![](/assets/img/posts/jh-2.jpg)
+![null](/assets/img/posts/jh-2.jpg)
 
 Na programu bylo také představení horizontální a vertikální spolupráce místních sdružení navzájem a s krajem. V každém místním sdružení by mělo být několik odborných týmů, které by se věnovaly určité oblasti (např. transparence, sport, kultura, doprava, životní prostředí…). Odborné skupiny by měly přesah na celý kraj a mohly být užitečné i při krajských volbách. 
 
