@@ -25,8 +25,7 @@ Jihočeští Piráti Vás srdečně zvou na přednášku Zdeňky Staňkové spoj
 
 Na tyto a mnohé další otázky odpoví přednáška Zdeňky Staňkové z iniciativy SvobodaUčení.cz. Zdeňka Staňková - Svoboda učení - už pět let pracuje, přednáší, lektoruje a píše pro iniciativu SvobodaUčení.cz. Má dvě děti, 15 a 9 let, mladší dceru v domácím vzdělávání. Pracovala ve školce, spoluzaložila komunitní školu s názvem NEšKOLA. „Škola, jakkoli pokroková a „dobrá“, je stále instituce, která je součástí systému. Z teenagerů, které vidím okolo sebe, a kteří byli hladoví po tom učit se vše, co kolem sebe vidí, jsou po devíti letech školní docházky často průměrní žáci, které nic moc nebaví, nezajímá, nevědí, co chtějí a jak toho dosáhnout. Jsou závislí na vnějším hodnocení, očekávají příkazy a návod, jak je plnit. Velká část viny leží na nás, rodičích, a je velice těžké si to přiznat. Ale velká část viny leží také na škole a celém našem vzdělávacím systému. Na sobě mohu pracovat, měnit se a učit se od dětí, jako to dělám už tolik let. Vzdělávací systém nezměním mávnutím kouzelného proutku. Přesto se o to ve Svobodě učení snažíme." 
 
-[www.svobodauceni.cz
-](www.svobodauceni.cz)
+www.svobodauceni.cz
 
 [**Rozhovor Daniely Drtinové se Zdeňkou Staňkovou na DVTV.
 **](https://video.aktualne.cz/dvtv/skola-deti-ubiji-i-bez-ni-se-nauci-co-potrebuji-uceni-doma-n/r~5f59c0c22b5411e89efbac1f6b220ee8/)
