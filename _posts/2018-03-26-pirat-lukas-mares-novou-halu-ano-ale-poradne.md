@@ -26,7 +26,7 @@ tags: 'Piráti, sportovní, hala, České Budějovice'
 4. Mezinárodní volejbalové soutěže navrhujeme přesunout do Budvar arény. 
 5. Piráti podporují iniciativu pana Stanislava Rataje na prozatímní zachování současné sportovní haly.
 
-V případě dotazů a jakýchkoliv podnětů se obracejte na Lukáše Mareše: [lukas.mares@pirati.cz
+V případě dotazů a jakýchkoliv podnětů se obracejte na Lukáše Mareše: [lukas.mares@pirati.cz 
 ](lukas.mares@pirati.cz)
 
 Piráti Budějovicko
