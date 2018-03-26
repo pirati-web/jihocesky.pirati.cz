@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Pirát Lukáš Mareš: Novou halu? Ano, ale pořádně'
+title: 'Pirát Lukáš Mareš: Novou halu? Ano, ale ne teď'
 date: '2018-03-26 02:17pm'
 author: 'Zbyněk Konvička '
 image: /assets/img/posts/cbu_sports_hall_01.jpg
