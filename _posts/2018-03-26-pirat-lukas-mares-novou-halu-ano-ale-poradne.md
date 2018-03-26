@@ -24,7 +24,7 @@ tags: 'Piráti, sportovní, hala, České Budějovice'
 2. Do té doby je nutné realizovat transparentní výběrové řízení na architektonický návrh.
 3. Ušetřené peníze (350–450 milionů korun) navrhujeme investovat například do dobudování sítě městských cyklostezek (za tyto peníze cca 50 km), které využije ke zdravému pohybu mnohem více lidí.
 4. Mezinárodní volejbalové soutěže navrhujeme přesunout do Budvar arény. 
-5. Piráti podporují iniciativu pana Stanislava Rataje na prozatímní zachování současné sportovní haly.
+5. Piráti podporují iniciativu pana Stanislava Rataje na prozatímní zachování současné sportovní haly a [**doprovodnou petici**](https://www.petice24.com/sportovni_hala_cb).
 
 V případě dotazů a jakýchkoliv podnětů se obracejte na Lukáše Mareše: [lukas.mares@pirati.cz 
 ](lukas.mares@pirati.cz)
