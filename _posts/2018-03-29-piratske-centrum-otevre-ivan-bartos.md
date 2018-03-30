@@ -15,6 +15,8 @@ Nejen členové, ale také příznivci strany budou mít příležitost se běhe
 
 S pirátskou vlajkou na žerdi v Hradební si vítr pohrává už několik týdnů, kdy tu přípravy koordinuje budějovický Pirát Lukáš Mareš. „Pirátské centrum nám usnadní vzájemnou interakci a koordinaci, pomůže nám při plnění pirátských úkolů a při vymýšlení a uskutečňování pirátských myšlenek. Chceme vytvořit otevřené, demokratické, transparentní a inspirativní prostředí, ve kterém se budou lidé cítit bezpečně a chtě-nechtě se k nám budou rádi vracet,“ říká Lukáš Mareš.
 
+![ČePiCe - v novém kabátě](/assets/img/posts/cepice-nova-fasada.jpg)
+
 Cílem je vytvoření místa, které bude sloužit nejen potřebám a propagaci Pirátské strany, ale rovněž jako komunitní prostor pro veřejnost. Část bude otevřená všem kreativním li-dem a organizacím, kteří chtějí společně sdílet zajímavé informace, rozmanité oblasti po-znání či různé formy umění. V centru je možné pořádat besedy, přednášky, workshopy, menší komorní akce, koncerty, výstavy nebo setkání organizací – například neziskovek či firem. A celou řadu dalších formátů, které nepotřebují velké prostory, ale naopak jim sluší ty komornější.
 
 „Otevření našeho českobudějovického pirátského centra ČePiCe bude vskutku slavnostní událost. Po zahajovacích projevech předsedy strany Ivana Bartoše a poslance za jihočeský kraj Lukáše Koláříka bude dostatek prostoru k neformálním diskuzím nad aktuálními politickými i nepolitickými tématy. A to je přesně ten důvod, proč naše pirátská centra rostou po celé republice jako houby po dešti. V pirátském chápání není politika sprosté slovo a politik je “servus servorum”. Chceme diskuzi, jsme otevření, jsme tu pro vás,“ dodává Lukáš Mareš.
