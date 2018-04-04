@@ -18,29 +18,15 @@ Pokud jste, stejně jako my, naladěni na vlnu ochrany přírody, přidejte se! 
 Děkujeme všem, kteří akci podporují – ať už finančně, materiálně nebo mediálně! A hlavně děkujeme vám, kteří se s námi na akci podílíte. Je to sice jen nepatrný kousíček planety, ale je náš:)
 
 České Budějovice | mlýnská stoka u Sokolského ostrova\
-místo, událost na FB
+[místo](http://www.uklidmecesko.cz/event/17732), [událost na FB](https://www.facebook.com/events/177238442999069)
 
-<http://www.uklidmecesko.cz/event/17732>\
-[https://www.facebook.com/events/177238442999069
-](https://www.facebook.com/events/177238442999069/)\
-\
 Jindřichův Hradec | bude rozmisťovat odpadkové koše a plánuje výsadbu květin po městě
 
 Písek | úklid Otavy, u domečku EVO, poblíž lávky na Městský ostrov\
-místo, událost na FB
-
-\
-<http://www.uklidmecesko.cz/event/17619> [https://www.facebook.com/events/2502908239935221
-](https://www.facebook.com/events/2502908239935221/)
+[místo](http://www.uklidmecesko.cz/event/17619), [událost na FB](https://www.facebook.com/events/2502908239935221)
 
 Prachatice | uklízí sdružení Živé Prachatic\
-místo, událost na FB
-
-\
-[http://www.uklidmecesko.cz/event/16947
-](http://www.uklidmecesko.cz/event/16947)\
-[https://www.facebook.com/events/1864149046993775
-](https://www.facebook.com/events/1864149046993775/)
+[místo](http://www.uklidmecesko.cz/event/16947), [událost na FB](https://www.facebook.com/events/1864149046993775)
 
 Soběslav | Hvížďalka – kolem Lužnice na Svákově a okolí Nového rybník\
 [místo](http://www.uklidmecesko.cz/event/15997), [událost na FB](https://www.facebook.com/events/158418708201601)
