@@ -17,7 +17,7 @@ Pokud jste, stejně jako my, naladěni na vlnu ochrany přírody, přidejte se! 
 
 Děkujeme všem, kteří akci podporují – ať už finančně, materiálně nebo mediálně! A hlavně děkujeme vám, kteří se s námi na akci podílíte. Je to sice jen nepatrný kousíček planety, ale je náš:)
 
-České Budějovice | mlýnská stoka u Sokolského ostrov
+České Budějovice | mlýnská stoka u Sokolského ostrova
 
 <http://www.uklidmecesko.cz/event/17732>[https://www.facebook.com/events/177238442999069
 ](https://www.facebook.com/events/177238442999069/)\
