@@ -9,7 +9,7 @@ image: /assets/img/posts/02ef6a4d_uklidme-cesko.jpg
 description: 'Ukliďme, Česko, Piráti, Jihočeský, kraj'
 tags: 'Ukliďme, Česko, Piráti, Jihočeský, kraj'
 ---
-I letos se jihočeští Piráti do celonárodní akce Ukliďme Česko, která se v mnoha městech republiky koná 7. dubna. Přinášíme přehled měst a míst, kde se jednotlivé úklidy pořádají.
+I letos se jihočeští Piráti zapojí do celonárodní akce Ukliďme Česko, která se v mnoha městech republiky koná 7. dubna. Přinášíme přehled měst a míst, kde se jednotlivé úklidy pořádají.
 
 Uklidmecesko.cz je dobrovolná úklidová akce, která probíhá po celé republice. Zaměřujeme se na úklid vybraných lokalit, malých i větších nelegálních skládek a všudypřítomného nepořádku, aby se nám tu lépe žilo. Akce probíhá po celé republice. Loni se do úklidu zapojilo více než 96 000 dobrovolníků a sesbíralo neuvěřitelných 1 500 tun odpadu. 
 
