@@ -13,7 +13,7 @@ I letos se jihočeští Piráti zapojí do celonárodní akce Ukliďme Česko, k
 
 Uklidmecesko.cz je dobrovolná úklidová akce, která probíhá po celé republice. Zaměřujeme se na úklid vybraných lokalit, malých i větších nelegálních skládek a všudypřítomného nepořádku, aby se nám tu lépe žilo. Akce probíhá po celé republice. Loni se do úklidu zapojilo více než 96 000 dobrovolníků a sesbíralo neuvěřitelných 1 500 tun odpadu. 
 
-Pokud jste, stejně jako my, naladěni na vlnu ochrany přírody, přidejte se! Nejen, že pomůžete zkrášlit místa, která máte rádi, ale poznáte nové lidi a užijete si zábavný den. Proto neseďte doma, vezměte drobotinu, dvounohého nebo čtyřnohého miláčka, kamarády a přijďte za námi. Na interaktivní mapě (http://www.uklidmecesko.cz/map/) se můžete podívat, kde se letos bude uklízet a kde se do akce můžete zapojit. A pokud máte tip na lokalitu, která by ve vašem okolí naši pomoc potřebovala, dejte nám vědět!
+Pokud jste, stejně jako my, naladěni na vlnu ochrany přírody, přidejte se! Nejen, že pomůžete zkrášlit místa, která máte rádi, ale poznáte nové lidi a užijete si zábavný den. Proto neseďte doma, vezměte drobotinu, dvounohého nebo čtyřnohého miláčka, kamarády a přijďte za námi. Na interaktivní mapě (<http://www.uklidmecesko.cz/map/>) se můžete podívat, kde se letos bude uklízet a kde se do akce můžete zapojit. A pokud máte tip na lokalitu, která by ve vašem okolí naši pomoc potřebovala, dejte nám vědět!
 
 Děkujeme všem, kteří akci podporují – ať už finančně, materiálně nebo mediálně! A hlavně děkujeme vám, kteří se s námi na akci podílíte. Je to sice jen nepatrný kousíček planety, ale je náš:)
 
