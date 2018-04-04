@@ -19,8 +19,10 @@ Děkujeme všem, kteří akci podporují – ať už finančně, materiálně ne
 
 České Budějovice | mlýnská stoka u Sokolského ostrova
 
-<http://www.uklidmecesko.cz/event/17732>[https://www.facebook.com/events/177238442999069
+<http://www.uklidmecesko.cz/event/17732>\
+[https://www.facebook.com/events/177238442999069
 ](https://www.facebook.com/events/177238442999069/)\
+\
 Jindřichův Hradec | bude rozmisťovat odpadkové koše a plánuje výsadbu květin po městě
 
 Písek | úklid Otavy, u domečku EVO, poblíž lávky na Městský ostrov\
