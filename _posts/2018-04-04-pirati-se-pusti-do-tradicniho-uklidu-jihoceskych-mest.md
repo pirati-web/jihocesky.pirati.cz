@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Piráti se pustí do tradičního úklidu jihočeských měst
-date: '2018-04-04 02:54pm'
+date: '2018-04-04 03:00pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/02ef6a4d_uklidme-cesko.jpg
 description: 'Ukliďme, Česko, Piráti, Jihočeský, kraj'
