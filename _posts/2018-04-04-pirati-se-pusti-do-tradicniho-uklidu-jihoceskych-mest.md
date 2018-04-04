@@ -17,42 +17,35 @@ Pokud jste, stejně jako my, naladěni na vlnu ochrany přírody, přidejte se! 
 
 Děkujeme všem, kteří akci podporují – ať už finančně, materiálně nebo mediálně! A hlavně děkujeme vám, kteří se s námi na akci podílíte. Je to sice jen nepatrný kousíček planety, ale je náš:)
 
-**
-**České Budějovice | mlýnská stoka u Sokolského ostrova
+České Budějovice | mlýnská stoka u Sokolského ostrov
 
 <http://www.uklidmecesko.cz/event/17732>[https://www.facebook.com/events/177238442999069
-](https://www.facebook.com/events/177238442999069/)
-
+](https://www.facebook.com/events/177238442999069/)\
 Jindřichův Hradec | bude rozmisťovat odpadkové koše a plánuje výsadbu květin po městě
 
-Písek | úklid Otavy, u domečku EVO, poblíž lávky na Městský ostrov
-\
+Písek | úklid Otavy, u domečku EVO, poblíž lávky na Městský ostrov\
 <http://www.uklidmecesko.cz/event/17619> [https://www.facebook.com/events/2502908239935221
 ](https://www.facebook.com/events/2502908239935221/)
 
-Prachatice | uklízí sdružení Živé Prachatice
-\
+Prachatice | uklízí sdružení Živé Prachatice\
 [http://www.uklidmecesko.cz/event/16947
 ](http://www.uklidmecesko.cz/event/16947)\
 [https://www.facebook.com/events/1864149046993775
 ](https://www.facebook.com/events/1864149046993775/)
 
-Soběslav | Hvížďalka – kolem Lužnice na Svákově a okolí Nového rybníka
-\
+Soběslav | Hvížďalka – kolem Lužnice na Svákově a okolí Nového rybníka\
 [http://www.uklidmecesko.cz/event/15997
 ](http://www.uklidmecesko.cz/event/15997)\
 [https://www.facebook.com/events/158418708201601
 ](http://www.uklidmecesko.cz/event/15997)
 
-Strakonice | u hradu, lávky a podniku Fezko
-\
+Strakonice | u hradu, lávky a podniku Fezko\
 [http://www.uklidmecesko.cz/event/18378
 ](http://www.uklidmecesko.cz/event/18378)\
 [https://www.facebook.com/events/2058070067800610
 ](https://www.facebook.com/events/2058070067800610/)
 
-Tábor | stezka podél řeky od brusírny na ovál
-\
+Tábor | stezka podél řeky od brusírny na ovál\
 [http://www.uklidmecesko.cz/event/18428
 ](http://www.uklidmecesko.cz/event/18428)\
 [https://www.facebook.com/events/2023981274541650](https://www.facebook.com/events/2023981274541650/)
