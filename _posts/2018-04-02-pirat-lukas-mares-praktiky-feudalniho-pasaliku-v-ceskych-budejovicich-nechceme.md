@@ -13,15 +13,7 @@ tags: 'Piráti, České, Budějovice, Teplárna, Jaroslav, Mach, Lukáš, Mareš
 ---
 Piráti kritizují rozhodnutí Rady města, která 29. ledna 2018 na svém zasedání zvolila nového člena dozorčí rady Teplárny České Budějovice. Stal se jím Jaroslav Mach (narozen 1995), který v současné době studuje na Právnické fakultě Univerzity Karlovy v Praze a nahradil tak svého jmenovce Jaroslava Macha (narozen 1940), který na konci roku 2017 zemřel. Zajímavostí je, že člen Rady města, který se při volbě zdržel hlasování, se jmenuje stejně jako předchozí zmiňovaní, tedy Jaroslav Mach (narozen 1962). 
 
-
-
-![Jaroslav Mach (nar. 1962)](/assets/img/posts/jm-1962.jpg)
-
-![Jaroslav Mach (nar. 1995)](/assets/img/posts/jm-1995.jpg)
-
 Portrétní fotografie Ing. Jaroslava Macha (narozen 1962), radního města ČB a portrétní fotografie JUC. Jaroslava Macha (narozen 1995), nového člena dozorčí rady Teplárny ČB, a.s.
-
-
 
 Pirátská strana dlouhodobě kritizuje politické trafiky, systém, kdy jsou lidé do placených funkcí dosazováni primárně na základě politických, obchodních nebo dokonce rodinných vazeb namísto skutečných kompetencí. Důkazem, že nejde jen o prázdné sliby, je i [**návrh pražských Pirátů**](https://praha.pirati.cz/dozorci-rady.html) na tamním magistrátu nebo současný tlak na prosazení [**účinného nominačního zákona**](https://www.pirati.cz/tiskove-zpravy/nominacni-zakon-piratu-omezi-trafiky.html) v Parlamentu. Zároveň tyto principy uplatňujeme sami na sobě, když [**placené posty uvnitř strany**](https://www.pirati.cz/tiskove-zpravy/pirati-realizuji-vyberova-rizeni-na-vsechny-pozice.html) (s výjimkou těch volených členskou základnou) i nominace do dozorčích orgánů státních firem obsazujeme na základě výběrových řízení (viz [**VZP**](http://www.zdravotnickydenik.cz/2017/12/pirati-vybirali-konkursu-sve-lidi-vzp-zajem-velky-uspeli-i-nestranici/) nebo [**ŘSD**](https://www.pirati.cz/tiskove-zpravy/pirati-navrhuji-do-cela-sfdi-posvarovou.html)). „Důvodně se domníváme, že jedna taková do očí bijící trafika byla v Českých Budějovicích přidělena na konci ledna tohoto roku. Chcete-li pašalík feudálního střihu, kde paša předává moc svému nástupci z rodiny,“ říká budějovický Pirát Lukáš Mareš.
 
