@@ -5,7 +5,7 @@ published: true
 title: Piráti se opět pustili do úklidu jihočeských měst
 date: '2018-04-12 02:30pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/budejovice-6.jpg
+image: /assets/img/posts/budejovice-mala.jpg
 description: 'uklidme, Česko, Pirati'
 tags: 'uklidme, Česko, Pirati'
 ---
