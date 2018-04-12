@@ -11,15 +11,15 @@ tags: 'uklidme, Česko, Pirati'
 ---
 Jihočeští Piráti se 7. dubna tradičně zapojili do celonárodní akce Ukliďme Česko. V Jihočeském kraji se pustili do nepořádku v Českých Budějovicích, Táboře, Písku, Strakonicích, Soběslavi, Prachaticích a Týně nad Vltavou. V Jindřichově Hradci osazovali Piráti nové odpadkové koše.
 
-![null](/assets/img/posts/budejovice-4.jpg)
+![null](/assets/img/posts/budejovice-4-mensi.jpg)
 
 V krajské metropoli se budějovičtí piráti pustili do úklidu kolem vodních toků. V devíti dobrovolnících sesbírali cca 150 kg různého odpadu. 
 
-![null](/assets/img/posts/tabor-4.jpg)
+![](/assets/img/posts/tabor-4-mensi.jpg)
 
 „V Táboře jsme vyrazili v patnácti lidech uklidit stezku a břeh Lužnice od restaurace Na Brusírně k Sídlišti nad Lužnicí. Cestou jsme nasbírali 15 pytlů, ve kterých bylo odhadem 150 kg odpadu. Ten jsme pečlivě vytřídili a popravdě nad některými „nálezy“ nám zůstával rozum stát – za všechno mluví kolečková brusle,“ sdělil po úklidu za táborské Piráty Václav Klecanda. 
 
-![null](/assets/img/posts/pisek-1.jpg)
+![null](/assets/img/posts/pisek-5-mensi.jpg)
 
 V Písku se Piráti v čele se zastupitelem Martinem Brožem vydali stejně jako loni do okrajové části města Purkratic, kde se našla řada kuriozit včetně kočárku. Jako obvykle pořádali úklid města společně s Městskou elektrárnou Písek. Celkem se sešlo kolem 60 účastníků. Hlavní úklid pak probíhal kolem toku řeky Otavy. 
 
