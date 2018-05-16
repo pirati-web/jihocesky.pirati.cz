@@ -25,7 +25,7 @@ Dle výroční zprávy Teplárny České Budějovice byly za rok 2016 vyplaceny 
 
 Jedním z radních města České Budějovice je v současnosti Jaroslav Mach (narozen 1962), nominovaný za ČSSD. Výše uvedený nový člen dozorčí rady Teplárny České Budějovice – Jaroslav Mach (narozen 1995) v současné době studuje Právnickou fakultu UK, trvalé bydliště má nahlášené v Neplachově č.p. 64, pošta Dolní Bukovsko. Tento objekt je dle katastru nemovitostí majetkem Jaroslava Macha (narozeného 1962).
 
-Existuje podezření, že všichni tři pánové Jaroslavové Machové sdílí kromě stejných jmen také příbuzenský vztah.
+Existuje důvodné podezření, že všichni tři pánové Jaroslavové Machové sdílí kromě stejných jmen také příbuzenský vztah.
 
 „Piráti odmítají obsazování veřejných funkcí svými rodinnými příslušníky. Nepotismus v takto čisté formě, tedy forma protekce, kdy jsou preferováni příbuzní na úkor kvalifikace, je běžný ve feudálních systémech, ne však v evropské demokratické společnosti 21. století. Lidé, kteří tohle nechápou, nemají v Radě města co dělat. Strana, která umožňuje těmto lidem zastávat jejím jménem veřejné funkce, je zcela nedůvěryhodná. Zdravá strana má nástroje, jak takovémuto počínání zabránit. Nedůvěryhodné jsou rovněž ostatní politické subjekty zastoupené v Radě města (ANO, ODS, KDU-ČSL), které svými hlasy volbu takového kandidáta umožnili,“ dodává Lukáš Mareš. 
 
