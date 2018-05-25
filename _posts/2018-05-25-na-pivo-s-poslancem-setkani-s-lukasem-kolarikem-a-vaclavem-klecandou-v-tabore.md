@@ -2,20 +2,22 @@
 layout: post
 category: blog
 published: true
-title: >-
-  NA PIVO S POSLANCEM: Setkání s Lukášem Koláříkem a Václavem Klecandou v
-  Táboře 
-date: '2018-05-25 02:00pm'
+title: Na pivo s poslancem v Táboře
+date: '2018-05-25 01:48pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/pivo-s-poslancem-tabor-web.jpg
 description: 'Piráti, Tábor, Klecanda, Kolářík'
 tags: 'Piráti, Tábor, Klecanda, Kolářík'
 ---
-Přijďte si popovídat o všem, co vás zajímá a trápí v naší politice, Jihočeském kraji a Táboře s Lukášem Koláříkem, poslancem PSP ČR a jihočeským předsedou Pirátů a lídrem táborských pirátů Mgr. Václavem Klecandou. Neformální setkání se koná v neděli 3. června v hospůdce Na kurtech od 18 hodin, K vodopádu 1550 v Táboře.
+Setkání s Lukášem Koláříkem a Václavem Klecandou.
 
-Zajímá vás názor Pirátů na možnost výstavby věznice ve Všechově? Jaká je představa táborských Pirátů o konceptu „chytrého města“ – smart city? Jak by Piráti chtěli více otevřít táborskou radnici lidem? Jak by chtěli Piráti zjednodušit fungování města pomocí moderních technologií? Má se zlegalizovat táborská ZOO?
+Přijďte si popovídat s Lukášem Koláříkem, poslancem parlamentu ČR a lídrem táborských pirátů Mgr. Václavem Klecandou.
 
-Pokud vás zajímají odpovědi na tato táborská nebo jiná horká témata, která vás právě pálí, doražte a sdělte Pirátům svá přání, představy nebo i obavy. Budeme tam pro vás.
+Mužeme diskutovat o všem, co vás zajímá a trápí v naší politice, Jihočeském kraji nebo Táboře. Například o tom, co nového chystají Piráti v parlamentu, jaké to vůbec je se ze dne na den stát poslancem. 
+
+Anebo o tom, jaká je představa táborských Pirátů o konceptu „chytrého města“ – smart city, nebo jak chtějí více otevřít táborskou radnici lidem.
+
+Budeme tam pro vás
 
 Piráti Tábor
 
