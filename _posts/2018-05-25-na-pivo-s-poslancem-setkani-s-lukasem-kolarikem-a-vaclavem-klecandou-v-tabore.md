@@ -5,7 +5,7 @@ published: true
 title: >-
   NA PIVO S POSLANCEM: Setkání s Lukášem Koláříkem a Václavem Klecandou v
   Táboře 
-date: '2018-05-25 12:21pm'
+date: '2018-05-25 02:00pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/pivo-s-poslancem-tabor-web.jpg
 description: 'Piráti, Tábor, Klecanda, Kolářík'
