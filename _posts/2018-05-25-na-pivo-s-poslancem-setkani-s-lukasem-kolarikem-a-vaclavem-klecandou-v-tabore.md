@@ -18,3 +18,5 @@ Zajímá vás názor Pirátů na možnost výstavby věznice ve Všechově? Jak�
 Pokud vás zajímají odpovědi na tato táborská nebo jiná horká témata, která vás právě pálí, doražte a sdělte Pirátům svá přání, představy nebo i obavy. Budeme tam pro vás.
 
 Piráti Tábor
+
+[**Událost na facebooku**](https://www.facebook.com/events/391216004726723/)
