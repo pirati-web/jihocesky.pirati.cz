@@ -9,7 +9,7 @@ image: /assets/img/posts/zbrane.jpg
 description: 'Piráti, Písek, Brož, Kolářík'
 tags: 'Piráti, Písek, Brož, Kolářík'
 ---
-Již podruhé se Písečtí Piráti rozhodli uspořádat kulturně-společenskou akci s názvem Sdílené Hradiště. Stejně jako vloni se dětské odpoledne plné dovednostních her a večerní rockový trojkoncert kapel Pirates of the pubs, Z ničeho nic a 200 zbraní konaly v areálu TJ Hradiště. Přívětivé počasí přilákalo 2. června kolem 200 lidí, z toho 70 dětí absolvovalo všech 12 disciplín, které se svým týmem připravila Jitka Dušková, provozovatelka Občerstvení na hřišti. 
+Již podruhé se písečtí Piráti rozhodli uspořádat kulturně-společenskou akci s názvem Sdílené Hradiště. Stejně jako vloni se dětské odpoledne plné dovednostních her a večerní rockový trojkoncert kapel Pirates of the pubs, Z ničeho nic a 200 zbraní konaly v areálu TJ Hradiště. Přívětivé počasí přilákalo 2. června kolem 200 lidí, z toho 70 dětí absolvovalo všech 12 disciplín, které se svým týmem připravila Jitka Dušková, provozovatelka Občerstvení na hřišti. 
 
 ![Na Sdílené Hradiště dorazilo kolem dvou stovek návštěvníků.](/assets/img/posts/lidi.jpg)
 
