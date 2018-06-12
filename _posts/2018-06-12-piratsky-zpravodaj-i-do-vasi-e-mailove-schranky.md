@@ -11,4 +11,4 @@ tags: 'Piráti, Zpravodaj'
 ---
 Právě vyšlo květnové vydání Pirátského zpravodaje. V čísle naleznete bližší informace o aktuálních jihočeských mutacích Pirátských listů, ohlédnutí za zajímavými akcemi v centru ČePiCe i v místních sdruženích. Nabízíme i výběr z plánovaných akcí na červen. A další zajímavosti z pirátského života. Zpravodaj si můžete přečíst [**ZDE**](https://cb.pirati.cz/assets/img/zpravodaj_kveten.pdf).
 
-Zájemci, kteří by chtěli mít Pirátský zpravodaj pravidelně každý měsíc ve své e-mailové schránce, pište koordinátorce Mgr. Kateřině Hůlkové na e-mail: [katka.hulkova@pirati.cz](katka.hulkova@pirati.cz).
+Zájemci, kteří by chtěli mít Pirátský zpravodaj pravidelně každý měsíc ve své e-mailové schránce, vyplňte [**jednoduchý formulář**](https://nalodeni.pirati.cz/) a naloďte se.
