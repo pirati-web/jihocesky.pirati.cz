@@ -28,5 +28,5 @@ Celkem v první vlně dobrovolníci rozdají v **jižních Čechách 49 tisíc k
 
 [Tábor](https://www.piratskelisty.cz/upload/2391.pdf)
 
-[Celostátní mutace
+[Celostátní vydání
 ](https://www.piratskelisty.cz/upload/2374.pdf)
