@@ -15,4 +15,4 @@ Informace o řízení města budou veřejně dostupné. Od jednání zastupitels
 
 Celý článek si můžete přečíst na stránkách [PIRÁTI TÁBOR](https://tabor.pirati.cz/clanky/2018/06/13/odstranime-komunikacni-bariery/).
 
-Sledujte také [FACEBOOK ](https://www.facebook.com/PiratiCB/)táborských Pirátů.
+Sledujte také [FACEBOOK](https://www.facebook.com/piratitabor/) táborských Pirátů.
