@@ -4,7 +4,7 @@ category: blog
 published: true
 title: 'Piráti Tábor: Odstraníme komunikační bariéry '
 date: '2018-06-14 01:48pm'
-author: Ondřej Sekora
+author: Václav Klecanda
 image: /assets/img/posts/formular.jpg
 description: 'Piráti, Tábor'
 tags: 'Piráti, Tábor'
