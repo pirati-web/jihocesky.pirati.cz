@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Piráti Tábor: Odstraníme komunikační bariéry '
+title: 'Piráti Tábor: Odstraníme komunikační bariéry'
 date: '2018-06-14 01:48pm'
 author: Václav Klecanda
 image: /assets/img/posts/formular.jpg
