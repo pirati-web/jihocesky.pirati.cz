@@ -11,7 +11,7 @@ tags: 'Piráti, Tapice, Tábor, pirátské, centrum'
 ---
 Táborští Piráti otevírají 21. června od 18 hodin další z řady pirátských center. To ve městě nad Lužnicí pones název TAPICE. Najdete ho na rušné obchodní zóně v ulici 9. května vedle obchodního domu Dvořák nad prodejnou Vodafone. 
 
-Slavnostního setkání u příležitosti otevření Pirátského centra v Táboře se zúčastní také lídr táborských Pirátů Mgr. Václav Klecanda: „Představíme akce, které v pirátském centru připravujeme, stejně jako náš program s hlavními body do podzimních komunálních voleb-popijeme, pojíme a podiskutujeme o všem, co bude hosty zajímat,“ říká pirátský lídr. 
+Slavnostního setkání u příležitosti otevření Pirátského centra v Táboře se zúčastní také lídr táborských Pirátů Mgr. Václav Klecanda: „Představíme akce, které v pirátském centru připravujeme, stejně jako náš program s hlavními body do podzimních komunálních voleb. Popijeme, pojíme a podiskutujeme o všem, co bude hosty zajímat,“ říká pirátský lídr. 
 
 Po dubnovém otevření českobudějovického pirátského centra ČEPICE v Hradební ulici 13 půjde o druhé místo pro setkávání se s Piráty v Jihočeském kraji.
 
