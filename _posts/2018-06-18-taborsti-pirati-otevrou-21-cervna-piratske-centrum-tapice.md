@@ -17,4 +17,4 @@ Po dubnovém otevření českobudějovického pirátského centra ČEPICE v Hrad
 
 Bližší informace naleznete na stránkách [**PIRÁTI TÁBOR**](https://tabor.pirati.cz/) nebo na [**FACEBOOKU**](https://www.facebook.com/piratitabor/?ref=br_rs).
 
-[**Mapa – TAPICE: **](https://en.mapy.cz/s/2KS7e)
+[**Mapa TAPICE**](https://en.mapy.cz/s/2KS7e)
