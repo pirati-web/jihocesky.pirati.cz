@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Táborští Piráti otevřou 21. června pirátské centrum TAPICE
+title: V Táboře se 21. června otevírá pirátské centrum TAPICE
 date: '2018-06-18 10:38pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/tapice.jpg
