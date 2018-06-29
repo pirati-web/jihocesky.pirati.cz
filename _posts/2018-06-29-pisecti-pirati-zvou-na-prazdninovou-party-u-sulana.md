@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Písečtí Piráti zvou na prázdninovou párty U Sulana
+title: 'Písečtí Piráti zvou na prázdninovou párty U Sulana '
 date: '2018-06-29 02:26pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/sulan.jpg
