@@ -5,7 +5,7 @@ published: true
 title: Piráti se připojili k protestní akci Finále demokracie?
 date: '2018-07-12 09:58pm'
 author: 'Zbyněk Konvička, Zuzana Kudláčková'
-image: /assets/img/posts/zuzka-3.jpg
+image: /assets/img/posts/zuzka-2.jpg
 description: 'Piráti, Kudláčková, Zuzana, České, Budějovice'
 tags: 'Piráti, Kudláčková, Zuzana, České, Budějovice'
 ---
