@@ -22,4 +22,4 @@ S minulostí si ale nevystačíme. Doba se změnila, nastupující premiér nen�
 
 Nevzdávejme se, buďme trpěliví, vysvětlujme, nabízejme jiné možnosti.
 
-Děkuji  vám, že jste tady, a děkuju organizátorům této akce za jejich snahu, práci i pozvání, díky.*
+Děkuji  vám, že jste tady, a děkuju organizátorům této akce za jejich snahu, práci i pozvání, díky.
