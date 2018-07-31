@@ -9,9 +9,7 @@ image: /assets/img/posts/web-pirati-mapa-kandidatky-.jpg
 description: 'Piráti, Jihočeský, kraj, volby, 2018'
 tags: 'Piráti, Jihočeský, kraj, volby, 2018'
 ---
-Dnes je poslední termín pro podání kandidátních listin do komunálních voleb v říjnu 2018. Piráti budou v podzimních komunálních volbách kandidovat v celkem 16 obcích Jihočeského kraje.
-
-Samostatnou kandidátku České pirátské strany postavilo 6 sídel. V Českých Budějovicích vede kandidátku lékař Lukáš Mareš, v Týně nad Vltavou Jan Novák, jednička na Táborské kandidátce je programátor Václav Klecanda. V Písku je lídr kandidátky podnikatel Martin Cryo Brož a Jindřichův Hradec táhne z první pozice Miroslava Mácová.  Kváskovická kandidátka má pouze jednoho člena Stanislava Hraničku. Kváskovice totiž mají na základě vlastní dohody přímou volbu starosty. 
+Piráti budou v podzimních komunálních volbách kandidovat v celkem 16 obcích Jihočeského kraje. Samostatnou kandidátku České pirátské strany postavilo 6 sídel. V Českých Budějovicích vede kandidátku lékař Lukáš Mareš, v Týně nad Vltavou Jan Novák, jednička na Táborské kandidátce je programátor Václav Klecanda. V Písku je lídr kandidátky podnikatel Martin Cryo Brož a Jindřichův Hradec táhne z první pozice Miroslava Mácová.  Kváskovická kandidátka má pouze jednoho člena Stanislava Hraničku. Kváskovice totiž mají na základě vlastní dohody přímou volbu starosty. 
 
 Nezávislých kandidátek s podporou Pirátů je pak dalších 7. Spolupráci jihočeští Piráti navázali v obcích Hluboká nad Vltavou (Olga Nováková), Soběslav (Petr Král), Srubec (Luboš Hruška), Kvítkovice (Jan Kadlec), Suchdol nad Lužnicí (Jan Mráček), Katovice (Martin Mazuch) a Blatná (Pavla Váňová Černochová).
 
