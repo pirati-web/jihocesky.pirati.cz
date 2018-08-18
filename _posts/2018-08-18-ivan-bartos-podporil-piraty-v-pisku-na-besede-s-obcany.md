@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Ivan Bartoš podpořil Piráty v Písku na besedě s občany
-date: '2018-08-18 02:08pm'
+date: '2018-08-18 02:24pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/ivan-1.jpg
 description: 'Piráti, Bartoš, Brož, Písek'
