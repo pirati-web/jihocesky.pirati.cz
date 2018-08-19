@@ -1,0 +1,18 @@
+---
+layout: post
+category: blog
+published: true
+title: Písničkář Dan Vertígo zahrál v Pirátském centru ČePiCe
+date: '2018-08-19 10:53pm'
+author: 'Zuzana Kudláčková, Zbyněk Konvička'
+image: /assets/img/posts/dan-vertigo.jpg
+description: 'Vertígo, Čepice, Piráti, centrum, Mareš, Kolářík, Ferjenčík'
+tags: 'Vertígo, Čepice, Piráti, centrum, Mareš, Kolářík, Ferjenčík'
+---
+Jihočeští Piráti připravili na pátek 17. srpna v Českých Budějovicích setkání spojené s grilovačkou a koncertem písničkáře Dana Vertíga. Akce se konala v Pirátském centru ČePiCe a mezi hosty byli poslanci Mikuláš Ferjenčík a Lukáš Kolářík, který je zároveň předsedou jihočeských Pirátů, a budějovický lídr Pirátů Lukáš Mareš.
+
+Na akci dorazili i další kandidáti Pirátů z Českých Budějovicích a okolních obcí spolu se svými příznivci a přáteli. Kolem padesátky hostů mělo stále o čem diskutovat. Díky pirátskému grillmistrovi Pavlu Šramhauserovi měli i něco chutného do žaludku. A díky Danu Vertígovi a jeho trubadursko-buskerskému folku panovala skvělá uvolněná atmosféra. 
+
+Jihočeští Piráti pro vás v Pirátském centru Čepice, v Hradební čp. 13, chystají další zajímavé akce. V neděli 26. srpna se můžete zúčastnit setkání komunálního týmu a ve středu 29. srpna je v plánu beseda o územním plánování.
+
+Více informací naleznete na facebooku __[ČEPICE](https://www.facebook.com/PiratiCB/)__ .
