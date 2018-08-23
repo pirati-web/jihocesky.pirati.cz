@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Naloďte se do mediálního týmu jihočeských Pirátů
-date: '2018-08-23 09:51pm'
+date: '2018-08-23 09:59pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/novinari.jpg
 description: 'média, tým, Piráti, Jihočeský, kraj'
