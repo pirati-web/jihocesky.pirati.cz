@@ -9,8 +9,8 @@ image: /assets/img/posts/pl-trebon-nahled.jpg
 description: 'média, tým, Piráti, Jihočeský, kraj'
 tags: 'média, tým, Piráti, Jihočeský, kraj'
 ---
-**Sleduješ veřejné dění a baví tě psát, fotit, natáčet videa či vytvářet zajímavou grafiku? A současně v tobě rezonují pirátské myšlenky liberální otevřené společnosti s širokou spoluúčastí veřejnosti při rozhodování o věcech veřejných? Pak jihočeští Piráti hledají třeba právě tebe! Jako posilu mediálního týmu.
-**
+__Sleduješ veřejné dění a baví tě psát, fotit, natáčet videa či vytvářet zajímavou grafiku? A současně v tobě rezonují pirátské myšlenky liberální otevřené společnosti s širokou spoluúčastí veřejnosti při rozhodování o věcech veřejných? Pak jihočeští Piráti hledají třeba právě tebe! Jako posilu mediálního týmu.
+__
 
 Před více než rokem a půl byl jihočeskými Piráty zřízen krajský mediální odbor (MO), jehož cílem bylo větší zviditelnění Pirátů navenek a zároveň zlepšování PR o jejich činnosti. Po prvním roce zkušebního fungování, kdy se o PR starali především vedoucí MO a krajský koordinátor, jsme zveřejnili první podobnou výzvu. Z těch, co se přihlásili a opravdově zajímali o pomoc Pirátům, se podařila spolupráce s několika šikovnými lidmi. Nyní bychom náš mediální tým chtěli posílit o další zajímavé a kreativní kolegy, kterým nejsou média a PR cizí, jsou kreativní a rádi pracují v inspirativním týmu.
 
