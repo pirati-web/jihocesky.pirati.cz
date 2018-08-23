@@ -1,0 +1,23 @@
+---
+layout: post
+category: blog
+published: true
+title: Naloďte se do mediálního týmu jihočeských Pirátů
+date: '2018-08-23 09:12pm'
+author: Zbyněk Konvička
+image: /assets/img/posts/pl-trebon-nahled.jpg
+description: 'média, tým, Piráti, Jihočeský, kraj'
+tags: 'média, tým, Piráti, Jihočeský, kraj'
+---
+**Sleduješ veřejné dění a baví tě psát, fotit, natáčet videa či vytvářet zajímavou grafiku? A současně v tobě rezonují pirátské myšlenky liberální otevřené společnosti s širokou spoluúčastí veřejnosti při rozhodování o věcech veřejných? Pak jihočeští Piráti hledají třeba právě tebe! Jako posilu mediálního týmu.
+**
+
+Před více než rokem a půl byl jihočeskými Piráty zřízen krajský mediální odbor (MO), jehož cílem bylo větší zviditelnění Pirátů navenek a zároveň zlepšování PR o jejich činnosti. Po prvním roce zkušebního fungování, kdy se o PR starali především vedoucí MO a krajský koordinátor, jsme zveřejnili první podobnou výzvu. Z těch, co se přihlásili a opravdově zajímali o pomoc Pirátům, se podařila spolupráce s několika šikovnými lidmi. Nyní bychom náš mediální tým chtěli ještě posílit o další zajímavé a kreativní kolegy, kterým nejsou média a PR cizí, jsou kreativní a rádi pracují v inspirativním týmu.
+
+V tomto volebním roce jsme připravovali vedle článků na pirátské weby a péči o sociální sítě také dvě vydání Pirátských listů pro pět jihočeských měst v první vlně v nákladu 49 tisíc kusů a šest dalších v druhé vlně, kde bude náklad dokonce 64 tisíc kusů. Verze PDF prvního vydání jsou ke stažení [**ZDE**](https://jihocesky.pirati.cz/blog/2018/06/12/piratske-listy-jsou-v-obehu-v-jihoceskych-mestech-zde-i-v-pdf.html). Druhé vydání Pirátských listů se právě v těchto dnech tiskne a budeme je distribuovat v průběhu září a počátkem října. I zde je příležitost pro pomoc Pirátů, kdy hledáme dobrovolníky-kameloty pro roznos těchto novin v pirátských městech a obcích v kontaktní kampani.
+
+Chtěli bychom mezi námi přivítat další psavce, rešeršisty, grafiky, fotografy, filmaře, tipaře či další kreativní profese, s nimiž bychom připravovali obsah Jihočeského webu Pirátů i místních sdružení, stejně jako bychom se starali o pirátské profily na sociálních sítích, natáčeli videa, pořádali tiskové konference a další akce. 
+
+Mediální odbor se nejen v tomto horkém volebním období bude snažit vyhledávat atraktivní témata, zpracovávat je a dále pružně publikovat. Bude současně napomáhat k rozšiřování základny fanoušků a sympatizantů. Celkově se bude snažit o pozitivní obraz Pirátské strany v jihočeském regionu společně s krajským koordinátorem, pirátským centrem ČePiCe v Českých Budějovicích a všemi zainteresovanými Piráty a příznivci.
+
+Vy, kteří chcete být u toho, u změn v naší společnosti a v našich městech, a chcete těmto změnám napomoci, kontaktujte vedoucího mediálního odboru Zbyňka Konvičku na e-mailu: [mediajck@pirati.cz](mediajck@pirati.cz). Nezapomeňte uvést tel. číslo a Vaše dovednosti, stejně jako oblasti, v jakých byste chtěli jihočeským Pirátům podat pomocnou ruku. Budeme se těšit na případnou spolupráci.
