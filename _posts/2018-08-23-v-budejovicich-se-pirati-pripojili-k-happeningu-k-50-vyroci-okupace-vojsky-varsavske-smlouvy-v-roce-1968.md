@@ -25,4 +25,6 @@ Hlavní součástí happeningu byl průvod městem s papírovými tanky, vojáky
 
 ![](/assets/img/posts/obr.jpg)
 
+„Zúčastnili jsme se jako obyvatelé města, které zažilo příjezd okupačních vojsk. Jako aktivní občané se zajímáme a podporujeme občanské aktivity, které vedou k prohlubování mezilidských a mezigeneračních vztahů. A chtěli jsme současně vyjádřit osobní postoj, že nesmíme zapomínat na minulost, že je třeba zkušenosti předávat a vědět, že svoboda a demokracie se nám neudála jen tak, že vždycky něco stojí. My nerezignujeme a nepřestaneme chránit svobodu, demokracii a především lidi, kteří tu žijí,“ uvedla předsedkyně budějovických Pirátů Zuzana Kudláčková.
+
 Více snímků z akce a videa si můžete prohlédnout na [**FACEBOOKU**](https://www.facebook.com/events/1908271072807049/).
