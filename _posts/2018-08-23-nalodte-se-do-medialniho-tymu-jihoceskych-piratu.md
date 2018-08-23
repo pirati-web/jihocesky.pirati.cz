@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Naloďte se do mediálního týmu jihočeských Pirátů
-date: '2018-08-23 09:50pm'
+date: '2018-08-23 09:51pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/novinari.jpg
 description: 'média, tým, Piráti, Jihočeský, kraj'
@@ -20,5 +20,3 @@ Chtěli bychom mezi námi přivítat další psavce, rešeršisty, grafiky, foto
 Mediální odbor se nejen v tomto horkém volebním období bude snažit vyhledávat atraktivní témata, zpracovávat je a dále pružně publikovat. Bude současně napomáhat k rozšiřování základny fanoušků a sympatizantů. Celkově se bude snažit o pozitivní obraz Pirátské strany v jihočeském regionu společně s krajským koordinátorem, pirátským centrem ČePiCe v Českých Budějovicích a všemi zainteresovanými Piráty a příznivci.
 
 Vy, kteří chcete být u toho, u změn v naší společnosti a v našich městech, a chcete těmto změnám napomoci, kontaktujte vedoucího mediálního odboru Zbyňka Konvičku na e-mailu: [mediajck@pirati.cz](mediajck@pirati.cz). Nezapomeňte uvést tel. číslo a Vaše dovednosti, stejně jako oblasti, v jakých byste chtěli jihočeským Pirátům podat pomocnou ruku. Budeme se těšit na případnou spolupráci.
-
-_(ilustrační foto: titulka podzimního vydání Pirátských listů - mutace Písek)_
