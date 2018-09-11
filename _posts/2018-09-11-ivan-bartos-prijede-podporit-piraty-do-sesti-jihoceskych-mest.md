@@ -37,10 +37,10 @@ https://www.facebook.com/events/545075635910244/
 * Koncert - Pirates of the pubs
 * Jamování
 
-
-
 **sobota 29. září**
 
 **Tábor** | 9-12 h | Finální meeting táborské kampaně | Na náměstí TGM, na hlavní Tř. 9. května | Ivan Bartoš by měl dvakrát vystoupit od 11 hodin, nebude chybět stánek s pirátským merchem a Pirátskými listy
 
 [**Jindřichův Hradec**](https://www.facebook.com/events/2181326825447413/) | 14-18 h | Sportovní odpoledne s Piráty | sportovní klání pro politiky i veřejnost
+
+Článek o návštěvě Ivana Bartoše 17. srpna v Písku si můžete přečíst [**ZDE**](https://jihocesky.pirati.cz/blog/2018/08/18/ivan-bartos-podporil-piraty-v-pisku-na-besede-s-obcany.html).
