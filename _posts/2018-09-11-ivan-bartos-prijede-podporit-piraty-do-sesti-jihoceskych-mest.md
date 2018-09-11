@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Ivan Bartoš přijede podpořit Piráty do šesti jihočeských měst
-date: '2018-09-11 03:28pm'
+date: '2018-09-11 03:44pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/ivan-bartos.jpg
 description: >-
