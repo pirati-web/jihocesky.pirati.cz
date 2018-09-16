@@ -28,3 +28,7 @@ Piráti majitele pozemku aktivně oslovili s tím, zda je možné s autobusem n�
 „Celou historii jednání mezi Piráty a bratry Rybáky, stejně jako ostatní pirátské schůzky, lze dohledat v naší veřejně dostupné evidenci lobistických kontaktů. Tím se lišíme od ostatních politických stran,“ zdůrazňuje Mareš.  15. září je mezinárodním dnem úklidu a právě při této příležitosti se v České republice již počtvrté uskutečnila celonárodní akce Ukliďme Česko, během které si dobrovolníci vytipovali a posléze uklidili nejvíce znečištěná místa ve svém okolí. Piráti chtějí žít v moderní a čisté zemi a akce typu „Ukliďme Česko“ nejen podporují, ale také se do nich pravidelně sami aktivně zapojují.
 
 [VIDEO](https://www.facebook.com/budejckadrbna/videos/547159245740489/)
+
+
+
+[**PIRÁTI ČESKÉ BUDĚJOVICE**](https://cb.pirati.cz/)
