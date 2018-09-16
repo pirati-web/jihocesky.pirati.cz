@@ -3,8 +3,8 @@ layout: post
 category: blog
 published: true
 title: Piráti odstranili vrak autobusu na budějovickém sídlišti
-date: '2018-09-01 08:10pm'
-author: Lukáš Mareš
+date: '2018-09-01 08:15pm'
+author: Kateřina Hůlková
 image: /assets/img/posts/pir-cb-hlavni.jpg
 description: 'autobus, Budějovice, Mareš, Piráti'
 tags: 'autobus, Budějovice, Mareš, Piráti'
