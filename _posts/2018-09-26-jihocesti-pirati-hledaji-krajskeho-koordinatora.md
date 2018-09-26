@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Jihočeští Piráti hledají krajského koordinátora
-date: '2018-09-26 07:09pm'
+date: '2018-09-26 07:14pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/korab.jpg
 description: 'koordinátor, kraj, Jihočeský, Piráti'
