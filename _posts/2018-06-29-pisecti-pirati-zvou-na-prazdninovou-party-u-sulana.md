@@ -15,4 +15,4 @@ Písečtí Piráti srdečně zvou na prázdninovou párty v areálu oblíbené v
 
 [**PIRÁTI PÍSECKO**](http://www.piratipisecko.cz/)
 
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/XP01VXnDZkM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XP01VXnDZkM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
