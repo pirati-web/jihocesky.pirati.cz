@@ -14,9 +14,9 @@ V rámci kraje se našim zastupitelům daří úspěšně zavádět transparentn
 ### Místní organizace
 
 - [Jindřichův Hradec](http://otevrenyhradec.cz/)
-- [Písek](https://www.pirati.cz/regiony/jiznicechy/pisecko/start): zastupitelem člen Pirátů Martin Brož.
+- [Písek](http://www.piratipisecko.cz/): zastupitelem člen Pirátů Martin Brož.
 - [Soběslav](http://pirati.sobeslav.cz/): na radnici za vás bojují Pirátští zastupitelé Martin Kákona a Iveta Matějů.
-- [Tábor](http://tabor.pirati.cz) jsme součástí hnutí [JINAK!](http://www.taborjinak.cz), které má tři zastupitele.
+- [Tábor](http://tabor.pirati.cz) - [www](http://tabor.pirati.cz), [facebook](https://www.facebook.com/piratitabor)
 - [Trhové Sviny](http://volbats.cz/): Náš člen Petr Steinbauer prosazuje Pirátský program ve spolupráci s [Volbou pro město](http://volbats.cz/).
-- [Týn nad Vltavou](https://www.facebook.com/PiratiTyn/)
-- [Českobudějovicko](https://www.facebook.com/PiratiCB/)
+- [Týn nad Vltavou](https://tyn.pirati.cz/) - [www](https://tyn.pirati.cz/), [facebook](https://www.facebook.com/PiratiTyn/)
+- [Českobudějovicko](https://cb.pirati.cz/) - [www](https://cb.pirati.cz/), [facebook](https://www.facebook.com/PiratiCB/)
