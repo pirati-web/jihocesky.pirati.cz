@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Sledujete s Piráty výsledky komunálních voleb ve vašem městě
+title: Sledujte s Piráty výsledky komunálních voleb ve vašem městě
 date: '2018-10-04 08:19am'
 author: Zbyněk Konvička
 image: /assets/img/posts/pirati.jpg
