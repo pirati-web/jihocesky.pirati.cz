@@ -17,6 +17,8 @@ V sobotu 6. října otevřeme v řadě měst i na jihu Čech volební štáby Pi
 
 [**Písek**](https://www.facebook.com/events/810218946000669/) - kavárna Vykulená sova, Třída Národní svobody 32, od 15 hodin
 
+[**Jindřichův Hradec**](https://www.facebook.com/events/1183761195097302/) - restaurace Jiskra, sídl. U Nádraží 814
+
 [**Soběslav**](https://www.facebook.com/events/333797540700986/) - Svákovská hvězdárna, od 14.30 hodin
 
 [**Týn nad Vltavou**](https://www.facebook.com/events/241533956481190/) - Art Caffe bar, Nábřeží 5. května 199, od 14 hodin
