@@ -18,14 +18,14 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 „Jsem rád, že nám voliči věřili. Téměř všude, kde jsme v jihočeských městech o obcích kandidovali, jsme získali zastupitelské mandáty. Čeká nás nyní spoustu práce při otevírání radnic veřejnosti a naplňování pirátského programu. Držte nám palce. Držíme kurz,“ komentoval výsledky voleb předseda jihočeských Pirátů a poslanec Lukáš Kolářík.
 
 
-__Soběslav (4)  17,21 %__
+**Soběslav (4)  17,21 %**
 
 - Ing. Martin Kákona
 - Ing. Petr Král
 - Ing. Iveta Matějů
 - Bc. Miloš Bučínský
 
-__Písek (5)    15,33 %__
+**Písek (5)    15,33 %**
 
 - Martin Brož
 - Josef Soumar
@@ -33,7 +33,7 @@ __Písek (5)    15,33 %__
 - Zbyněk Konvička
 - Bc. Tomáš Posekaný
 
-__České Budějovice (6)   12,19 %__
+**České Budějovice (6)   12,19 %**
 
 - MUDr. Lukáš Mareš
 - JUDr. Svatomír Mlčoch
@@ -42,45 +42,45 @@ __České Budějovice (6)   12,19 %__
 - Bc. Jan Hošek
 - MgA. Jan Nepomuk Piskač
 
-__Tábor (4)    11,30%__
+**Tábor (4)    11,30%**
 
 - Mgr. Václav Klecanda
 - JUDr. Miloš Tuháček
 - Jan Příbramský, Dis.
 - Mgr. Martin Mareda
 
-__Týn nad Vltavou (2) 7,65 %__
+**Týn nad Vltavou (2) 7,65 %**
 
 - Jan Novák
 - Simon Kostadinov
 
-__Jindřichův Hradec (2)   6,79 %__
+**Jindřichův Hradec (2)   6,79 %**
 
 - MUDr. Jaromír Kopřiva
 - PhDr. Jana Burianová 
 
-\----------------------------------------------------------------
+----------------------------------------------------------------
 
 Koalice a nezávislé kandidátky s podporou Pirátů
 
-__Třeboň (1) – 16,53 % - Společně pro Třeboň - koalice Strany zelených, hnutí Občané městu, město občanům a České pirátské strany__
+**Třeboň (1) – 16,53 % - Společně pro Třeboň - koalice Strany zelených, hnutí Občané městu, město občanům a České pirátské strany**
 
 - Jan Lukavský 
 
-__Srubec - Nezávislí s podporou Pirátů (2)   19,48 %__
+**Srubec - Nezávislí s podporou Pirátů (2)   19,48 %**
 
 - Luboš Hruška
 - Sabina Štěpánková
 
-__Hluboká nad Vltavou – Nezávislí s podporou Pirátů  (2)   8,63%__
+**Hluboká nad Vltavou – Nezávislí s podporou Pirátů  (2)   8,63%**
 
 - Olga Nováková
 - Petr Vejvoda
 
-__Prachatice (1) –  1 Pirátka za hnutí Živé Prachatice__
+**Prachatice (1) –  1 Pirátka za hnutí Živé Prachatice**
 
 Mgr. Barbora Staňková
 
-__Katovice (1) – Katovice 2.0__
+**Katovice (1) – Katovice 2.0**
 
 - Lukáš Kolářík
