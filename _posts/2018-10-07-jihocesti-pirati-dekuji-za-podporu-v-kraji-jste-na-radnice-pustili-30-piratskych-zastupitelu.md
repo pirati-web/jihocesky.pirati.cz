@@ -5,7 +5,7 @@ published: true
 title: >-
   Jihočeští Piráti děkují za podporu. V kraji jste na radnice pustili 30
   pirátských zastupitelů.
-date: '2018-10-07 04:31pm'
+date: '2018-10-07 07:38pm'
 author: Lukáš Kolářík
 image: /assets/img/posts/43271726_10156669649997114_3717160230363070464_n.png
 description: komunální volby Piráti úspěch jižní čechy
@@ -18,17 +18,14 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 „Jsem rád, že nám voliči věřili. Téměř všude, kde jsme v jihočeských městech o obcích kandidovali, jsme získali zastupitelské mandáty. Čeká nás nyní spoustu práce při otevírání radnic veřejnosti a naplňování pirátského programu. Držte nám palce. Držíme kurz,“ komentoval výsledky voleb předseda jihočeských Pirátů a poslanec Lukáš Kolářík.
 
 
-
-
-
-### Soběslav (4)  17,21 %
+__Soběslav (4)  17,21 %__
 
 - Ing. Martin Kákona
 - Ing. Petr Král
 - Ing. Iveta Matějů
 - Bc. Miloš Bučínský
 
-### Písek (5)    15,33 %
+__Písek (5)    15,33 %__
 
 - Martin Brož
 - Josef Soumar
@@ -36,7 +33,7 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 - Zbyněk Konvička
 - Bc. Tomáš Posekaný
 
-### České Budějovice (6)   12,19 %
+__České Budějovice (6)   12,19 %__
 
 - MUDr. Lukáš Mareš
 - JUDr. Svatomír Mlčoch
@@ -45,19 +42,19 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 - Bc. Jan Hošek
 - MgA. Jan Nepomuk Piskač
 
-### Tábor (4)    11,30%
+__Tábor (4)    11,30%__
 
 - Mgr. Václav Klecanda
 - JUDr. Miloš Tuháček
 - Jan Příbramský, Dis.
 - Mgr. Martin Mareda
 
-### Týn nad Vltavou (2) 7,65 %
+__Týn nad Vltavou (2) 7,65 %__
 
 - Jan Novák
 - Simon Kostadinov
 
-### Jindřichův Hradec (2)   6,79 %
+__Jindřichův Hradec (2)   6,79 %__
 
 - MUDr. Jaromír Kopřiva
 - PhDr. Jana Burianová 
@@ -66,24 +63,24 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 
 Koalice a nezávislé kandidátky s podporou Pirátů
 
-### Třeboň (1) – 16,53 % - Společně pro Třeboň - koalice Strany zelených, hnutí Občané městu, město občanům a České pirátské strany
+__Třeboň (1) – 16,53 % - Společně pro Třeboň - koalice Strany zelených, hnutí Občané městu, město občanům a České pirátské strany__
 
 - Jan Lukavský 
 
-### Srubec - Nezávislí s podporou Pirátů (2)   19,48 %
+__Srubec - Nezávislí s podporou Pirátů (2)   19,48 %__
 
 - Luboš Hruška
 - Sabina Štěpánková
 
-### Hluboká nad Vltavou – Nezávislí s podporou Pirátů  (2)   8,63%
+__Hluboká nad Vltavou – Nezávislí s podporou Pirátů  (2)   8,63%__
 
 - Olga Nováková
 - Petr Vejvoda
 
-### Prachatice (1) –  1 Pirátka za hnutí Živé Prachatice
+__Prachatice (1) –  1 Pirátka za hnutí Živé Prachatice__
 
 Mgr. Barbora Staňková
 
-### Katovice (1) – Katovice 2.0
+__Katovice (1) – Katovice 2.0__
 
 - Lukáš Kolářík
