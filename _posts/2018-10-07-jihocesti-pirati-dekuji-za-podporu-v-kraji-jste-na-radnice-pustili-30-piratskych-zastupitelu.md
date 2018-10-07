@@ -19,14 +19,12 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 
 
 **Soběslav (4)  17,21 %**
-
 - Ing. Martin Kákona
 - Ing. Petr Král
 - Ing. Iveta Matějů
 - Bc. Miloš Bučínský
 
 **Písek (5)    15,33 %**
-
 - Martin Brož
 - Josef Soumar
 - Ing. Michal Horák
@@ -34,7 +32,6 @@ Nejvíce preferenčních hlasů v jednom městě získal v Písku lídr pirátsk
 - Bc. Tomáš Posekaný
 
 **České Budějovice (6)   12,19 %**
-
 - MUDr. Lukáš Mareš
 - JUDr. Svatomír Mlčoch
 - Mgr. et Mgr. Adéla Kučerová
