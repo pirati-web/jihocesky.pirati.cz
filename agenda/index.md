@@ -19,6 +19,10 @@ Piráti a jejich expertní týmy ji samozřejmě sledují.
 - sleduje [jednání krajské rady](http://www.kraj-jihocesky.cz/1716/rada_kraje.htm)
 - prezentuje důležité výsledky i s odkazy na zápisy nebo záznamy z jednání
 
+### Majetek a investice
+[tým Majetek a investice](https://www.facebook.com/groups/311293236353300/)
+(chceš pomoct? Požádej o členství na [facebooku](https://www.facebook.com/groups/311293236353300/)):
+
 ### Doprava
 
 TBD
