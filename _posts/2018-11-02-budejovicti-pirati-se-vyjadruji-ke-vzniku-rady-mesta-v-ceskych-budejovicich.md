@@ -12,8 +12,6 @@ tags: 'Lukáš Mareš, České Budějovice, Rada města, Piráti'
 **Prohlášení Zastupitelského klubu Pirátů ke vzniku rady města České 
 Budějovice na období 2018 – 2022** 
 
-
-
 Česká pirátská strana s podporou zelených a nestraníků získala v říjnových volbách do zastupitelstva v Českých Budějovicích šest mandátů. Stala se tak čtvrtou nejsilnější stranou ze čtrnácti kandidujících subjektů v komunálních volbách. V následných třech týdnech po volbách vedla jednání se všemi stranami, které získaly zastoupení v zastupitelstvu. V souladu s povolební strategií jim nabídla vytvoření poměrného zastoupení v radě i koaliční spolupráci na užším základě. Ani jedna z nabídek nebyla přijata. 
 
 Ke koalici ANO, OPB, STAN-ČiB a Společně pro ČB zaujmou Piráti postoj opozice s významným programovým průnikem. Ten spatřujeme například v oblasti naplňování některých záměrů Strategického plánu města, výstavby komunálních bytů, péče o veřejný prostor a zklidnění dopravy na centrálním náměstí. Vítáme snahu koalice podpořit rozvoj nových informačních technologií a také nových metod účasti občanů na veřejné správě. Za nedostatek v koaličním programu považujeme absenci závazku ke zřízení městských čtvrtí a uplatnění místního referenda. 
@@ -22,8 +20,5 @@ Náš základní požadavek, aby v koaliční radě města neměly převahu subj
 
 
 
-**MUDr. Lukáš Mareš **
-
-předseda zastupitelského klubu Pirátů 
-
-v Českých Budějovicích
+MUDr. Lukáš Mareš \
+předseda zastupitelského klubu Pirátů v Českých Budějovicích
