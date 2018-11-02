@@ -14,7 +14,7 @@ tags: 'Václav, Klecanda, Piráti, Rada, město, Tábor'
 __O rozhovor po ustanovení koalice jsme požádali 1. místostarostu Mgr. Václava Klecandu__.
 
 
-__Jak hodnotíte povolební jednání v Táboře?__
+__Jak hodnotíte povolební jednání v Táboře?__
 
 Vyjednávání byla složitá. Prakticky na začátku proběhlo interní hlasování o pokračování vyjednávání s hnutím ANO. Drtivá většina táborské posádky byla proti. To odřízlo nejsnazší možnost koalice prvních třech subjektů na pásce. Při dalších jednáních jsme se potkávali s ostatními vyjednávajícími týmy a hledali programové průsečíky. Nakonec se názorově nejbližší strany odhodlali jít do odvážné 14tky.
 
