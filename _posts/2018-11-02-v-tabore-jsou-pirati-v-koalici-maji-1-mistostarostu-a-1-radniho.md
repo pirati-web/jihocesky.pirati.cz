@@ -19,11 +19,11 @@ __Jak hodnotíte povolební jednání v Táboře?__
 Vyjednávání byla složitá. Prakticky na začátku proběhlo interní hlasování o pokračování vyjednávání s hnutím ANO. Drtivá většina táborské posádky byla proti. To odřízlo nejsnazší možnost koalice prvních třech subjektů na pásce. Při dalších jednáních jsme se potkávali s ostatními vyjednávajícími týmy a hledali programové průsečíky. Nakonec se názorově nejbližší strany odhodlali jít do odvážné 14tky.
 
 
-__Jaké hlavní priority chtějí táborští Piráti v následujícím volebním období prosazovat?__
+__Jaké hlavní priority chtějí táborští Piráti v následujícím volebním období prosazovat?__
 
 SmartCity, zlepšování IT systémů s cílem zkvalitnit komunikaci s úřadem a zjednodušení práce úředníkům včetně informačního systému pro jednání orgánu, který všechny relevantní data propojí a umožní analyzovat. A jako třešničku na dortu chceme participativní rozpočet, od kterého si slibujeme větší zapojení lidí do „budování“ města a další zlepšení vztahu občanů a radnice.
 
-__Co budeš mít v gesci jako první místostarosta a na co se chceš prioritně zaměřit?__
+__Co budeš mít v gesci jako první místostarosta a na co se chceš prioritně zaměřit?__
 
 Mám na starost rozvoj města, vnitřní věci, životní prostředí a Zdravé město. Jednoznačnou prioritou je otevřená metropolitní síť jako infrastrukturní základ pro jednotlivá SmartCity řešení. Pilotní projekt bych rád realizoval do 3 měsíců. V agendě životního prostředí si priority ujasním po setkání užšího vedení odboru a Technických služeb. To samé v rozvoji.
 
