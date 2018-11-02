@@ -9,7 +9,7 @@ image: /assets/img/posts/klecanda.jpg
 description: 'Václav, Klecanda, Piráti, Rada, město, Tábor'
 tags: 'Václav, Klecanda, Piráti, Rada, město, Tábor'
 ---
-„S potěšením vám oznamujeme, že jsme podepsali s politickým hnutím Tábor 2020, volebním sdružením Tábor Jinak a Českou stranou sociálně demokratickou těsnou Dohodu o koaliční spolupráci,“ psali táborští Piráti dne 27. listopadu na svém facebooku. A stalo se! Prvním místostarostou se za poté stal lídr tamních Pirátů Václav Klecanda a neuvolněným radním pak Pirát Jan Příbramský. „Čeká nás spousta práce a zodpovědnosti. Doufáme, že nás čeká nejen spolupráce uvnitř koalice, ale také s konstruktivní opozicí, která bude pracovat pro město Tábor. Děkujeme všem za podporu,“ sdělili po táborští Piráti.
+„S potěšením vám oznamujeme, že jsme podepsali s politickým hnutím Tábor 2020, volebním sdružením Tábor Jinak a Českou stranou sociálně demokratickou těsnou Dohodu o koaliční spolupráci,“ psali táborští Piráti dne 27. října na svém facebooku. A stalo se! Prvním místostarostou se za poté stal lídr tamních Pirátů Václav Klecanda a neuvolněným radním pak Pirát Jan Příbramský. „Čeká nás spousta práce a zodpovědnosti. Doufáme, že nás čeká nejen spolupráce uvnitř koalice, ale také s konstruktivní opozicí, která bude pracovat pro město Tábor. Děkujeme všem za podporu,“ sdělili po táborští Piráti.
 
 __O rozhovor po ustanovení koalice jsme požádali 1. místostarostu Mgr. Václava Klecandu__.
 
