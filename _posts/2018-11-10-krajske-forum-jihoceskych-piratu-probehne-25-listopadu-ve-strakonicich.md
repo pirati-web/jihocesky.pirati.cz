@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Krajské fórum jihočeských Pirátů proběhne 25. listopadu ve Strakonicích
-date: '2018-11-10 02:00pm'
+date: '2018-11-10 02:27pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/lovecka-basta.jpg
 description: 'krajské, fórum, Piráti, Jihočeský, kraj, Strakonice'
@@ -20,5 +20,7 @@ Jihočeští Piráti se budou dále zabývat rozpočtem krajského sdružení na
 O novinky z dění v republikovém výboru se podělí jeho jihočeští členové Oldřich Máca a Ivo Vlasatý. Bližší informace k eurovolbám, které budou v příštím roce sdělí více Markéta Gregorová a Mikuláš Peksa.
 
 Program není konečný a je v něm prostor nejen na diskuzi, ale i na další témata.
+
+[**UDÁLOST NA FACEBOOKU**](https://www.facebook.com/events/1002926086564863/)
 
 [**LOVECKÁ BAŠTA**](http://www.loveckabasta.com/index.html)
