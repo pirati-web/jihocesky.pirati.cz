@@ -24,3 +24,5 @@ Program není konečný a je v něm prostor nejen na diskuzi, ale i na další t
 [**UDÁLOST NA FACEBOOKU**](https://www.facebook.com/events/1002926086564863/)
 
 [**LOVECKÁ BAŠTA**](http://www.loveckabasta.com/index.html)
+
+![](/assets/img/posts/kf-strakonice.jpg)
