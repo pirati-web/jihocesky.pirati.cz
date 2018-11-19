@@ -9,7 +9,7 @@ image: /assets/img/posts/800px-tyn_nad_vltavou.jpg
 description: 'Týn nad Vltavou, Piráti, koalice, program'
 tags: 'Týn nad Vltavou, Piráti, koalice, program'
 ---
-Dalším jihočeským městem, kde se Piráti stali součástí vládnoucí koalice, je Týn nad Vltavou. Koaliční smlouvu podepsali tamní Piráti Jan Novák a Simon Kostadinov se stranami SSO, ODS, ČSSD a Tejňáky.
+Dalším jihočeským městem, kde se Piráti stali součástí vládnoucí koalice, je Týn nad Vltavou. Koaliční smlouvu podepsali tamní Piráti Jan Novák a Simon Kostadinov se stranami SSO, ODS, ČSSD a Tejňáci.
 
 „Za Piráty bude v rámci koalice jednat Jan Novák, za SSO Ivo Machálek, za ODS Tomáš Tvrdík, za ČSSD David Slepička a za Tejňáky Jiří Šálený. Ke schůzce představitelů bude docházet minimálně dvakrát do roka, odsouhlaseno bylo zavedení práva veta. V kompetenci Pirátů a Jana Nováka bude zejména oblast IT a občanské angažovanosti,“ uvádí Týnští Piráti v tiskové zprávě na svém webu.
 
@@ -21,4 +21,4 @@ Hned na začátku na návrh Pirátů se Rada města usnesla, že veškerá její
 
 „Plníme náš program od začátku!“, říkají oba týnští pirátští zastupitelé.
 
-Celý text smlouvy si můžete stáhnout [**zde**](https://tyn.pirati.cz/assets/KS.pdf). Dále si také můžete stáhnout koaliční program [**zde**](https://tyn.pirati.cz/assets/KP.pdf).
+Celý text smlouvy si můžete stáhnout [**zde**](https://tyn.pirati.cz/assets/KS.pdf). Dále si také můžete stáhnout koaliční program [**zde**](https://tyn.pirati.cz/assets/KP.pdf).
