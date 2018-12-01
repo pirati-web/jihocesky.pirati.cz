@@ -19,6 +19,4 @@ Zástupci jednotlivých místních sdružení pak hodnotili průběh volebních 
 
 Vedoucí mediálního odboru Zbyněk Konvička hovořil o infokanálech Pirátů v rámci kraje a možnostech zlepšování jednotlivých platforem FB, webů, tiskových zpráv apod. Padl návrh jednou za rok, i mimo volby, připravovat krajské Pirátské listy, v nichž by se prezentovala všechna pirátská města a průběžně tak informovala o svých aktivitách mimo on-line. Na něj navázal Jaroslav Hansal, který představil návrh na novou podobu krajského webu. 
 
-Hosty fóra byli Markéta Gregorová, vedoucí zahraničního odboru Pirátů a poslanec za Piráty Mikuláš Peksa, kteří informovali o plánované kampani na eurovolby a možnosti sdružení i jednotlivců se do nich zapojit. Kandidaturu do eurovoleb za Jihočechy pak oznámila Jana Koláříková, stávající vedoucí personálního odboru.
-
-Na závěr setkání o možnost vystoupení požádal Karel Jánský, lídr strany Změna pro Strakonice a iniciátor žaloby na neplatnost voleb ve Strakonicích. Ve svém vstupu kritizoval poměry ve Strakonicích, především vítězné hnutí Strakonická veřejnost a průběh jak volební kampaně, tak i styl vládnutí zmiňovaného hnutí. Uvedl, že nové volby ve Strakonicích se budou konat 16. března 2019.
+Hosty fóra byli Markéta Gregorová, vedoucí zahraničního odboru Pirátů a poslanec za Piráty Mikuláš Peksa, kteří informovali o plánované kampani na eurovolby a možnosti sdružení i jednotlivců se do nich zapojit. Kandidaturu do eurovoleb za Jihočechy zvažuje Jana Koláříková, stávající vedoucí personálního odboru.
