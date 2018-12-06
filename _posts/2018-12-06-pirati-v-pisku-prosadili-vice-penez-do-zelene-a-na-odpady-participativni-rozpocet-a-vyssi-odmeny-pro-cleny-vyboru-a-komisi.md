@@ -15,10 +15,12 @@ Písečtí Piráti plní program i z opoziční role. Na posledním zastupitelst
 
 Piráti současně hlasovali pro navýšení rozpočtu o 5 milionů pro participativní rozpočet, tedy takovou část z rozpočtu města, o němž budou spolurozhodovat přímo obyvatelé města Písku. Budou moci podávat vlastní návrhy a hlasovat o nich. 
 
-
-
 Pirátům se také podařilo prosadit navýšení odměn pro členy výborů a komisí i předsedů komisí – poradních a iniciačních orgánů zastupitelstva a rady města, kteří nejsou jinak členy zastupitelstva města. Piráti jsou toho názoru, že aktivní občané by měli být motivováni a také oceněni. Přijat byl totiž návrh Piráta Josefa Soumara, aby ze 100 korun za jednání dostali nově 200 korun členové výborů a komisí, předsedové komisí si pak z 200 korun polepší na 500 korun.
 
 [**PIRÁTI PÍSECKO**](http://www.piratipisecko.cz/)
 
 [**FACEBOOK**](https://www.facebook.com/piratipisecko/)
+
+
+
+_ilustrační foto: Vlahos Vaggelis - Wikimedia commons_
