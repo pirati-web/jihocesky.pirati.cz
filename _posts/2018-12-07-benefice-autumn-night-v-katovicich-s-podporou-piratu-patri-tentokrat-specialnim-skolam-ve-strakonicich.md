@@ -30,3 +30,5 @@ Během večera vystoupí tyto kapely:
 Výtěžek 5. ročníku ve výši 41 573 korun směřoval do Dětského domova ve Volyni.
 
 ![ ](/assets/img/posts/autumn-2.png)
+
+![](/assets/img/posts/autumn-night-plakat.jpg)
