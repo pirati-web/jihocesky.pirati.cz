@@ -27,8 +27,8 @@ Během večera vystoupí tyto kapely:
 * ANČA BAND - dance music / Blatná
 * ELEMENT - rockabilly-rock'n'roll / Český Krumlov
 
-Výtěžek 5. ročníku ve výši 41 573 korun směřoval do Dětského domova ve Volyni.
+Výtěžek 5. ročníku ve výši 41 753 korun směřoval do Dětského domova ve Volyni.
 
 ![ ](/assets/img/posts/autumn-2.png)
 
-![](/assets/img/posts/autumn-night-plakat.jpg)
+![null](/assets/img/posts/autumn-night-plakat.jpg)
