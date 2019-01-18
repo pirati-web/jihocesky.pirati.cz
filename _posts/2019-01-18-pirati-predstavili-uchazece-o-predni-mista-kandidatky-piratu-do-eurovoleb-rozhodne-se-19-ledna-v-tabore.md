@@ -5,7 +5,7 @@ published: true
 title: >-
   Piráti představili uchazeče o přední místa kandidátky Pirátů do eurovoleb –
   rozhodne se 19. ledna v Táboře
-date: '2019-01-18 09:11am'
+date: '2019-01-18 09:11pm'
 author: Česká pirátská strana
 image: /assets/img/posts/cf-tabor-2019.jpg
 description: 'Tábor, Eurovolby, kandidáti, Piráti, Celostátní, fórum,'
