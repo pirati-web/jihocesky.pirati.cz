@@ -2,7 +2,9 @@
 layout: post
 category: blog
 published: true
-title: Budějovičtí Piráti uspořádali kulatý stůl o sportovní hale
+title: >-
+  Budějovičtí Piráti uspořádali kulatý stůl o sportovní hale, usilují o
+  referendum o její budoucnosti
 date: '2019-02-05 12:43pm'
 author: Piráti Českobudějovicko
 image: /assets/img/posts/sportovka2.jpg
