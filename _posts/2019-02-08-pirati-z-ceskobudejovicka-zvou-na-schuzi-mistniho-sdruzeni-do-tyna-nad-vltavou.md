@@ -2,9 +2,7 @@
 layout: post
 category: blog
 published: true
-title: >-
-  Piráti z Českobudějovicka zvou na schůzi místního sdružení do Týna nad
-  Vltavou.
+title: Piráti z Českobudějovicka zvou na schůzi místního sdružení do Týna nad Vltavou
 date: '2019-02-08 10:26pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/tyn.jpg
