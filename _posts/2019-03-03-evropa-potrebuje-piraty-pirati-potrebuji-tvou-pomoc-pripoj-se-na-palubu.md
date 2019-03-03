@@ -43,4 +43,4 @@ Sleduj naše sociální sítě, ať ti neunikne nic z kampaně. Budeme rádi za 
 
 [YouTube](https://www.youtube.com/user/CeskaPiratskaStrana)
 
-Bližší informace naleznete na stránkách **[EVROPA POTŘEBUJE](https://evropapotrebuje.cz/)**.
+Bližší informace naleznete na stránkách **[EVROPA POTŘEBUJE PIRÁTY](https://evropapotrebuje.cz/)**.
