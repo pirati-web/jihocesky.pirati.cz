@@ -13,8 +13,7 @@ Fandíš Pirátům a záleží ti na výsledku letošních voleb do Evropského 
 
 Volby do Evropského parlamentu mají bohužel tradičně v Česku nejmenší volební účast. V roce 2014 se jich zúčastnilo pouhých 18,20 % lidí. 
 
-**Každý pomáhá
-**
+**Každý pomáhá**
 
 Pokud by se volební účast mírně zvedla, stačilo by nám k cílovému volebnímu výsledku – tedy 20% volebnímu zisku, aby asi **330 000** z našich voličů přišlo k volbám. To znamená, že pomoc každého z vás může změnit volební výsledek! 
 
