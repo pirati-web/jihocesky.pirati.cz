@@ -29,7 +29,7 @@ Státní peníze neutrácíme za drahé politické kampaně. Místo toho je pou�
 
 Budeme moc rádi, pokud se rozhodnete přispět nám na kampaň do Evropského parlamentu. Každá částka pomůže! Děkujeme.
 
-**[Poslat dar](https://piroplaceni.pirati.cz/)**
+**[Poslat dar](https://dary.pirati.cz/evropskyparlament)**
 
 **Sleduj nás a sdílej**
 
