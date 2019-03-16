@@ -13,7 +13,7 @@ První letošní krajské fórum jihočeských Pirátů se sešlo 9. března 201
 
 Hned v úvodu se představilo osm příznivců: z Českého Krumlova, Soběslavi, Jistebnice, Borovan, Jindřichova Hradce a Českých Budějovic, kteří by se rádi stali členy České pirátské strany. Jejich zájem i nabídnuté zkušenosti členové uvítali a vedli se zájemci neformální rozpravu. 
 
-Poté se slova ujal jihočeský předseda Pirátů Lukáš Kolářík. Zmínil schválený rozpočet kraje na tento rok i uzavření smlouvy s Janem Lukavským, nájemcem hospůdky v Pirátském centru Čepice v Českých Budějovicích, které hned po jejím otevření výrazněji ožila společenskými a kulturními akcemi pro veřejnost. Zmínil i většinové rozhodnutí členské základy o zrušení Místního sdružení Jindřichův Hradec, jehož členové však nadále zůstávají členy krajského sdružení a mohou se podílet na práci pro Piráty. Upozornil také na nutnost včasné přípravy na krajské volby a na rozjíždějící se kampaň na Eurovolby, kde má Jihočeský kraj dva zástupce Janu Koláříkovou a Dana Leštinu.
+Poté se slova ujal jihočeský předseda Pirátů Lukáš Kolářík. Zmínil schválený rozpočet kraje na tento rok i uzavření smlouvy s Janem Lukavským, nájemcem hospůdky v Pirátském centru Čepice v Českých Budějovicích, která hned po jejím otevření výrazněji ožila společenskými a kulturními akcemi pro veřejnost. Zmínil i většinové rozhodnutí členské základy o zrušení Místního sdružení Jindřichův Hradec, jehož členové však nadále zůstávají členy krajského sdružení a mohou se podílet na práci pro Piráty. Upozornil také na nutnost včasné přípravy na krajské volby a na rozjíždějící se kampaň na Eurovolby, kde má Jihočeský kraj dva zástupce Janu Koláříkovou a Dana Leštinu.
 
 ![](/assets/img/posts/ck-3.jpg)
 
