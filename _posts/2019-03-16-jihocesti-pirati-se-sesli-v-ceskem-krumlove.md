@@ -23,6 +23,6 @@ Josef Soumar z MS Piráti Písecko a hlavní garant takzvaných KET – krajský
 
 ![](/assets/img/posts/ck-2.jpg)
 
-Následovaly reporty z jednotlivých místních sdružení, které naleznete v [celkovém zápise](https://forum.pirati.cz/viewtopic.php?f=408&t=42914). Velkým tématem byla začínající kampaň na Eurovolby, kterou přijela představit volební manažerka Martina Kavanová. Jak být více vidět a lépe informovat o pirátských aktivitách řešil vedoucí mediálního odboru Zbyněk Konvička, který informoval o zavedení mediálního plánu, na němž se budou podílet tzv. mediální spojky ze všech pirátských měst. Obnovilo se i měsíční vydávání e-mailového Zpravodaje. Závěr patřil zaměření se na agendu Jihočeského kraje jako celku.
+Následovaly reporty z jednotlivých místních sdružení, které naleznete v [celkovém zápise](https://forum.pirati.cz/viewtopic.php?f=408&t=42914). Velkým tématem byla začínající kampaň na Eurovolby, kterou přijela představit volební manažerka Martina Kavanová. Jak být více vidět a lépe prezentovat pirátské aktivity řešil vedoucí mediálního odboru Zbyněk Konvička, který informoval o zavedení mediálního plánu, na němž se budou podílet tzv. mediální spojky ze všech pirátských měst. Obnovilo se i měsíční vydávání e-mailového Zpravodaje. Závěr patřil zaměření se na agendu Jihočeského kraje jako celku.
 
 Další setkání krajského fóra se plánuje na květen v Prachaticích.
