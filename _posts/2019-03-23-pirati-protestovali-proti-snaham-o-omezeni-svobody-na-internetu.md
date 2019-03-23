@@ -19,7 +19,7 @@ Jihočeští Piráti se v sobotu 23. března přidali k celoevropskému protestu
 
 Demonstraci Zachraňme internet! Piráti uspořádali na náměstí Přemysla Otakara II. v Českých Budějovicích, kam si v téměř letním počasí našlo cestu kolem osmi desítek lidí. Podobná setkání se odehrávala ve většině krajských měst České republiky a mnoha městech Evropské unie.
 
-„Věřím v sílu demokracie a v to, že náš hlas bude slyšet! Již za pár dní budou poslanci Evropského parlamentu rozhodovat o finální podobě tzv. směrnice o copyrightu. Reforma copyrightu je nutná a je dobře, že to Evropská unie řeší, protože nové technologie přišly velkou rychlostí a legislativa nestihla držet krok. Evropská unie je prostor, který tvoříme všichni společně. V širším kontextu jde o zásadní změnu: pokus zavést jednotný digitální trh, na kterém by data a informace proudily ještě rychleji a efektivněji. Problém je, že finální verze obsahuje několik zásadních nedostatků,“ uvedla na úvod svého proslovu Jana Koláříková, která je na pátém místě kandidátky do Europarlamentu.
+„Věřím v sílu demokracie a v to, že náš hlas bude slyšet! Již za pár dní budou poslanci Evropského parlamentu rozhodovat o finální podobě tzv. směrnice o copyrightu. Reforma copyrightu je nutná a je dobře, že to Evropská unie řeší, protože nové technologie přišly velkou rychlostí a legislativa nestihla držet krok. Evropská unie je prostor, který tvoříme všichni společně. V širším kontextu jde o zásadní změnu: pokus zavést jednotný digitální trh, na kterém by data a informace proudily ještě rychleji a efektivněji. Problém je, že finální verze obsahuje několik zásadních nedostatků,“ uvedla na úvod svého proslovu Jana Koláříková, která je na pátém místě kandidátky Pirátů do Europarlamentu.
 
 ![null](/assets/img/posts/d9.jpg)
 
