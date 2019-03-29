@@ -11,7 +11,7 @@ image: /assets/img/posts/cisticka.jpg
 description: 'Český, Krumlov, čistička'
 tags: 'Český, Krumlov, čistička'
 ---
-O největší investiční akci Českého Krumlova se rozhodlo na posledním zastupitelstvu města. Šestikoalice jednomyslně rozhodla o koupi čističky odpadních vod a kanálu za 230 milionů korun. O čističce se na zastupitelstvu debatovalo již podruhé za velkého zájmu veřejnosti. 
+O největší investiční akci Českého Krumlova se rozhodlo na posledním zastupitelstvu města. Šestikoalice jednomyslně rozhodla o koupi čističky odpadních vod a kanálu za 230 milionů korun od soukromého vlastníka. O čističce se na zastupitelstvu debatovalo již podruhé za velkého zájmu veřejnosti. 
 
 Opozice argumentovala vysokou cenou čističky vzhledem k jejímu stáří (30 let), problematickým posudkem na její cenu a hlavně faktem, že město čističku koupit nemusí. Pokud by to neudělalo, provozoval by jí buď stát, jako se to děje nyní, nebo soukromník. Koalice ovšem měla zcela opačný názor a k transakci by mělo dojít za několik měsíců. 
 
