@@ -9,9 +9,7 @@ image: /assets/img/posts/ovk.jpg
 description: 'Eurovolby, Piráti, ovk'
 tags: 'Eurovolby, Piráti, ovk'
 ---
-Vážení příznivci Pirátů,
-
-24.-25. května proběhnou volby do Evropského parlamentu, které budou pro budoucnost Evropy naprosto klíčové. Rozhodne se o tom, jestli vyhrají nacionalisti a strany napojené na korporace, nebo svobodomyslné strany, které chtějí Evropskou unii opravit, ale nechtějí ji rozložit.
+Vážení příznivci Pirátů, 24.-25. května proběhnou volby do Evropského parlamentu, které budou pro budoucnost Evropy naprosto klíčové. Rozhodne se o tom, jestli vyhrají nacionalisti a strany napojené na korporace, nebo svobodomyslné strany, které chtějí Evropskou unii opravit, ale nechtějí ji rozložit.
 
 Každá politická strana má právo nominovat do všech okrskových volebních komisí jednoho člena a jednoho náhradníka, aby dohlédli na to, že volby probíhají řádně. Proto vám i Piráti nabízejí tuto brigádu a prosíme vás o pomoc. Ze 14 756 volebních okrsků jsme zatím obsadili jen 3 410. Prosíme vás proto o dvě věci:
 
