@@ -17,7 +17,7 @@ Zvažte prosím, jestli nechcete sami pohlídat jak u nás fungují volby a sou�
 
 Nasdílejte, prosím, tuto možnost svým přátelům, ať se o této občanské brigádě dozví co nejvíc lidí. V Jihočeském kraji je stále dostatek volných míst v okrskových volebních komisích.
 
-Přihlásit se můžete pomocí formuláře [**ZDE**](https://ovk.pirati.cz/).
+Přihlásit se můžete do 12. dubna pomocí formuláře [**ZDE**](https://ovk.pirati.cz/).
 
 Následně se vám ozvou naši koordinátoři, abyste věděli, co a jak.
 
