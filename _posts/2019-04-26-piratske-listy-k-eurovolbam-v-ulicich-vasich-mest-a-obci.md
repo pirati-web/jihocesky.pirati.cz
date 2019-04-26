@@ -19,6 +19,6 @@ Pirátské listy si můžete vyzvednout v Pirátském centru [Čepice](https://w
 
 Přejeme vám inspirativní čtení.
 
-A nezapomeňte, Piráty můžete ještě několik dní podpořit také na [Startovači](https://www.startovac.cz/projekty/evropa-potrebuje-piraty/);)
+A nezapomeňte, že volební kampaň EVROPA POTŘEBUJE PIRÁTY můžete ještě několik dní podpořit také na [Startovači](https://www.startovac.cz/projekty/evropa-potrebuje-piraty/);)
 
 Děkujeme za vaši podporu!
