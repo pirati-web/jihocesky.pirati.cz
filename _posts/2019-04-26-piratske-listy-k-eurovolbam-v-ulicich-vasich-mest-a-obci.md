@@ -15,7 +15,7 @@ Připravili jsme pro všechny, kteří volí nebo uvažují o volbě Pirátů, n
 
 Od 29. dubna budou tištěné Pirátské listy rozdávány v ulicích jihočeských měst a obcí Piráty i dobrovolníky, chystáme v květnu řadu neformálních akcí na podporu našich kandidátů, z nichž ta největší se odehraje 11. května na náměstí Přemysla Otakara v Českých Budějovicích za účasti Ivana Bartoše i pirátského autobusu.
 
-Pirátské listy si můžete vyzvednout v Pirátském centru [Čepice](https://www.facebook.com/cepiceCB/), Hradební 13, České Budějovice (na dohled od Černé věže) a pak v dalších městech a obcích z rukou našich kamelotů – Pirátů a příznivců, kteří je budou rozdávat na ulicích.
+Pirátské listy si můžete vyzvednout v Pirátském centru [Čepice](https://www.facebook.com/cepiceCB/), Hradební 13, České Budějovice (na dohled od Černé věže) a pak v dalších městech a obcích z rukou našich kamelotů – Pirátů a příznivců, kteří je budou rozdávat v ulicích.
 
 Přejeme vám inspirativní čtení.
 
