@@ -39,4 +39,4 @@ Již 24.–25. května se konají volby do Evropského parlamentu. „A víte, c
 
 Rádi se s Vámi potkáme!
 
-[EVROPA POTŘEBUJE PIRÁTY](https://evropapotrebuje.cz) – m představujeme web, kde najdete náš program i naše kandidáty do Evropského parlamentu
+[EVROPA POTŘEBUJE PIRÁTY](https://evropapotrebuje.cz) – představujeme web, kde najdete náš program i naše kandidáty do Evropského parlamentu
