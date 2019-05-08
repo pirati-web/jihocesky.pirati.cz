@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Přímý přenos z jednání zastupitelstva si lidé oblíbili
 date: '2019-05-08 10:02am'
 author: Václav Kleanda
