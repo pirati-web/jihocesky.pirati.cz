@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Přímý přenos z jednání zastupitelstva si lidé v Táboře oblíbili
 date: '2019-05-08 11:20am'
 author: Václav Klecanda
