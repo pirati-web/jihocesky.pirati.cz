@@ -13,7 +13,6 @@ tags: 'Eurovolby, Piráti, '
 ---
 V Jihočeském kraji zvítězili Piráti v nedávných Eurovolbách v 67 obcích, v dalších 12 obcích jsme se o první místo dělili s jinou stranou. Do Evropského parlamentu  se nakonec dostali tři naši poslanci: Marcel Kolaja, Markéta Gregorová a Mikuláš Peksa.
 
-\
 Děkujeme všem, kteří podpořili naše kandidáty do Europarlamentu a za stálou podporu pirátské politiky otevřenosti a transparentnosti.
 
 Nejlepšího celkového výsledku za okresy dosáhlo Českobudějovicko (14,16%). Druhé bylo Písecko (14,06 %) a třetí Táborsko (13,88%). Celkově skončili Piráti v Jihočeském kraji na třetí příčce s podporou 13,73%. 
