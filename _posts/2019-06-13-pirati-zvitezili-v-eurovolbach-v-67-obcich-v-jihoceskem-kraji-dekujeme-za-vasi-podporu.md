@@ -22,8 +22,7 @@ Přinášíme podrobnější výsledky za jednotlivé okresy v kraji:
 
 ![](/assets/img/posts/1.eurovolby-barvy-stran-legenda.jpg)
 
-**České Budějovice
-**
+**České Budějovice**
 
 Vítězství jsme slavili v 10 obcích, přičemž u dvou nám vítězství uniklo o jediný hlas. 1. Borovnice (44,18 %), 2. Nedabyle (36,73%), 3. Hranice (32,25 %). Další vítězství: Dobšice, Doubravice, Hosty, Kvítkovice, Chrášťany, Záboří, Závraty. V krajském městě Českých Budějovicích jsme dosáhli 14,69 %.
 
@@ -35,22 +34,19 @@ První místo nám patřilo ve 2 obcích Nové vsi (31,08%) a Křemži (19,31%).
 
 ![](/assets/img/posts/eurovolby-cesky-krumlov-mapka.jpg)
 
-**Jindřichův Hradec
-**
+**Jindřichův Hradec**
 
 Zlatý vavřín jsme si odnesli v 10 obcích: 1. Vlčetínec (35%), 2. Županovice (30%), 3. Horní Skrýchov (29,62%). Další vítězství: Bednárec, Dolní Pěna, Kunžak, Kostelní Radouň, Peč, Plavsko, Volfířov. V samotném Jindřichově Hradci jsme měli 13,46%.
 
 ![](/assets/img/posts/eurovolby-jindrichohradecko.jpg)
 
-**Písek
-**
+**Písek**
 
 V okrese Písek jsme zvítězili ve 12 obcích, přičemž v jedné se dělili o vítězství s jinou stranou. 1. Osek (35,29 %), 2. Ostrovec (33,94 %), 3. Varvažov (30%). Dále jsme zvítězili v obcích: Dolní Novosedly, Horosedly, Hrazany, Kovářov, Podolí, Předotice, Smetanova Lhota, Zběšičky a Zvíkovské Podhradí. V samotném Písku jsme získali 13,69 %.
 
 ![](/assets/img/posts/eurovolby-pisek-mapka.jpg)
 
-**Prachatice
-**
+**Prachatice**
 
 V šumavském okrese jsme první příčku obsadili v 7 obcích: 1. Újezdec (36,36%), 2. Mičovice (28,23%), 3. Kratušín (26,31%). V Prachaticích jsme získali 13,03%. Další první místa: Horní Vltavice, Babice, Šumavské Hoštice a Stožec. 
 
