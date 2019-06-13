@@ -3,8 +3,8 @@ layout: post
 category: blog
 published: true
 title: >-
-  Piráti zvítězili v Eurovolbách v 67 obcích v Jihočeském kraji. Děkujeme za
-  vaši podporu!
+  Piráti zvítězili v Eurovolbách v 67 obcích Jihočeského kraje. Děkujeme za vaši
+  podporu!
 date: '2019-06-13 11:40am'
 author: Zbyněk Konvička
 image: /assets/img/posts/cf-celo.jpg
