@@ -47,7 +47,7 @@ V okrese Písek jsme zvítězili ve 12 obcích, přičemž v jedné se dělili o
 
 **Prachatice**
 
-V šumavském okrese jsme první příčku obsadili v 7 obcích: 1. Újezdec (36,36%), 2. Mičovice (28,23%), 3. Kratušín (26,31%). V Prachaticích jsme získali 13,03%. Další první místa: Horní Vltavice, Babice, Šumavské Hoštice a Stožec. 
+V šumavském okrese jsme první příčku obsadili v 7 obcích: 1. Újezdec (36,36%), 2. Mičovice (28,23%), 3. Kratušín (26,31%). Další první místa: Horní Vltavice, Babice, Šumavské Hoštice a Stožec. V Prachaticích jsme získali 13,03%. 
 
 ![null](/assets/img/posts/eurovolby-prachaticko-mapka.jpg)
 
