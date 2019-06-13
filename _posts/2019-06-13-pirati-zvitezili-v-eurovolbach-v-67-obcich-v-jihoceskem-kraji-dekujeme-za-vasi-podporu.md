@@ -64,6 +64,6 @@ Na Táborsku byli Piráti nejúspěšnější v 12 obcích, v obcích Komárov a
 
 ![null](/assets/img/posts/eurovolby-taborsko-mapka.jpg)
 
-Bližší výsledky ve vašich obcích naleznete na stránkách: [www.volby.cz](www.volby.cz)
+Bližší výsledky ve vašich obcích naleznete na stránkách: [www.volby.cz](https://www.volby.cz/)
 
 v sekci Analytické výstupy za územní celky
