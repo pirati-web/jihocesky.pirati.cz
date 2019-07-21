@@ -9,7 +9,7 @@ image: /assets/img/posts/1-kolis-strakonice.jpg
 description: Piknik s poslancem Lukášem Koláříkem ve Strakonicích.
 tags: 'Piráti, Kolářík, Strakonice'
 ---
-Srdečně Vás zveme na neformální setkání členů a příznivců pirátské strany na piknikových dekách s dobrým jídlem. Akce se uskuteční ve středu 24. července od 16 hodin na Podskalí ve Strakonicích u bosonohého chodníku, který tam před časem Piráti vybudovali.
+Srdečně Vás zveme na neformální setkání členů a příznivců pirátské strany na piknikových dekách s dobrým jídlem. Akce se uskuteční ve středu 24. července od 16 hodin na Podskalí ve Strakonicích u [bosonohého chodníku](https://jihocesky.pirati.cz/blog/2017/04/18/bosy-chodnik.html), který tam před časem Piráti s místními nadšenci pomáhali vybudovat.
 
 Přijďte si popovídat s Lukášem Koláříkem, předsedou jihočeských Pirátů a poslancem parlamentu ČR.
 
