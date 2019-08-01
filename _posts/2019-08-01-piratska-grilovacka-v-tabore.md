@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Pirátská grilovačka v Táboře '
+title: Pirátská grilovačka v Táboře bude 7. srpna
 date: '2019-08-01 11:29pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/mapa-tismenicke-udoli.jpg
