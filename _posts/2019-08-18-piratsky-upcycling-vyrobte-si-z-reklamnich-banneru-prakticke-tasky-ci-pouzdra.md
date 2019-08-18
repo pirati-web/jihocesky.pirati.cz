@@ -8,8 +8,8 @@ title: >-
 date: '2019-08-18 12:55pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/piratsky-upcykling.jpg
-description: Pirátský upcykling v Čepici v Českých Budějovicích
-tags: 'Piráti, upcykling, Čepice, České, Budějovice'
+description: Pirátský upcycling v Čepici v Českých Budějovicích
+tags: 'Piráti, upcycling, Čepice, České, Budějovice'
 ---
 Pojďme vdechnout 24. srpna v Pirátském centru Čepice - Hradební 13, České Budějovice - nový život reklamním plachtám, které posloužily během předvolební pirátské kampaně. Chceš mít obal na notebook nebo tašku, jakou nikdo jiný nemá? Přijď si ji ušít! 
 Začínáme v 14 hodin a šít budeme do 18 hodin.
