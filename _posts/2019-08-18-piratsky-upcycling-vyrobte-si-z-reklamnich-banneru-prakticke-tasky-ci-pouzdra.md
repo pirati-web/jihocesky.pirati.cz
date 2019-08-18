@@ -24,6 +24,6 @@ I tady platí heslo sharing is caring. :)
 
 Těšíme se! 
 
-[Pirátský upcykling - video](https://www.facebook.com/pirati.jck/videos/10157395273962114/)
+[Pirátský upcycling - video](https://www.facebook.com/pirati.jck/videos/10157395273962114/)
 
 [Přihlašte se na událost na facebooku](https://www.facebook.com/events/400994147205538/)
