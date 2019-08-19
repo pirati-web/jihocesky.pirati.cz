@@ -17,7 +17,7 @@ Do rozhodování o opatřeních na ochranu přírody v zónách za tímto účel
 
 V prosinci 2019 jihočeští Piráti uspořádají otevřené setkání, na které pozveme zástupce správy národního parku, dotčených obcí, výzkumných institucí, místních podnikatelů a dalších obyvatel i nevládních organizací. Zároveň s pozvánkou rozešleme pracovní seznam našich programových tezí k tématu, ke kterým uvítáme věcné připomínky od všech zainteresovaných stran buď písemně, nebo formou stručných prezentací na samotném setkání.
 
-Zájemci o účast v publiku nebo o zařazení své prezentace se již nyní mohou hlásit na [lucie.korytar@gmail.com](lucie.korytar@gmail.com), stejně jako zájemci o zaslání zmíněných pracovních programových tezí.
+Zájemci o účast v publiku nebo o zařazení své prezentace se již nyní mohou hlásit na [dan.lestina@pirati.cz](dan.lestina@pirati.cz), stejně jako zájemci o zaslání zmíněných pracovních programových tezí.
 
 - - -
 
