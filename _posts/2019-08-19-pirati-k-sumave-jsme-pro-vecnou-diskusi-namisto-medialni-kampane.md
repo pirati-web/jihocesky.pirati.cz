@@ -23,4 +23,4 @@ Zájemci o účast v publiku nebo o zařazení své prezentace se již nyní moh
 
 - - -
 
-1. V reakci na vlnu kritiky, včetně té naší, se od způsobu zadání zakázky na PR kampaň začalo distancovat uskupení Pro Jižní Čechy (TOP09, STAN, HOpB), s tím, že 1. náměstek hejtmanky za TOP 09 smlouvu podepsal pouze mimoděk, protože důvěřoval svým koaličním partnerům z ČSSD a Jihočechů 2012. Prozatím ale pouze HOpB vyjádřilo svůj nesouhlas s žalobou na správu NP.
+1. V reakci na vlnu kritiky, včetně té naší, se od způsobu zadání zakázky na PR kampaň začalo distancovat uskupení Pro Jižní Čechy (TOP09, STAN, HOpB), s tím, že 1. náměstek hejtmanky za TOP 09 smlouvu na PR kampaň podepsal pouze mimoděk, protože důvěřoval svým koaličním partnerům z ČSSD a Jihočechů 2012. Prozatím ale pouze HOpB vyjádřilo svůj nesouhlas s žalobou na správu NP.
