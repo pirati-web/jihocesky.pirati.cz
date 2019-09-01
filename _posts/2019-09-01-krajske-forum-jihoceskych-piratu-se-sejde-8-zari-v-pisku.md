@@ -17,14 +17,11 @@ Budeme sdílet i zkušenosti s krajskými expertními týmy a jejich činností 
 
 Budeme se těšit na vaši návštěvu královského města Písku.
 
-
-
-Registrovat se můžete [**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScc3HUZpZtOmdVO4_fzydbD3RkF0yHbfPpuV7h23t-PaPEE_Q/viewform?fbclid=IwAR31wBhaVDNxoR1wgFdTuvwOg62f5KuclK-UVopgUpJNDH37aqH2HVmnRqg).
+Registrovat se můžete [**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScc3HUZpZtOmdVO4_fzydbD3RkF0yHbfPpuV7h23t-PaPEE_Q/viewform?fbclid=IwAR31wBhaVDNxoR1wgFdTuvwOg62f5KuclK-UVopgUpJNDH37aqH2HVmnRqg).
 
 Akce na [**FACEBOOKU**](https://www.facebook.com/events/912877739046097/).
 
-
-
 ![Hotel OTava Arena se nachází u sportovišť ve čtvrti Svatý Václav. (ilustrační foto Otava Arena)](/assets/img/posts/otava-arena.jpg)
 
-Hotel [**Otava Arena**](https://www.otavarena.cz/)
+Hotel [Otava Arena**
+**](https://www.otavarena.cz/)
