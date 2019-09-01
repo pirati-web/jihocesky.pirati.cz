@@ -9,7 +9,7 @@ image: /assets/img/posts/pisek-kamenny-most.jpg
 description: Krajské fórum Pirátů v Písku
 tags: 'Piráti, Písek, krajské, fórum, '
 ---
-První poprázdninové setkání jihočeských Pirátů z celého kraje se uskuteční v Písku. V hotelu Otava Arena ve čtvrti Svatý Václav vypukne program v 11 hodin a je naplánován do 17 hodiny. Zveme tímto všechny jihočeské Piráty a příznivce na projednání důležitých věcí ve fungování místních sdružení a celého krajského sdružení, včetně Pirátského centra Čepice. 
+První poprázdninové setkání jihočeských Pirátů z celého kraje se uskuteční á. září v Písku. V hotelu Otava Arena ve čtvrti Svatý Václav vypukne program v 11 hodin a je naplánován do 17 hodiny. Zveme tímto všechny jihočeské Piráty a příznivce na projednání důležitých věcí ve fungování místních sdružení a celého krajského sdružení, včetně Pirátského centra Čepice. 
 
 V úvodu se tradičně budou moci představit zájemci o členství v České pirátské straně, případně příznivci, kteří by rádi Pirátům jakkoliv pomáhali nebo se stali již dobrovolníky. Předseda jihočeských Pirátů a poslanec Lukáš Kolářík se bude ohlížet za uplynulým obdobím a shrne aktuální situaci v krajském sdružení. Na fóru se budou moci představit také kandidáti do Předsednictva krajského fóra, které bude jihočeská členská základna nově volit. Představen bude také mediální plán a změny v mediálním odboru kraje. Velký časový prostor budeme věnovat dění v našem regionu nejen v kontextu příprav na krajské volby 2020. Pozornost bude věnována také senátním volbám 2020.
 
