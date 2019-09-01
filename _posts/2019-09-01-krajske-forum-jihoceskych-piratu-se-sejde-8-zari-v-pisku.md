@@ -23,5 +23,4 @@ Akce na [**FACEBOOKU**](https://www.facebook.com/events/912877739046097/).
 
 ![Hotel OTava Arena se nachází u sportovišť ve čtvrti Svatý Václav. (ilustrační foto Otava Arena)](/assets/img/posts/otava-arena.jpg)
 
-Hotel [Otava Arena**
-**](https://www.otavarena.cz/)
+Hotel [Otava Arena](https://www.otavarena.cz/)
