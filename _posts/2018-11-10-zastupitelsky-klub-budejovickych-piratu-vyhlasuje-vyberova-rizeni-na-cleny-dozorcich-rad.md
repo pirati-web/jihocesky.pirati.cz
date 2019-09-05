@@ -7,7 +7,7 @@ title: >-
   dozorčích rad
 date: '2018-11-10 02:41pm'
 author: Lukáš Mareš
-image: /assets/img/posts/new-kandidat.jpg
+image: posts/new-kandidat.jpg
 description: 'dozorčí, správní, rada, Piráti, České, Budějovice'
 tags: 'dozorčí, správní, rada, Piráti, České, Budějovice'
 ---

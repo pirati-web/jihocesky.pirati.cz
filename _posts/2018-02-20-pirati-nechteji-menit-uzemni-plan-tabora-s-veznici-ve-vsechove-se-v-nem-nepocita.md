@@ -7,7 +7,7 @@ title: >-
   nepočítá
 date: '2018-02-20 08:30pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/ne_veznice.jpg
+image: posts/ne_veznice.jpg
 description: 'Piráti, Tábor, Všechov, věznice'
 tags: 'Piráti, Tábor, Všechov, věznice, stanovisko'
 ---

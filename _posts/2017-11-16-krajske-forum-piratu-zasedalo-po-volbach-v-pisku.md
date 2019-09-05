@@ -4,7 +4,7 @@ category: blog
 title: Krajské fórum Pirátů zasedalo po volbách v Písku
 date: 2017-11-16T08:56:01.949Z
 author: Zbyněk Konvička
-image: /assets/img/posts/23698686_1687109997977331_20640637_o.jpg
+image: posts/23698686_1687109997977331_20640637_o.jpg
 description: krajské fórum
 tags: Jihoceskykraj
 ---
@@ -22,7 +22,7 @@ pirátské centrum, v Písku pak poslaneckou kancelář pro lídra a poslance
 Lukáš Koláříka. Na Strakonicku se 18. listopadu plánuje největší charitativní
 akce roku, jejíž výtěžek bude směřovat do dětského domova ve Volyni. 
 
-![null](/assets/img/posts/23633501_1687109981310666_1844650266_o.jpg)
+![null](posts/23633501_1687109981310666_1844650266_o.jpg)
 
 V Táboře se připravuje výběrové řízení pro
 nového dopravce MHD za miliardu korun. Piráti to pozorně sledují.

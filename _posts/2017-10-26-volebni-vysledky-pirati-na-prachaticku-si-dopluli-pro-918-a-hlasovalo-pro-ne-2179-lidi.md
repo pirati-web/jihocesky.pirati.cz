@@ -6,7 +6,7 @@ title: >-
   ně 2179 lidí
 date: 2017-10-26T14:26:27.760Z
 author: 'Zbyněk Konvička, Jana Rohová'
-image: /assets/img/posts/Prachaticko graf.JPG
+image: posts/Prachaticko graf.JPG
 description: výsledky voleb
 tags: Prachatice
 ---
@@ -42,7 +42,7 @@ Barbora Staňková z Prachatic, lze je považovat za úspěšné.
 **Obce
 s nejlepším výsledkem nad 12 %:**
 
-![null](/assets/img/posts/prachaticko tabulka.JPG)
+![null](posts/prachaticko tabulka.JPG)
 
 Podrobné
 výsledky na stránkách [volby.cz](https://www.volby.cz)

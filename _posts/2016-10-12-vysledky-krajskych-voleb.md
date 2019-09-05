@@ -4,7 +4,7 @@ category: blog
 date: 2016-10-12
 tags: volby
 title: Děkujeme za vaši podporu
-image: /assets/img/people/crew.jpg
+image: people/crew.jpg
 author: Jan Novák
 ---
 

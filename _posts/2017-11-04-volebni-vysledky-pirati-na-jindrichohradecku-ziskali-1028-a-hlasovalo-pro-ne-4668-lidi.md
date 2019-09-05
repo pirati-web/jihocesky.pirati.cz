@@ -6,7 +6,7 @@ title: >-
   ně 4668 lidí
 date: 2017-11-04T18:31:39.040Z
 author: 'Zbyněk Konvička, Jana Rohová'
-image: /assets/img/posts/JH graf.JPG
+image: posts/JH graf.JPG
 description: volby
 tags: Jindřichohradecko
 ---
@@ -41,6 +41,6 @@ sympatizantů apod.
 **Města
 o obce s nejlepším výsledkem nad 12 %:**
 
-![null](/assets/img/posts/JH tabulka.JPG)
+![null](posts/JH tabulka.JPG)
 
 Podrobné výsledky na [volby.cz](https://www.volby.cz)

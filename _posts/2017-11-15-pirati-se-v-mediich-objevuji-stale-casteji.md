@@ -4,7 +4,7 @@ category: blog
 title: Piráti se v médiích objevují stále častěji
 date: 2017-11-15T19:12:33.251Z
 author: Zbyněk Konvička
-image: /assets/img/posts/koliskclanku2.JPG
+image: posts/koliskclanku2.JPG
 description: Piráti v médiích
 tags: clanky
 ---
@@ -21,7 +21,7 @@ médiích. Nejvíce se psalo o tématu obsazení poslaneckých výborů,
 povolebním vyjednávání, o hledání asistentů pro pirátské poslance nebo o
 zvýšeném zájmu o členství v Pirátské straně mezi lidmi.
 
-![null](/assets/img/posts/koliskclanku.JPG)
+![null](posts/koliskclanku.JPG)
 
 V jihočeských médiích se o Pirátech psalo za
 posledních 30 dní 48 krát. Například vyšly články s pirátským lídrem a poslancem

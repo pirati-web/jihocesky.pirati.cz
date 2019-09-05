@@ -6,7 +6,7 @@ title: >-
   4011 lidí
 date: 2017-10-25T10:01:09.309Z
 author: 'Zbyněk Konvička, Jana Rohová'
-image: /assets/img/posts/výsledky Písecko.JPG
+image: posts/výsledky Písecko.JPG
 description: výsledky voleb
 tags: Pisek
 ---
@@ -41,7 +41,7 @@ rozdávání Pirátských listů, bannery na domech sympatizantů apod.
 **Města
 o obce s nejlepším výsledkem nad 12 %:**
 
-![null](/assets/img/posts/výsledky pisek 2.JPG)
+![null](posts/výsledky pisek 2.JPG)
 
 Podrobné výsledky na stránkách [volby.cz](https://volby.cz)
 

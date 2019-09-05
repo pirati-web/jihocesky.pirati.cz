@@ -4,7 +4,7 @@ category: blog
 title: 'Oldřich Máca: Daně jsou zbytečně složité a zaslouží si zjednodušení'
 date: 2017-10-12T08:54:58.790Z
 author: Zbyněk Konvička
-image: /assets/img/posts/olda na web.jpg
+image: posts/olda na web.jpg
 description: Oldřich Máca o daních a zemědělství
 tags: lide
 ---

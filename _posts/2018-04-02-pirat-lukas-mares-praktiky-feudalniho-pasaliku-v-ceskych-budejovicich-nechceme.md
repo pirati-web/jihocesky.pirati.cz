@@ -7,7 +7,7 @@ title: >-
   nechceme
 date: '2018-04-02 09:25pm'
 author: Piráti Budějovicko
-image: /assets/img/posts/teplarna-cb.jpg
+image: posts/teplarna-cb.jpg
 description: 'Piráti, České, Budějovice, Teplárna, Jaroslav, Mach, Lukáš, Mareš'
 tags: 'Piráti, České, Budějovice, Teplárna, Jaroslav, Mach, Lukáš, Mareš'
 ---

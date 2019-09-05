@@ -5,7 +5,7 @@ published: true
 title: 'Piráti k Šumavě: Jsme pro věcnou diskusi namísto mediální kampaně'
 date: '2019-08-19 06:46am'
 author: Piráti Jihočeský kraj
-image: /assets/img/posts/sumava-maly.jpg
+image: posts/sumava-maly.jpg
 description: 'Piráti k Šumavě: Jsme pro věcnou diskusi namísto mediální kampaně'
 tags: 'Šumava, PR, Kampaň, diskuze, Piráti, Jihočeský, kraj'
 ---

@@ -5,7 +5,7 @@ published: true
 title: 'V Táboře jsou Piráti v koalici, mají 1. místostarostu a 1 radního'
 date: '2018-11-02 08:10pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/klecanda.jpg
+image: posts/klecanda.jpg
 description: 'Václav, Klecanda, Piráti, Rada, město, Tábor'
 tags: 'Václav, Klecanda, Piráti, Rada, město, Tábor'
 ---

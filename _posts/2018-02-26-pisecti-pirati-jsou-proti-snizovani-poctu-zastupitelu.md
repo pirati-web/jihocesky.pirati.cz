@@ -5,7 +5,7 @@ published: true
 title: Písečtí Piráti jsou proti snižování počtu zastupitelů
 date: '2018-02-26 11:56pm'
 author: Piráti Písecko
-image: /assets/img/posts/chmee-2-wikimedia-pisecka-radnice.jpg
+image: posts/chmee-2-wikimedia-pisecka-radnice.jpg
 description: 'Písek, Piráti, radnice, zastupitelstvo'
 tags: 'Písek, Piráti, radnice, zastupitelstvo'
 ---

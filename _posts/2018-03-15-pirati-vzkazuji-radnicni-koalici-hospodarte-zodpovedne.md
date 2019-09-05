@@ -5,7 +5,7 @@ published: true
 title: 'Piráti vzkazují radniční koalici v Písku: Hospodařte zodpovědně'
 date: '2018-03-15 10:52am'
 author: Zbyněk Konvička
-image: /assets/img/posts/prazdna-truhla.jpg
+image: posts/prazdna-truhla.jpg
 description: 'Piráti, Písek, rozpočet '
 tags: 'Piráti, Písek, rozpočet '
 ---

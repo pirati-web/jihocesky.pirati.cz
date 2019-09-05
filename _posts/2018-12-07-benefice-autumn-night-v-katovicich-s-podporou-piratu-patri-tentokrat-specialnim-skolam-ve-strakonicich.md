@@ -7,7 +7,7 @@ title: >-
   speciálním školám ve Strakonicích 
 date: '2018-12-07 10:36pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/autumn-jpg-1.jpg
+image: posts/autumn-jpg-1.jpg
 description: 'Katovice, Piráti, speciální, školy, benefice, koncert, Strakonice'
 tags: 'Katovice, Piráti, speciální, školy, benefice, koncert, Strakonice'
 ---
@@ -29,6 +29,6 @@ Během večera vystoupí tyto kapely:
 
 Výtěžek 5. ročníku ve výši 41 753 korun směřoval do Dětského domova ve Volyni.
 
-![ ](/assets/img/posts/autumn-2.png)
+![ ](posts/autumn-2.png)
 
-![null](/assets/img/posts/autumn-night-plakat.jpg)
+![null](posts/autumn-night-plakat.jpg)

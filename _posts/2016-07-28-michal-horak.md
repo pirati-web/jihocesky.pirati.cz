@@ -4,7 +4,7 @@ category: blog
 date: 2016-07-28
 tags: volby
 title: Lákat voliče nereálnými sliby se může škaredě vymstít
-image: /assets/img/posts/pokus.jpg
+image: posts/pokus.jpg
 author: Věra Marušiaková
 ---
 

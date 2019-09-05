@@ -7,7 +7,7 @@ title: >-
   důvěru a svobodu učit se přirozeně 
 date: '2018-03-25 10:07pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/zdenka-stankova.jpg
+image: posts/zdenka-stankova.jpg
 description: 'Piráti, Zdeňka, Staňková, svoboda, učení, Pirátské, centrum, Čepice'
 tags: 'Piráti, Zdeňka, Staňková, svoboda, učení, Pirátské, centrum, Čepice'
 ---

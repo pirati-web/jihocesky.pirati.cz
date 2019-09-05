@@ -7,7 +7,7 @@ title: >-
   pirátských zastupitelů.
 date: '2018-10-07 07:38pm'
 author: Lukáš Kolářík
-image: /assets/img/posts/43271726_10156669649997114_3717160230363070464_n.png
+image: posts/43271726_10156669649997114_3717160230363070464_n.png
 description: komunální volby Piráti úspěch jižní čechy
 tags: komunální volby Piráti úspěch
 ---

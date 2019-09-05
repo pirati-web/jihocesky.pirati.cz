@@ -4,7 +4,7 @@ category: blog
 title: 'JUDr. Miloš Tuháček: Piráti vědí, jakými prostředky dosáhnout transparentnosti'
 date: 2017-10-10T17:30:39.934Z
 author: Zbyněk Konvička
-image: /assets/img/posts/tuhacek.jpg
+image: posts/tuhacek.jpg
 description: Rozhovor s právníkem Milošem Tuháčkem o tom, proč podporuje Piráty v parlamentních volbách
 tags: lide
 ---

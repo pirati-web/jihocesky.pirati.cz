@@ -4,7 +4,7 @@ category: blog
 title: 'Zbyněk Konvička: Pirátské myšlenky jsou svěží a nadčasové'
 date: 2017-08-29T21:11:44.734Z
 author: Jana Rohová
-image: /assets/img/posts/zbynek k rozhovoru.jpg
+image: posts/zbynek k rozhovoru.jpg
 description: 'Rozhovor se Zbyňkem Konvičkou, pětkou Jihočeské kandidátky do PS'
 tags: lide
 ---

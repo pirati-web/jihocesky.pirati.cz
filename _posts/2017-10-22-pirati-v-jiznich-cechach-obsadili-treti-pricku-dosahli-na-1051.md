@@ -4,7 +4,7 @@ category: blog
 title: 'Piráti v jižních Čechách obsadili třetí příčku, dosáhli na 10,51 %'
 date: 2017-10-22T20:34:08.871Z
 author: 'Zbyněk Konvička, Josef Soumar'
-image: /assets/img/posts/FB uvodnifotka.jpg
+image: posts/FB uvodnifotka.jpg
 description: výsledky voleb
 tags: Lukas Kolarik
 ---

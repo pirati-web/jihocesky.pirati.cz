@@ -5,7 +5,7 @@ published: true
 title: 'Pirát Lukáš Mareš: Novou halu? Ano, ale ne teď'
 date: '2018-03-30 08:19pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/cbu_sports_hall_01.jpg
+image: posts/cbu_sports_hall_01.jpg
 description: 'sportovní, hala, Piráti, České, Budějovice'
 tags: 'sportovní, hala, Piráti, České, Budějovice'
 ---

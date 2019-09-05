@@ -5,7 +5,7 @@ published: true
 title: 'Zapojte se do aktivit mediálního odboru jihočeských Pirátů '
 date: '2018-03-14 01:05pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/pl-ilustration.jpg
+image: posts/pl-ilustration.jpg
 description: 'Piráti, média, mediální, odbor'
 tags: 'Piráti, média, mediální, odbor'
 ---

@@ -5,7 +5,7 @@ published: true
 title: Krajské fórum jihočeských Pirátů proběhne 25. listopadu ve Strakonicích
 date: '2018-11-10 02:27pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/lovecka-basta.jpg
+image: posts/lovecka-basta.jpg
 description: 'krajské, fórum, Piráti, Jihočeský, kraj, Strakonice'
 tags: 'krajské, fórum, Piráti, Jihočeský, kraj, Strakonice'
 ---
@@ -25,4 +25,4 @@ Program není konečný a je v něm prostor nejen na diskuzi, ale i na další t
 
 [**LOVECKÁ BAŠTA**](http://www.loveckabasta.com/index.html)
 
-![](/assets/img/posts/kf-strakonice.jpg)
+![](posts/kf-strakonice.jpg)

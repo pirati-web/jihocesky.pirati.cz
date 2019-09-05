@@ -5,7 +5,7 @@ published: true
 title: Písničkář Dan Vertígo zahrál v Pirátském centru ČePiCe
 date: '2018-08-19 10:53pm'
 author: 'Zuzana Kudláčková, Zbyněk Konvička'
-image: /assets/img/posts/dan-vertigo.jpg
+image: posts/dan-vertigo.jpg
 description: 'Vertígo, Čepice, Piráti, centrum, Mareš, Kolářík, Ferjenčík'
 tags: 'Vertígo, Čepice, Piráti, centrum, Mareš, Kolářík, Ferjenčík'
 ---

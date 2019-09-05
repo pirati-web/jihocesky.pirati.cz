@@ -5,7 +5,7 @@ published: true
 title: Démophobia zahraje v ČePiCi - Pirátském centru v Českých Budějovicích
 date: '2018-02-21 09:30pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/dema.jpg
+image: posts/dema.jpg
 description: 'Piráti, ČePiCe, koncert, Démophobia'
 tags: 'Piráti, ČePiCe, koncert, Démophobia'
 ---

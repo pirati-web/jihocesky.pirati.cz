@@ -5,7 +5,7 @@ published: true
 title: Spoléhat se jen na slušnost nestačí. To je jasné poučení prezidentské volby.
 date: '2018-01-30 01:18pm'
 author: Ivo Vlasatý
-image: /assets/img/posts/ivo-vlasaty.jpg
+image: posts/ivo-vlasaty.jpg
 description: 'Ivo Vlasatý, Piráti, prezidentské volby'
 tags: 'Ivo Vlasatý, Piráti, prezidentské volby'
 ---

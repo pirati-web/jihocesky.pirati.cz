@@ -5,7 +5,7 @@ published: true
 title: Pohlídejte Eurovolby za Piráty a ještě si přivydělejte
 date: '2019-03-30 08:08pm'
 author: Piráti Jihočeský kraj
-image: /assets/img/posts/ovk.jpg
+image: posts/ovk.jpg
 description: 'Eurovolby, Piráti, ovk'
 tags: 'Eurovolby, Piráti, ovk'
 ---

@@ -4,7 +4,7 @@ category: blog
 date: 2017-02-23
 tags: akce
 title: Předseda Pirátů Ivan Bartoš besedoval o autorských právech a ochraně osobních dat. Přišel i strakonický starosta.
-image: /assets/img/posts/bartos_v_cajovne_strakonice.jpg
+image: posts/bartos_v_cajovne_strakonice.jpg
 author: Jana Rohová
 ---
 
@@ -14,7 +14,7 @@ Ve čtvrtek 23. února zavítal na besedu do Strakonic Ivan Bartoš, předseda P
 
 V další části besedy se Ivan Bartoš věnoval tématu bezpečnosti a ochrany osobních dat na internetu. Poukázal na potřebu lepšího povědomí každého z nás o bezpečném chování se na online prostoru. Hovořil se také na téma kultura a o myšlence „smart cities“ (chytrá města).
 
-![Starosta města Strakonice Břetislav Hrdlička společně s bývalou místostarostkou Písku Evou Veselou se zúčastnili besedy s Ivanem Bartošem](/assets/img/posts/starosta_strakonice.jpg)
+![Starosta města Strakonice Břetislav Hrdlička společně s bývalou místostarostkou Písku Evou Veselou se zúčastnili besedy s Ivanem Bartošem](posts/starosta_strakonice.jpg)
 
 „Beseda se mi velmi líbila, dozvěděla jsem se spoustu nových informací. Nejvíce mne zaujalo, jak je nakládáno s mými daty, o čemž jsem do této chvíle neměla moc tušení. Byla bych velmi ráda, kdyby se podobné akce v našem městě opakovaly,“ řekla Eliška Dušková, jedna z účastnic besedy.
 

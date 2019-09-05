@@ -4,7 +4,7 @@ category: blog
 title: 'Lukáš Kolářík: Bez pomoci dobrovolníků by Piráti nebyli před branami sněmovny'
 date: 2017-10-17T19:34:43.692Z
 author: Zbyněk Konvička
-image: /assets/img/posts/luky web.jpg
+image: posts/luky web.jpg
 description: Lukáš Kolářík o dobrovolnících
 tags: lide kampan
 ---
@@ -39,7 +39,7 @@ záležitost pouze na internetu. Jsou to takoví klávesnicoví hrdinové, na ul
 vám to do očí nikdo neřekne. Já jsem s průběhem kampaně spokojený, probíhá
 převážně v pozitivním duchu a věřím, že to naši voliči ocení.
 
-![null](/assets/img/posts/pisek 6.jpg)
+![null](posts/pisek 6.jpg)
 
 **Hlavně
 na sociálních sítích, ale i v televizních debatách se objevovaly čím dál
@@ -66,7 +66,7 @@ se mně osobně líbí. Když někdo dokáže účelově měnit informace v čl
 jak se mu to hodí o Pirátech, přestal jsem si dělat iluze, že se to neděje ani
 v případě ostatních politických stran nebo přímo politiků.
 
-![null](/assets/img/posts/20413936_10203621448373258_8599705583243867368_o.jpg)
+![null](posts/20413936_10203621448373258_8599705583243867368_o.jpg)
 
 **Jak
 vzpomínáš na kontaktní kampaň a putování s Pirátským autobusem po jižních
@@ -83,7 +83,7 @@ autobusu liší město od města. Ani ne tak v počtu různých povolení, těc
 bylo třeba všude hodně, ale v přístupu těch úředníků. Někteří ochotně
 s vyřízením pomohli, jinde dělali takříkajíc ofuky.
 
-![null](/assets/img/posts/21767092_10207619875694694_70739448_o.jpg)
+![null](posts/21767092_10207619875694694_70739448_o.jpg)
 
 **Jak
 podle tebe Jihočeši vnímají teď před volbami Pirátskou stranu? Mají o ní větší
@@ -102,7 +102,7 @@ vidět, více než v předchozích letech. Naše kampaň stojí na dobrovolníc
 kteří nám pomáhají. Za to bych jim chtěl moc poděkovat. Bez nich bychom tam,
 kde jsme dnes, tedy před branami poslanecké sněmovny, nebyli.
 
-![null](/assets/img/posts/20428023_1580407791980886_1923211720_n.jpg)
+![null](posts/20428023_1580407791980886_1923211720_n.jpg)
 
 **Máme
 několik posledních dní před volbami. Co bys vzkázal zatím nerozhodnutým

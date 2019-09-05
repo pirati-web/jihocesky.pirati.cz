@@ -5,7 +5,7 @@ published: true
 title: Odhalujeme temné Budějovice - realitní baron
 date: '2018-06-14 01:25pm'
 author: Ondřej Sekora
-image: /assets/img/posts/lukas-pirat.jpg
+image: posts/lukas-pirat.jpg
 description: 'Budějovice, Piráti'
 tags: 'Budějovice, Piráti'
 ---

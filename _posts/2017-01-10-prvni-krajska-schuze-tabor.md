@@ -4,7 +4,7 @@ category: blog
 date: 2017-01-10
 tags: akce
 title: Volební rok 2017 zahájili jihočeští Piráti v Táboře
-image: /assets/img/posts/taborschuze.jpg
+image: posts/taborschuze.jpg
 author: Jana Rohová, Zbyněk Konvička
 ---
 

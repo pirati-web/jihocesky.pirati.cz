@@ -4,7 +4,7 @@ category: blog
 title: Piráti podpořili prachatický spolek na akci Zastavme chátrání Kralovy vily
 date: 2017-10-04T16:07:22.899Z
 author: Zbyněk Konvička
-image: /assets/img/posts/vila mala.jpg
+image: posts/vila mala.jpg
 description: Zastavme chátrání Kralovy vily
 tags: 'lidé, Barbora Staňková'
 ---
@@ -26,7 +26,7 @@ formu spolupráce či navázání dialogu a zároveň odmítá jakoukoli péči 
 říká k setkání Barbora Staňková, předsedkyně Spolku Živá vila a zároveň
 kandidátka Pirátské strany do sněmovních voleb.
 
-![Bára Staňková je kandidátkou za pirátskou stranu do sněmovny](/assets/img/posts/vila2 mala.jpg)
+![Bára Staňková je kandidátkou za pirátskou stranu do sněmovny](posts/vila2 mala.jpg)
 
 Kralova vila byla v září 2016 prohlášena
 kulturní nemovitou památkou, vedení města ale jako vlastník objektu proti
@@ -50,7 +50,7 @@ druhou a v důsledku toho špatné vztahy mezi různými věkovými kategoriemi.
 bychom se například Dne architektury účastnili ve spolupráci se seniory, to nám
 bohužel nebylo nabídnuto,“ dodává Barbora Staňková.
 
-![kapela Houpací koně se vzdala honoráře a podpořila dobrou myšlenku](/assets/img/posts/houpací koně malý.jpg)
+![kapela Houpací koně se vzdala honoráře a podpořila dobrou myšlenku](posts/houpací koně malý.jpg)
 
 „Vila byla seniory zpřístupněna od 10 do 13 hodin, bohužel se nekonaly komentované
 prohlídky. Místo toho návštěvník dostal do ruky „informace“ o objektu, na

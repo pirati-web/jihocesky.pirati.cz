@@ -4,7 +4,7 @@ category: blog
 title: PŘEDNÁŠKA | Dolní Břežany – proměna obce v pulzující sídlo
 date: 2017-12-08T17:10:50.097Z
 author: Zbyněk Konvička
-image: /assets/img/posts/25035237_10211179287338206_1549525726_o.jpg
+image: posts/25035237_10211179287338206_1549525726_o.jpg
 description: města
 tags: Pisecko
 ---

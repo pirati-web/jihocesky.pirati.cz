@@ -7,7 +7,7 @@ title: >-
   České Budějovice 
 date: '2018-03-24 09:42pm'
 author: 'Zbyněk Konvička, Kateřina Hůlková'
-image: /assets/img/posts/1024px-praha_valdstejnsky_palac_-_panoramio_2.jpg
+image: posts/1024px-praha_valdstejnsky_palac_-_panoramio_2.jpg
 description: 'Senát, Piráti, České, Budějovice, volby'
 tags: 'Senát, Piráti, České, Budějovice, volby'
 ---
@@ -19,6 +19,6 @@ Podmínky pro kandidaturu jsou následující:
 * Souhlasí s programem Pirátské strany a demokratickým minimem.
 * Nominovat ho může skupina členů, fórum místního sdružení nebo krajské předsednictvo. Krajské předsednictvo může stanovit, že v primárních volbách (či jejich části) mohou hlasovat i registrovaní příznivci a s jakou vahou. Takové hlasování pak musí proběhnout osobně (na zasedání) s pomocí hlasovacích lístků.
 
-Doba pro navrhování na nominaci je do 12. dubna 2018 včetně. Následovat bude dvoudenní doba na rozmyšlenou a poté hlasování. Hlasování bude dvoukolové, každé kolo potrvá 48 hodin. V prvním se bude hlasovat o přípustnosti kandidátů, ve druhém kole zvítězí kandidát s nejvyšším počtem hlasů.
+Doba pro navrhování na nominaci je do 12. dubna 2018 včetně. Následovat bude dvoudenní doba na rozmyšlenou a poté hlasování. Hlasování bude dvoukolové, každé kolo potrvá 48 hodin. V prvním se bude hlasovat o přípustnosti kandidátů, ve druhém kole zvítězí kandidát s nejvyšším počtem hlasů.
 
 [**Pirátské fórum - primární volby do Senátu ČR.**](https://forum.pirati.cz/viewtopic.php?f=408&t=40328)

@@ -1,9 +1,33 @@
 ---
 layout: default
-rbar: people, video
+rbar:
+   - video
+   - calendar
+   - fb
+youtube:
+  id: 4tyiBvadxPc
+  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
+  title: "Video"
+  button:
+    url: "https://www.youtube.com/channel/UCya0OFabCRA92GAEqo6hgpw/videos"
+    title: "Další videa na našem YouTube kanálu"
 ---
 
-{% include title_hero.html %}
+<!--Municipal elections results on the main page disabling. Request from Zuzka Klusová.
+
+<div class="row">
+  <div class="columns">
+    <div class="msk-hero">
+      <div class="msk-hero__content">
+        <h1 class="t-h1-super">Komunální volby 2018</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include election-crossroad.html places=site.data.volby %}
+
+-->
 
 <div class="row">
   <div class="medium-12 large-8 columns">
@@ -12,18 +36,18 @@ rbar: people, video
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-        {% for article in site.posts limit: 4 %}
-          {% include shared/article-list/title_article.html param='article' %}
+        {% for article in site.posts limit: 6 %}
+          {% include articles/horizontal-article.html article=article %}
         {% endfor %}
-        <div class="c-BlogPosting-excerpt-nextBox">
-          <a href="{{'/blog/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+        <div class="c-article-listing__nextbox">
+          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
         </div>
       </div>
     </section>
   </div>
   {% if page.rbar %}
   <div class="medium-12 large-4 columns">
-    {% include rbar.html param='rbar' %}
+    {% include right-bar/rbar.html param='rbar' %}
   </div>
   {% endif %}
 </div>

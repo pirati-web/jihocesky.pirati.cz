@@ -6,7 +6,7 @@ title: >-
   lidí
 date: 2017-11-30T21:46:38.649Z
 author: Zbyněk Konvička
-image: /assets/img/posts/Tábor graf.JPG
+image: posts/Tábor graf.JPG
 description: výsledky voleb
 tags: Tabor
 ---
@@ -39,7 +39,7 @@ rozloženy, ač hlavní sílu měla, jak bylo řečeno táborská aglomerace, kd
 volilo téměř 3 tisíce voličů, což je skoro polovina všech, co hlasovali pro
 Piráty, další menší sídla se rozhodně nenechali zahanbit.
 
-![null](/assets/img/posts/Tábor tabulka.JPG)
+![null](posts/Tábor tabulka.JPG)
 
 Podrobné výsledky na [volby.cz](https://www.volby.cz)
 

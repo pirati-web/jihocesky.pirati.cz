@@ -5,7 +5,7 @@ published: true
 title: Jihočeští Piráti a příznivci na krajském fóru v Jindřichově Hradci
 date: '2018-03-21 06:00pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/jh-1.jpg
+image: posts/jh-1.jpg
 description: 'Piráti, krajské, fórum, Jihočeský, kraj'
 tags: 'Piráti, krajské, fórum, Jihočeský, kraj'
 ---
@@ -13,7 +13,7 @@ V sídlištní restauraci Jiskra v Jindřichově Hradci se 17. března setkali j
 
 Po představení nováčků prezentovaly jednotlivá místní sdružení a města své přípravy na komunální volby, které se uskuteční letos v říjnu. Ve Vimperku plánují samostatnou kandidátku nezávislých s podporou Pirátů, která by byla složená ze zástupců různých spolků. V Českých Budějovicích budou Piráti spolupracovat s dalšími regionálními subjekty. Samostatně se Piráti rozhodli kandidovat v Písku, Táboře, Soběslavi a Týnu nad Vltavou. Strakonice se rozhodnou ve chvíli, kdy bude jasné, zda budou schopny naplnit kandidátku. Ve Vodňanech vzniká nezávislá kandidátka s podporou Pirátů. V Jindřichově Hradci uvažují otevřít kandidátku i spolkům apod. Ve hře je i Třeboň.
 
-![null](/assets/img/posts/jh-2.jpg)
+![null](posts/jh-2.jpg)
 
 Na programu bylo také představení horizontální a vertikální spolupráce místních sdružení navzájem a s krajem. V každém místním sdružení by mělo být několik odborných týmů, které by se věnovaly určité oblasti (např. transparence, sport, kultura, doprava, životní prostředí…). Odborné skupiny by měly přesah na celý kraj a mohly být užitečné i při krajských volbách. 
 

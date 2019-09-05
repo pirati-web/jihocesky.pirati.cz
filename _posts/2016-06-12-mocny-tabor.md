@@ -4,7 +4,7 @@ category: blog
 date: 2016-06-12
 tags: kultura
 title: Mocný Tábor
-image: /assets/img/posts/mighty.jpg
+image: posts/mighty.jpg
 author: Martin Mareda
 ---
 

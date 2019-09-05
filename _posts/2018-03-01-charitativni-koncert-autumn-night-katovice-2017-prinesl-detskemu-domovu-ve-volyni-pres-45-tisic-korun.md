@@ -7,7 +7,7 @@ title: >-
   Volyni přes 45 tisíc korun
 date: '2018-03-01 10:30pm'
 author: Jana Rohová
-image: /assets/img/posts/3.jpg
+image: posts/3.jpg
 description: 'Strakonicko, Piráti, Lukáš Kolářík'
 tags: 'lide, Strakonicko, Piráti, Lukáš Kolářík'
 ---

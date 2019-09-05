@@ -7,7 +7,7 @@ title: >-
   kultury
 date: '2018-02-13 10:59pm'
 author: 'Jan Novák, Zbyněk Konvička'
-image: /assets/img/posts/800px-tyn_nad_vltavou.jpg
+image: posts/800px-tyn_nad_vltavou.jpg
 description: 'Piráti, Týn, kultura, granty, neziskovky, Pirátská strana'
 tags: 'Piráti, Týn, kultura, granty, neziskovky, Pirátská strana'
 ---

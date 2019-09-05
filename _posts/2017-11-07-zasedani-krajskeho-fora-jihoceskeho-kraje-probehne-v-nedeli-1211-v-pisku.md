@@ -4,7 +4,7 @@ category: blog
 title: Zasedání krajského fóra Jihočeského kraje proběhne v neděli 12.11. v Písku
 date: 2017-11-07T17:33:38.417Z
 author: Jana Rohová
-image: /assets/img/posts/krajska schuze.jpg
+image: posts/krajska schuze.jpg
 description: zasedání krajského fóra
 tags: zasedani
 ---

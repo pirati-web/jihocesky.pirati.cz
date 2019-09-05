@@ -4,7 +4,7 @@ category: blog
 date: 2016-07-20
 tags: volby
 title: Jsou Piráti pro Jihočeský kraj tou správnou volbou?
-image: /assets/img/people/crew.jpg
+image: people/crew.jpg
 author: Lukáš Kolařík
 ---
 

@@ -4,7 +4,7 @@ category: blog
 date: 2016-06-02
 tags: prostředí
 title: Dokud tu nejsou bagry a pily, má smysl se o tom bavit
-image: http://viasatexplore.cz/upload/programs/galleries/gallery_2476/big/793fa0785ee240833c1bcbd85ccebe13.jpg
+image: posts/dokud-tu-nejsou-bagry.jpg
 author: Romana Klimešová
 ---
 

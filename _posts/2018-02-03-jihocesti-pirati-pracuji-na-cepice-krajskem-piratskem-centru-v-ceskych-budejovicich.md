@@ -7,7 +7,7 @@ title: >-
   Budějovicích
 date: '2018-02-03 08:37am'
 author: Zbyněk Konvička
-image: /assets/img/posts/cepice1.jpg
+image: posts/cepice1.jpg
 description: 'Piráti, Jihočeský, kraj, Pirátské, centrum, ČePICE '
 tags: 'Piráti, Jihočeský, kraj, Pirátské, centrum, ČePICE '
 ---
@@ -19,8 +19,8 @@ Jako nejvhodnější objekt byl vybrán historický dům v Hradební ulici čp. 
 
 Pokud máte vlastní nápady či návrhy na program ČePiCe či vlastního zapojení se do aktivit Pirátského centra, dejte nám o nich určitě vědět;), na [**FACEBOOKU**](https://www.facebook.com/pirati.jck/) Piráti Jihočeský kraj.
 
-![Vizualizace ČePICE](/assets/img/posts/cepice3.jpg)
+![Vizualizace ČePICE](posts/cepice3.jpg)
 
-![Vizualizace ČePICE](/assets/img/posts/cepice4.jpg)
+![Vizualizace ČePICE](posts/cepice4.jpg)
 
-![Vizualizace ČePICE](/assets/img/posts/cepice2.jpg)
+![Vizualizace ČePICE](posts/cepice2.jpg)

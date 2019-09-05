@@ -5,7 +5,7 @@ published: true
 title: Přímý přenos z jednání zastupitelstva si lidé v Táboře oblíbili
 date: '2019-05-08 11:20am'
 author: Václav Klecanda
-image: /assets/img/posts/zastupitelstvo.jpg
+image: posts/zastupitelstvo.jpg
 description: >-
   V Táboře se jednání zastupitelstva města přenáší na živě internet již řadu
   měsíců a za tu dobu si přenosy občané oblíbíli. Oblíbenost stoupá a lidé tak

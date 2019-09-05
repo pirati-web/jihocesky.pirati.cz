@@ -4,7 +4,7 @@ category: CLANKY
 title: O konopí besedoval s odborníky i jihočeský lídr Pirátů
 date: 2017-05-08T00:00:00.000Z
 author: Jana Rohová
-image: /assets/img/posts/rok_konopi_debata.jpg
+image: posts/rok_konopi_debata.jpg
 description: >-
   Ve strakonické čajovně Na Půdě promítal dokument Rok konopí, na který navázala
   inspirativní debata. Jan Hrnčíř, autor námětu, scénáře a producent dokumentu,
@@ -42,7 +42,7 @@ tabák, omezení po užití stejně jako alkohol“,
 shrnul předseda jihočeských Pirátů postoj Pirátské strany k legalizaci a regulaci konopí,
 přičemž se zmínil i o benefitech, které by legalizace konopí přinesla.
 
-![diskutéři](/assets/img/posts/konopi_debata.jpg)
+![diskutéři](posts/konopi_debata.jpg)
 
 Mezi ně patří snazší dostupnost pro nemocné a umírající, kterým konopí může pomoci zlepšit zdravotní stav,
 prodlouží jim život nebo jim minimálně pomůže důstojně odejít, zlikvidování černého trhu s nekvalitním,

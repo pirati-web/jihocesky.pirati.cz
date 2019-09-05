@@ -4,7 +4,7 @@ category: blog
 title: 'Jana Rohová: O předvolební kampani Pirátské strany'
 date: 2017-10-13T09:21:42.596Z
 author: Zbyněk Konvička
-image: /assets/img/posts/ja na web 2.jpg
+image: posts/ja na web 2.jpg
 description: 'Jana Rohová, dobrovolnická kampaň'
 tags: 'lide, akce'
 ---
@@ -44,9 +44,9 @@ Nesmím zapomenout ani na spoustu ochotných řidičů, kteří dopravují mater
 z bodu A do bodu B podle aktuálních požadavků, odpovídače na sociálních
 sítích, kteří uvádějí na pravou míru náš program…a tak bych mohla pokračovat.
 
-![null](/assets/img/posts/Máj cb.jpg)
+![null](posts/Máj cb.jpg)
 
-![null](/assets/img/posts/P_20170827_143407.jpg)
+![null](posts/P_20170827_143407.jpg)
 
 **Jsi
 u Pirátů již od roku 2013. V čem je tato poslední kampaň jiná, je
@@ -84,9 +84,9 @@ Při naší kampani nepůsobíme na chuťové buňky voličů
 ani jim nenabízíme laciná hesla. Myslím, že kampaň děláme tak, aby si ji
 všichni užili, byla příjemná a měla nějakou přidanou hodnotu.
 
-![null](/assets/img/posts/21055173_10155602735962114_3713276285299071529_o.jpg)
+![null](posts/21055173_10155602735962114_3713276285299071529_o.jpg)
 
-![null](/assets/img/posts/IMG_20170415_155717.jpg)
+![null](posts/IMG_20170415_155717.jpg)
 
 **Jak
 hodnotíš cesty s pirátským autobusem po jihočeských městech? Která všechna
@@ -107,9 +107,9 @@ doptávali na náš program, ujasňovali si některá stanoviska, nosili nám j�
 kávu a při nepřízni počasí dokonce deštníky. Za to bych jim všem ráda
 poděkovala.
 
-![null](/assets/img/posts/IMG_20170917_160317.jpg)
+![null](posts/IMG_20170917_160317.jpg)
 
-![null](/assets/img/posts/DSC_1598.jpg)
+![null](posts/DSC_1598.jpg)
 
 **Jaký
 je tvůj odhad volebního výsledku Pirátů, celkového a na Jihu Čech?**

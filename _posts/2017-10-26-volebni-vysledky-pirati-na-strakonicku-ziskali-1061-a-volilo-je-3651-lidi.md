@@ -4,7 +4,7 @@ category: blog
 title: 'Volební výsledky – Piráti na Strakonicku získali 10,61% a volilo je 3651 lidí'
 date: 2017-10-26T07:24:00.460Z
 author: 'Zbyněk Konvička, Jana Rohová'
-image: /assets/img/posts/graf Strakonice.JPG
+image: posts/graf Strakonice.JPG
 description: výsledky voleb
 tags: Strakonice
 ---
@@ -43,7 +43,7 @@ okresní město Strakonice.
 **Obce
 s nejlepším výsledkem nad 12 %:**
 
-![null](/assets/img/posts/výsledky Strakonicko.JPG)
+![null](posts/výsledky Strakonicko.JPG)
 
 Podrobné výsledky na stránkách [volby.cz](https://volby.cz)
 

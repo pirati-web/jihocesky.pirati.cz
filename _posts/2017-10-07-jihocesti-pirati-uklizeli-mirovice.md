@@ -4,7 +4,7 @@ category: blog
 title: Jihočeští Piráti uklízeli Mirovice
 date: 2017-10-07T16:57:51.342Z
 author: Jana Rohová
-image: /assets/img/posts/1.jpg
+image: posts/1.jpg
 description: Úklid v Mirovicích
 tags: lide uklid
 ---

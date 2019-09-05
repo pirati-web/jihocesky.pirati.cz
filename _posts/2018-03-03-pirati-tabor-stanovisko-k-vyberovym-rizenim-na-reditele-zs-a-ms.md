@@ -5,7 +5,7 @@ published: true
 title: 'Piráti Tábor: Stanovisko k výběrovým řízením na ředitele ZŠ a MŠ'
 date: '2018-03-03 08:04pm'
 author: Martin Mareda
-image: /assets/img/posts/pirati-tabor-zarovky.jpg
+image: posts/pirati-tabor-zarovky.jpg
 description: 'Piráti, Tábor, školství, výběrové řízení'
 tags: 'Piráti, Tábor, školství, výběrové řízení'
 ---

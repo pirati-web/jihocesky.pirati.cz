@@ -6,7 +6,7 @@ title: >-
   Českých Budějovic?
 date: 2017-11-19T17:33:25.506Z
 author: Zbyněk Konvička
-image: /assets/img/posts/bus v cb.jpg
+image: posts/bus v cb.jpg
 description: doprava v Českých Budějovicích
 tags: doprava
 ---

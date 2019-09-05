@@ -5,7 +5,7 @@ published: true
 title: 'Piráti varují: Referendum v Písku do 2 měsíců – dobrý pomocník, nebo zlý pán?'
 date: '2018-08-15 11:05am'
 author: Josef Soumar
-image: /assets/img/posts/2-josef-soumar.jpg
+image: posts/2-josef-soumar.jpg
 description: 'Piráti, Soumar, referendum, Písek'
 tags: 'Piráti, Soumar, referendum, Písek'
 ---

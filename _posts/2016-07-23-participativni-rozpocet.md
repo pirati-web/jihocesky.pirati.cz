@@ -4,7 +4,7 @@ category: blog
 date: 2016-07-23
 tags: [rozpočet, participace]
 title: Participativní rozpočet napomáhá efektivnímu rozdělování financí
-image: /assets/img/posts/partroz.jpg
+image: posts/partroz.jpg
 author: Lukáš Kolářík
 ---
 

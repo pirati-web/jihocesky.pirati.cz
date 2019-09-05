@@ -5,7 +5,7 @@ published: true
 title: 'EUROVOLBY: Potkejme se na pirátských akcích v jihočeských městech '
 date: '2019-04-27 08:56pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/evropa-potrebuje-piraty.jpg
+image: posts/evropa-potrebuje-piraty.jpg
 description: 'Piráti, Eurovolby, Jana, Koláříková, Ivan, Bartoš'
 tags: 'Piráti, Eurovolby, Jana, Koláříková, Ivan, Bartoš'
 ---

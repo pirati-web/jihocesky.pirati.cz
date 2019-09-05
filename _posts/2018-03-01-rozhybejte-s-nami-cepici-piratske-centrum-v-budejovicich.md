@@ -5,7 +5,7 @@ published: true
 title: 'Rozhýbejte s námi ČePiCi, pirátské centrum v Budějovicích'
 date: '2018-03-01 04:19pm'
 author: 'Zbyněk Konvička, Kateřina Hůlková'
-image: /assets/img/posts/cepice4.jpg
+image: posts/cepice4.jpg
 description: 'Čepice, Piráti, centrum, coworking, '
 tags: 'Čepice, Piráti, centrum, coworking, '
 ---

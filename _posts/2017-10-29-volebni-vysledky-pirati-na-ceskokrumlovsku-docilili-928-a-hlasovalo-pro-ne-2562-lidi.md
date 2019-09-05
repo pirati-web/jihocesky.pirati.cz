@@ -6,7 +6,7 @@ title: >-
   ně 2562 lidí
 date: 2017-10-29T14:43:35.749Z
 author: 'Zbyněk Konvička, Jana Rohová'
-image: /assets/img/posts/krumlov graf.JPG
+image: posts/krumlov graf.JPG
 description: volební výsledky
 tags: Český Krumlov
 ---
@@ -41,7 +41,7 @@ než sousední Prachaticko.
 **Obce
 s nejlepším výsledkem nad 12 %:**
 
-![null](/assets/img/posts/krumlov tabulka.JPG)
+![null](posts/krumlov tabulka.JPG)
 
 Podrobné výsledky na [volby.cz](https://www.volby.cz)
 

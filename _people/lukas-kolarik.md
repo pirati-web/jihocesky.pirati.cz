@@ -1,9 +1,26 @@
 ---
-name:        Lukáš Kolářík
-layout:      page
-order:       2
-img:         lukas-kolarik.JPG
-description: živnostník, správa sítě, servis IT
+uid: lukas.kolarik
+name:    Lukáš Kolářík
+titles:
+  before: 
+  after:
+category:
+- psp
+- pks
+- pms
+- zastupitele
+img: people/lukas-kolarik.jpg
+description: poslanec PČR, předseda krajského předsednictva, předseda MS Strakonicko
+mail:
+- lukas.kolarik@pirati.cz
+#mob: +420
+profiles:
+  github:
+  facebook:				
+  twitter:
+  linkedin:
+ordpms: 1
+ordpks: 1 
 ---
 
 **Lukáš Kolářík** (* 5. března 1984, Strakonice) podporuje Piráty od jejich vzniku a od roku 2013 je jejich aktivním členem. Pochází z jihočeského městečka Katovice, kde pobýval většinu svého života a nyní žije, z pracovních důvodů, v Písku.

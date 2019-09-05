@@ -4,7 +4,7 @@ category: blog
 title: Zapoj se a podpoř nás!
 date: 2017-09-11T17:32:46.154Z
 author: Jana Rohová
-image: /assets/img/posts/fb post fin1.jpg
+image: posts/fb post fin1.jpg
 description: fundraising pro Piráty Jihočeského kraje
 tags: finance
 ---

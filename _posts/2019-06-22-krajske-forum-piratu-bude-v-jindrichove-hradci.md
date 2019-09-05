@@ -5,7 +5,7 @@ published: true
 title: Krajské fórum Pirátů bude v Jindřichově Hradci
 date: '2019-06-22 06:47am'
 author: Zbyněk Konvička
-image: /assets/img/posts/kf-jindrichuv-hradec-30.6.2019-maly.jpg
+image: posts/kf-jindrichuv-hradec-30.6.2019-maly.jpg
 description: 'Jihočeští Piráti se setkají na krajském fóru v Jindřichově Hradci. '
 tags: 'krajské, fórum, Piráti, Jindřichův Hradec'
 ---

@@ -4,7 +4,7 @@ category: blog
 title: 'Pirátský lídr Lukáš Kolářík říká: Je důležité zprůhlednit toky veřejných peněz'
 date: 2017-10-02T18:26:54.945Z
 author: Zbyněk Konvička
-image: /assets/img/posts/Lukáš Kolářík.jpg
+image: posts/Lukáš Kolářík.jpg
 description: 'Lukáš Kolářík, tok veřejných peněz'
 tags: lide
 ---

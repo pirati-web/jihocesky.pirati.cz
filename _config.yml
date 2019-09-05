@@ -1,44 +1,180 @@
+# Welcome to Jekyll!
+#
 
 # Site settings
-title: Piráti Jihočeský kraj
+title: Pirátská strana | JIHOČESKÝ KRAJ
 email: lukas.kolarik@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-    Piráti Jihočeský kraj
-baseurl: "" # "/jihocesky.pirati.cz" # the subpath of your site, e.g. /blog  http://stackoverflow.com/questions/16316311/github-pages-and-relative-paths/19173888#19173888
+  Web krajského sdružení České pirátské strany v Jihočeském kraji.
+keywords: piráti, česká pirátská strana, svoboda, demokracie, jihočeský kraj, české budějovice, JČK
 url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
-keywords: piráti
 
-githublink: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
 
+
+administrator:
+  email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
+
+emptyArray: []
+
+organization:
+  name: Pirátská strana | JIHOČESKÝ KRAJ
+  shortName: Piráti JČK
+  contactUid: lukas.kolarik
+  email: lukas.kolarik@pirati.cz
+  phone: +420 727 853 151
+  address: |
+    Jihočeské pirátské centrum
+
+  residenceImg:
+  mapLink: https://goo.gl/maps/dakQGzwQKng8ER9o7
+  redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+contactSummaryItems:
+ - type: organizationEmail
+ - type: organizationPhone
+ - type: organizationRedmineLink
+ - type: organizationDataBox
+ - type: organizationTransparentAccount
+ - type: piratiRootWebsite
+   includeMoreLink: true
+ - type: custom
+   iconClass: fa fa-facebook
+   label: Facebook
+   body: <a href="https://www.facebook.com/pirati.jck/">@pirati.jck/</a>
+ #- type: custom
+   #iconClass: fa fa-twitter
+   #label: Twitter
+   #body: <a href="https://twitter.com/PiratiMSK">@PiratiMSK</a>
+
+video:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+#  title: Krajský kalendář
+#  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+#  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
+
+#calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  #title: Krajský kalendář
+  #id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
+
+facebook:
+  loadSDK: true
+  #vyplntě adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: "https://www.facebook.com/pirati.jck/"
+  appId: 1526197851008996
+
+#twitter:
+#  loadSDK: true
+#  profile: PiratiMSK
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
+  branch: master
+
+
+###################technické
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
+markdown: kramdown
+theme: jekyll-theme-pirati
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
-
-#collections:
-#  people:
-#    output: true
-#    permalink: /lide/:path/
-
-paginate_path: "/blog/:num/"
-paginate: 5
-articlepath: blog
+paginate_path: "/aktuality/:num/"
+paginate: 11
 
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - bower.json
-  - gulpfile.js
-  - node_modules
-  - bower_components
   - vendor
 
-# Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-cdn: true
+permalink: /aktuality/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /volby/:path/
+  teams:
+    output: true
+    permalink: /pripoj-se/:title/
+  candidatelists:
+    output: false
 
-ytuname: piratijih@gmail.com
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar: foto 
+          #- foto
+          #- personContact
+          #- people
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar: "volby"
+      #- garant
+      #   - program
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
+
+fb: https://www.facebook.com/pirati.jck
+tw: PiratiMSK
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - assets/img/posts
+    - _sass

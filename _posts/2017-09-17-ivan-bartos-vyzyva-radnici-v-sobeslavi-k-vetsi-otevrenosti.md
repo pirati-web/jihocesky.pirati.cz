@@ -4,7 +4,7 @@ category: blog
 title: Ivan Bartoš vyzývá radnici v Soběslavi k větší otevřenosti
 date: 2017-09-17T19:08:47.656Z
 author: Věra Marušiaková
-image: /assets/img/posts/sobeslav 15.jpg
+image: posts/sobeslav 15.jpg
 description: 'Boj za petiční právo, Pirátský bus v Soběslavi'
 tags: lide
 ---

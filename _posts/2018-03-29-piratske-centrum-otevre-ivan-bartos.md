@@ -5,7 +5,7 @@ published: true
 title: Pirátské centrum otevře Ivan Bartoš
 date: '2018-03-29 12:00am'
 author: 'Kateřina Hůlková, Zbyněk Konvička'
-image: /assets/img/posts/cepice-jpg-web.jpg
+image: posts/cepice-jpg-web.jpg
 description: 'Piráti, Pirátské, centrum Čepice, Ivan Bartoš, Lukáš Kolářík, Lukáš Mareš'
 tags: 'Piráti, Pirátské, centrum Čepice, Ivan Bartoš, Lukáš Kolářík, Lukáš Mareš'
 ---
@@ -15,7 +15,7 @@ Nejen členové, ale také příznivci strany budou mít příležitost se běhe
 
 S pirátskou vlajkou na žerdi v Hradební si vítr pohrává už několik týdnů, kdy tu přípravy koordinuje budějovický Pirát Lukáš Mareš. „Pirátské centrum nám usnadní vzájemnou interakci a koordinaci, pomůže nám při plnění pirátských úkolů a při vymýšlení a uskutečňování pirátských myšlenek. Chceme vytvořit otevřené, demokratické, transparentní a inspirativní prostředí, ve kterém se budou lidé cítit bezpečně a chtě-nechtě se k nám budou rádi vracet,“ říká Lukáš Mareš.
 
-![ČePiCe - v novém kabátě](/assets/img/posts/cepice-nova-fasada.jpg)
+![ČePiCe - v novém kabátě](posts/cepice-nova-fasada.jpg)
 
 Cílem je vytvoření místa, které bude sloužit nejen potřebám a propagaci Pirátské strany, ale rovněž jako komunitní prostor pro veřejnost. Část bude otevřená všem kreativním li-dem a organizacím, kteří chtějí společně sdílet zajímavé informace, rozmanité oblasti po-znání či různé formy umění. V centru je možné pořádat besedy, přednášky, workshopy, menší komorní akce, koncerty, výstavy nebo setkání organizací – například neziskovek či firem. A celou řadu dalších formátů, které nepotřebují velké prostory, ale naopak jim sluší ty komornější.
 

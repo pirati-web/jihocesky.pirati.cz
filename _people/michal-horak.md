@@ -1,9 +1,25 @@
 ---
-name:        Michal Horák
-layout:      page
-order:       1
-img:         michal-horak.jpg
-description: Spravce databáze, trenér házené
+uid: michal.horak
+name: Michal Horák
+titles:
+  before: Ing.
+  after:
+category:
+- pks
+- pms
+- zastupitele
+img: people/michal-horak.jpg
+description: člen krajského předsednictva, předseda MS Písecko, spravce databáze, trenér házené
+mail:
+- michal.horak@pirati.cz
+#mob: +420
+profiles:
+  github:
+  facebook:				
+  twitter:
+  linkedin:
+ordpms: 2
+ordpks: 2  
 ---
 
 **Michal Horák** narozen 11.6.1965 v Písku.

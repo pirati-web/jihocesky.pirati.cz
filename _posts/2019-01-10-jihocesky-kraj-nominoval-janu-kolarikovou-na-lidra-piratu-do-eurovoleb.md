@@ -5,7 +5,7 @@ published: true
 title: Jihočeský kraj nominoval Janu Koláříkovou na lídra Pirátů do Eurovoleb
 date: '2019-01-10 10:18pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/jana-2.jpg
+image: posts/jana-2.jpg
 description: 'Jana, Koláříková, Piráti, Jihočeský, Kraj, Eurovolby, Evropský, parlament'
 tags: 'Jana, Koláříková, Piráti, Jihočeský, Kraj, Eurovolby, Evropský, parlament'
 ---

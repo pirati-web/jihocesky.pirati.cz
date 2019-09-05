@@ -5,7 +5,7 @@ published: true
 title: 'V Táboře se diskutuje „značka“ města, polemizuje se o husitství'
 date: '2019-03-18 08:13am'
 author: Zbyněk Konvička
-image: /assets/img/posts/800px-tabor_radnice.jpg
+image: posts/800px-tabor_radnice.jpg
 description: 'Tábor, Piráti, husité, cestovní ruch'
 tags: 'Tábor, Piráti, husité, cestovní ruch'
 ---

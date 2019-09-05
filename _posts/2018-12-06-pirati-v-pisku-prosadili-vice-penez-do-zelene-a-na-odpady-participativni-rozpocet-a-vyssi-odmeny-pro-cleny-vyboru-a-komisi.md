@@ -7,7 +7,7 @@ title: >-
   rozpočet a vyšší odměny pro členy výborů a komisí
 date: '2018-12-06 11:07pm'
 author: Zbyněk Konvička
-image: /assets/img/posts/pisek_kostel_narozeni_panny_marie.jpg
+image: posts/pisek_kostel_narozeni_panny_marie.jpg
 description: 'Piráti, Písek, participativní, rozpočet, zeleň, odpady, komise, výbory, město'
 tags: 'Piráti, Písek, participativní, rozpočet, zeleň, odpady, komise, výbory, město'
 ---
