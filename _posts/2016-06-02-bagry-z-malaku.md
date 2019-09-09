@@ -8,7 +8,6 @@ image: posts/dokud-tu-nejsou-bagry.jpg
 author: Romana Klimešová
 ---
 
-
 Malák. Park, zázemí pro děti, místo na koupání, občerstvení, hřiště, místo setkávání se, zkrátka skvělé místo pro volný čas.
 Stromy, ptáci, voda, klid a pohoda.
 Břehy Malše, které se čas od času rozlijí. Ne nijak často, ne nijak dramaticky.
