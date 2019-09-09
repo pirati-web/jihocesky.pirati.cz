@@ -5,6 +5,7 @@ published: true
 title: Krajské fórum jihočeských Pirátů se sejde 8. září v Písku
 date: '2019-09-01 07:59pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/pisek-kamenny-most.jpg
 description: Krajské fórum Pirátů v Písku
 tags: 'Piráti, Písek, krajské, fórum, '

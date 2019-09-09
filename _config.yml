@@ -1,5 +1,9 @@
 # Welcome to Jekyll!
 #
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 title: Pirátská strana | JIHOČESKÝ KRAJ
@@ -9,12 +13,79 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: piráti, česká pirátská strana, svoboda, demokracie, jihočeský kraj, české budějovice, JČK
 url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 
-
-
 administrator:
   email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
 
 emptyArray: []
+
+theme: jekyll-theme-pirati
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-environment-variables
+
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+pagination:
+  per_page: 2
+  limit: false
+
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - deploy_rsa_sandbox.enc
+  - deploy_rsa_sandbox.pub
+  - navod.md
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+permalink: /tiskove-zpravy/:title/
+collections:
+  people:
+    output: true
+    root: /clenove/
+    permalink: /clenove/:path/
+
+  program:
+    output: true
+    permalink: /komunalni-volby-2018/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
+      keywords: členové, příznivci, lidé
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar:
+        - garant
+        - program
+      keywords: program, volby, 2018, komunální volby
 
 organization:
   name: Pirátská strana | JIHOČESKÝ KRAJ
@@ -24,12 +95,14 @@ organization:
   phone: +420 727 853 151
   address: |
     Jihočeské pirátské centrum
+    Na Moráni 3
+    120 00 Praha 2
 
-  residenceImg:
-  mapLink: https://goo.gl/maps/dakQGzwQKng8ER9o7
+  mapLink: https://goo.gl/maps/AwzVF2nHw3cNnR4L6
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 110111
 
 contactSummaryItems:
  - type: organizationEmail
@@ -43,36 +116,18 @@ contactSummaryItems:
    iconClass: fa fa-facebook
    label: Facebook
    body: <a href="https://www.facebook.com/pirati.jck/">@pirati.jck/</a>
- #- type: custom
-   #iconClass: fa fa-twitter
-   #label: Twitter
-   #body: <a href="https://twitter.com/PiratiMSK">@PiratiMSK</a>
 
-video:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-#  title: Krajský kalendář
-#  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-#  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
-
-#calendar:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-  #title: Krajský kalendář
-  #id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
+calendar:
+  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
+  title: Nadcházející události
+  #id: 0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
 
 facebook:
   loadSDK: true
   #vyplntě adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: "https://www.facebook.com/pirati.jck/"
   appId: 1526197851008996
-
-#twitter:
-#  loadSDK: true
-#  profile: PiratiMSK
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -88,72 +143,16 @@ github:
   branch: master
 
 
-###################technické
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/jihocesky.pirati.cz/
+  branch: master
 
 github_username:  pirati-web
 
-sass:
-  style: compressed
-  sass_dir: _sass
-
-theme: jekyll-theme-pirati
-
-markdown: kramdown
-theme: jekyll-theme-pirati
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-paginate_path: "/aktuality/:num/"
-paginate: 11
-
-exclude:
-  - readme.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-permalink: /aktuality/:title.html
-collections:
-  people:
-    output: true
-    permalink: /lide/:path/
-  program:
-    output: true
-    permalink: /volby/:path/
-  teams:
-    output: true
-    permalink: /pripoj-se/:title/
-  candidatelists:
-    output: false
-
-defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "person"
-      rbar: foto 
-          #- foto
-          #- personContact
-          #- people
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar: "volby"
-      #- garant
-      #   - program
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
-
-fb: https://www.facebook.com/pirati.jck
-tw: PiratiMSK
+emptyArray: []
 
 assets:
   source_maps: true
@@ -177,4 +176,5 @@ assets:
     - assets/video
     - assets/img
     - assets/img/posts
+    - assets/snippet
     - _sass

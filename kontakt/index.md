@@ -9,11 +9,12 @@ residences:
      ČEPICE - Českobudějovické Pirátské centrum
      Hradební 13
      370 01 České Budějovice
+     mobil: +420 727 853 151
      
      <strong>Kancelář je pro Vás otevřena:</strong>
      Každé pondělí 9:00 - 17:00 po telefonické domluvě s asistentkou.
    spravce: zuzana.kudlackova
-   #mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
+   mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
 
 contactPersons:
  - id: jana.curdova
