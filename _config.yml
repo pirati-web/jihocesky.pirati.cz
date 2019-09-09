@@ -176,5 +176,4 @@ assets:
     - assets/video
     - assets/img
     - assets/img/posts
-    - assets/snippet
     - _sass
