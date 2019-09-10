@@ -18,7 +18,7 @@ administrator:
 
 emptyArray: []
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-pirati
 
 sass:
   style: compressed
