@@ -1,37 +1,41 @@
 ---
 layout: default
 rbar:
-  - calendar
-  - fb
-  - infobox  
-description: >
-  Piráti od roku 2018 zakotvili i v Praze 11. Prosazujeme transparentní
-  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 11,
-  které jsou moderní, přátelské a především ochotné naslouchat svým občanům.
-  Sledujte co je nového a buďte u toho.
+   - video
+   - calendar
+   - fb
+youtube:
+  id: 4tyiBvadxPc
+  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
+  title: "Video"
+  button:
+    url: "https://www.youtube.com/channel/UCya0OFabCRA92GAEqo6hgpw/videos"
+    title: "Další videa na našem YouTube kanálu"
 ---
 
-{% include homepage/banner.html
-   link='/radnice/'
-   title='Radnice'
-   default='header/komunal-banner-large.png'
-   mobile='header/komunal-banner-small.png'
-   breakpoint=640
-%}
+<!--Municipal elections results on the main page disabling. Request from Zuzka Klusová.
+
+<div class="row">
+  <div class="columns">
+    <div class="msk-hero">
+      <div class="msk-hero__content">
+        <h1 class="t-h1-super">Komunální volby 2018</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include election-crossroad.html places=site.data.volby %}
+
+-->
 
 <div class="row">
   <div class="medium-12 large-8 columns">
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
         <header class="o-section-header">
-          <h1 class="o-section__heading t-h1-super">Piráti Praha 11</h1>
+          <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-          <p>
-Piráti jsou na Jižním Městě doma od roku 2018. Chceme vyčistit radnici od klientelismu a pochybných zakázek. Chceme Prahu 11, která bude moderní, přátelská, a především ochotná naslouchat svým občanům. Sledujte, co se u nás <a href="{{'/aktuality/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">aktuálně</a> děje anebo nás <a href="{{'/podporte-nas/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">pojďte podpořit</a>.</p><p>
-S <a href="{{'/clenove/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">našimi členy</a> se můžete setkávat na pirátských akcích či na veřejných setkáních. <a href="{{'/kontakt/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">Buďme v kontaktu</a>.          
-          </p>
-
-          <h2>Aktuálně od Pirátů z Prahy 11 - Jižního Města</h2>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
