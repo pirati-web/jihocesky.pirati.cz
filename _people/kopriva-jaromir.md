@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/jaromir-kopriva.jpg
-description: zastupitel a člen Pirátské strany v Jindřichově Hradci
+description: zastupitel v Jindřichově Hradci
 mail:
 - jaromir.kopriva@pirati.cz
 #mob: +420

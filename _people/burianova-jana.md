@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/jana-burianova.jpg
-description: členka MS Pirátské strany a zastupitelka v Jindřichově Hradci
+description: zastupitelka v Jindřichově Hradci
 mail:
 - jana.burianova@pirati.cz
 #mob: +420

@@ -4,7 +4,7 @@ name: Josef Špak
 category:
 - pms
 img: people/josef-spak.jpg
-description: předseda MS Českobudějovicko
+description: předseda MS Pirátské strany a zastupitel v Českých Budějovicích
 mail:
 - josef.spak@pirati.cz
 mob:			  
