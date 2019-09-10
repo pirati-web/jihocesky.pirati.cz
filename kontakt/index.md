@@ -1,41 +1,18 @@
 ---
 layout: contacts
-# contentSize: big
-contentSize: even
-residences:
- - name: Pirátská strana | JIHOČESKÝ KRAJ
-   url:
-   address: |
-     ČEPICE - Českobudějovické Pirátské centrum
-     Hradební 13
-     370 01 České Budějovice
-     mobil: +420 727 853 151
-     
-     <strong>Kancelář je pro Vás otevřena:</strong>
-     Každé pondělí 9:00 - 17:00 po telefonické domluvě s asistentkou.
-   spravce: zuzana.kudlackova
-   mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
-
-contactPersons:
- - id: jana.curdova
-   position: Kontakt pro dorovolníky
- - id: zbynek.konvicka
-   position: Kontakt pro novináře
+description: Piráti Praha 11 je sdružení otevřené činorodým lidem, rádi přivítáme nové příznivce a dobrovolníky, kterým Praha 11 leží na srdci.
+keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha 11, praha
+residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
 ---
 
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
+Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha11@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal) .
 
-Finanční dary můžete posílat na [zde](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu kraji, poraďte se prosím s koordinátorem.
+Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Poslanci</h1>
-</div>
+* <a class="c-emphasized-anchor" href="{{ site.facebook.profilePage }}">Sledujte nás na Facebooku</a>
 
-{% assign person = site.people | where_exp: "item","item.uid contains 'lukas.kolarik'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
 

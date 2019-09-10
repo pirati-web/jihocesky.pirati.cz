@@ -6,17 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pirátská strana | JIHOČESKÝ KRAJ
-email: lukas.kolarik@pirati.cz
-description: > # this means to ignore newlines until "baseurl:"
-  Web krajského sdružení České pirátské strany v Jihočeském kraji.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, jihočeský kraj, české budějovice, JČK
-url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
+title: Piráti Praha 11
+email: praha11@pirati.cz
+description: Stránka místního sdružení Piráti Praha 11 na Jižním Městě (Roztyly, Háje, Chodov, Litochleby, Opatov)
+keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 11, piráti na jižáku, Jižní Město
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha11.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
-
-emptyArray: []
+  email: jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
 
 theme: jekyll-theme-pirati
 
@@ -88,69 +86,56 @@ defaults:   # defaults values for collection scope
       keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Pirátská strana | JIHOČESKÝ KRAJ
-  shortName: Piráti JČK
-  contactUid: lukas.kolarik
-  email: lukas.kolarik@pirati.cz
-  phone: +420 727 853 151
+  name: Místní sdružení Pirátské strany Praha 11
+  shortName: Piráti Praha 11
+  email: praha11@pirati.cz
+  contactUid: jiri.dohnal
+  phone: +420 608 770 778
   address: |
-    Jihočeské pirátské centrum
     Na Moráni 3
     120 00 Praha 2
-
-  mapLink: https://goo.gl/maps/AwzVF2nHw3cNnR4L6
-  redmineLink: https://redmine.pirati.cz/projects
+  #residenceImg: miscellaneous.jpg
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects/praha-11
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   transparentAccountSpecificSymbol: 110111
 
 contactSummaryItems:
- - type: organizationEmail
- - type: organizationPhone
- - type: organizationRedmineLink
- - type: organizationDataBox
- - type: organizationTransparentAccount
- - type: piratiRootWebsite
-   includeMoreLink: true
- - type: custom
-   iconClass: fa fa-facebook
-   label: Facebook
-   body: <a href="https://www.facebook.com/pirati.jck/">@pirati.jck/</a>
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/pirati11.cz/" target="_blank">Piráti Praha 11</a>
 
 calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
   title: Nadcházející události
-  #id: 0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+  id: 0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0lmvrce8ph0t1mqa5uk4v98ui4%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
 
 facebook:
+  profilePage: https://www.facebook.com/pirati11.cz/
   loadSDK: true
-  #vyplntě adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: "https://www.facebook.com/pirati.jck/"
   appId: 1526197851008996
 
+twitter:
+  profile: piratipraha11
+  loadSDK: true
+
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/piratipraha11/
 
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
-
-forum:
-  page: https://forum.pirati.cz/
+#forum:
+#  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
+  url: https://github.com/pirati-web/praha11.pirati.cz/
   branch: master
-
-
-forum:
-  page: https://forum.pirati.cz/
-
-github:
-  url: https://github.com/pirati-web/jihocesky.pirati.cz/
-  branch: master
-
-github_username:  pirati-web
 
 emptyArray: []
 
