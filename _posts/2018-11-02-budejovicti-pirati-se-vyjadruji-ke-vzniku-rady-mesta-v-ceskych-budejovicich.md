@@ -5,6 +5,7 @@ published: true
 title: Budějovičtí Piráti se vyjadřují ke vzniku Rady města v Českých Budějovicích
 date: '2018-11-02 06:56pm'
 author: Lukáš Mareš
+authorId: lukas.mares
 image: posts/lukas-mares.jpg
 description: 'Lukáš Mareš, České Budějovice, Rada města, Piráti'
 tags: 'Lukáš Mareš, České Budějovice, Rada města, Piráti'

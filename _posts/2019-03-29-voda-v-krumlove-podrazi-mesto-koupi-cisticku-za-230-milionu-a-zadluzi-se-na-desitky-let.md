@@ -7,6 +7,7 @@ title: >-
   desítky let
 date: '2019-03-29 08:13am'
 author: Jan Votřel
+authorId: jan.votrel
 image: posts/cisticka.jpg
 description: 'Český, Krumlov, čistička'
 tags: 'Český, Krumlov, čistička'

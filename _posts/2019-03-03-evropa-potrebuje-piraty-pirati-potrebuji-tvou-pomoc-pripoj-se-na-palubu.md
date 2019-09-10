@@ -5,6 +5,7 @@ published: true
 title: Evropa potřebuje Piráty! Piráti potřebují tvou pomoc! Připoj se na palubu!
 date: '2019-03-03 08:37pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/eurovolby-petka-web.jpg
 description: 'Piráti, volby, Evropa, Eurovolby'
 tags: 'Piráti, volby, Evropa, Eurovolby'

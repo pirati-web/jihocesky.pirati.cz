@@ -7,6 +7,7 @@ title: >-
   hala
 date: '2019-01-31 02:12pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/sportovka2.jpg
 description: 'České, Budějovice, sportovní, hala, Piráti, petice, referendum'
 tags: 'České, Budějovice, sportovní, hala, Piráti, petice, referendum'

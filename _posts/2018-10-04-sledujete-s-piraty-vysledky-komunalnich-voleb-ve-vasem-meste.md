@@ -5,6 +5,7 @@ published: true
 title: Sledujte s Piráty výsledky komunálních voleb ve vašem městě
 date: '2018-10-04 08:19am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/pirati.jpg
 description: 'Piráti, volby, '
 tags: 'Piráti, volby,'

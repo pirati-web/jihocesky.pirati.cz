@@ -5,6 +5,7 @@ published: true
 title: Pirátské listy k Eurovolbám v ulicích vašich měst a obcí
 date: '2019-04-26 09:02pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/pl-eu-vyrez.jpg
 description: 'Pirátské, Listy, Eurovolby, Piráti'
 tags: 'Pirátské, Listy, Eurovolby, Piráti'

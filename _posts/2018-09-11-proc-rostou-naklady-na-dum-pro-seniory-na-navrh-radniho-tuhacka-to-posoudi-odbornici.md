@@ -7,6 +7,7 @@ title: >-
   odborníci.
 date: '2018-09-11 11:30am'
 author: 'Piráti Tábor, Zbyněk Konvička'
+authorId: zbynek.konvicka
 image: posts/tuhacek.jpg
 description: 'Piráti, Tábor, senioři, Tuháček'
 tags: 'Piráti, Tábor, senioři, Tuháček'

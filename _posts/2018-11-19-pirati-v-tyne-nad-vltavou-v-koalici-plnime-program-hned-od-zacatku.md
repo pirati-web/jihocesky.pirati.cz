@@ -5,6 +5,7 @@ published: true
 title: 'Piráti v Týně nad Vltavou: V koalici plníme program hned od začátku'
 date: '2018-11-19 08:22pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/800px-tyn_nad_vltavou.jpg
 description: 'Týn nad Vltavou, Piráti, koalice, program'
 tags: 'Týn nad Vltavou, Piráti, koalice, program'

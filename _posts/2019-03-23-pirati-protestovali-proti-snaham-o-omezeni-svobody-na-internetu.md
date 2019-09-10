@@ -5,6 +5,7 @@ published: true
 title: Piráti protestovali proti snahám o omezení svobody na internetu
 date: '2019-03-23 08:58pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/d11.jpg
 description: >-
   demonstrace, Piráti, České, Budějovice, Evropská, unie, copyright, směrnice,

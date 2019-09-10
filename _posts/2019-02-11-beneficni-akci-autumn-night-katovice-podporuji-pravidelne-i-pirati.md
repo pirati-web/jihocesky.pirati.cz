@@ -5,6 +5,7 @@ published: true
 title: Benefiční akci Autumn Night Katovice podporují pravidelně i Piráti
 date: '2019-02-11 07:29am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/1_rightnow_reditelka.jpg
 description: 'Piráti, Katovice, benefice, koncert'
 tags: 'Piráti, Katovice, benefice, koncert'

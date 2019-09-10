@@ -5,6 +5,7 @@ published: true
 title: Piknik s poslancem Lukášem Koláříkem na Podskalí ve Strakonicích
 date: '2019-07-16 08:59am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/1-kolis-strakonice.jpg
 description: Piknik s poslancem Lukášem Koláříkem ve Strakonicích.
 tags: 'Piráti, Kolářík, Strakonice'

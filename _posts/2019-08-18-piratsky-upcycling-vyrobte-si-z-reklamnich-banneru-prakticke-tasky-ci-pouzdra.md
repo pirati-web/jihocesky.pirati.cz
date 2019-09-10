@@ -7,6 +7,7 @@ title: >-
   pouzdra
 date: '2019-08-18 12:55pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/piratsky-upcykling.jpg
 description: Pirátský upcycling v Čepici v Českých Budějovicích
 tags: 'Piráti, upcycling, Čepice, České, Budějovice'

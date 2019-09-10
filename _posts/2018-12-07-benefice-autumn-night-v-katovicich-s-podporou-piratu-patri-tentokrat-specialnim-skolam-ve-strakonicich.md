@@ -7,6 +7,7 @@ title: >-
   speciálním školám ve Strakonicích 
 date: '2018-12-07 10:36pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/autumn-jpg-1.jpg
 description: 'Katovice, Piráti, speciální, školy, benefice, koncert, Strakonice'
 tags: 'Katovice, Piráti, speciální, školy, benefice, koncert, Strakonice'

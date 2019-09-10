@@ -5,6 +5,7 @@ published: true
 title: Ivan Bartoš přijede podpořit Piráty do šesti jihočeských měst
 date: '2018-09-11 03:50pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/ivan-bartos.jpg
 description: >-
   Piráti, Tábor, České Budějovice, Hluboká nad Vltavou, Třeboň, Týn nad Vltavou,

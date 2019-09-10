@@ -5,6 +5,7 @@ published: true
 title: Zveme vás na Pirátskou grilovačku v Čepici
 date: '2019-08-30 01:16pm'
 author: 'Zbyněk Konvička '
+authorId: zbynek.konvicka
 image: posts/grilovacka-v-cepici.jpg
 description: 'Piráti, Čepice, Grilovačka, '
 tags: 'Piráti, Čepice, Grilovačka, '

@@ -5,6 +5,7 @@ published: true
 title: Ivan Bartoš podpořil na jihu pirátskou kampaň k Eurovolbám
 date: '2019-05-12 11:31am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/sobeslav-hlavni.jpg
 description: V sobotu 11. května zavítal do třech jihočeských měst – Tábora, Soběslavi a Českých Budějovic i pirátský volební autobus, na jehož palubě byli nejen kandidáti do Evropského parlamentu, ale svou účastí je podporoval i předseda Pirátů Ivan Bartoš. Za Jihočeský kraj se prezentovali kandidáti Janu Koláříková a Dan Leština.
 tags: 'Piráti, Eurovolby, Ivan, Bartoš, Jana, Koláříková, Dan, Leština'

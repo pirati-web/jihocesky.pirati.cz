@@ -5,6 +5,7 @@ published: true
 title: Jihočeští Piráti se sešli v Českém Krumlově
 date: '2019-03-16 12:48pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/ck-1.jpg
 description: 'fórum,kraj, Piráti, Český, Krumlov, '
 tags: 'fórum,kraj, Piráti, Český, Krumlov, '

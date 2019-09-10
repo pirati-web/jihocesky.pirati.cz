@@ -7,6 +7,7 @@ title: >-
   podporu!
 date: '2019-06-13 11:40am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/cf-celo.jpg
 description: Piráti zvítězili v Eurovolbách na jihu Čech v 67 obcích.
 tags: 'Eurovolby, Piráti, '

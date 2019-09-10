@@ -5,6 +5,7 @@ published: true
 title: Celostátní fórum Pirátů v Táboře cílilo na Eurovolby
 date: '2019-01-27 10:52am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/cf-celo.jpg
 description: 'Piráti, Tábor, fórum, Eurovolby'
 tags: 'Piráti, Tábor, fórum, Eurovolby'

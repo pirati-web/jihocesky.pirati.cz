@@ -5,6 +5,7 @@ published: true
 title: Jihočeští Piráti jednali ve Strakonicích
 date: '2018-12-01 09:45pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/strakonice-forum-3a.jpg
 description: 'Strakonice, Piráti, forum, kraj'
 tags: 'Strakonice, Piráti, forum, kraj'
