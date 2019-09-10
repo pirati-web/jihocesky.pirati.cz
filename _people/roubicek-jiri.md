@@ -7,7 +7,7 @@ titles:
 category:
 - pms
 img: people/jiri-roubicek.jpg
-description: předseda MS Táborsko a zastupitel v Táboře
+description: předseda MS Pirátské strany v Táboře
 mail:
 - jiri.roubicek@pirati.cz
 #mob: +420

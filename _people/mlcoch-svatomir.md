@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/svatomir-mlcoch.jpg
-description: člen MS Pirátské strany a zastupitel v Českých Budějovicích
+description: zastupitel v Českých Budějovicích
 mail:
 - svatomir.mlcoch@pirati.cz
 #mob: +420

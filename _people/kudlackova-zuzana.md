@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/zuzana-kudlackova.jpg
-description: koordinátorka Jihočeská Pirátská strana
+description: asistentka poslance Lukáše Kolaříka, členka MS Pirátské strany a zastupitelka v Českých Budějovicích
 mail:
 - zuzana.kudlackova@pirati.cz
 mob: +420 727 853 151

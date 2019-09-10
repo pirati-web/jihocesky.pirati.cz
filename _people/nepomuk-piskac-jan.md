@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/jan-piskac.jpg
-description: člen MS Pirátské strany a zastupitel v Českých Budějovicích
+description: zastupitel v Českých Budějovicích
 mail:
 - jan.nepomuk.piskac@pirati.cz
 #mob: +420

@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/milos-tuhacek.jpg
-description: člen MS Pirátské strany a zastupitel v Táboře
+description: zastupitel v Táboře
 mail:
 - milos.tuhacek@pirati.cz
 #mob: +420
