@@ -5,6 +5,7 @@ published: true
 title: Tábor by se měl opírat o jasné koncepce rozvoje města
 date: '2018-04-27 08:21pm'
 author: 'Zbyněk Konvička, Kateřina Hůlková'
+authorId: zbynek.konvicka
 image: posts/vasek-klecanda-web.jpg
 description: 'Václav, Klecanda, Piráti, Tábor, smart, city'
 tags: 'Václav, Klecanda, Piráti, Tábor, smart, city'

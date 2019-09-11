@@ -5,6 +5,7 @@ published: true
 title: 'Písečtí Piráti odstartovali kampaň na Hradišti '
 date: '2018-06-04 09:15pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/zbrane.jpg
 description: 'Piráti, Písek, Brož, Kolářík'
 tags: 'Piráti, Písek, Brož, Kolářík'

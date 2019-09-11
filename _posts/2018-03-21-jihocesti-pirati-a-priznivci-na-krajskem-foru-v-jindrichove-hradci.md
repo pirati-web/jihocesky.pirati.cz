@@ -5,6 +5,7 @@ published: true
 title: Jihočeští Piráti a příznivci na krajském fóru v Jindřichově Hradci
 date: '2018-03-21 06:00pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/jh-1.jpg
 description: 'Piráti, krajské, fórum, Jihočeský, kraj'
 tags: 'Piráti, krajské, fórum, Jihočeský, kraj'

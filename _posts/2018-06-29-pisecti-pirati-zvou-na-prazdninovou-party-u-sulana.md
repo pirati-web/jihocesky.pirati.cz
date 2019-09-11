@@ -5,6 +5,7 @@ published: true
 title: 'Písečtí Piráti zvou na prázdninovou párty U Sulana '
 date: '2018-06-29 02:26pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/maly-sulan.jpg
 description: 'Piráti, Písek,'
 tags: 'Piráti, Písek'

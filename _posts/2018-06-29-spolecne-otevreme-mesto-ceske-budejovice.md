@@ -5,6 +5,7 @@ published: true
 title: Společně otevřeme město České Budějovice
 date: '2018-06-29 02:22pm'
 author: Lukáš Mareš
+authorId: lukas.mares
 image: posts/cb.jpg
 description: 'Piráti, České Budějovice'
 tags: 'Piráti, České Budějovice'

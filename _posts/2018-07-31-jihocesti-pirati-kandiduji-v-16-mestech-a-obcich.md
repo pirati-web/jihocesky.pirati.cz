@@ -5,6 +5,7 @@ published: true
 title: Jihočeští Piráti kandidují v 16 městech a obcích
 date: '2018-07-31 10:00pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/web-pirati-mapa-kandidatky-.jpg
 description: 'Piráti, Jihočeský, kraj, volby, 2018'
 tags: 'Piráti, Jihočeský, kraj, volby, 2018'

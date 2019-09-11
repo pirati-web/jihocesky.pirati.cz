@@ -5,6 +5,7 @@ published: true
 title: Pirátské centrum otevře Ivan Bartoš
 date: '2018-03-29 12:00am'
 author: 'Kateřina Hůlková, Zbyněk Konvička'
+authorId: zbynek.konvicka
 image: posts/cepice-jpg-web.jpg
 description: 'Piráti, Pirátské, centrum Čepice, Ivan Bartoš, Lukáš Kolářík, Lukáš Mareš'
 tags: 'Piráti, Pirátské, centrum Čepice, Ivan Bartoš, Lukáš Kolářík, Lukáš Mareš'

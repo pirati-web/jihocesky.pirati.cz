@@ -5,6 +5,7 @@ published: true
 title: 'Pirátské listy jsou v oběhu v jihočeských městech, zde i v PDF'
 date: '2018-06-12 10:23pm'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/pl-obrazek.jpg
 description: 'Piráti, Pirátské, listy, '
 tags: 'Piráti, Pirátské, listy, '

@@ -5,6 +5,7 @@ published: true
 title: Ivan Bartoš pokřtil pirátské centrum ČePiCe rumem Republika
 date: '2018-04-08 10:48am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/1-hlavni-foto.jpg
 description: 'Ivan, Bartoš, Lukáš, Kolářík, ČePiCe, Pirátské, centrum, České, Budějovice'
 tags: 'Ivan, Bartoš, Lukáš, Kolářík, ČePiCe, Pirátské, centrum, České, Budějovice'

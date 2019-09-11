@@ -5,6 +5,7 @@ published: true
 title: Pirátský zpravodaj i do vaší e-mailové schránky
 date: '2018-06-12 09:22am'
 author: Zbyněk Konvička
+authorId: zbynek.konvicka
 image: posts/zpravodaj-kveten.jpg
 description: 'Piráti, Zpravodaj'
 tags: 'Piráti, Zpravodaj'

@@ -7,6 +7,7 @@ title: >-
   České Budějovice 
 date: '2018-03-24 09:42pm'
 author: 'Zbyněk Konvička, Kateřina Hůlková'
+authorId: zbynek.konvicka
 image: posts/1024px-praha_valdstejnsky_palac_-_panoramio_2.jpg
 description: 'Senát, Piráti, České, Budějovice, volby'
 tags: 'Senát, Piráti, České, Budějovice, volby'
