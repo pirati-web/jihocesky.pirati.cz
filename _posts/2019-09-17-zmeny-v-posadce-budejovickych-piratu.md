@@ -16,3 +16,5 @@ Novým členem zastupitelstva města se namísto ní stal Josef Špak, který je
 Josef Špak zároveň zaujme místo v čele Výboru pro veřejnou správu a IT zastupitelstva města po Lukáši Marešovi, který na tuto funkci z důvodu návratu ke svému povolání k 12. září 2019 rezignoval. K této problematice má Josef Špak velmi blízký vztah, neboť se IT dlouhodobě zabývá ve své profesi. 
 
 Novým členem školské komise rady města se stal Kamil Podzimek, jež je vedoucím pracovníkem ve společnosti Jihočeský streetwork Prevent. Ta se dlouhodobě věnuje prevenci patologických jevů ve společnosti. V letošním roce byl oceněn cenou „Osobnost neziskového sektoru pro rok 2018“. Věříme, že Kamil Podzimek bude proto platným členem komise, do níž přinese svůj odborný vhled preventisty.
+
+![](/assets/img/posts/cb-pirati-mensi.jpg)
