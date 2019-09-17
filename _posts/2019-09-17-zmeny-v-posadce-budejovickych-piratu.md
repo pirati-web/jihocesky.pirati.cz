@@ -6,7 +6,7 @@ title: Změny v posádce budějovických Pirátů
 date: '2019-09-17'
 author: 'Lukáš Mareš, Zbyněk Konvička'
 authorId: zbynek.konvicka
-image: /assets/img/posts/zastupitele-cb.jpg
+image: posts/zastupitele-cb.jpg
 description: 'Pirati, Spak, '
 tags: 'Piráti, Špak, České, Budějovice, Podzimek'
 ---
