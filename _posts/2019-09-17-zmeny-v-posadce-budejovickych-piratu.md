@@ -17,4 +17,4 @@ Josef Špak zároveň zaujme místo v čele Výboru pro veřejnou správu a IT z
 
 Novým členem školské komise rady města se stal Kamil Podzimek, jež je vedoucím pracovníkem ve společnosti Jihočeský streetwork Prevent. Ta se dlouhodobě věnuje prevenci patologických jevů ve společnosti. V letošním roce byl oceněn cenou „Osobnost neziskového sektoru pro rok 2018“. Věříme, že Kamil Podzimek bude proto platným členem komise, do níž přinese svůj odborný vhled preventisty.
 
-![](/assets/img/posts/cb-pirati-mensi.jpg)
+![Posádka budějovických Pirátů](/assets/img/posts/cb-pirati-mensi.jpg)
