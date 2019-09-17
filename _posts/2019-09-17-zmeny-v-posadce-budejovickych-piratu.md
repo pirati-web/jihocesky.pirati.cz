@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Změny v posádce budějovických Pirátů
-date: '2019-09-17 11:01am'
+date: '2019-09-17'
 author: 'Lukáš Mareš, Zbyněk Konvička'
 authorId: zbynek.konvicka
 image: /assets/img/posts/zastupitele-cb.jpg
