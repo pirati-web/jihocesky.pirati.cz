@@ -5,7 +5,7 @@ category:
 - zastupitele
 - pks
 img: people/vaclav-klecanda.jpg
-description: člen PKS a zastupitel v Táboře
+description: člen PKS a zastupitel v Táboře, místostarosta v Táboře
 mail:
 - vaclav.klecanda@pirati.cz
 mob:			  
