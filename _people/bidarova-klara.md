@@ -7,7 +7,7 @@ titles:
 category:
 - koordinator
 img: people/klara-bidarova.jpg
-description: koordinátorka JčK Pirátské strany
+description: koordinátorka
 mail:
 - klara.bidarova@pirati.cz
 mob: +420 770199948
