@@ -9,7 +9,7 @@ category:
 - pms
 - zastupitele
 img: people/michal-horak.jpg
-description: člen PKS, předseda MS Pirátské strany a zastupitel v Písku, spravce databáze, trenér házené
+description: člen PKS, předseda MS Pirátské strany a zastupitel v Písku
 mail:
 - michal.horak@pirati.cz
 #mob: +420
