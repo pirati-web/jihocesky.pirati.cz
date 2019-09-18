@@ -8,7 +8,7 @@ category:
 - koordinator
 - zastupitele
 img: people/zbynek-konvicka.jpg
-description: vedoucí mediálního odboru Jihočeské Pirátské strany a zastupitel
+description: vedoucí mediálního odboru a zastupitel
 mail:
 - zbynek.konvicka@pirati.cz
 mob: +420 722 920 766
