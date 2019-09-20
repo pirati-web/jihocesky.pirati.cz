@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Jihočeští Piráti mají nové předsednictvo kraje
-date: 2019-09-20'
+date: 2019-09-20
 author: Zbyněk Konvička
 image: posts/zastupitele-cb.jpg
 #image: posts/pirati-krajske-forum-pisek.jpg
