@@ -3,9 +3,9 @@ layout: post
 category: blog
 published: true
 title: Jihočeští Piráti mají nové předsednictvo kraje
-date: '2019-09-20 12:00am'
+date: 2019-09-20'
 author: Zbyněk Konvička
-image: /assets/img/posts/pirati-krajske-forum-pisek.jpg
+image: posts/pirati-krajske-forum-pisek.jpg
 description: Jihočeští Piráti mají nové předsednictvo kraje
 tags: >-
   Špak, Kolářík, Koláříková, Kudláčková, Mareš, předsednictvo, kraj, Jihočeský,
