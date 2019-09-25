@@ -5,7 +5,7 @@ published: true
 title: 'Piráti k Šumavě: Se starosty chceme normálně mluvit, urážky si nezaslouží'
 date: '2019-09-25 10:05am'
 author: Piráti Jihočeský kraj
-image: /assets/img/posts/konference-sumava-vyrez.jpg
+image: posts/konference-sumava-vyrez.jpg
 description: Vyjádření jihočeských Pirátů k Šumavě
 tags: 'Piráti, Šumava, Leština, Špak'
 ---
