@@ -3,14 +3,13 @@ layout: post
 category: blog
 published: true
 title: 'Piráti k Šumavě: Se starosty chceme normálně mluvit, urážky si nezaslouží'
-date: 2019-09-25
+date: 2019-09-25T00:00:00.000Z
 author: Piráti Jihočeský kraj
 image: posts/konference-sumava-vyrez-vetsi.jpg
 description: Vyjádření jihočeských Pirátů k Šumavě
 tags: 'Piráti, Šumava, Leština, Špak'
 ---
 Na zasedání krajského zastupitelstva 19. září se opět rozvířilo téma Národního parku Šumava a postupu krajské rady (ČSSD, TOP 09, STAN, HOpB, Jihočeši 2012 a KDU-ČSL) v posledních měsících. Řešilo se vyhlášení zonace NP a zásad péče a hejtmanka sklidila kritiku opozice za to, komu a jak byla zadána zakázka na mediální kampaň cílenou proti Správě národního parku a Ministerstvu životního prostředí.
-
 
 V rámci diskuse vystoupil i Josef Špak, nový předseda krajského sdružení jihočeských Pirátů, a Dan Leština z Biologického centra Akademie věd a garant týmu pro životní prostředí a zemědělství jihočeských Pirátů. Josef s Danem především upozornili na nízkou úroveň debaty během zasedání a přítomné vyzvali, aby raději přišli na pirátskou konferenci k tématu.
 
