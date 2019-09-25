@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Piráti k Šumavě: Se starosty chceme normálně mluvit, urážky si nezaslouží'
-date: '2019-09-25 10:05am'
+date: 2019-09-25
 author: Piráti Jihočeský kraj
 image: posts/konference-sumava-vyrez-vetsi.jpg
 description: Vyjádření jihočeských Pirátů k Šumavě
