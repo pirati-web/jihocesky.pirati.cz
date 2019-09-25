@@ -21,3 +21,5 @@ V rámci diskuse vystoupil i Josef Špak, nový předseda krajského sdružení 
 Zájemci o účast v publiku nebo o zařazení své prezentace se již nyní mohou hlásit na e-mailu [2019sumava@gmail.com](2019sumava@gmail.com) stejně jako zájemci o zaslání pracovní verze programových tezí Pirátů k tomuto tématu.
 
 _Piráti Jihočeský kraj_
+
+![Pozvánka na konferenci](/assets/img/posts/konference-sumava-na-web.jpg)
