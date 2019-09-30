@@ -3,7 +3,6 @@ uid: josef.soumar
 name: Josef Soumar
 category:
 - zastupitele
-- pks
 img: people/josef-soumar.jpg
 description: člen PKS a zastupitel v Písku 
 mail:
