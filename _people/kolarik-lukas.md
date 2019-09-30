@@ -20,7 +20,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 12
-ordpks: 1 
+ordpks: 2 
 ---
 
 **Lukáš Kolářík** (* 5. března 1984, Strakonice) podporuje Piráty od jejich vzniku a od roku 2013 je jejich aktivním členem. Pochází z jihočeského městečka Katovice, kde pobýval většinu svého života a nyní žije, z pracovních důvodů, v Písku.
