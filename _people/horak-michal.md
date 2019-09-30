@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after:
 category:
-- pks
 - pms
 - zastupitele
 img: people/michal-horak.jpg
