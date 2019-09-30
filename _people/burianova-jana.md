@@ -5,7 +5,7 @@ titles:
   before: PhDr.
   after:
 category:
-- zastupitele
+#- zastupitele
 img: people/jana-burianova.jpg
 description: zastupitelka v Jindřichově Hradci
 mail:
