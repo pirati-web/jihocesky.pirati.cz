@@ -4,7 +4,6 @@ name:     Simon Kostadinov
 fullname: Bc. Simon Kostadinov
 category: 
 - zastupitele
-- pks
 img: people/simon-kostadinov.jpg
 description: člen PKS, zastupitel v Týnu nad Vltavou
 mail:
