@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-- PKS
+- pks
 img: people/zuzana-kudlackova.jpg
 description: asistentka poslance Lukáše Kolaříka, členka MS Pirátské strany a zastupitelka v Českých Budějovicích
 mail:
