@@ -3,7 +3,6 @@ uid: vaclav.klecanda
 name: Václav Klecanda
 category:
 - zastupitele
-- pks
 img: people/vaclav-klecanda.jpg
 description: člen PKS a zastupitel v Táboře, místostarosta v Táboře
 mail:
