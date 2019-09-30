@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-- PKS
+- pks
 img: people/lukas-mares.jpg
 description: člen MS Pirátské strany a zastupitel v Českých Budějovicích
 mail:
