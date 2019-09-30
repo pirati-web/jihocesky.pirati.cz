@@ -7,7 +7,7 @@ titles:
 category:
 - pks
 - pms
-img: people/lukas-kolarik.jpg
+img: people/jana-kolarikova.jpg 
 description: Vedoucí personálního odboru, místopředseda MS Pirátské strany ve Strakonicích
 mail:
 - jana.kolarikova@pirati.cz
