@@ -21,4 +21,3 @@ Zájemci o účast v publiku nebo o zařazení své prezentace se již nyní moh
 
 _Piráti Jihočeský kraj_
 
-![Pozvánka na konferenci](/assets/img/posts/konference-sumava-na-web.jpg)
