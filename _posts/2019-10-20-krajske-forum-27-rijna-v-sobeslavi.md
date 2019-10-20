@@ -19,4 +19,4 @@ Tradičními body setkání budou reporty ze zastupitelských klubů měst a mí
 
 Bližší informace o místě setkání naleznete na stránkách restaurace [COUNTRY SALOON](http://country-saloon.eu). Svou účast prosím potvrďte v [registračním formuláři](https://docs.google.com/forms/d/1zu_njiUhMbvmCx-P5LIM_x4j1_pMXHFIIclkE2alv0I/viewform?fbclid=IwAR3eQU6wPaLtcCWmTgM47W6DnUewsDxa4UhC6x7dK4Y5-zTwDN9lYxi9pmQ&edit_requested=true).
 
-![Pozvánka na konferenci](/assets/img/posts/konference-sumava-na-web.jpg)
+![Pozvánka na konferenci](/assets/img/posts/krajske-forum-27-rijna-v-sobeslavi-2.jpg)
