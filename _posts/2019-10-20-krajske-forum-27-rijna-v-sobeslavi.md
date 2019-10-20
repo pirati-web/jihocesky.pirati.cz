@@ -18,3 +18,5 @@ Vedle agendy krajských voleb se budou řešit i senátní volby. Aktuální inf
 Tradičními body setkání budou reporty ze zastupitelských klubů měst a místních sdružení v kraji. Představit se na fóru budou moci i zájemci o členství v Pirátské straně.
 
 Bližší informace o místě setkání naleznete na stránkách restaurace [COUNTRY SALOON](http://country-saloon.eu). Svou účast prosím potvrďte v [registračním formuláři](https://docs.google.com/forms/d/1zu_njiUhMbvmCx-P5LIM_x4j1_pMXHFIIclkE2alv0I/viewform?fbclid=IwAR3eQU6wPaLtcCWmTgM47W6DnUewsDxa4UhC6x7dK4Y5-zTwDN9lYxi9pmQ&edit_requested=true).
+
+![krajske-forum-sobeslav-plakat.jpg](/assets/img/posts/krajske-forum-sobeslav-plakat.jpg)
