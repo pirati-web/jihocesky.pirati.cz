@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: "Jihočeští Piráti se přidávají k\_protestním demonstracím proti turecké invazi"
-date: '2019-10-21 12:47pm'
+date: '2019-10-21'
 author: Zbyněk Konvička
 image: posts/2019-10-21-rojava-protest-proti-turecke-invazi.jpg
 description: "Jihočeští Piráti se přidávají k\_protestním demonstracím proti turecké invazi"
