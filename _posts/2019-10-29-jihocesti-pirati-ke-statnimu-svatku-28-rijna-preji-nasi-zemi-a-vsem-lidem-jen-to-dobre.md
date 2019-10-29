@@ -7,7 +7,7 @@ title: >-
   to dobré
 date: '2019-10-29 12:00am'
 author: 'Lukáš Hypša, Zbyněk Konvička'
-image: assets/img/jihocesti-pirati-ke-statnimu-svatku-28-rijna-2019.jpg
+image: articles/jihocesti-pirati-ke-statnimu-svatku-28-rijna-2019.jpg
 description: >-
   Jihočeští Piráti ke státnímu svátku 28. října přejí naší zemi a všem lidem jen
   to dobré
