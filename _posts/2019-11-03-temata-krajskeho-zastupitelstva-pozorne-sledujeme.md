@@ -5,7 +5,7 @@ published: true
 title: Témata krajského zastupitelstva pozorně sledujeme
 date: '2019-11-03 12:00am'
 author: 'Zbyněk Konvička, Lukáš Hypša'
-image: /assets/img/temata-krajskeho-zastupitelstva-pozorne-sledujeme.jpg
+image: temata-krajskeho-zastupitelstva-pozorne-sledujeme.jpg
 description: |-
   jihočeský kraj
   zastupitelstvo
