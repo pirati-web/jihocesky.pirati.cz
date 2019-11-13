@@ -15,6 +15,7 @@ tags: |-
   zastupitelstvo
   piráti
 ---
+
 **Přestože naši zástupci zatím nezasedají v krajském zastupitelstvu, o dění v Jihočeském kraji se s Piráty intenzivně zajímáme a pozorně jej sledujeme. Naši členové se pravidelně účastní jednání a nechyběli ani na tom posledním, které se konalo 31. října. A jaká témata se na něm probírala a jak se k nim staví Piráti?**
 
 Jedním z bodů byl výběr regionů, pro něž budou určeny dotace na studie týkající se klimatických změn. Tyto podklady by měly ukázat, jaká opatření v krajině a vodních tocích se pro zmírnění dopadů mají zavést. Regiony následně budou moci žádat stát o peníze na samotné realizace. Tento bod se však ukázal v některých ohledech jako příliš komplikovaný. 
