@@ -7,7 +7,6 @@ titles:
 category:
 - psp
 - pks
-- pms
 - zastupitele
 img: people/lukas-kolarik.jpg
 description: poslanec PČR, člen PKS
