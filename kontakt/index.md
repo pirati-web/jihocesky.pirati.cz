@@ -19,6 +19,8 @@ residences:
 contactPersons:
  - id: jana.curdova
    position: Kontakt pro dorovolníky
+ - id: klara.bidarova
+   position: Kontakt pro dorovolníky   
  - id: zbynek.konvicka
    position: Kontakt pro novináře
 ---
