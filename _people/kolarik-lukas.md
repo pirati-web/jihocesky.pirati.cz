@@ -9,7 +9,7 @@ category:
 - pks
 - zastupitele
 img: people/lukas-kolarik.jpg
-description: poslanec PČR, člen PKS
+description: poslanec PČR, člen PKS a zastupitel v Katovicích
 mail:
 - lukas.kolarik@pirati.cz
 #mob: +420
