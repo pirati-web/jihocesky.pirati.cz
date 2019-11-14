@@ -18,11 +18,11 @@ residences:
 
 contactPersons:
  - id: jana.curdova
-   position: Krajské koordinátorky (kontakt pro dobrovolníky)
+   position: Krajské koordinátorky <small>(kontakt pro dobrovolníky)</small>
  - id: klara.bidarova
    position:    
  - id: zbynek.konvicka
-   position: Mediální odbor JčK (kontakt pro novináře)
+   position: Mediální odbor <small>(kontakt pro novináře)</small>
 ---
 
 <div class="o-section-header o-section-header--indented">
