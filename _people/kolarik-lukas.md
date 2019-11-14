@@ -10,7 +10,7 @@ category:
 - pms
 - zastupitele
 img: people/lukas-kolarik.jpg
-description: poslanec PČR, předseda MS Pirátské strany v Strakonicích
+description: poslanec PČR, člen PKS
 mail:
 - lukas.kolarik@pirati.cz
 #mob: +420
