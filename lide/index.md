@@ -8,16 +8,16 @@ groups:
   - name: Naši poslanci
     category: psp
     sort: ordpsp
-  - name: Zastupitelé
-    sort: ord
-    category: zastupitele
   - name: Předsednictvo krajského sdružení
     sort: ordpks
     category: pks
   - name: Předsedové místních sdružení
     sort: ordpms
     category: pms
-  - name: Krajský koordinátor
+  - name: Zastupitelé
+      sort: ord
+      category: zastupitele
+  - name: Krajské koordinátorky a mediální odbor JčK
     sort: ordkoord
     category: koordinator
   #- name: Naši členové
