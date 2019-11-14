@@ -25,9 +25,6 @@ contactPersons:
    position: Mediální odbor <small>(kontakt pro novináře)</small>
 ---
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-</div>
 
 Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
 
