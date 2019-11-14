@@ -15,8 +15,8 @@ groups:
     sort: ordpms
     category: pms
   - name: Zastupitelé
-      sort: ord
-      category: zastupitele
+    sort: ord
+    category: zastupitele
   - name: Krajské koordinátorky a mediální odbor JčK
     sort: ordkoord
     category: koordinator
