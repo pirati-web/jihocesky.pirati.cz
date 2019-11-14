@@ -10,7 +10,7 @@ img: people/jana-curdova.jpg
 description: koordinátorka
 mail:
 - jana.curdova@pirati.cz
-mob: +420 770 199 948
+mob: +420 770 114 940
 profiles:
   github:
   facebook:				
