@@ -20,7 +20,7 @@ contactPersons:
  - id: jana.curdova
    position: Krajské koordinátorky (kontakt pro dobrovolníky)
  - id: klara.bidarova
-   position: Krajské koordinátorky (kontakt pro dobrovolníky)   
+   position:    
  - id: zbynek.konvicka
    position: Mediální odbor JčK (kontakt pro novináře)
 ---
