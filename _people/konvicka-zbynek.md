@@ -8,7 +8,7 @@ category:
 - koordinator
 - zastupitele
 img: people/zbynek-konvicka.jpg
-description: vedoucí mediálního odboru pro Jihočeský kraj Pirátské strany a zastupitel v Písku
+description: vedoucí mediálního odboru JčK, člen MS Písecko a zastupitel v Písku
 mail:
 - zbynek.konvicka@pirati.cz
 mob: +420 722 920 766
