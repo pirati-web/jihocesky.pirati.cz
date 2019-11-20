@@ -10,7 +10,7 @@ img: people/veronika-kovarova.jpg
 description: architektka a předsedkyně MS Strakonicko
 mail:
 - veronika.pucerova@gmail.com
-#mob: +420 603 397 164
+mob: +420 603 397 164
 profiles:
   github:
   facebook:				
