@@ -5,9 +5,9 @@ titles:
   before: 
   after:
 category:
-#- zastupitele
+- pms
 img: people/veronika-kovarova.jpg
-description: Architektka se zájmem o urbanismus venkova a malých měst. Organizátorka tvůrčích dílen pro děti i dospělé.
+description: architektka a předsedkyně MS Strakonicko
 mail:
 - veronika.pucerova@gmail.com
 #mob: +420 603 397 164
