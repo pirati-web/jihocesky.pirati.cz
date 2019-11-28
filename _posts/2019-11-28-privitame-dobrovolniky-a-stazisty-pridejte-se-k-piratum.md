@@ -5,7 +5,7 @@ published: true
 title: Přivítáme dobrovolníky a stážisty. Přidejte se k Pirátům!
 date: '2019-11-28'
 author: Zbyněk Konvička
-image: privitame-dobrovolniky-a-stazisty.jpg
+image: /assets/img/privitame-dobrovolniky-a-stazisty.jpg
 description: |-
   nalodění
   piráti 
