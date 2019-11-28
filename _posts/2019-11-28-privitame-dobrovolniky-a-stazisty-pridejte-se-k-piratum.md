@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Přivítáme dobrovolníky a stážisty. Přidejte se k Pirátům!
-date: '2019-11-28 09:57am'
+date: '2019-11-28'
 author: Zbyněk Konvička
 image: privitame-dobrovolniky-a-stazisty.jpg
 description: |-
