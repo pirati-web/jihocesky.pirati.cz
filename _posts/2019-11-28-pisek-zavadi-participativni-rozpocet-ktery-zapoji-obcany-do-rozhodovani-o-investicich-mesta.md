@@ -5,9 +5,9 @@ published: true
 title: >-
   Písek zavádí participativní rozpočet, který zapojí občany do rozhodování o
   investicích města 
-date: '2019-11-28 12:00am'
+date: '2019-11-28'
 author: Zbyněk Konvička
-image: /assets/img/participativni-rozpocet-pisek-soumar.jpg
+image: participativni-rozpocet-pisek-soumar.jpg
 description: Participativní rozpočet
 tags: >-
   Písek zavádí participativní rozpočet, který zapojí občany do rozhodování o
