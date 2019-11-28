@@ -24,17 +24,3 @@ Na začátku tohoto roku představili Piráti vedení města tři návrhy, jak p
 Bližší informace: 
 
 Josef Soumar, \[ josef.soumar@pirati.cz ]( josef.soumar@pirati.cz ), tel.737 838 263
-
-
-
-
-
-Zbyněk Konvička
-
-vedoucí mediálního odboru
-
-Piráti – Jihočeský kraj
-
-zbynek.konvicka@pirati.cz
-
-tel. 722 920 766
