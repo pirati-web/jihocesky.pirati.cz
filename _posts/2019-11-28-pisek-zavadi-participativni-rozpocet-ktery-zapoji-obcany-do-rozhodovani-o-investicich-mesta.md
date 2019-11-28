@@ -21,6 +21,6 @@ Na začátku tohoto roku představili Piráti vedení města tři návrhy, jak p
 
 \*„Participativní rozpočet dává prostor občanům k tomu, aby se mohli zapojit do rozhodování o dění ve městě. V současnosti o těchto věcech rozhoduje zatím pouze buď devítičlenná rada nebo 27 členné zastupitelstvo města. My však tuto možnost chceme dát všem obyvatelům, neboť v Písku žijeme všichni a veřejný prostor také užíváme společně,”\* dodává Josef Soumar.
 
-Bližší informace: 
+Bližší informace:
 
-Josef Soumar, \[ josef.soumar@pirati.cz ]( josef.soumar@pirati.cz ), tel.737 838 263
+Josef Soumar, [josef.soumar@pirati.cz](josef.soumar@pirati.cz), tel.737 838 263
