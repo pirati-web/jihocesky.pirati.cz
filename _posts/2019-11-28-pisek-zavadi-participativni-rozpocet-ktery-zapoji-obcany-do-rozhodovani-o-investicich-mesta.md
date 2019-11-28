@@ -10,8 +10,7 @@ author: Zbyněk Konvička
 image: participativni-rozpocet-pisek-soumar.jpg
 description: Participativní rozpočet
 tags: >-
-  Písek zavádí participativní rozpočet, který zapojí občany do rozhodování o
-  investicích města
+  Písek, participativní, rozpočet, Piráti
 ---
 Písek, 28. listopadu 2019 
 
