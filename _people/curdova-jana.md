@@ -7,7 +7,7 @@ titles:
 category:
 - koordinator
 img: people/jana-curdova.jpg
-description: koordinátorka
+description: koordinátorka Jihočeského kraje
 mail:
 - jana.curdova@pirati.cz
 mob: +420 770 114 940
