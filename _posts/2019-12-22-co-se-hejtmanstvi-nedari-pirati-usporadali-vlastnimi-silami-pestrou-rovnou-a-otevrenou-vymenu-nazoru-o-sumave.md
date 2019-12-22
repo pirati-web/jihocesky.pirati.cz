@@ -7,7 +7,7 @@ title: >-
   a otevřenou výměnu názorů o Šumavě
 date: '2019-12-08 12:00am'
 author: Zbyněk Konvička
-image: /assets/img/sumava-konference-co-se-hejtmanstvi-nedari.jpg
+image: sumava-konference-co-se-hejtmanstvi-nedari.jpg
 description: >-
   Co se hejtmanství nedaří, Piráti uspořádali vlastními silami: pestrou, rovnou
   a otevřenou výměnu názorů o Šumavě
