@@ -5,9 +5,9 @@ published: true
 title: Pozvánka do krajských expertních týmů - KET
 date: '2019-12-28 08:03pm'
 author: admin
-image: ket.jpg
+image: /assets/img/ket.jpg
 description: 'Piráti pracují odborně, mají krajské expertní týmy. Každý se může zapojit.'
-tags: KET
+tags: KET pirati tym
 ---
 Tímto bychom vás chtěli informovat o možnosti se zapojit do “Krajských expertních týmů”, a to v oblasti financování, zdravotnictví, sociální politika a bydlení, školství, životní prostředí a zemědělství, sport, územní rozvoj a plánování, doprava, IT - Smart city, bezpečnost, kontrola a také kultura s cestovním ruchem. Týmy se chtějí věnovat problematice v obecném, krajském ale i celostátním rozsahu.
 
