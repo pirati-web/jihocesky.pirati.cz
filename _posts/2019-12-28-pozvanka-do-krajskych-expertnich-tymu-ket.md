@@ -19,4 +19,4 @@ Je toho opravdu mnoho, čím se chceme do budoucna zabývat a proto Vás rádi u
 
 Pokud máte zájem, napište na mail** jana.curdova@pirati.cz** nebo **klara.bidarova@pirati.cz** jaká oblast by Vás zajímala, a které byste se rádi zúčastnili. Zařadíme Vás do konkrétního expertního týmu a budeme Vás informovat o dalších schůzkách. 
 
-**Přehled KETů a jejich garantů najdete zde: https://jihocesky.pirati.cz/pripoj-se/**
+**Přehled KETů a jejich garantů najdete zde: [https://jihocesky.pirati.cz/pripoj-se/](/pripoj-se/)**
