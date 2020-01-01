@@ -17,6 +17,6 @@ Cílem těchto skupin je edukovat se ve všech zmíněných oblastech a pomáhat
 
 Je toho opravdu mnoho, čím se chceme do budoucna zabývat a proto Vás rádi uvítáme v našich krajských expertních týmech JčK.
 
-Pokud máte zájem, napište na mail** jana.curdova@pirati.cz** nebo **klara.bidarova@pirati.cz** jaká oblast by Vás zajímala, a které byste se rádi zúčastnili. Zařadíme Vás do konkrétního expertního týmu a budeme Vás informovat o dalších schůzkách. 
+Pokud máte zájem, napište na mail **[jana.curdova@pirati.cz](jana.curdova@pirati.cz)** nebo **[klara.bidarova@pirati.cz](klara.bidarova@pirati.cz)** jaká oblast by Vás zajímala, a které byste se rádi zúčastnili. Zařadíme Vás do konkrétního expertního týmu a budeme Vás informovat o dalších schůzkách. 
 
 **Přehled KETů a jejich garantů najdete zde: [https://jihocesky.pirati.cz/pripoj-se/](/pripoj-se/)**
