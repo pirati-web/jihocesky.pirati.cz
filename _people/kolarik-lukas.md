@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - psp
-- pks
+#- pks
 - zastupitele
 img: people/lukas-kolarik.jpg
 description: poslanec PČR, člen MS Strakonicko a zastupitel v Katovicích
