@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - pms
+- pks
 img: people/veronika-kovarova.jpg
 description: architektka a předsedkyně MS Strakonicko
 mail:
