@@ -20,4 +20,3 @@ Zdravotnictví ale není jediný neduh, který Mareš na kraji vnímá. Jihočes
 Lukáš Mareš není lídrem poprvé, Piráty vedl už na podzim 2018 do komunálních voleb v Českých Budějovicích. S výsledkem 12,19% se stali po Praze nejúspěšnější pirátskou kandidátkou krajského města. „Předchozí zkušenosti mě především utvrdily v tom, že když člověk ví,  proč to dělá a má dobrý úmysl, dopadne to dobře. A také, že pokud se člověk rozhodne jít zkratkou, tak se mu to dříve nebo později vymstí.“
 
 V následujících týdnech si krajské sdružení zvolí také 9 kandidátů do čela a 50 kandidátů do zbytku volební listiny. Vyloučena není ani účast osobností mimo Pirátskou stranu, primární volby jsou otevřené všem uchazečům.
-
