@@ -3,12 +3,13 @@ layout: post
 category: blog
 published: true
 title: jihočeští piráti představují lídra do krajských voleb
-date: '2020-01-11 11:30am'
+date: '2020-01-11'
 author: Lukáš Hypša
 image: lukas-mares.jpg
 description: 'Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu zastupitelského klubu v Českých Budějovicích a garanta programového bodu Zdravotnictví Lukáše Mareše. Představení všech krajských lídrů bude vysíláno online od 15:00.'
 tags: kraj
 ---
+
 Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu zastupitelského klubu v Českých Budějovicích a garanta programového bodu Zdravotnictví Lukáše Mareše. Představení všech krajských lídrů bude vysíláno online od 15:00.
 
 Ve finálních volbách s Jiřím Roubíčkem získal Lukáš Mareš 71,43% hlasů. „Do kampaně chci vnést především její profesionalizaci. Zároveň ale nesmíme rezignovat na základní pirátské principy a jistou míru odvahy a vizionářství,“ dodává Mareš ke svému zvolení.
