@@ -15,7 +15,7 @@ Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě předsta
 
 Ve finálních volbách s Jiřím Roubíčkem získal Lukáš Mareš 71,43% hlasů. „Do kampaně chci vnést především její profesionalizaci. Zároveň ale nesmíme rezignovat na základní pirátské principy a jistou míru odvahy a vizionářství,“ dodává Mareš ke svému zvolení.
 
-Lukáš Mareš je pracujícím lékařem na radiologickém oddělení českobudějovické nemocnice. Na vlastní kůži tak zažívá stále se zhoršující stav zdravotnictví. Právě to ho před lety vedlo ke vstupu do Pirátské strany, v příštím volebním období to bude jeho priorita. „Situace na okresech je kritická. Máme tu řídnoucí síť praktických lékařů, personální situace zejména okresních nemocnic se stále zhoršuje. Prozíraví radní by situaci začali řešit před pěti lety. Vnitřní dluh nemocnic na personálu je dnes obrovský a pštrosí politika ho nevyřeší.“
+Lukáš Mareš je pracujícím lékařem na radiologickém oddělení českobudějovické nemocnice. Na vlastní kůži tak zažívá stále se zhoršující stav zdravotnictví. Právě to ho před 2 lety vedlo ke vstupu do Pirátské strany, v příštím volebním období to bude jeho priorita. „Situace na okresech je kritická. Máme tu řídnoucí síť praktických lékařů, personální situace zejména okresních nemocnic se stále zhoršuje. Prozíraví radní by situaci začali řešit před pěti lety. Vnitřní dluh nemocnic na personálu je dnes obrovský a pštrosí politika ho nevyřeší.“
 
 Zdravotnictví ale není jediný neduh, který Mareš na kraji vnímá. Jihočeská ekonomika nedrží tempo se zbytkem republiky a dlouhodobě stagnuje. „HDP nám roste, ale pomaleji než jinde. Otázkou tedy je, jak do kraje nalákat investory s vysokou přidanou hodnotou. Trochu si myslím, že by v tomhle směru mohla být rada kraje aktivnější,“ komentuje Mareš.
 
