@@ -8,7 +8,7 @@ category:
 - pms
 - pks
 img: people/veronika-kovarova.jpg
-description: Architektka se zájmem o urbanismus venkova a malých měst. Organizátorka Šperkařského workshopu ve Volyni - tvůrčích dílen pro děti i dospělé.
+description: Architektka, předsedkyně MS Pirátské strany na Strakonicku.
 mail:
 - veronika.pucerova@gmail.com
 mob: +420603397164
