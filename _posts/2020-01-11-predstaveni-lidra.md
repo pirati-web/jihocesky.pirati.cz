@@ -7,7 +7,7 @@ date: '2020-01-11'
 author: Lukáš Hypša
 image: posts/lukas-mares-cf.jpg
 
-description: 'Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu zastupitelského klubu v Českých Budějovicích a garanta programového bodu Zdravotnictví Lukáše Mareše.
+description: 'Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu zastupitelského klubu v Českých Budějovicích a garanta programového bodu Zdravotnictví Lukáše Mareše.'
 tags: kraj
 ---
 
