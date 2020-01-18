@@ -8,7 +8,7 @@ category:
 - pms
 - pks
 img: people/veronika-kovarova.jpg
-description: Architektka, předsedkyně MS Pirátské strany na Strakonicku.
+description: předsedkyně MS Pirátské strany na Strakonicku.
 mail:
 - veronika.pucerova@gmail.com
 mob: +420603397164
