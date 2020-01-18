@@ -10,7 +10,7 @@ category:
 img: people/veronika-kovarova.jpg
 description: předsedkyně MS Pirátské strany na Strakonicku.
 mail:
-- veronika.pucerova@gmail.com
+- veronika.kovarova@pirati.cz
 mob: +420603397164
 profiles:
   github:
