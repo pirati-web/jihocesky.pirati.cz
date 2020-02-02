@@ -5,7 +5,7 @@ published: true
 title: Pozvánka na zasedání krajského fóra v Blatné
 date: '2020-02-02 09:33am'
 author: Lukáš Hypša
-image: /assets/img/2020-02-01-zasedani-krajskeho-fora-blatna.jpg
+image: posts/2020-02-01-zasedani-krajskeho-fora-blatna.jpg
 description: Pozvánka na zasedání krajského fóra v Blatné
 tags: |-
   zasedání krajského fóra
