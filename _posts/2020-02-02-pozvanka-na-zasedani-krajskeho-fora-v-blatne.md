@@ -24,10 +24,6 @@ Na začátku bude prostor pro představení nováčků a zájemců o členství.
 
 Dále se podíváme na návrh volebního programu, kterým nás provede volební lídr Lukáš Mareš. Povolební strategie se bohužel bude probírat uzavřeně. No a na konci bude samozřejmě volná diskuze, či pokec u piva, chcete-li. 
 
-![Pozvánka na zasedání krajského sdružení](/assets/img/pozvanka-pod-text.jpg)
-
-
-
 **Proč přijít?**
 
 Piráti jsou vždy otevření novým lidem, jejich nápadům i problémům. Zasedání krajského fóra je ideální příležitost jak poznat členy jihočeského sdružení Pirátů osobně a třeba si s nimi i promluviti o věcech které vás pálí u vás ve městě či na kraji. Je to také skvělá možnost jak začít spolupracovat s Piráty a například jim pomoct s nadcházející kampaní.
@@ -39,3 +35,5 @@ Pokud se chcete zúčastnit, dejte nám prosím o sobě vědět skrz [přihlašo
 Celý program a další informace najdete na našem [internetovém fóru](https://forum.pirati.cz/viewtopic.php?f=408&t=50859).
 
 Tak v neděli!
+
+![Pozvánka na zasedání krajského sdružení](/assets/img/pozvanka-pod-text.jpg)
