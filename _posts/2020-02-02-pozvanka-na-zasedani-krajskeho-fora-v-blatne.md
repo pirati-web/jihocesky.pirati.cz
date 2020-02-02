@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Pozvánka na zasedání krajského fóra v Blatné
-date: '2020-02-02 09:33am'
+date: '2020-02-02'
 author: Lukáš Hypša
 image: posts/2020-02-01-zasedani-krajskeho-fora-blatna.jpg
 description: Pozvánka na zasedání krajského fóra v Blatné
