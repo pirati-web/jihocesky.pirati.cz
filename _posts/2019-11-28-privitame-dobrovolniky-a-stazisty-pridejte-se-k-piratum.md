@@ -24,5 +24,4 @@ I ty můžeš být součástí úspěšného příběhu Pirátů a pomoci nám z
 
 Naším hlavním úkolem je dostat k volbám co nejvíce pirátských příznivců a voličů. A právě TY nám s tím můžeš pomoci jako dobrovolník, nebo jako stážista v rámci Tvé studijní praxe, nebo jako aktivní politický nadšenec.
 
-Pokud se chcete zapojit a nevíte jak na to, kontaktujte naše koordinátorky:
-- Klárku Bidařovou, [klara.bidarova@pirati.cz](mailto:klara.bidarova@pirati.cz) nebo Janču Čurdovou, [jana.curdova@pirati.cz](mailto:jana.curdova@pirati.cz)
+Pokud se chcete zapojit a nevíte jak na to, kontaktujte našeho koordinátora na [koordinator-jiznicechy@pirati.cz ](mailto:koordinator-jiznicechy@pirati.cz ) 
