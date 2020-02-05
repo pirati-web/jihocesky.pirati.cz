@@ -4,7 +4,7 @@ category: blog
 published: true
 title: Pozvánka do krajských expertních týmů - KET
 date: '2019-12-28 08:03pm'
-author: admin
+author: Klára Bidařová
 image: ket.jpg
 description: 'Piráti pracují odborně, mají krajské expertní týmy. Každý se může zapojit.'
 tags: KET pirati tym
