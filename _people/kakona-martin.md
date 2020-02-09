@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:
-- all
+- zastupitele
 #img: people/kakona-martin.jpg
 description: zastupitel a člen MS Pirátské strany v Soběslavi
 mail:
