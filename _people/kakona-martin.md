@@ -1,22 +1,22 @@
 ---
 uid: martin.kakona
-name:  Martin Kákona
+name: Martin Kákona
 titles:
-  before: Ing.
+  before: 
   after:
 category:
 - zastupitele
-#img: people/kakona-martin.jpg
+img: people/kakona-martin.jpg
 description: zastupitel a člen MS Pirátské strany v Soběslavi
 mail:
 - martin.kakona@pirati.cz
-#mob: +420
+#mob: +420 
 profiles:
   github:
   facebook:				
   twitter:
   linkedin:
-ordpms: 10 
+ordpms: 10
 ---
 
 Jsem astronom, konstruktér počítačů, odborník na šifrování a občas i dešifrování dat, vynálezce a fyzikální inženýr se zanedbatelnou znalostí fyziky. V pracovním životě jsem zažil mnohé, teď pracuji jako vědecký pracovník v Ústavu jaderné fyziky Akademie věd ČR.
