@@ -13,12 +13,11 @@ description: >-
   Jihočeští Piráti se připravují na krajské volby, kromě grilování uchazečů o
   čelní místa kandidátky diskutovali také o vizích a prioritách do volebního
   programu
-tags: >-
-  Blatná, krajské volby, Piráti
+tags: 'Blatná, krajské volby, Piráti'
 ---
-Blatná, 9. 2. 2020 - Na zasedání Krajského fóra v Blatné se Jihočeští Piráti intenzivně zabývali přípravou programu do krajských voleb v roce 2020. Lukáš Mareš, lídr kandidátky, představil svůj návrh programu, vize a priority.
+**Blatná, 9. 2. 2020 - Na zasedání Krajského fóra v Blatné se Jihočeští Piráti intenzivně zabývali přípravou programu do krajských voleb v roce 2020. Lukáš Mareš, lídr kandidátky, představil svůj návrh programu, vize a priority.**
 
-„Kvalitní příprava je důležitá. Na základě podkladů z našich expertních týmů jsem sestavil takový návrh programu, o kterém si myslím, že je splnitelný. Nechceme slibovat modré z nebe. Záleží nám na tom, abychom plnili a realizovali to, k čemu se v programu zavážeme. Všechno ale bude ještě předmětem další diskuze mezi členy, příznivci a odborníky.“
+_„Kvalitní příprava je důležitá. Na základě podkladů z našich expertních týmů jsem sestavil takový návrh programu, o kterém si myslím, že je splnitelný. Nechceme slibovat modré z nebe. Záleží nám na tom, abychom plnili a realizovali to, k čemu se v programu zavážeme. Všechno ale bude ještě předmětem další diskuze mezi členy, příznivci a odborníky.“_
 
 Jihočeští Piráti představili lídra Lukáše Mareše na letošním Celostátním fóru v Ostravě společně s dalšími kandidáty z jiných krajů, více o Lukášovo uvedení si přečtete na našem webu. Lukáš již na tomto zasedání zmínil, že to bude zdravotnictví, jemuž se bude vzhledem ke své odbornosti  věnovat. Koncept pirátského programu zahrnuje ale samozřejmě i další oblasti, do nichž může zasahovat krajské zastupitelstvo. Jde například o kulturu, školství, regionální rozvoj, dopravu a další.
 
