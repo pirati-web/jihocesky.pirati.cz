@@ -6,14 +6,15 @@ title: >-
   Jihočeští Piráti se připravují na krajské volby, kromě grilování uchazečů o
   čelní místa kandidátky diskutovali také o vizích a prioritách do volebního
   programu
-date: '2020-02-10 10:42am'
+date: '2020-02-10'
 author: Luboš Kudláček
 image: kf-blatna.jpg
 description: >-
   Jihočeští Piráti se připravují na krajské volby, kromě grilování uchazečů o
   čelní místa kandidátky diskutovali také o vizích a prioritách do volebního
   programu
-tags: Blatná
+tags: >-
+  Blatná, krajské volby, Piráti
 ---
 Blatná, 9. 2. 2020 - Na zasedání Krajského fóra v Blatné se Jihočeští Piráti intenzivně zabývali přípravou programu do krajských voleb v roce 2020. Lukáš Mareš, lídr kandidátky, představil svůj návrh programu, vize a priority.
 
