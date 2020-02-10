@@ -19,7 +19,7 @@ tags: 'Blatná, krajské volby, Piráti'
 
 _„Kvalitní příprava je důležitá. Na základě podkladů z našich expertních týmů jsem sestavil takový návrh programu, o kterém si myslím, že je splnitelný. Nechceme slibovat modré z nebe. Záleží nám na tom, abychom plnili a realizovali to, k čemu se v programu zavážeme. Všechno ale bude ještě předmětem další diskuze mezi členy, příznivci a odborníky.“_
 
-Jihočeští Piráti představili lídra Lukáše Mareše na letošním Celostátním fóru v Ostravě společně s dalšími kandidáty z jiných krajů, více o Lukášovo uvedení si přečtete na našem webu. Lukáš již na tomto zasedání zmínil, že to bude zdravotnictví, jemuž se bude vzhledem ke své odbornosti  věnovat. Koncept pirátského programu zahrnuje ale samozřejmě i další oblasti, do nichž může zasahovat krajské zastupitelstvo. Jde například o kulturu, školství, regionální rozvoj, dopravu a další.
+Jihočeští Piráti představili lídra Lukáše Mareše na letošním Celostátním fóru v Ostravě společně s dalšími kandidáty z jiných krajů, více o Lukášovo [uvedení si přečtete na našem webu](/tiskove-zpravy/predstaveni-lidra). Lukáš již na tomto zasedání zmínil, že to bude zdravotnictví, jemuž se bude vzhledem ke své odbornosti  věnovat. Koncept pirátského programu zahrnuje ale samozřejmě i další oblasti, do nichž může zasahovat krajské zastupitelstvo. Jde například o kulturu, školství, regionální rozvoj, dopravu a další.
 
 Krajským Pirátům se také představilo 13 zájemců do čela volební listiny. O jejich přijatelnosti a pořadí bude krajské sdružení rozhodovat v následujících dnech na internetovém fóru, přesné pořadí bude známé na konci února.
 
