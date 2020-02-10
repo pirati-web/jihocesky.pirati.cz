@@ -8,7 +8,7 @@ title: >-
   programu
 date: '2020-02-10 10:42am'
 author: Luboš Kudláček
-image: /assets/img/kf-blatna.jpg
+image: kf-blatna.jpg
 description: >-
   Jihočeští Piráti se připravují na krajské volby, kromě grilování uchazečů o
   čelní místa kandidátky diskutovali také o vizích a prioritách do volebního
