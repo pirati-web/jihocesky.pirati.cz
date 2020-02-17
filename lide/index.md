@@ -17,6 +17,9 @@ groups:
   - name: Zastupitelé
     sort: ord
     category: zastupitele
+  - name: Členové
+    sort: ordall
+    category: all
   - name: Krajské koordinátorky a mediální odbor JčK
     sort: ordkoord
     category: koordinator
