@@ -8,7 +8,8 @@ author: Luboš Kudláček
 image: martin-kakona.jpg
 
 description: 'Ing. Martin Kákona je od roku 2014 pirátským městským zastupitelem v Soběslavi a společně zahajujeme sérii rozhovorů o tom, co dělají a jak fungují Piráti ve veřejných volených funkcích.'
-tags: Hlášení-od-kormidel
+tags: 
+  - Hlášení od kormidel
 ---
 
 Ing. Martin Kákona je od roku 2014 pirátským městským zastupitelem v Soběslavi a společně zahajujeme sérii rozhovorů o tom, co dělají a jak fungují Piráti ve veřejných volených funkcích.
