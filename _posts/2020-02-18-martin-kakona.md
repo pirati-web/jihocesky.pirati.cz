@@ -40,7 +40,7 @@ Ani ne. :-)
 
 **Jak se změnil tvůj život poté, co jsi se stal zastupitelem?**
 
-Musel jsem si hlavně zvyknout na to, že mě dnes a denně politická opozice pomlouvá. Vlastně si na to nechci vzniknout a dělám vše pro to, abych to nechal těm politikům sežrat, protože do politiky je třeba vrátit slušnost.
+Musel jsem si hlavně zvyknout na to, že mě dnes a denně politická opozice pomlouvá. Vlastně si na to nechci zvyknout a dělám vše pro to, abych to nechal těm politikům sežrat, protože do politiky je třeba vrátit slušnost.
 
 **Máš nějaký vzkaz pro voliče, kteří ti dali svůj hlas?**
 
