@@ -38,9 +38,11 @@ Protože máme všichni stejný cíl.
 Protože i když otevřenost někdy bolí, demokracie se bez ní neobejde.   
 A protože Piráti jsou důkazem toho, že to jde dělat i jinak.  
 
-Díky za Váš čas, přečtení a zamyšlení, jak nám můžete pomoci. Budeme vděční za cokoli. **Politiku děláme pro vás, dělejte ji s námi!**
+Díky za Váš čas, přečtení a zamyšlení, jak nám můžete pomoci. Budeme vděční za cokoli.  
+**Politiku děláme pro vás, dělejte ji s námi!**
 
-Zde nám můžete dát o sobě vědět - [https://forms.gle/L92Dtb1hkcEpdHxH8](https://forms.gle/L92Dtb1hkcEpdHxH8)
+**Zde nám dejte o sobě vědět - [https://forms.gle/L92Dtb1hkcEpdHxH8](https://forms.gle/L92Dtb1hkcEpdHxH8)**  
+Děkujeme
 
 Za jihočeské Piráty
 
