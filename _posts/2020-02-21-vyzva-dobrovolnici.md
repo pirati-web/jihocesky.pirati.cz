@@ -28,7 +28,7 @@ Možností, jak se zapojit, je celá řada, můžete například:
 * přispět na náš transparentní bankovní účet 2100048174/2010,
 * vyvěsit si banner (plachtu s oky) na svůj plot, balkon nebo okno,
 * nalepit si pirátský plakát na okno,
-* * dát si rámeček na FB ke své ikonce (profilové fotce),
+* dát si rámeček na FB ke své ikonce (profilové fotce),
 * podpořit místní sdružení Pirátů v místě bydliště,
 * stát se jednou/jedním z nás.
 
