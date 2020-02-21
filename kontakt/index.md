@@ -19,7 +19,7 @@ residences:
 contactPersons:
  - id: klara.bidarova
    position:    
- - id: kudlacek.lubos
+ - id: lubos.kudlacek
    position: Mediální odbor<br><span style="font-size:60%">(kontakt pro novináře)</span>
 ---
 
