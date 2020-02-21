@@ -17,11 +17,9 @@ residences:
    mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
 
 contactPersons:
- - id: jana.curdova
-   position: Krajské koordinátorky<br><span style="font-size:60%">(kontakt pro dobrovolníky)</span>
  - id: klara.bidarova
    position:    
- - id: zbynek.konvicka
+ - id: kudlacek.lubos
    position: Mediální odbor<br><span style="font-size:60%">(kontakt pro novináře)</span>
 ---
 
