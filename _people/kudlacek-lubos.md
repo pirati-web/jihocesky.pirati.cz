@@ -9,7 +9,7 @@ img: people/lubos-kudlacek.jpg
 description: vedoucí mediálního odboru JčK
 mail:
 - lubos.kudlacek@pirati.cz
-#mob: +420 725 427 429
+mob: +420 725 427 429
 profiles:
   github:
   facebook:				
