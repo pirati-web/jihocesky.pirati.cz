@@ -5,6 +5,7 @@ titles:
   before:
   after:
 category:
+- koordinator
 img: people/lubos-kudlacek.jpg
 description: vedoucí mediálního odboru JčK
 mail:
