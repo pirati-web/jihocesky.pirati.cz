@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- koordinator
+
 img: people/jana-curdova.jpg
 description: koordinátor Jihočeského kraje (kontakt pro zájemce o členství a dobrovolníky)
 mail:
