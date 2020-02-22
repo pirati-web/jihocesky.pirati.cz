@@ -28,4 +28,4 @@ Mimo to v současnosti pracuje pro poslanecký klub Pirátů, a to od listopadu 
 
 Ve volném čase se primárně věnuje tvorbě, organizaci a hraní larpů (např. spoluautorství vzdělávací rolové hry Čára). Mimo to mezi jeho zájmy patří kinematografie, fotografie a počítačové i stolní hry.
 
-Politické názory podle USAcentrických 8Values: https://goo.gl/9mFHe7
+Politické názory podle USAcentrických 8Values: [https://goo.gl/9mFHe7](https://goo.gl/9mFHe7)
