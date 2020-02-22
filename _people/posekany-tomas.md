@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/tomas-posekany.jpg
-description: člen MS Pirátské strany a zastupitel v Písku
+description: člen MS Písecko a zastupitel v Písku
 mail:
 - tomas.posekany@pirati.cz
 #mob: +420
