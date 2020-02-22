@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/martin-mareda.jpg
-description: člen MS Pirátské strany a zastupitel v Táboře
+description: člen MS Tábor a zastupitel v Táboře
 mail:
 - martin.mareda@pirati.cz
 #mob: +420
