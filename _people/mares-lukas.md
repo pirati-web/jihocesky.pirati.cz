@@ -8,7 +8,7 @@ category:
 - zastupitele
 - pks
 img: people/lukas-mares.jpg
-description: člen MS Pirátské strany a zastupitel v Českých Budějovicích
+description: člen MS Českobudějovicko a zastupitel v Českých Budějovicích
 mail:
 - lukas.mares@pirati.cz
 #mob: +420
