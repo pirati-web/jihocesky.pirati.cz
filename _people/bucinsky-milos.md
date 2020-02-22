@@ -7,7 +7,7 @@ titles:
 category:
 - all
 #img: people/milos-bucinsky.jpg
-description: člen MS Pirátské strany a zastupitel v Soběslavi
+description: předseda MS Soběslav a zastupitel v Soběslavi
 mail:
 - milos.bucinsky@pirati.cz
 #mob: +420
