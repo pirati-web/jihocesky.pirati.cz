@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/jan-pribramsky.jpg
-description: člen MS Pirátské strany a zastupitel v Táboře
+description: člen MS Tábor a zastupitel v Táboře
 mail:
 - jan.pribramsky@pirati.cz
 #mob: +420
