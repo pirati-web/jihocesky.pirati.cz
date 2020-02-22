@@ -5,7 +5,6 @@ titles:
   before: 
   after:
 category:
-- koordinator
 - zastupitele
 img: people/zbynek-konvicka.jpg
 description: vedoucí mediálního odboru JčK, člen MS Písecko a zastupitel v Písku
