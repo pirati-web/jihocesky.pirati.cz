@@ -2,10 +2,9 @@
 uid: josef.spak
 name: Josef Špak
 category:
-- pms
 - pks
 img: people/josef-spak.jpg
-description: předseda krajského sdružení Jihočeského kraje, předseda MS Českobudějovicko a zastupitel v Českých Budějovicích
+description: předseda krajského sdružení Jihočeského kraje a zastupitel v Českých Budějovicích
 mail:
 - josef.spak@pirati.cz
 mob:			  
