@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/jan-hosek.jpg
-description: zastupitel a člen MS Pirátské strany v Českých Budějovicích
+description: člen MS Českobudějovicko a zastupitel v Českých Budějovicích
 mail:
 - jan.hosek@pirati.cz
 #mob: +420
