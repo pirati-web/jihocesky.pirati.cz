@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/kakona-martin.jpg
-description: zastupitel a člen MS Pirátské strany v Soběslavi
+description: člen MS Soběslav a zastupitel v Soběslavi
 mail:
 - martin.kakona@pirati.cz
 #mob: +420 
