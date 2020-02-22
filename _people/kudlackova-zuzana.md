@@ -8,7 +8,7 @@ category:
 - zastupitele
 - pks
 img: people/zuzana-kudlackova.jpg
-description: asistentka poslance Lukáše Kolaříka, členka MS Pirátské strany a zastupitelka v Českých Budějovicích
+description: asistentka poslance Lukáše Kolaříka, členka MS Českobudějovicko a zastupitelka v Českých Budějovicích
 mail:
 - zuzana.kudlackova@pirati.cz
 mob: +420 727 853 151
