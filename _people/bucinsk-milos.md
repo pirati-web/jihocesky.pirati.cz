@@ -10,7 +10,7 @@ category:
 img: people/milos-bucinsky.jpg
 mob: 
  - +420 728 467 440
-description: předseda MS Soběslav
+description: předseda MS Soběslav a zastupitel v Soběslavi
 mail:
 - milos.bucinsky@pirati.cz
 mob: 
