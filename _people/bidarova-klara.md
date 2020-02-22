@@ -7,7 +7,7 @@ titles:
 category:
 - koordinator
 img: people/klara-bidarova.jpg
-description: koordinátor Jihočeského kraje (kontakt pro zájemce o členství a dobrovolníky)
+description: koordinátorka Jihočeského kraje 
 mail:
 - klara.bidarova@pirati.cz
 mob: +420 770 199 948
