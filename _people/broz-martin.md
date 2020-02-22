@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/martin-broz.jpg
-description: člen MS Písecko Pirátské strany a zastupitel v Písku
+description: člen MS Písecko a zastupitel v Písku
 mail:
 - martin.broz@pirati.cz
 #mob: +420
