@@ -47,8 +47,8 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /volby/
-        name: Volby
+#      - link: /volby/
+#        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
