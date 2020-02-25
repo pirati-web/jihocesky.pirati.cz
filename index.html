@@ -59,7 +59,7 @@ textbox:
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-        {% for article in site.posts limit: 6 %}
+        {% for article in site.posts limit: 15 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
         <div class="c-article-listing__nextbox">
