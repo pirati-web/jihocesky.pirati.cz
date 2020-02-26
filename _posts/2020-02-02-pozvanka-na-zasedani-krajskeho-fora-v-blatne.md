@@ -7,10 +7,10 @@ date: '2020-02-02'
 author: Lukáš Hypša
 image: 2020-02-01-zasedani-krajskeho-fora-blatna.jpg
 description: Pozvánka na zasedání krajského fóra v Blatné
-tags: |-
-  zasedání krajského fóra
-  jihočeský kraj
-  piráti
+tags:
+  - zasedání krajského fóra
+  - jihočeský kraj
+  - piráti
 ---
 Srdečně zveme příznivce Pirátů, zájemce o pomoc v kampaních či o členství, novináře a širokou veřejnost na první krajské fórum tohoto roku! Akce se koná v neděli 9. února v Kavárně V Podzámčí v Blatné, v ulici Na Příkopech 183, od 13 hodin.
 
