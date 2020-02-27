@@ -1,7 +1,12 @@
 <ul class="c-pagination text-center" role="navigation" aria-label="Pagination">
-  {% if include.paginator.page != 1 %}
+  {% if include.paginator.page > 2 %}
   <li class="c-pagination__previous c-pagination__link">
     <a class="c-pagination__anchor" href="{{ include.paginator.previous_page_path }}" aria-label="Předchozí stránka">Předchozí</a>
+  </li>
+  {% endif %}
+  {% if include.paginator.page == 2 %}
+  <li class="c-pagination__previous c-pagination__link">
+    <a class="c-pagination__anchor" href="/" aria-label="Předchozí stránka">Předchozí</a>
   </li>
   {% endif %}
 
@@ -21,7 +26,7 @@
 
       {% else %}
         {% if forloop.index == 1 %}
-          <a class="c-pagination__anchor" href="../" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+          <a class="c-pagination__anchor" href="/" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
         {% else %}
           <a class="c-pagination__anchor" href="../{{forloop.index}}/" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
         {% endif %}      

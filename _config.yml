@@ -34,7 +34,7 @@ plugins:
   - jekyll-environment-variables
 
 paginate_path: "/aktuality/:num/"
-paginate: 20
+paginate: 15
 
 pagination:
   per_page: 2
