@@ -8,7 +8,10 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/pivo-s-poslancem-tabor-web.jpg
 description: 'Piráti, Tábor, Klecanda, Kolářík'
-tags: 'Piráti, Tábor, Klecanda, Kolářík'
+tags:
+  - Václav Klecanda
+  - Lukáš Kolářík
+  - Tábor
 ---
 Přijďte si popovídat s Lukášem Koláříkem, poslancem parlamentu ČR a lídrem táborských pirátů Mgr. Václavem Klecandou.
  

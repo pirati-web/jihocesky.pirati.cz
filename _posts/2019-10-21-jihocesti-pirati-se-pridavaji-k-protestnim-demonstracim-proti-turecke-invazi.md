@@ -7,7 +7,8 @@ date: '2019-10-21'
 author: Zbyněk Konvička
 image: posts/2019-10-21-rojava-protest-proti-turecke-invazi.jpg
 description: "Jihočeští Piráti se přidávají k\_protestním demonstracím proti turecké invazi"
-tags: rojava demonstrce pirati
+tags:
+  - Události
 ---
 Česká Pirátská strana pokračuje v sérii demonstrací proti turecké invazi v severovýchodní Sýrii. Demonstraci v Praze dne 21. října od 17 hodin zahájí předseda Pirátské strany Ivan Bartoš, vystoupí i zástupci Kurdské menšiny v České republice. Kromě pražského happeningu pořádají Piráti akce v dalších pěti městech, mezi nimi i 23. října od 17 hodin v Českých Budějovicích a 25. října od 18 hodin v Písku.
 

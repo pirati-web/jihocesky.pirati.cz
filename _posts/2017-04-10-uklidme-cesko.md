@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2017-04-10
-tags: akce
 title: Uklízeli jsme Jižní Čechy
 image: posts/uklidmecesko_vsichni.jpg
 author: Jana Rohová
+tags:
+  - Události
 ---
 
 Jihočeští Piráti uspořádali v sobotu 8. dubna úklid v šesti jihočeských městech, konkrétně v Českých Budějovicích, Písku, Strakonicích, Soběslavi, Týně nad Vltavou a Temelíně.

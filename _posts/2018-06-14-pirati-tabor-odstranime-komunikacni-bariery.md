@@ -8,7 +8,8 @@ author: Václav Klecanda
 authorId: vaclav.klecanda
 image: posts/formular.jpg
 description: 'Piráti, Tábor'
-tags: 'Piráti, Tábor'
+tags:
+  - Tábor
 ---
 Koncepční přístup, otevřenost a participativní rozpočet. To jsou naše recepty pro odstranění komunikačních bariér v Táboře. Chceme koncepční řízení – předvídatelné, jasné směřování. Do zpracování koncepcí zapojíme odborníky i z řad veřejnosti.
 

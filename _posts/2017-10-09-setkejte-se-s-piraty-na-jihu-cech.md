@@ -6,7 +6,8 @@ date: 2017-10-09T11:20:06.684Z
 author: 'Zbyněk Konvička, Jana Rohová'
 image: posts/DSC_1598.jpg
 description: Jihočeští Piráti vyrazili do ulic
-tags: lide
+tags:
+  - Události
 ---
 Kandidáti Pirátů ve volbách do poslanecké sněmovny
 v rámci kampaně navštěvují v těchto dnech jihočeská sídla a hovoří o

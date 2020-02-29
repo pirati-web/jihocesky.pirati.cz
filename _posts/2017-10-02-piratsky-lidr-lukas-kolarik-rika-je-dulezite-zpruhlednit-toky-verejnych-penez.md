@@ -6,7 +6,8 @@ date: 2017-10-02T18:26:54.945Z
 author: Zbyněk Konvička
 image: posts/Lukáš Kolářík.jpg
 description: 'Lukáš Kolářík, tok veřejných peněz'
-tags: lide
+tags:
+  - Lukáš Kolářík
 ---
 Lukáš
 Kolářík, lídr jihočeské kandidátky Pirátské strany, byl hostem Českého rozhlasu

@@ -8,7 +8,9 @@ date: 2017-11-19T17:33:25.506Z
 author: Zbyněk Konvička
 image: posts/bus v cb.jpg
 description: doprava v Českých Budějovicích
-tags: doprava
+tags:
+  - Doprava
+  - České Budějovice
 ---
 ČESKÉ
 BUDĚJOVICE | Nedostatek záchytných

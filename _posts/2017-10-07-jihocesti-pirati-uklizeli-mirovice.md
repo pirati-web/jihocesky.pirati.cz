@@ -6,7 +6,8 @@ date: 2017-10-07T16:57:51.342Z
 author: Jana Rohová
 image: posts/1.jpg
 description: Úklid v Mirovicích
-tags: lide uklid
+tags:
+  - Události
 ---
 Jihočeští Piráti se v sobotu 7. října sešli v Mirovicích na náměstí, aby se
 společně vydali na úklid městečka. Plánovaná trasa, na které uklízeli, začínala

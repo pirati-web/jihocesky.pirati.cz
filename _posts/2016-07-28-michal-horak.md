@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2016-07-28
-tags: volby
 title: Lákat voliče nereálnými sliby se může škaredě vymstít
 image: posts/pokus.jpg
 author: Věra Marušiaková
+tags:
+  - Volby
 ---
 
 Jihočeské Piráty povede do krajských voleb 2016 Michal Horák z Písku (51).

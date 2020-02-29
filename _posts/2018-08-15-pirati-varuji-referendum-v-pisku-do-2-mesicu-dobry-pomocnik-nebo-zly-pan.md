@@ -7,7 +7,8 @@ date: '2018-08-15 11:05am'
 author: Josef Soumar
 image: posts/2-josef-soumar.jpg
 description: 'Piráti, Soumar, referendum, Písek'
-tags: 'Piráti, Soumar, referendum, Písek'
+tags:
+  - Písecko
 ---
 __“Sekera” 400 milionů může město Písek pálit řadu let__
 

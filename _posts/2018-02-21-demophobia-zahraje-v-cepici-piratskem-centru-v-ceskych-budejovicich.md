@@ -7,7 +7,9 @@ date: '2018-02-21 09:30pm'
 author: Zbyněk Konvička
 image: posts/dema.jpg
 description: 'Piráti, ČePiCe, koncert, Démophobia'
-tags: 'Piráti, ČePiCe, koncert, Démophobia'
+tags:
+  - ČePICE
+  - Kultura
 ---
 Koncert se koná v Pirátském centru ČePiCe v Hradební ulici čp. 13 dne **6. března od 18 hodin**.
 

@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2016-06-12
-tags: kultura
 title: Mocný Tábor
 image: posts/mighty.jpg
 author: Martin Mareda
+tags:
+  - Kultura
 ---
 
 V neděli 24. července skončil v Táboře již 11. ročník třídenního hudebního festivalu Mighty sound.

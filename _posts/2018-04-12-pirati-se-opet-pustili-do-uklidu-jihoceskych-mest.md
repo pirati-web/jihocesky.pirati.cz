@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/budejovice-mala.jpg
 description: 'uklidme, Česko, Pirati'
-tags: 'uklidme, Česko, Pirati'
+tags:
+  - Události
 ---
 Jihočeští Piráti se 7. dubna tradičně zapojili do celonárodní akce Ukliďme Česko. V Jihočeském kraji se pustili do nepořádku v Českých Budějovicích, Táboře, Písku, Strakonicích, Soběslavi, Prachaticích a Týně nad Vltavou. V Jindřichově Hradci osazovali Piráti nové odpadkové koše.
 

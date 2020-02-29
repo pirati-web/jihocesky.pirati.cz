@@ -6,7 +6,8 @@ date: 2017-12-08T17:10:50.097Z
 author: Zbyněk Konvička
 image: posts/25035237_10211179287338206_1549525726_o.jpg
 description: města
-tags: Pisecko
+tags:
+  - Písecko
 ---
 Pirátská strana pořádá 30. ledna
 v Divadle Pod čarou přednášku s názvem Dolní Břežany – proměna obce

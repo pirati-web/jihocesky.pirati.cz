@@ -8,7 +8,9 @@ author: Lukáš Mareš
 authorId: lukas.mares
 image: posts/lukas-mares.jpg
 description: 'Lukáš Mareš, České Budějovice, Rada města, Piráti'
-tags: 'Lukáš Mareš, České Budějovice, Rada města, Piráti'
+tags:
+  - České Budějovice
+  - Lukáš Mareš
 ---
 **Prohlášení Zastupitelského klubu Pirátů ke vzniku rady města České 
 Budějovice na období 2018 – 2022** 

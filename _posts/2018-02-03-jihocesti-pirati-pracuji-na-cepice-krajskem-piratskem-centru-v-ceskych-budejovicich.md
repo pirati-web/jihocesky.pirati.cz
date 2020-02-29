@@ -9,7 +9,8 @@ date: '2018-02-03 08:37am'
 author: Zbyněk Konvička
 image: posts/cepice1.jpg
 description: 'Piráti, Jihočeský, kraj, Pirátské, centrum, ČePICE '
-tags: 'Piráti, Jihočeský, kraj, Pirátské, centrum, ČePICE '
+tags:
+  - ČePICE
 ---
 Na základě potřeby vlastních prostor jihočeských Pirátů vzniká v Hradební ulici v Českých Budějovicích krajské Pirátské centrum s pracovním názvem ČePiCe. Objekt v historickém centru města Piráti obnovují především svépomocí. Cílem je vytvoření prostředí, které bude sloužit nejen potřebám a propagaci Pirátské strany, ale rovněž jako komunitní prostor pro širokou veřejnost. 
 

@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2017-02-23
-tags: akce
 title: Předseda Pirátů Ivan Bartoš besedoval o autorských právech a ochraně osobních dat. Přišel i strakonický starosta.
 image: posts/bartos_v_cajovne_strakonice.jpg
 author: Jana Rohová
+tags:
+  - Ivan Bartoš
 ---
 
 Ve čtvrtek 23. února zavítal na besedu do Strakonic Ivan Bartoš, předseda Pirátské strany. Do komorního prostředí čajovny Na půdě si našly cestu dvě desítky posluchačů, mezi kterými byl také strakonický starosta Břetislav Hrdlička (Strakonická veřejnost) či bývalá místostarostka města Písku Eva Veselá. Tématem byla současná aplikace autorského práva a ochrana osobních dat na internetu.

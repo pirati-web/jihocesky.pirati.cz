@@ -8,7 +8,8 @@ author: 'Lukáš Mareš, Zbyněk Konvička'
 authorId: zbynek.konvicka
 image: posts/zastupitele-cb.jpg
 description: 'Pirati, Spak, '
-tags: 'Piráti, Špak, České, Budějovice, Podzimek'
+tags:
+  - České Budějovice
 ---
 ČESKÉ BUDĚJOVICE – Na svůj zastupitelský mandát a členství ve školské komisi rady města se k 6. září rozhodla rezignovat Adéla Kučerová, členka klubu Pirátů s podporou Zelených. Tento krok se rozhodla učinit z důvodu narůstajících pracovních povinností spojených s rozvojem dvou soukromých mateřských a jedné základní školy, které vede.
 

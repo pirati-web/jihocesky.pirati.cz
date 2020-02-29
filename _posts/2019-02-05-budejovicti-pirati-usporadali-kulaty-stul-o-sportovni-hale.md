@@ -9,7 +9,9 @@ date: '2019-02-05 12:43pm'
 author: Piráti Českobudějovicko
 image: posts/sportovka2.jpg
 description: 'Piráti, České Budějovice, sportovní, hala, referendum'
-tags: 'Piráti, České Budějovice, sportovní, hala, referendum'
+tags:
+  - České Budějovice
+  - Události
 ---
 Zastupitelské kluby Pirátů a ODS uspořádali v pondělí 4. února 2019 jednání u kulatého stolu se všemi stranami zastupitelstva. Po téměř dvouhodinovém rokování se strany shodly na tom, že myšlenku vypsání místního referenda ve věci demolice stávající sportovní haly na Dlouhé louce a realizace projektu nového multifunkčního centra na jejím místě v zásadě podporují. Klíčová věc – otázka, která bude v referendu položena – bude teprve představena na základě diskuze uvnitř pracovní skupiny, která k tomuto tématu vznikne.
 

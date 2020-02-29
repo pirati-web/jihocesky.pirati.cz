@@ -8,7 +8,9 @@ date: 2017-10-25T10:01:09.309Z
 author: 'Zbyněk Konvička, Jana Rohová'
 image: posts/výsledky Písecko.JPG
 description: výsledky voleb
-tags: Pisek
+tags:
+  - Písecko
+  - Volby
 ---
 V následujících
 zprávách se podíváme do jednotlivých okresů Jihočeského kraje na volební

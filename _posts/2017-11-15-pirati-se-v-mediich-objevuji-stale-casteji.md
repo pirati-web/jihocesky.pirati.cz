@@ -6,7 +6,6 @@ date: 2017-11-15T19:12:33.251Z
 author: Zbyněk Konvička
 image: posts/koliskclanku2.JPG
 description: Piráti v médiích
-tags: clanky
 ---
 Podle společnosti Monitora, která sleduje a přináší
 monitoring médií (on-line, tisk, rozhlas a televizi), bylo o Pirátské straně

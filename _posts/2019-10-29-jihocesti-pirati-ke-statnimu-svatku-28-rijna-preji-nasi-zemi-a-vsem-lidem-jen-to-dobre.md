@@ -15,7 +15,8 @@ description: >-
   Právě letos vstupuje naše země do dalšího století své samostatnosti. Někdy si
   dost možná ani neuvědomujeme, že před 101 lety nám byla dána neuvěřitelná
   možnost, možnost na sebeurčení.
-tags: '28. řijna, piráti, jihočeši, státní svátek'
+tags:
+  - Události
 ---
 Právě letos vstupuje naše země do dalšího století své samostatnosti. Někdy si dost možná ani neuvědomujeme, že před 101 lety nám byla dána neuvěřitelná možnost, možnost na sebeurčení. Díky tomu jsme si mohli začít rozhodovat o vlastních zákonech, o tom, jak využijeme naše společné peníze nebo o směřování naší země. Překonali jsme i dvě nesvobodné etapy státu - nacismu a komunismu, abychom se opět vrátili k demokratickému směřování republiky. Svobodně jsme se rozhodli stát se součástí Evropské unie a Severoatlantické aliance.
 

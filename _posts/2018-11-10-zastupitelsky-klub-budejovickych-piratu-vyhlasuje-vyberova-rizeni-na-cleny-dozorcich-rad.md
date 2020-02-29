@@ -10,7 +10,8 @@ author: Lukáš Mareš
 authorId: lukas.mares
 image: posts/new-kandidat.jpg
 description: 'dozorčí, správní, rada, Piráti, České, Budějovice'
-tags: 'dozorčí, správní, rada, Piráti, České, Budějovice'
+tags:
+  - České Budějovice
 ---
 Ustanovená koalice prosazuje větší vstřícnost směrem k opozičním stranám při dozorování městských
  společností. Pirátům bylo nabídnuto podílet se na účasti ve čtyřech dozorčích radách. V souladu s pirátským

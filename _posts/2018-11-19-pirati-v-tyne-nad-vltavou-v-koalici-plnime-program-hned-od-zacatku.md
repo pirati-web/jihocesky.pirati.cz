@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/800px-tyn_nad_vltavou.jpg
 description: 'Týn nad Vltavou, Piráti, koalice, program'
-tags: 'Týn nad Vltavou, Piráti, koalice, program'
+tags:
+  - Týn Nad Vltavou
 ---
 Dalším jihočeským městem, kde se Piráti stali součástí vládnoucí koalice, je Týn nad Vltavou. Koaliční smlouvu podepsali tamní Piráti Jan Novák a Simon Kostadinov se stranami SSO, ODS, ČSSD a Tejňáci.
 

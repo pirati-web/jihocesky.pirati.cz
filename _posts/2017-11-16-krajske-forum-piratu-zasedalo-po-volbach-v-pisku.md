@@ -6,7 +6,9 @@ date: 2017-11-16T08:56:01.949Z
 author: Zbyněk Konvička
 image: posts/23698686_1687109997977331_20640637_o.jpg
 description: krajské fórum
-tags: Jihoceskykraj
+tags:
+  - Písecko
+  - Krajské fórum
 ---
 Jihočeští Piráti se po úspěšných volbách do sněmovny
 Parlamentu České republiky, kam byl zvolen také jihočeský lídr Pirátů Lukáš

@@ -7,7 +7,9 @@ date: 2019-10-20
 author: Zbyněk Konvička
 image: posts/pirati-jih.jpg
 description: Krajské pirátské fórum v Soběslavi
-tags: Soběslav, Piráti, fórum, kraj
+tags:
+  - Krajské fórum
+  - Soběslav
 ---
 Druhé podzimní setkání pro všechny Piráty a jejich příznivce z Jihočeského kraje se uskuteční 27. října v Soběslavi. Akce se koná v Country Saloonu, který se nachází v místní části Řípec čp. 134, lokalita U sloupu. Zveme tímto všechny, které zajímá dění v kraji, obzvláště nyní – rok před volbami do krajského zastupitelstva.
 

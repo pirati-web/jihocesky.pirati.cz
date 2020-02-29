@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/02ef6a4d_uklidme-cesko.jpg
 description: 'Ukliďme, Česko, Piráti, Jihočeský, kraj'
-tags: 'Ukliďme, Česko, Piráti, Jihočeský, kraj'
+tags:
+  - Události
+  - Pozvánka
 ---
 I letos se jihočeští Piráti zapojí do celonárodní akce Ukliďme Česko, která se v mnoha městech republiky koná 7. dubna. Přinášíme přehled měst a míst, kde se jednotlivé úklidy pořádají.
 

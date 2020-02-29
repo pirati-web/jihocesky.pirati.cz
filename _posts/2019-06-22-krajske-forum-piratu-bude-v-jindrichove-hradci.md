@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/kf-jindrichuv-hradec-30.6.2019-maly.jpg
 description: 'Jihočeští Piráti se setkají na krajském fóru v Jindřichově Hradci. '
-tags: 'krajské, fórum, Piráti, Jindřichův Hradec'
+tags:
+  - Krajské fórum
+  - Jindřichohradecko
 ---
 Jihočeští Piráti se setkají na krajském fóru v Jindřichově Hradci. Akce se koná 30. června v Clubu Na Piketě (Na Piketě 608) od 11 hodin. Možný příchod je od 10.30 hodin. Nabitý program fóra je plánován cca do 17 hodin. Zveme tímto všechny jihočeské Piráty a příznivce projednat důležité věci ještě před vypuknutím léta a dovolených.
 

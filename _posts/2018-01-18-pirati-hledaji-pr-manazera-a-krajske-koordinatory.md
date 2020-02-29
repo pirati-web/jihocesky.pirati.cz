@@ -7,7 +7,6 @@ date: '2018-01-18 11:27pm'
 author: Zbyněk Konvička
 image: posts/infografika.png
 description: 'Piráti, krajský koordinátor, PR manažer'
-tags: 'Piráti, krajský koordinátor, PR manažer'
 ---
 Pirátská strana vyhlašuje veřejná výběrová řízení na pozici PR manažera a také na pozice krajský koordinátor. Chcete se zapojit do prestižní práce, kdy každý den je novou výzvou, která může učinit českou politiku a společnost lepším prostředím? Chcete pracovat v nejlepší politické straně v České republice? Pak neváhejte a využijte této příležitosti.
 

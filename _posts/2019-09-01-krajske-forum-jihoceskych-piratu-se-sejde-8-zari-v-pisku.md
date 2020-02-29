@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/pisek-kamenny-most.jpg
 description: Krajské fórum Pirátů v Písku
-tags: 'Piráti, Písek, krajské, fórum, '
+tags:
+  - Písecko
+  - Krajské fórum
 ---
 První poprázdninové setkání jihočeských Pirátů z celého kraje se uskuteční 8. září v Písku. V hotelu Otava Arena ve čtvrti Svatý Václav vypukne program v 11 hodin a je naplánován do 17 hodiny. Zveme tímto všechny jihočeské Piráty a příznivce na projednání důležitých věcí ve fungování místních sdružení a celého krajského sdružení, včetně Pirátského centra Čepice. 
 

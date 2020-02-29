@@ -10,7 +10,9 @@ author: 'Zbyněk Konvička, Kateřina Hůlková'
 authorId: zbynek.konvicka
 image: posts/1024px-praha_valdstejnsky_palac_-_panoramio_2.jpg
 description: 'Senát, Piráti, České, Budějovice, volby'
-tags: 'Senát, Piráti, České, Budějovice, volby'
+tags:
+  - Volby
+  - České Budějovice
 ---
 V letošních senátních volbách se otevírá možnost kandidovat za Pirátskou stranu v obvodě České Budějovice. 
 

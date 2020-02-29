@@ -6,7 +6,8 @@ date: 2017-10-05T17:30:39.934Z
 author: Zbyněk Konvička
 image: posts/vašek na web.jpg
 description: Pětkou jihočeské kandidátky je Václav Klecanda
-tags: lide
+tags:
+  - Václav Klecanda
 ---
 
 Čtyřkou na kandidátce jihočeských Pirátů byl

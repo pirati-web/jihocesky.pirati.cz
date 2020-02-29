@@ -8,7 +8,9 @@ date: 2017-10-29T14:43:35.749Z
 author: 'Zbyněk Konvička, Jana Rohová'
 image: posts/krumlov graf.JPG
 description: volební výsledky
-tags: Český Krumlov
+tags:
+  - Volby
+  - Český Krumlov
 ---
 Dalším
 okresem, z něhož přinášíme podrobné výsledky, je Českokrumlovsko. 

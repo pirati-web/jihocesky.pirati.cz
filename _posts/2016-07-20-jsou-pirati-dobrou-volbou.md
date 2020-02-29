@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2016-07-20
-tags: volby
 title: Jsou Piráti pro Jihočeský kraj tou správnou volbou?
 image: people/crew.jpg
 author: Lukáš Kolařík
+tags:
+  - Volby
 ---
 
 Piráti představují novou netradiční stranu nezatíženou korupčními a klientelistickými skandály.

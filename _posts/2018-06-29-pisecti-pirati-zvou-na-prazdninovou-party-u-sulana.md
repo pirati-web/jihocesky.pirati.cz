@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/maly-sulan.jpg
 description: 'Piráti, Písek,'
-tags: 'Piráti, Písek'
+tags:
+  - Písecko
 ---
 Písečtí Piráti srdečně zvou na prázdninovou párty v areálu oblíbené výletní hospůdky U Sulana. Akce vypukne 28. července od 19 hodin za účasti kapel Totální nasazení, Patheroye roye a Žlutý fijalky. Stejně jako na Sdíleném Hradišti vám budou k dispozici písecký lídr Pirátů Martin Brož a poslanec PSP ČR a jihočeský předseda Pirátů Lukáš Kolářík, stejně jako další písečtí Piráti. Vstup je zdarma.
 

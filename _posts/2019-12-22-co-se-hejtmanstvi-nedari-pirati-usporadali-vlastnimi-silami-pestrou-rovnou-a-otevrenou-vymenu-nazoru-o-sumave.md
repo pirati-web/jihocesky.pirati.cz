@@ -11,7 +11,9 @@ image: sumava-konference-co-se-hejtmanstvi-nedari.jpg
 description: >-
   Co se hejtmanství nedaří, Piráti uspořádali vlastními silami: pestrou, rovnou
   a otevřenou výměnu názorů o Šumavě
-tags: Šumava
+tags:
+  - Šumava
+  - Krajina
 ---
 **Tisková zpráva krajského sdružení České pirátské strany Jihočeský kraj**
 

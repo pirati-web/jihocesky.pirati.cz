@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/lovecka-basta.jpg
 description: 'krajské, fórum, Piráti, Jihočeský, kraj, Strakonice'
-tags: 'krajské, fórum, Piráti, Jihočeský, kraj, Strakonice'
+tags:
+  - Krajské fórum
+  - Strakonicko
 ---
 Jihočeští Piráti pořádají krajské fórum ve Strakonicích. Setkání se koná 25. listopadu od 11 do 17 hodin v Hotelu Resort Lovecká bašta v ulici Švandy Dudáka 1312.
 

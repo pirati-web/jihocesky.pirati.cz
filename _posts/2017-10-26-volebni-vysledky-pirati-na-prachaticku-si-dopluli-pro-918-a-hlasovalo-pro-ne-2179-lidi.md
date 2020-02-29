@@ -8,7 +8,9 @@ date: 2017-10-26T14:26:27.760Z
 author: 'Zbyněk Konvička, Jana Rohová'
 image: posts/Prachaticko graf.JPG
 description: výsledky voleb
-tags: Prachatice
+tags:
+  - Prachaticko
+  - Volby
 ---
 Třetím
 okresem, z něhož přinášíme podrobné výsledky, je Prachaticko. 

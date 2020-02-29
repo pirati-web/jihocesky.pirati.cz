@@ -10,9 +10,9 @@ image: posts/ivan-bartos.jpg
 description: >-
   Piráti, Tábor, České Budějovice, Hluboká nad Vltavou, Třeboň, Týn nad Vltavou,
   Jindřichův Hradec, Ivan, Bartoš
-tags: >-
-  Piráti, Tábor, České Budějovice, Hluboká nad Vltavou, Třeboň, Týn nad Vltavou,
-  Jindřichův Hradec, Ivan, Bartoš
+tags:
+  - Volby
+  - Ivan Bartoš
 ---
 **Předseda Pirátů a poslanec PSP ČR Ivan Bartoš v rámci své předvolební šňůry po městech České republiky přijede ve dnech 28.-29. září podpořit šest jihočeských měst: České Budějovice, Tábor, Jindřichův Hradec, Třeboň, Týn nad Vltavou a Hluboká nad Vltavou. Zastaví se jako host na pirátských akcích, kde bude besedovat s občany o práci ve sněmovně a otázkách, které lidi pálí v regionu.**
 

@@ -7,7 +7,9 @@ date: '2018-03-03 08:04pm'
 author: Martin Mareda
 image: posts/pirati-tabor-zarovky.jpg
 description: 'Piráti, Tábor, školství, výběrové řízení'
-tags: 'Piráti, Tábor, školství, výběrové řízení'
+tags:
+  - Tábor
+  - školství
 ---
 Odbor školství městského úřadu Tábor pod vedením místostarostky Michaely Petrové připravuje výběrová řízení na pozice ředitelů táborských základních a mateřských škol. Piráti tuto snahu vítají a plně ji podporují.
 

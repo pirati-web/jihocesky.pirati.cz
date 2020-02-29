@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/ivan-1.jpg
 description: 'Piráti, Bartoš, Brož, Písek'
-tags: 'Piráti, Bartoš, Brož, Písek'
+tags:
+  - Písecko
 ---
 **Piráti Písecko uspořádali 17. srpna na útulném dvorku památkově chráněného Domu U Slona v Písku podvečerní setkání, na které pozvali předsedu Pirátů Ivana Bartoše. S občany diskutovali i písečtí Piráti v čele s lídrem Martinem Brožem.**
 

@@ -7,7 +7,8 @@ date: '2018-03-01 04:19pm'
 author: 'Zbyněk Konvička, Kateřina Hůlková'
 image: posts/cepice4.jpg
 description: 'Čepice, Piráti, centrum, coworking, '
-tags: 'Čepice, Piráti, centrum, coworking, '
+tags:
+  - ČePICE
 ---
 Hudba, fotografie, obrazy, diskuze, tvoření, pohyb a myšlenky zaplní prostor historického domu číslo 13 v budějovické Hradební ulici.
 

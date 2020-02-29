@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/pl-obrazek.jpg
 description: 'Piráti, Pirátské, listy, '
-tags: 'Piráti, Pirátské, listy, '
+tags:
+  - Pirátské listy
 ---
 Jihočeští Piráti se v posledním měsíci ponořili do tvorby letošního prvního vydání Pirátských listů. Jejich práce vyvedená novinovou černí na tisících listech papíru sotva oschla a už je dobrovolníci rozdávají budoucím čtenářům v ulicích měst. Piráti připravili na jihu Čech pět mutací: pro Písek, Tábor, České Budějovice, Jindřichův Hradec a Soběslav. K dispozici bude i celostátní mutace ve městech, kde bude ještě postavena pirátská kandidátka.
 

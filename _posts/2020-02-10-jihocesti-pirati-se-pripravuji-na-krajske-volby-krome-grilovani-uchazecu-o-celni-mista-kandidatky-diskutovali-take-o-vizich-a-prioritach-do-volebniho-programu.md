@@ -14,9 +14,8 @@ description: >-
   čelní místa kandidátky diskutovali také o vizích a prioritách do volebního
   programu
 tags:
-  - Blatná
-  - krajské volby
-  - Piráti
+  - Volby 2020
+  - Krajské fórum
 ---
 **Blatná, 9. 2. 2020 - Na zasedání Krajského fóra v Blatné se Jihočeští Piráti intenzivně zabývali přípravou programu do krajských voleb v roce 2020. Lukáš Mareš, lídr kandidátky, představil svůj návrh programu, vize a priority.**
 

@@ -9,7 +9,9 @@ date: '2018-03-01 10:30pm'
 author: Jana Rohová
 image: posts/3.jpg
 description: 'Strakonicko, Piráti, Lukáš Kolářík'
-tags: 'lide, Strakonicko, Piráti, Lukáš Kolářík'
+tags:
+  - Lukáš Kolářík
+  - Strakonicko
 ---
 Již pátý ročník charitativního hudebního projektu Autumn Night Katovice se uskutečnil na sklonku listopadu roku 2017 v kulturním domě Městyse Katovice. Pořadatelský tým dobrovolníků spolku Rally Fans Katovice a hudební kapely Riverside Project se rozhodl výtěžek z pátého ročníku věnovat Dětskému domovu ve Volyni.  I díky kapelám (RightNow, GangstaSKA, Riverside Project, Pirates of the Pubs a Cela pro Klárku), které se v rámci vystoupení vzdaly honoráře, nebo hrály za náklady spojené s cestou, se podařilo vybrat rekordní výtěžek 41 753 korun, který byl předán do rukou ředitele Dětského domova ve Volyni dne 20. 2. 2018. V rámci koncertu proběhla již tradičně prodejní výstava výrobků dětí z Dětského domova, při které se podařilo prodat výrobky za dalších necelých 4 tisíce korun. Charitativního koncert navštívilo zhruba 200 lidí. Hlavními partnery akce jsou již tradičně Česká Pirátská strana a Městys Katovice a DR servis. 
 

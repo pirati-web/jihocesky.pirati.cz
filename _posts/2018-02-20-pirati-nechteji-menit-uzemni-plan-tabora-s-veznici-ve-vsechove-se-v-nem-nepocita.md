@@ -9,7 +9,8 @@ date: '2018-02-20 08:30pm'
 author: Zbyněk Konvička
 image: posts/ne_veznice.jpg
 description: 'Piráti, Tábor, Všechov, věznice'
-tags: 'Piráti, Tábor, Všechov, věznice, stanovisko'
+tags:
+  - Tábor
 ---
 V Táboře i okolních obcích to v posledních měsících vře. Tématem rozhovorů mezi lidmi jsou totiž plány Vězeňské služby vybudovat věznici na letišti ve Všechově, místní části Tábora. Tyto pozemky získala Vězeňská služba převodem z majetku Ministerstva obrany. Zprávy o tomto projektu se v médiích objevily na podzim minulého roku a hned vyvolaly bouřlivé reakce občanů táborské aglomerace. Vznikla i petice NE věznici, jejíž celý text si můžete přečíst [**ZDE**](https://docs.google.com/document/d/1qwDsU4sWsT5EM3htCm5L3S6fuUxZBF_D7LKl8RvAv2A/edit). Věznice by měla vzniknout pro 800 odsouzených v roce 2019.
 

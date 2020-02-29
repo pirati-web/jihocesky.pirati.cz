@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/jh-1.jpg
 description: 'Piráti, krajské, fórum, Jihočeský, kraj'
-tags: 'Piráti, krajské, fórum, Jihočeský, kraj'
+tags:
+  - Krajské fórum
+  - Jindřichohradecko
 ---
 V sídlištní restauraci Jiskra v Jindřichově Hradci se 17. března setkali jihočeští Piráti na krajském fóru. Dorazilo několik příznivců i zájemců o členství v Pirátské straně. Řešili aktuální situaci volebních týmů měst, kde bude postavena pirátská kandidátka. Hovořilo se o podpoře těchto týmů prostřednictvím mediálního odboru, který bude připravovat Pirátské listy. Na programu byly i aktivity pirátského centra ČePiCe a primární volby do Senátu.  
 

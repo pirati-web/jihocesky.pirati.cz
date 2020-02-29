@@ -10,7 +10,8 @@ author: Lukáš Kolářík
 authorId: lukas.kolarik
 image: posts/43271726_10156669649997114_3717160230363070464_n.png
 description: komunální volby Piráti úspěch jižní čechy
-tags: komunální volby Piráti úspěch
+tags:
+  - Volby
 ---
 Jihočeští Piráti po skončených komunálních volbách výrazně posílili. Na 11 radnicích bude pirátský program a ideje prosazovat 30 nových zastupitelů. Nejlepšího výsledku dosáhla samostatná kandidátka Pirátů v Soběslavi 17,21%, Písku 15,33% v Českých Budějovicích 12,19 %. 
 

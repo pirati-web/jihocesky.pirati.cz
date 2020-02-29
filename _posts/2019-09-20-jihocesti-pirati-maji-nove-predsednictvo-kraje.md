@@ -7,9 +7,10 @@ date: 2019-09-20
 author: Zbyněk Konvička
 image: posts/pirati-krajske-forum-pisek.jpg
 description: Jihočeští Piráti mají nové předsednictvo kraje
-tags: >-
-  Špak, Kolářík, Koláříková, Kudláčková, Mareš, předsednictvo, kraj, Jihočeský,
-  Piráti
+tags:
+  - Krajské fórum
+  - Lukáš Kolářík
+  - Lukáš Mareš
 ---
 __JIHOČESKÝ KRAJ – Členská základna jihočeských Pirátů si v těchto dnech zvolila nové předsednictvo krajského sdružení. Předsedou se nově stal Josef Špak z Českých Budějovic. Dalšími místopředsedy byli zvoleni Lukáš Kolářík z Katovic, Zuzana Kudláčková a Lukáš Mareš z Českých Budějovic a Jana Koláříková z Písku. Nové předsednictvo nyní především provede sdružení volbami do krajského zastupitelstva.__
 

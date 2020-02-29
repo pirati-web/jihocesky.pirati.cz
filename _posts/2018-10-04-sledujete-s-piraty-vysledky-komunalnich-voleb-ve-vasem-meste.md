@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/pirati.jpg
 description: 'Piráti, volby, '
-tags: 'Piráti, volby,'
+tags:
+  - Volby
 ---
 V sobotu 6. října otevřeme v řadě měst i na jihu Čech volební štáby Pirátů, kde budeme v odpoledních hodinách sledovat výsledky komunálních voleb. Buďte u toho s námi!
 

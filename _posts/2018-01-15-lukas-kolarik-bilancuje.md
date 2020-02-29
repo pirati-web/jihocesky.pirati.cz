@@ -9,7 +9,8 @@ image: posts/lukáš web.jpg
 description: >-
   Piráti, Lukáš Kolářík bilancuje minulý rok a přibližuje práci v poslanecké
   sněmovně
-tags: 'Piráti, sněmovna, Kolářík, '
+tags:
+  - Lukáš Kolářík
 ---
 Během hektických dnů při jednání poslanecké sněmovny o důvěře vládě a vydání poslanců hnutí ANO 2011 Andreje Babiše a Jaroslava Faltýnka, současně práci v poslaneckých výborech a v krajském sdružení Pirátů si jihočeský předseda a poslanec Lukáš Kolářík našel čas ohlédnout se za úspěšným loňským rokem a prvními měsíci svého působení v poslanecké sněmovně. 
 

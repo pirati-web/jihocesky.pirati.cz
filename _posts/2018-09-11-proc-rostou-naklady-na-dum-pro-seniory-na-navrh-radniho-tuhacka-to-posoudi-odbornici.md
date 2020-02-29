@@ -10,7 +10,8 @@ author: 'Piráti Tábor, Zbyněk Konvička'
 authorId: zbynek.konvicka
 image: posts/tuhacek.jpg
 description: 'Piráti, Tábor, senioři, Tuháček'
-tags: 'Piráti, Tábor, senioři, Tuháček'
+tags:
+  - Tábor
 ---
 **Rada města Tábora podpořila v pondělí 10. září jednohlasně návrh radního a volebního kandidáta České pirátské strany JUDr. Miloše Tuháčka na posouzení efektivity projektu „Centrum pro seniory v Táboře“.**
 

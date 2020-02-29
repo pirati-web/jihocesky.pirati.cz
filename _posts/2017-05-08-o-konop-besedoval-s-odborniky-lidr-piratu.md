@@ -12,8 +12,7 @@ description: >-
   lék, a také předseda jihočeských Pirátů a lídr kandidátky pro volby 2017 Lukáš
   Kolářík.
 tags:
-  - konopí
-  - beseda
+  - Lukáš Kolářík
 ---
 
 Ve čtvrtek 4. května se ve strakonické čajovně Na Půdě promítal dokument Rok konopí, na který navázala inspirativní debata.

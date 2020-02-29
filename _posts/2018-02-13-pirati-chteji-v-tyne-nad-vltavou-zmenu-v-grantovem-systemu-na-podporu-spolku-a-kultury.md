@@ -9,7 +9,9 @@ date: '2018-02-13 10:59pm'
 author: 'Jan Novák, Zbyněk Konvička'
 image: posts/800px-tyn_nad_vltavou.jpg
 description: 'Piráti, Týn, kultura, granty, neziskovky, Pirátská strana'
-tags: 'Piráti, Týn, kultura, granty, neziskovky, Pirátská strana'
+tags:
+  - Týn Nad Vltavou
+  - Kultura
 ---
 Vltavotýnští Piráti se pozastavují nad současným přerozdělováním finančních prostředků z takzvaného Oranžového roku, který podporuje v Týně činnost spolků a kulturních akcí. Nemluvíme o malé částce - každoročně rozděluje několik lidí bez jasně stanovených kritérií cca dva miliony korun! Stávající systém nám tedy přijde nedostatečně transparentní s chybějícími základními pravidly pro rozdělování těchto prostředků.
 

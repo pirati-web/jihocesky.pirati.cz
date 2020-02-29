@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/eurovolby-petka-web.jpg
 description: 'Piráti, volby, Evropa, Eurovolby'
-tags: 'Piráti, volby, Evropa, Eurovolby'
+tags:
+  - Volby
 ---
 Fandíš Pirátům a záleží ti na výsledku letošních voleb do Evropského parlamentu? Připoj se k nám na palubu!
 

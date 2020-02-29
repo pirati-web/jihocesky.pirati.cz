@@ -6,7 +6,9 @@ date: 2017-11-07T17:33:38.417Z
 author: Jana Rohová
 image: posts/krajska schuze.jpg
 description: zasedání krajského fóra
-tags: zasedani
+tags:
+  - Krajské fórum
+  - Písecko
 ---
 Již tuto neděli 12. listopadu proběhne v Písku zasedání
 krajského fóra Pirátů Jihočeského kraje.

@@ -6,7 +6,6 @@ date: 2017-10-12T08:54:58.790Z
 author: Zbyněk Konvička
 image: posts/olda na web.jpg
 description: Oldřich Máca o daních a zemědělství
-tags: lide
 ---
 Dvojkou na jihočeské kandidátce Pirátů je daňový
 poradce a farmář Oldřich Máca z Jindřichova Hradce. Jeho zkušenosti

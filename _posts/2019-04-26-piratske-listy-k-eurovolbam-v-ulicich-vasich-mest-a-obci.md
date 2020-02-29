@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/pl-eu-vyrez.jpg
 description: 'Pirátské, Listy, Eurovolby, Piráti'
-tags: 'Pirátské, Listy, Eurovolby, Piráti'
+tags:
+  - Volby
+  - Pirátské listy
 ---
 Volby do Evropského parlamentu jsou za dveřmi. Vstupujeme do horké fáze kampaně, kdy řada Pirátů a dobrovolníků bude v ulicích, v kavárnách, v domácnostech i na pracovištích mluvit o tom, proč právě volba Pirátů je to pravé ořechové a proč je důležité, aby Piráti byli hojně zastoupeni i v Europarlamentu.
 

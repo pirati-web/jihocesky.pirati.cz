@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/cf-celo.jpg
 description: 'Piráti, Tábor, fórum, Eurovolby'
-tags: 'Piráti, Tábor, fórum, Eurovolby'
+tags:
+  - Tábor
+  - Volby
 ---
 Piráti z celé republiky se 19.–20. ledna sjeli do Tábora, aby si v Hotelu Palcát zvolili zástupce na kandidátku do Evropských voleb. Pro Piráty v tradičním internetovém hlasování se lídrem stal softwarový specialista Marcel Kolaja, který v závěrečném duelu porazil Mikuláše Peksu. Jako dvojka kandidátky  bude vedoucí zahraničního odboru Pirátů Markéta Gregorová, třetí bude Mikuláš Peksa a čtvrtý zastupitel v Ústí nad Labem Lukáš Blažej. O dalších pozicích se bude rozhodovat v internetovém hlasování. Do kongresového sálu hotelu dorazilo téměř 450 Pirátů, příznivců a novinářů.
 

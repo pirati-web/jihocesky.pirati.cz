@@ -6,7 +6,6 @@ date: 2017-08-29T21:11:44.734Z
 author: Jana Rohová
 image: posts/zbynek k rozhovoru.jpg
 description: 'Rozhovor se Zbyňkem Konvičkou, pětkou Jihočeské kandidátky do PS'
-tags: lide
 ---
 
 Zbyněk Konvička spolupracuje s Českou Pirátskou

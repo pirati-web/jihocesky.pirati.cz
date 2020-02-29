@@ -6,7 +6,6 @@ date: 2017-10-10T17:30:39.934Z
 author: Zbyněk Konvička
 image: posts/tuhacek.jpg
 description: Rozhovor s právníkem Milošem Tuháčkem o tom, proč podporuje Piráty v parlamentních volbách
-tags: lide
 ---
 
 Jihočeské Piráty v nadcházejících parlamentních volbách podporuje JUDr. Miloš Tuháček,

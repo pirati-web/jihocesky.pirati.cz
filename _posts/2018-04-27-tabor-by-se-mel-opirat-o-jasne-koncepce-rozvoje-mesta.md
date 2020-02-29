@@ -8,7 +8,9 @@ author: 'Zbyněk Konvička, Kateřina Hůlková'
 authorId: zbynek.konvicka
 image: posts/vasek-klecanda-web.jpg
 description: 'Václav, Klecanda, Piráti, Tábor, smart, city'
-tags: 'Václav, Klecanda, Piráti, Tábor, smart, city'
+tags:
+  - Tábor
+  - Václav Klecanda
 ---
 **Chcete dále trávit hodiny na úřadech a vyplňovat obtěžující dokumenty? Nebo si v pohodlí domova sami od svého počítače zařizovat vše potřebné? Jak by mělo fungovat moderní město, které bere ohledy na potřeby svých obyvatel a snaží se držet krok s dobou? Nejen o tom jsme si povídali s Mgr. Václavem Klecandou, lídrem táborských Pirátů v podzimních komunálních volbách.**
 

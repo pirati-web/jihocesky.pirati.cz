@@ -12,7 +12,9 @@ description: >-
   měsíců a za tu dobu si přenosy občané oblíbíli. Oblíbenost stoupá a lidé tak
   získávají představu o tom, jak jednání probíhá a jsou tak více vtahováni do
   politického dění.
-tags: 'stream,zastupitelstvo,přenos'
+tags:
+  - Tábor
+  - Zastupitelstvo
 ---
 V Táboře se jednání zastupitelstva města přenáší on-line na internetu již řadu měsíců a za tu dobu si přenosy občané oblíbili. Zájem o ně stoupá i přes počáteční kvalitativní technické nedostatky. Lidé získávají lepší představu o tom, jak jednání probíhá a jsou tak více vtahováni do lokálního politického dění.
 

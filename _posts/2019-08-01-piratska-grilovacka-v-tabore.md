@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/mapa-tismenicke-udoli.jpg
 description: Táborská grilovačka s Piráty v Tismenickém údolí.
-tags: 'Piráti, Tábor, grilovačka, Tismenické, údolí'
+tags:
+  - Tábor
+  - Události
 ---
 dovolujeme si vás pozvat na pirátskou grilovačku v příjemném prostředí Tismenického údolí v Táboře u piknikových stolů se zabudovanými grily. POZOR: Akci jsme přesunuli na 11. srpna od 17 do cca 19 hodin.
 

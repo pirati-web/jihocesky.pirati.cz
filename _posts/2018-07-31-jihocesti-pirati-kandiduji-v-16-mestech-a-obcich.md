@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/web-pirati-mapa-kandidatky-.jpg
 description: 'Piráti, Jihočeský, kraj, volby, 2018'
-tags: 'Piráti, Jihočeský, kraj, volby, 2018'
+tags:
+  - Volby
 ---
 Piráti budou v podzimních komunálních volbách kandidovat v celkem 16 obcích Jihočeského kraje. Samostatnou kandidátku České pirátské strany postavilo 6 sídel. V Českých Budějovicích vede kandidátku lékař Lukáš Mareš, v Týně nad Vltavou Jan Novák, jednička na Táborské kandidátce je programátor Václav Klecanda. V Písku je lídr kandidátky podnikatel Martin Cryo Brož a Jindřichův Hradec táhne z první pozice Miroslava Mácová.  Kváskovická kandidátka má pouze jednoho člena Stanislava Hraničku. 
 

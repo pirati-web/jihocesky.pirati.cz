@@ -8,7 +8,6 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/zpravodaj-kveten.jpg
 description: 'Piráti, Zpravodaj'
-tags: 'Piráti, Zpravodaj'
 ---
 Právě vyšlo květnové vydání Pirátského zpravodaje. V čísle naleznete bližší informace o aktuálních jihočeských mutacích Pirátských listů, ohlédnutí za zajímavými akcemi v centru ČePiCe i v místních sdruženích. Nabízíme i výběr z plánovaných akcí na červen. A další zajímavosti z pirátského života. Zpravodaj si můžete přečíst [**ZDE**](https://cb.pirati.czzpravodaj_kveten.pdf).
 

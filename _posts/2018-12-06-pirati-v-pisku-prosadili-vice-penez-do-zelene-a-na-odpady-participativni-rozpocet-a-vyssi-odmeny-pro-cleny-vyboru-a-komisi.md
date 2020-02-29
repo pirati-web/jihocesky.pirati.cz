@@ -10,7 +10,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/pisek_kostel_narozeni_panny_marie.jpg
 description: 'Piráti, Písek, participativní, rozpočet, zeleň, odpady, komise, výbory, město'
-tags: 'Piráti, Písek, participativní, rozpočet, zeleň, odpady, komise, výbory, město'
+tags:
+  - Písecko
+  - participativní rozpočet
 ---
 Písečtí Piráti plní program i z opoziční role. Na posledním zastupitelstvu města tohoto roku, které se konalo 6. prosince, se na návrh Piráta Martina Brože podařilo prosadit navýšení rozpočtu města Písek na rok 2019 o 6 milionů korun na údržbu a obnovu parků, nové stromy i častější svoz odpadu.
 

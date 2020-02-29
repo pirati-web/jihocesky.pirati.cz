@@ -10,7 +10,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/cf-celo.jpg
 description: Piráti zvítězili v Eurovolbách na jihu Čech v 67 obcích.
-tags: 'Eurovolby, Piráti, '
+tags:
+  - Volby
 ---
 V Jihočeském kraji zvítězili Piráti v nedávných Eurovolbách v 67 obcích, v dalších 12 obcích jsme se o první místo dělili s jinou stranou. Do Evropského parlamentu  se nakonec dostali tři naši poslanci: Marcel Kolaja, Markéta Gregorová a Mikuláš Peksa.
 

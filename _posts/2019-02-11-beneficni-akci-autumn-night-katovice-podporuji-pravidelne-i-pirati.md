@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/1_rightnow_reditelka.jpg
 description: 'Piráti, Katovice, benefice, koncert'
-tags: 'Piráti, Katovice, benefice, koncert'
+tags:
+  - Události
+  - Kultura
 ---
 Již šestým ročníkem pokračoval 8. prosince 2018 charitativní hudební projekt Autumn Night Katovice. Parta pořadatelů ze spolku Rally Fans Katovice, katovické hudební kapely Riverside Project a dalších dobrovolníku připravila v kulturním odmě v Katovicích vystoupení pěti kapel různých žánrů. 
 

@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2017-04-18
-tags: akce
 title: Dobrovolníci a Piráti se v sobotu sešli na Podskalí, aby zde vybudovali stezku pro bosé nohy
 image: posts/bosichodnik_all.jpg
 author: Jana Rohová
+tags:
+  - Události
 ---
 
 S myšlenkou vybudovat bosý chodník přišla Eva Polanová, jejíž nápad pomohlo zrealizovat přibližně dvacet dobrovolníků.

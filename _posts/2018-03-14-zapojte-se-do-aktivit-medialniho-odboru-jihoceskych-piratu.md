@@ -7,7 +7,6 @@ date: '2018-03-14 01:05pm'
 author: Zbyněk Konvička
 image: posts/pl-ilustration.jpg
 description: 'Piráti, média, mediální, odbor'
-tags: 'Piráti, média, mediální, odbor'
 ---
 Před více než rokem byl jihočeskými Piráty zřízen krajský mediální odbor (MO), jehož cílem bylo větší zviditelnění Pirátů navenek a zároveň zlepšování PR o jejich činnosti. Po prvním roce zkušebního fungování, kdy se o PR starali především vedoucí MO a krajský koordinátor, bychom rádi mediální tým rozšířili o další zajímavé lidi, kterým nejsou média a PR cizí, jsou kreativní a rádi pracují v inspirativním týmu.
 

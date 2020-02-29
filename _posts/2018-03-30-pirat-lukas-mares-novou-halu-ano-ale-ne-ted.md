@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/cbu_sports_hall_01.jpg
 description: 'sportovní, hala, Piráti, České, Budějovice'
-tags: 'sportovní, hala, Piráti, České, Budějovice'
+tags:
+  - Lukáš Mareš
+  - České Budějovice
 ---
 Českobudějovičtí Piráti nesouhlasí s plánovanou „rekonstrukcí“ sportovní haly na Dlouhé louce v Českých Budějovicích. „Uvědomujeme si nutnost modernizace a rozšíření počtu zastřešených sportovních ploch v Českých Budějovicích, ale požadujeme, aby se případná realizace uskutečnila koncepčně, transparentně, kvalitně a s podporou veřejnosti a dotčených sportovních oddílů. Připravovaná „rekonstrukce“ městské sportovní haly však tato kritéria rozhodně nesplňuje,“ říká budějovický Pirát Lukáš Mareš.  
 

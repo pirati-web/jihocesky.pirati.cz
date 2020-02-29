@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/evropa-potrebuje-piraty.jpg
 description: 'Piráti, Eurovolby, Jana, Koláříková, Ivan, Bartoš'
-tags: 'Piráti, Eurovolby, Jana, Koláříková, Ivan, Bartoš'
+tags:
+  - Volby
+  - Ivan Bartoš
 ---
 Již 24.–25. května se konají volby do Evropského parlamentu. „A víte, co se říká o těchto evropských volbách? Nic!" Proto si o nich přijďte popovídat na pirátské květnové akce v Jihočeském kraji. Budete se na nich potkávat s kandidáty do Evropského parlamentu či předsedou Ivanem Bartošem, našimi zastupiteli, radními, poslanci.... prostě s Piráty!
 

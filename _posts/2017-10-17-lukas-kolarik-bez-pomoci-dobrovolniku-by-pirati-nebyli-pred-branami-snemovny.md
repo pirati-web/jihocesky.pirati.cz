@@ -6,7 +6,8 @@ date: 2017-10-17T19:34:43.692Z
 author: Zbyněk Konvička
 image: posts/luky web.jpg
 description: Lukáš Kolářík o dobrovolnících
-tags: lide kampan
+tags:
+  - Lukáš Kolářík
 ---
 Jihočeský lídr Pirátů Lukáš Kolářík v rozhovoru
 těsně před otevřením volebních místností popisuje hektické období před volbami,

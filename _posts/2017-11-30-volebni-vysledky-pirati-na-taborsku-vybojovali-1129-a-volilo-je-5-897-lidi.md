@@ -8,7 +8,8 @@ date: 2017-11-30T21:46:38.649Z
 author: Zbyněk Konvička
 image: posts/Tábor graf.JPG
 description: výsledky voleb
-tags: Tabor
+tags:
+  - Tábor
 ---
 Dalším
 bývalým okresem Jihočeského kraje, kde Piráti měli slušný výsledek, je Táborsko.

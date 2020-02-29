@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2016-10-12
-tags: volby
 title: Děkujeme za vaši podporu
 image: people/crew.jpg
 author: Jan Novák
+tags:
+  - Volby
 ---
 
 

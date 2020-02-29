@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/sobeslav-hlavni.jpg
 description: V sobotu 11. května zavítal do třech jihočeských měst – Tábora, Soběslavi a Českých Budějovic i pirátský volební autobus, na jehož palubě byli nejen kandidáti do Evropského parlamentu, ale svou účastí je podporoval i předseda Pirátů Ivan Bartoš. Za Jihočeský kraj se prezentovali kandidáti Janu Koláříková a Dan Leština.
-tags: 'Piráti, Eurovolby, Ivan, Bartoš, Jana, Koláříková, Dan, Leština'
+tags:
+  - Ivan Bartoš
+  - Volby
 ---
 V těchto dnech vrcholí i pro jihočeské Piráty kampaň do Europarlamentu. V ulicích měst můžete vidět Piráty a příznivce s Pirátskými listy a dalšími promo předměty a zúčastnit se řady akcí s našimi kandidáty. 
 

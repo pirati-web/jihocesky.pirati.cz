@@ -8,7 +8,8 @@ author: 'Zbyněk Konvička, Zuzana Kudláčková'
 authorId: zuzana.kudlackova
 image: posts/zuzka-2.jpg
 description: 'Piráti, Kudláčková, Zuzana, České, Budějovice'
-tags: 'Piráti, Kudláčková, Zuzana, České, Budějovice'
+tags:
+  - České Budějovice
 ---
 V Českých Budějovicích se 11. července na náměstí Přemysla Otakara II. v den, kdy Andrej Babiš žádal se svým hnutím ANO sněmovnu o důvěru své druhé vlády za účasti ČSSD a podpory komunistů, konala akce s názvem Finále demokracie? Setkání pořádala nezisková organizace Společně udržme demokracii a vystoupilo na ní několik řečníků a hudebníků, včetně budějovických Pirátů. Se svým projevem vystoupila budějovická Pirátka a kandidátka do zastupitelstva Českých Budějovic Zuzana Kudláčková. Její projev přinášíme v původní nezkrácené verzi. Snímky z demonstrace si můžete prohlédnout [**ZDE**](https://ceskobudejovicky.denik.cz/zpravy_region/obrazem-lide-spolecne-sledovali-na-namesti-hlasovani-o-podpore-vlady-20180711.html).
 

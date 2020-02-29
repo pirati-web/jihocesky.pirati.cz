@@ -9,7 +9,9 @@ date: '2018-04-02 09:25pm'
 author: Piráti Budějovicko
 image: posts/teplarna-cb.jpg
 description: 'Piráti, České, Budějovice, Teplárna, Jaroslav, Mach, Lukáš, Mareš'
-tags: 'Piráti, České, Budějovice, Teplárna, Jaroslav, Mach, Lukáš, Mareš'
+tags:
+  - Lukáš Mareš
+  - České Budějovice
 ---
 Piráti kritizují rozhodnutí Rady města, která 29. ledna 2018 na svém zasedání zvolila nového člena dozorčí rady Teplárny České Budějovice. Stal se jím Jaroslav Mach (narozen 1995), který v současné době studuje na Právnické fakultě Univerzity Karlovy v Praze a nahradil tak svého jmenovce Jaroslava Macha (narozen 1940), který na konci roku 2017 zemřel. Zajímavostí je, že člen Rady města, který se při volbě zdržel hlasování, se jmenuje stejně jako předchozí zmiňovaní, tedy Jaroslav Mach (narozen 1962). 
 

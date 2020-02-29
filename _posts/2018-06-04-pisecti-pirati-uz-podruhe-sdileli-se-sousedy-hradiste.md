@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/zbrane.jpg
 description: 'Piráti, Písek, Brož, Kolářík'
-tags: 'Piráti, Písek, Brož, Kolářík'
+tags:
+  - Písecko
+  - Lukáš Kolářík
 ---
 Dvě stovky návštěvníků, z toho sedm desítek dětí, sdíleli s píseckými Piráty Hradiště. Sdílené Hradiště, tak Piráti nazvali kulturně-společenskou akci plnou her a soutěží pro děti zakončenou rockovým trojkoncertem. V areálu TJ Hradiště ji 2. června uspořádali již podruhé. 
 

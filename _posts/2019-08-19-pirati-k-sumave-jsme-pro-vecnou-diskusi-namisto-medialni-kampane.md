@@ -7,7 +7,8 @@ date: '2019-08-19 06:46am'
 author: Piráti Jihočeský kraj
 image: posts/sumava-maly.jpg
 description: 'Piráti k Šumavě: Jsme pro věcnou diskusi namísto mediální kampaně'
-tags: 'Šumava, PR, Kampaň, diskuze, Piráti, Jihočeský, kraj'
+tags:
+  - Šumava
 ---
 V těchto týdnech jsme svědky PR kampaně ze strany jihočeské hejtmanky, podporované koalicí ČSSD, TOP 09, STAN, HOpB, Jihočechů 2012 a KDU-ČSL, proti Národnímu parku Šumava (1). Součástí celého plánu jsou videa, která by měla doputovat i na obrazovky v čekárnách krajských nemocnic, placená reklama na sociálních sítích a podaná žaloba na správu parku a Ministerstvo životního prostředí kvůli nové zonaci. V této hře tak kraj stojí nejen proti žalovaným institucím, ale i proti šumavským obcím, jejichž velká většina pro kompromisní návrh zonace hlasovala v radě národního parku.
 

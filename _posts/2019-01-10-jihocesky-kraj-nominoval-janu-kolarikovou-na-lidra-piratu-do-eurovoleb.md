@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/jana-2.jpg
 description: 'Jana, Koláříková, Piráti, Jihočeský, Kraj, Eurovolby, Evropský, parlament'
-tags: 'Jana, Koláříková, Piráti, Jihočeský, Kraj, Eurovolby, Evropský, parlament'
+tags:
+  - Krajské fórum
+  - Volby
 ---
 **Jana Koláříková získala nejvyšší podporu od členské pirátské základny v Jihočeském kraji na pozici lídra kandidátky do Eurovoleb. Má tak zajištěnu nominaci od Jihočechů do pirátských primárek před samotnými volbami do Evropského parlamentu, které se budou konat 23. května 2019 ve 27 členských zemích Evropské unie. Do Evropského parlamentu kandidovala poprvé v roce 2014. Ze 17. příčky na kandidátce ji preferenční hlasy voličů tehdy vynesly na 4. pozici v Jihočeském kraji.** 
 

@@ -12,7 +12,8 @@ description: |-
   jihočeský kraj
   Přivítáme dobrovolníky a stážisty. 
   Přidejte se k Pirátům
-tags: Přivítáme dobrovolníky a stážisty. Přidejte se k Pirátům!
+tags:
+  - Pozvánka
 ---
 
 

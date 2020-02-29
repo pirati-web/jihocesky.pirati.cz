@@ -10,9 +10,9 @@ image: posts/d11.jpg
 description: >-
   demonstrace, Piráti, České, Budějovice, Evropská, unie, copyright, směrnice,
   článek 11, článek 13
-tags: >-
-  demonstrace, Piráti, České, Budějovice, Evropská, unie, copyright, směrnice,
-  článek 11, článek 13
+tags:
+  - Demonstrace
+  - České Budějovice
 ---
 Jihočeští Piráti se v sobotu 23. března přidali k celoevropskému protestu proti snahám některých europoslanců omezit svobodný internet, zavést cenzuru a zvýhodnit velké korporace oproti menším vydavatelům a novinářům – tzv. reformou copyrightu.
 

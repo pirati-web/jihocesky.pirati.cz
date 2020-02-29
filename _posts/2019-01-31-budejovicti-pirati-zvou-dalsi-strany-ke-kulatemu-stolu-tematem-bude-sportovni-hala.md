@@ -10,7 +10,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/sportovka2.jpg
 description: 'České, Budějovice, sportovní, hala, Piráti, petice, referendum'
-tags: 'České, Budějovice, sportovní, hala, Piráti, petice, referendum'
+tags:
+  - České Budějovice
+  - Události
 ---
 Českobudějovičtí Piráti dlouhodobě kritizují záměr hnutí ANO zbourat sportovní halu na Dlouhé louce. Poukazují na četné nestandardní skutečnosti, které celý projekt doprovázejí. Mezi zásadní patří neustále se navyšující cena celého projektu, dnes již na úrovni bezmála 700 milionů, nedávné zrušení části stavebního povolení krajským úřadem, absence architektonické soutěže či samotná geneze projektu, který nebyl dostatečně veřejně diskutován.
 

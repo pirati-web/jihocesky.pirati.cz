@@ -10,7 +10,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/autumn-jpg-1.jpg
 description: 'Katovice, Piráti, speciální, školy, benefice, koncert, Strakonice'
-tags: 'Katovice, Piráti, speciální, školy, benefice, koncert, Strakonice'
+tags:
+  - Strakonicko
 ---
 V kulturním domě v Katovicích se 8. prosince koná již 6. ročník charitativní multižánrové akce Autumn Night Katovice. Výtěžek z benefičního večera poputuje tentokrát do Mateřské školy, Základní školy a Praktické školy ve Strakonicích. Ty jsou určeny žákům s mentálním postižením, souběžným postižením více vadami a PAS (poruchou autistického spektra). Benefici pořádá spolek Rally Fans Katovice a kapela Riverside Project. Partnery projektu v roce 2018 jsou Česká pirátská strana, Městys Katovice a Komunitní nadace Blanicko-Otavská.
 

@@ -6,7 +6,9 @@ date: 2017-10-26T07:24:00.460Z
 author: 'Zbyněk Konvička, Jana Rohová'
 image: posts/graf Strakonice.JPG
 description: výsledky voleb
-tags: Strakonice
+tags:
+  - Volby
+  - Strakonicko
 ---
 V další
 zprávě zavítáme na Strakonicko a podíváme se na volební výsledky Pirátské

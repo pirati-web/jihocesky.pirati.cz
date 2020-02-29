@@ -8,7 +8,10 @@ author: 'Kateřina Hůlková, Zbyněk Konvička'
 authorId: zbynek.konvicka
 image: posts/cepice-jpg-web.jpg
 description: 'Piráti, Pirátské, centrum Čepice, Ivan Bartoš, Lukáš Kolářík, Lukáš Mareš'
-tags: 'Piráti, Pirátské, centrum Čepice, Ivan Bartoš, Lukáš Kolářík, Lukáš Mareš'
+tags:
+  - ČePICE
+  - Ivan Bartoš
+  - Lukáš Kolářík
 ---
 ČESKÉ BUDĚJOVICE - Jihočeští Piráti spouští do vln svou novou loď. V sobotu 7. dubna slavnostně otevřou českobudějovické pirátské centrum s názvem ČePiCe. Od 17 hodin si tu příznivci České pirátské strany budou moci vychutnat nejen čaj nebo kávu o páté s výhledem na Černou věž. Mezi historickými zdmi domu v Hradební ulici číslo 13 zazní komorní skladba akustické hudby. Pak nové centrum pokřtí předseda Pirátů Ivan Bartoš (a možná zahraje i na akordeon). A zatímco například bojové lodě drsných Vikingů prý drtily při spouštění na vodu těla válečných zajatců, Pirátům k pokřtění ČePiCe postačí rum.
 

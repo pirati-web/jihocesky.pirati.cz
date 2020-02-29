@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/ck-1.jpg
 description: 'fórum,kraj, Piráti, Český, Krumlov, '
-tags: 'fórum,kraj, Piráti, Český, Krumlov, '
+tags:
+  - Krajské fórum
+  - Český Krumlov
 ---
 První letošní krajské fórum jihočeských Pirátů se sešlo 9. března 2019 v restauraci Plevno v Českém Krumlově. Jelikož se ve městě UNESCO formuje skupina pirátských příznivců, rozhodla se členská základna její snahu podpořit právě tímto setkáním. V Krumlově se sešlo celkem 36 Pirátů a příznivců.
 

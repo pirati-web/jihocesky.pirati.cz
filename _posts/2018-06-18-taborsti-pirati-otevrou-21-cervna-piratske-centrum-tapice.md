@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/tapice.jpg
 description: 'Piráti, Tapice, Tábor, pirátské, centrum'
-tags: 'Piráti, Tapice, Tábor, pirátské, centrum'
+tags:
+  - Tábor
 ---
 Táborští Piráti otevírají 21. června od 18 hodin další z řady pirátských center. To ve městě nad Lužnicí pones název TAPICE. Najdete ho na rušné obchodní zóně v ulici 9. května vedle obchodního domu Dvořák nad prodejnou Vodafone. 
 

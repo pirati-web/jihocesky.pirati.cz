@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2016-06-02
-tags: prostředí
 title: Dokud tu nejsou bagry a pily, má smysl se o tom bavit
 image: posts/dokud-tu-nejsou-bagry.jpg
 author: Romana Klimešová
+tags:
+  - Krajina
 ---
 
 

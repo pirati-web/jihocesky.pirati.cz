@@ -2,10 +2,12 @@
 layout: post
 category: blog
 date: 2017-02-28
-tags: akce
 title: Jihočeští Piráti se sešli v Písku
 image: posts/2krajskaSchuze2017.jpg
 author: Jana Rohová
+tags:
+  - Krajské fórum
+  - Písecko
 ---
 
 Jihočeští Piráti uspořádali v neděli 26. února již druhé setkání v letošním roce. Tentokrát se jejich dočasným přístavem stal Pí local club v Písku. Zhodnotili současnou situaci a pokračovali v přípravách na volby do Poslanecké sněmovny letos na podzim. Setkání bylo jako vždy otevřené veřejnosti.

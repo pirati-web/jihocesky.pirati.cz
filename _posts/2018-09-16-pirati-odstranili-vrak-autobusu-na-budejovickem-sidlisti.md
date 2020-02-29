@@ -8,7 +8,9 @@ author: Kateřina Hůlková
 authorId: katerina.hulkova
 image: posts/pir-cb-hlavni.jpg
 description: 'autobus, Budějovice, Mareš, Piráti'
-tags: 'autobus, Budějovice, Mareš, Piráti'
+tags:
+  - Lukáš Mareš
+  - České Budějovice
 ---
 Osprejovaný autobus zmizel z pozemku u Vltavy. Dlouhotrvající spor majitelů a radnice začali řešit budějovičtí Piráti.
 

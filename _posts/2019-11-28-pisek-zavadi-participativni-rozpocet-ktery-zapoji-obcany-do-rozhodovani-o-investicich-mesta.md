@@ -9,8 +9,9 @@ date: '2019-11-28'
 author: Zbyněk Konvička
 image: participativni-rozpocet-pisek-soumar.jpg
 description: Participativní rozpočet
-tags: >-
-  Písek, participativní, rozpočet, Piráti
+tags:
+  - Písecko
+  - participativní rozpočet
 ---
 Písek, 28. listopadu 2019 
 

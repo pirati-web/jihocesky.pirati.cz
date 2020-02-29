@@ -8,7 +8,8 @@ author: Lukáš Mareš
 authorId: lukas.mares
 image: posts/cb.jpg
 description: 'Piráti, České Budějovice'
-tags: 'Piráti, České Budějovice'
+tags:
+  - České Budějovice
 ---
 Veřejný zájem musí převládnout nad korupčními praktikami a klientelismem. Na ztracenou důvěru v politiku nabízíme lék: Průhledné hospodaření, rozhodování s účastí občanů a jasné závazky. Rozumíme novým technologiím. A dokážeme je využít k usnadnění života, ke komunikaci s úřady z domova a k věrohodnější demokratické správě města.
 

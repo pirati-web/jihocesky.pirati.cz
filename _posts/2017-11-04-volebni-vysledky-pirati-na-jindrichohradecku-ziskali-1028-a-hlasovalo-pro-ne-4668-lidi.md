@@ -8,7 +8,8 @@ date: 2017-11-04T18:31:39.040Z
 author: 'Zbyněk Konvička, Jana Rohová'
 image: posts/JH graf.JPG
 description: volby
-tags: Jindřichohradecko
+tags:
+  - Jindřichohradecko
 ---
 V další
 zprávě se podíváme na Jindřichohradecko, územně největšího jihočeského okresu a

@@ -6,7 +6,6 @@ date: 2017-09-11T17:32:46.154Z
 author: Jana Rohová
 image: posts/fb post fin1.jpg
 description: fundraising pro Piráty Jihočeského kraje
-tags: finance
 ---
 Volby se pomalu ale jistě blíží a i jihočeští Piráti se snaží odvést co nejlepší práci v kampani, aby se o nich dozvěděli také lidé, kteří o nich zatím mnoho neví.
 

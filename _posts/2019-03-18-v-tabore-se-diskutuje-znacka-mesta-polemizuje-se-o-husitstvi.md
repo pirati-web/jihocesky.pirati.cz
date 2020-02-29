@@ -8,7 +8,8 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/800px-tabor_radnice.jpg
 description: 'Tábor, Piráti, husité, cestovní ruch'
-tags: 'Tábor, Piráti, husité, cestovní ruch'
+tags:
+  - Tábor
 ---
 Měl by se i nadále Tábor prezentovat jako „husitské město“ nebo spíš jako family friendly (město přátelské rodinám) a gastro, kde se dá dobře najíst a napít? Na toto téma se nedávno diskutovalo v Táboře. U čtenářů Týdeníku Táborsko vzbudila tato polemika vášnivé reakce. Co na to zastupitelé za Piráty? Citujeme odpovědi ze serveru JCTED.
 

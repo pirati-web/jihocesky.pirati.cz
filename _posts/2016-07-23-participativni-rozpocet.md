@@ -2,10 +2,11 @@
 layout: post
 category: blog
 date: 2016-07-23
-tags: [rozpočet, participace]
 title: Participativní rozpočet napomáhá efektivnímu rozdělování financí
 image: posts/partroz.jpg
 author: Lukáš Kolářík
+tags:
+  - participativní rozpočet
 ---
 
 Participativní rozpočet napomáhá efektivnímu rozdělování financí nejen z městských rozpočtů, účinně chrání před korupcí, umožňuje širokou participaci občanů při správě věcí veřejných a zlepšuje komunikaci mezi občany a samosprávou.

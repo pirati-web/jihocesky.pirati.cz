@@ -7,7 +7,9 @@ date: '2018-02-26 11:56pm'
 author: Piráti Písecko
 image: posts/chmee-2-wikimedia-pisecka-radnice.jpg
 description: 'Písek, Piráti, radnice, zastupitelstvo'
-tags: 'Písek, Piráti, radnice, zastupitelstvo'
+tags:
+  - Písecko
+  - Zastupitelstvo
 ---
 Na příštím zasedání zastupitelstva dne 8. března bude projednáván návrh na zachování počtu zastupitelů města Písku. Návrh zpracovala tajemnice úřadu Zlatuše Hofmanová a zastupitelstvu jej předkládá starostka Písku Eva Vanžurová (Jihočeši 2012). Návrh doporučuje zachovat počet 27 zastupitelů.
 

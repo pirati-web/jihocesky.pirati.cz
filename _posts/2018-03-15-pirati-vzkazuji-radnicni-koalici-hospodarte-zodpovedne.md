@@ -7,7 +7,8 @@ date: '2018-03-15 10:52am'
 author: Zbyněk Konvička
 image: posts/prazdna-truhla.jpg
 description: 'Piráti, Písek, rozpočet '
-tags: 'Piráti, Písek, rozpočet '
+tags:
+  - Písecko
 ---
 Na zasedání zastupitelstva města, dne 8. března 2018, byla schválena hned ve druhém projednávaném bodě rozpočtová opatření, která prohlubují plánovaný schodek rozpočtu města Písku v letošním roce na plánovaných 365 milionů korun. Pro hlasovalo celkem 15 zastupitelů z celkového počtu 27. V závěrečné diskusi došlo mezi členem finančního výboru Josefem Soumarem a místostarostou města Josefem Knotem, který zastupuje zároveň i post 1. náměstka hejtmanky Jihočeského kraje, k výměně názorů na aktuální rozpočtování a ekonomickou stránku města. Rozepři ukončila starostka Písku Eva Vanžurová odebráním slova oběma aktérům a mnoho otázek tak zůstalo nezodpovězeno.
 

@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/strakonice-forum-3a.jpg
 description: 'Strakonice, Piráti, forum, kraj'
-tags: 'Strakonice, Piráti, forum, kraj'
+tags:
+  - Krajské fórum
+  - Strakonicko
 ---
 Lovecká bašta na okraji Strakonic hostila jihočeské Piráty, kteří se sešli na dalším krajském fóru. Setkání se konalo 25. listopadu a kromě bilancování povolebních jednání a zhodnocení aktuálního dění v pirátských jihočeských baštách, se fórum věnovalo i plánovanému celostátnímu fóru v Táboře, stejně jako přípravě na volby do Europarlamentu, které se uskuteční v květnu 2019.
 

@@ -8,7 +8,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/tyn.jpg
 description: 'Piráti, Týn, České, Budějovice, schůze'
-tags: 'Piráti, Týn, České, Budějovice, schůze'
+tags:
+  - Události
+  - Týn Nad Vltavou
 ---
 V neděli 24. února se od 17 hodin uskuteční schůze místního sdružení Piráti Českobudějovicko. Setkání se koná v Týně nad Vltavou, místo bude včas upřesněno.
 

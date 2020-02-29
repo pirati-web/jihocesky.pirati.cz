@@ -6,7 +6,9 @@ date: 2017-09-17T19:08:47.656Z
 author: Věra Marušiaková
 image: posts/sobeslav 15.jpg
 description: 'Boj za petiční právo, Pirátský bus v Soběslavi'
-tags: lide
+tags:
+  - Soběslav
+  - Ivan Bartoš
 ---
 16\. září,
 Soběslav. Přesně po dvou letech od vykázání pirátského petičního stánku ze Soběslavských

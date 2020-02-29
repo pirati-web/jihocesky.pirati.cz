@@ -8,7 +8,8 @@ author: 'Zbyněk Konvička '
 authorId: zbynek.konvicka
 image: posts/grilovacka-v-cepici.jpg
 description: 'Piráti, Čepice, Grilovačka, '
-tags: 'Piráti, Čepice, Grilovačka, '
+tags:
+  - ČePICE
 ---
 Přijďte s námi zakončit prázdniny flákotou z grilu a posezením s Piráty z celého kraje. Těšíme se na vás v Pirátském centru Čepice, Hradební 13, České Budějovice, v sobotu 31. srpna od 16 hodin.  Grilovat se bude do 20 hodin.
 

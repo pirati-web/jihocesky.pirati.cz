@@ -9,7 +9,8 @@ date: '2018-08-23 12:26pm'
 author: Zbyněk Konvička
 image: posts/tanky-7.jpg
 description: 'srpen, 1968, okupace, Piráti, '
-tags: 'srpen, 1968, okupace, Piráti, '
+tags:
+  - Události
 ---
 ![null](posts/tanky-1.jpg)
 

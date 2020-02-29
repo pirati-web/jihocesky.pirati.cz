@@ -8,7 +8,6 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/korab.jpg
 description: 'koordinátor, kraj, Jihočeský, Piráti'
-tags: 'koordinátor, kraj, Jihočeský, Piráti'
 ---
 Česká pirátská strana vyhlašuje veřejné výběrové řízení na pozici krajský koordinátor. Chcete se zapojit do prestižní práce, kdy každý den je novou výzvou, která může učinit českou politiku a společnost lepším prostředím? Chcete pracovat v nejlepší politické straně v České republice? Pak neváhejte a využijte této příležitosti. Vhodné i pro studenty.
 

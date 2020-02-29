@@ -10,7 +10,9 @@ author: Zbyněk Konvička
 authorId: zbynek.konvicka
 image: posts/zdenka-stankova.jpg
 description: 'Piráti, Zdeňka, Staňková, svoboda, učení, Pirátské, centrum, Čepice'
-tags: 'Piráti, Zdeňka, Staňková, svoboda, učení, Pirátské, centrum, Čepice'
+tags:
+  - ČePICE
+  - školství
 ---
 Jihočeští Piráti vás srdečně zvou na přednášku Zdeňky Staňkové spojené s besedou na téma Sebeřízené učení. Setkání s inspirativním a svobodným přístupem ke vzdělávání dětí se uskuteční v Pirátském centru ČePiCe dne 25. května 2018 od 18 hodin v Hradební ulici 13 v Českých Budějovicích (na dohled od Černé věže).
 

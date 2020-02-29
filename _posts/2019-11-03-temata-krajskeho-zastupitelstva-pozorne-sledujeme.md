@@ -10,10 +10,8 @@ description: |-
   jihočeský kraj
   zastupitelstvo
   piráti
-tags: |-
-  jihočeský kraj
-  zastupitelstvo
-  piráti
+tags:
+  - Zastupitelstvo
 ---
 
 **Přestože naši zástupci zatím nezasedají v krajském zastupitelstvu, o dění v Jihočeském kraji se s Piráty intenzivně zajímáme a pozorně jej sledujeme. Naši členové se pravidelně účastní jednání a nechyběli ani na tom posledním, které se konalo 31. října. A jaká témata se na něm probírala a jak se k nim staví Piráti?**

@@ -7,7 +7,8 @@ date: '2018-08-23 09:59pm'
 author: Zbyněk Konvička
 image: posts/novinari.jpg
 description: 'média, tým, Piráti, Jihočeský, kraj'
-tags: 'média, tým, Piráti, Jihočeský, kraj'
+tags:
+  - Pozvánka
 ---
 __Sleduješ veřejné dění a baví tě psát, fotit, natáčet videa či vytvářet zajímavou grafiku? A současně v tobě rezonují pirátské myšlenky liberální otevřené společnosti s širokou spoluúčastí veřejnosti při rozhodování o věcech veřejných? Pak jihočeští Piráti hledají třeba právě tebe! Jako posilu mediálního týmu.__
 

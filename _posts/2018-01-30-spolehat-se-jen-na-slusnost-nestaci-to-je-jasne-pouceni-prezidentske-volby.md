@@ -7,7 +7,8 @@ date: '2018-01-30 01:18pm'
 author: Ivo Vlasatý
 image: posts/ivo-vlasaty.jpg
 description: 'Ivo Vlasatý, Piráti, prezidentské volby'
-tags: 'Ivo Vlasatý, Piráti, prezidentské volby'
+tags:
+  - Volby
 ---
 Politiku, kterou reprezentuje Zeman, neporazíme bojem proti němu. Natož proti jeho voličům. To neznamená nekritizovat. Ale znamená to, že je nutné bojovat za něco. Něco víc, než formální náležitosti demokracie. Tvořit naději na lepší budoucnost.
 

@@ -6,7 +6,9 @@ date: 2017-10-22T20:34:08.871Z
 author: 'Zbyněk Konvička, Josef Soumar'
 image: posts/FB uvodnifotka.jpg
 description: výsledky voleb
-tags: Lukas Kolarik
+tags:
+  - Lukáš Kolářík
+  - Lukáš Mareš
 ---
 Jihočeští Piráti předvolební
 kampaň rozhodně nepodcenili, členové strany, dobrovolníci a další sympatizanti

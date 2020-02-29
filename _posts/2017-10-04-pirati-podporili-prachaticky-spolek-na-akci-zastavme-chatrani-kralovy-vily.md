@@ -6,7 +6,8 @@ date: 2017-10-04T16:07:22.899Z
 author: Zbyněk Konvička
 image: posts/vila mala.jpg
 description: Zastavme chátrání Kralovy vily
-tags: 'lidé, Barbora Staňková'
+tags:
+  - Události
 ---
 V sobotu 30. září se od 18 hodin konal happening
 s názvem „Zastavme chátrání Kralovy vily“. Akci pořádal Spolek Živá vila,

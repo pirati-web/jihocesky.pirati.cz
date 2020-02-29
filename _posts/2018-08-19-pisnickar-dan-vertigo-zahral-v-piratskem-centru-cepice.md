@@ -7,7 +7,9 @@ date: '2018-08-19 10:53pm'
 author: 'Zuzana Kudláčková, Zbyněk Konvička'
 image: posts/dan-vertigo.jpg
 description: 'Vertígo, Čepice, Piráti, centrum, Mareš, Kolářík, Ferjenčík'
-tags: 'Vertígo, Čepice, Piráti, centrum, Mareš, Kolářík, Ferjenčík'
+tags:
+  - ČePICE
+  - Kultura
 ---
 Jihočeští Piráti připravili na pátek 17. srpna v Českých Budějovicích setkání spojené s grilovačkou a koncertem písničkáře Dana Vertíga. Akce se konala v Pirátském centru ČePiCe a mezi hosty byli poslanci Mikuláš Ferjenčík a Lukáš Kolářík, který je zároveň předsedou jihočeských Pirátů, a budějovický lídr Pirátů Lukáš Mareš.
 

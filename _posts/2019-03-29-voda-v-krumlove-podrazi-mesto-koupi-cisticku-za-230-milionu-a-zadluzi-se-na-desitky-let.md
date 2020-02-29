@@ -10,7 +10,8 @@ author: Jan Votřel
 authorId: jan.votrel
 image: posts/cisticka.jpg
 description: 'Český, Krumlov, čistička'
-tags: 'Český, Krumlov, čistička'
+tags:
+  - Český Krumlov
 ---
 O největší investiční akci Českého Krumlova se rozhodlo na posledním zastupitelstvu města. Šestikoalice jednomyslně rozhodla o koupi čističky odpadních vod a kanálu za 230 milionů korun od soukromého vlastníka. O čističce se na zastupitelstvu debatovalo již podruhé za velkého zájmu veřejnosti. 
 

@@ -6,7 +6,8 @@ date: 2017-10-13T09:21:42.596Z
 author: Zbyněk Konvička
 image: posts/ja na web 2.jpg
 description: 'Jana Rohová, dobrovolnická kampaň'
-tags: 'lide, akce'
+tags:
+  - Volby
 ---
 Jihočeskou koordinátorkou Pirátské strany, jejich
 dobrovolníků a současně trojkou na kandidátce je Jana Rohová ze Strakonic. V našem
