@@ -18,7 +18,7 @@ Setkáme se v neděli 22. 3. 2020 ve 13 hodin (vstup možný od 12:30) v hotelu 
 
 **Přesná adresa:**  
 Hotel Corona  
-Masná 133  
+Masná 933  
 382 41  Kaplice  
 web: [www.coronahotel.cz](http://www.coronahotel.cz/)
 
