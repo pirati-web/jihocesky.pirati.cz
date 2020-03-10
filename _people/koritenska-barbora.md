@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- all
+- zastupitele
 img: people/koritenska-barbora.jpg
 description: členka Pirátské strany a zastupitelka v Prachaticích 
 mail:
