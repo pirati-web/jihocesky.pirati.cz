@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - all
-img: people/barbora-koritenska.jpg
+img: people/koritenska-barbora.jpg
 description: členka Pirátské strany a zastupitelka v Prachaticích 
 mail:
 - barbora.koritenska@pirati.cz
