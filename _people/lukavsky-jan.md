@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-#img: people/jan-lukavsky.jpg
+img: people/jan-lukavsky.jpg
 description: člen KS a zastupitel v Třeboni 
 mail:
 - jan.lukavsky@pirati.cz
