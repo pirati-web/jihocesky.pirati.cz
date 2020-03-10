@@ -5,7 +5,7 @@ category:
 - pks
 - zastupitele
 img: people/josef-spak.jpg
-description: předseda krajského sdružení Jihočeského kraje a zastupitel v Českých Budějovicích
+description: předseda krajského sdružení Jihočeského kraje, člen MS Českobudějovicko a zastupitel v Českých Budějovicích
 mail:
 - josef.spak@pirati.cz
 mob:			  
