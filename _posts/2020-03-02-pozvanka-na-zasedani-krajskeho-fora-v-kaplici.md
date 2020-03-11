@@ -5,7 +5,7 @@ published: true
 title: Jihočeští Piráti zvou na setkání Krajského fóra v Kaplici
 date: '2020-03-02'
 author: Luboš Kudláček
-image: pozvanka-kaplice.jpg
+image: posts/89700766_10158078879987114_2911328845560807424_o.jpg
 description: Pozvánka na zasedání krajského fóra v Kaplici
 tags:
   - Krajské fórum
