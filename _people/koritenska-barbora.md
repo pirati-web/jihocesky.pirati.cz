@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/koritenska-barbora.jpg
-description: členka Pirátské strany a zastupitelka v Prachaticích 
+description: členka KS a zastupitelka v Prachaticích
 mail:
 - barbora.koritenska@pirati.cz
 mob: +420 732825503
