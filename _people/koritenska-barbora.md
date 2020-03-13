@@ -10,7 +10,7 @@ img: people/koritenska-barbora.jpg
 description: členka Pirátské strany a zastupitelka v Prachaticích 
 mail:
 - barbora.koritenska@pirati.cz
-#mob: +420
+mob: +420 732825503
 profiles:
   github:
   facebook:				
@@ -19,6 +19,14 @@ profiles:
 ordpms: 15 
 ---
 
-Barbora Staňková se narodila 17. září 1991 v Prachaticích. Zde vystudovala gymnázium a následně začala studovat Dějiny umění a Literárně-historická studia na Jihočeské univerzitě v Českých Budějovicích. V průběhu studia se specializovala na architekturu 20. století se zaměřením na jižní Čechy. Také založila spolek Živá vila, který si klade za cíl záchranu cenné funkcionalistické stavby, Kralovy vily. V současnosti žije stále v Prachaticích, a protože jí není lhostejný rozvoj rodného města a považuje se za velkého lokálního patriota, snaží se zde oživovat kulturní dění a pořádá různé společenské akce. Mezi její zájmy patří četba, malování a poslech alternativní hudby.
+Narodila jsem se 17. 9. 1991 v Prachaticích. Po studiu na zdejším gymnáziu jsem
+absolvovala bakalářský obor Dějiny umění na FF JU v roce 2014, magisterský titul z oboru Literárně-historická studia jsem získala tamtéž v roce 2016. V následujícím roce jsem absolvovala na FF JU nově vzniklý magisterský obor Dějiny a filozofie umění.
 
-V roce 2017 kandiduje do sněmovních voleb na Pirátské kandidátce v Jihočeském kraji.
+Během studia jsem stála u založení spolku Živá vila, jenž si klade za cíl záchranu cenné architektonické památky, funkcionalistické Kralovy vily v Prachaticích. Pořádáním kulturních, společenských a vzdělávacích akcí ve svém rodném městě tak přispívám k rozvoji občanské a komunitní společnosti. Tyto aktivity se odrazily během komunálních voleb v roce 2018 v mém zvolení do městského zastupitelstva za hnutí nezávislých kandidátů Živé Prachatice.
+
+V současnosti pracuji v oddělení evidence movitých památek Národního památkového ústavu v Českých Budějovicích.
+
+Kancelář
+Věžní 60
+Prachatice, 38301
+Česko
