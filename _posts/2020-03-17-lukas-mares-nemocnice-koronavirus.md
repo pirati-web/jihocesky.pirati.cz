@@ -15,7 +15,7 @@ tags:
 ---
 Dnes jsem se jako předseda lékařských odborů českobudějovické nemocnice sešel s generálním ředitelem Michalem Šnorkem kvůli připravenosti naší nemocnice a nezbytným opatřením, která se již zavedla, nebo se zavést plánují.
 
-V Jihočeském kraji máme **nákazu prokázanou u 13 lidí**, naštěstí nikdo z nich není zaměstnancem českobudějovické nemocnice. Naše laboratoř vyhodnocující testy na koronavirus již jede na plný výkon a vyšetřování bezpříznakových osob z preventivních důvodů teď není možné.
+V Jihočeském kraji máme **nákazu prokázanou u 13 lidí** (toto číslo se může měnit), naštěstí nikdo z nich není zaměstnancem českobudějovické nemocnice. Naše laboratoř vyhodnocující testy na koronavirus již jede na plný výkon a vyšetřování bezpříznakových osob z preventivních důvodů teď není možné.
 
 Ode dneška (17. 3.) přešla nemocnice na omezený provoz, prozatím do 11. 4. **Jsou tak rušeny veškeré plánované hospitalizace, operace, vyšetření a další výkony, u kterých je to medicínsky bezpečné.** 
 
