@@ -13,7 +13,7 @@ tags:
   - Události
   - Zdravotnictví
 ---
-Dnes jsem se jako předseda lékařských odborů českobudějovické nemocnice sešel s generálním ředitelem Michalem Šnorkem kvůli připravenosti naší nemocnice a nezbytným opatřením, která se již zavedla, nebo se zavést plánují.
+Dnes jsem se jako předseda lékařských odborů českobudějovické nemocnice sešel s vedením kvůli připravenosti naší nemocnice a nezbytným opatřením, která se již zavedla, nebo se zavést plánují.
 
 V Jihočeském kraji máme **nákazu prokázanou u 13 lidí** (toto číslo se může měnit), naštěstí nikdo z nich není zaměstnancem českobudějovické nemocnice. Naše laboratoř vyhodnocující testy na koronavirus již jede na plný výkon a vyšetřování bezpříznakových osob z preventivních důvodů teď není možné.
 
@@ -32,5 +32,5 @@ Jaký bude další vývoj, není v současné době nikdo schopný říct určit
 **Českobudějovická nemocnice se připravuje na zajištění akutní péče nejlépe, jak je to jen ve stavu omezených a nejistých dodávek zdravotnického materiálu možné.** Přijímá taková opatření, aby došlo k minimalizaci případného přenosu nákazy mezi zaměstnanci. V tomto ohledu mám k vedení nemocnice naprostou důvěru, chci mu poděkovat, stejně jako všem kolegům zaměstnancům, které ta největší výzva teprve čeká. Určitě je na místě ocenit i veřejnost, která za svými zdravotníky stojí. Děkujeme!
 
 
-**MUDr. Lukáš Mareš**, 
+**MUDr. Lukáš Mareš**,  
 lídr Pirátů do krajských voleb, zastupitel Českých Budějovic, předseda lékařských odborů českobudějovické nemocnice a lékař na radiologickém oddělení
