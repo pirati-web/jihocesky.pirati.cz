@@ -33,4 +33,4 @@ Jaký bude další vývoj, není v současné době nikdo schopný říct určit
 
 
 MUDr. Lukáš Mareš, 
-zastupitel Českých Budějovic, předseda lékařských odborů českobudějovické nemocnice a lékař na radiologickém oddělení
+lídr Pirátů do krajských voleb, zastupitel Českých Budějovic, předseda lékařských odborů českobudějovické nemocnice a lékař na radiologickém oddělení
