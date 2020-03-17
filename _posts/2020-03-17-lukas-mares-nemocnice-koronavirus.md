@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Informace k situaci v budějovické nemocnici (MUDr. Lukáš Mareš)
-date: '2020-03-13'
+date: '2020-03-17'
 author: Lukáš Mareš
 image: 2020/lmvrousce.jpg
 
