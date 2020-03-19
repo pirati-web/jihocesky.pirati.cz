@@ -7,7 +7,7 @@ date: '2020-03-19'
 author: Miloš Bučinský
 image: 2020/rousky.jpg
 
-description: 'Poté, co vyšlo najevo, že stát nedokáže zajistit roušky pro složky integrovaného záchranného systému, natož obyčejné lidi, vzedmula se po celé republice iniciativa dobrovolníků, kteří začali šít roušky. '
+description: 'Poté, co vyšlo najevo, že stát nedokáže zajistit roušky pro složky integrovaného záchranného systému, natož obyčejné lidi, vzedmula se po celé republice iniciativa dobrovolníků, kteří začali šít roušky.'
 tags:
   - Soběslav
   - Události
