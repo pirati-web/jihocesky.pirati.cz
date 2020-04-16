@@ -21,6 +21,6 @@ A proč o tom mluvím dnes? NÚKIB totiž právě dnes oficiálně varoval, že 
 
 Doufejme, že vedení všech nemocnic zareaguje na výzvu alespoň v takové míře, jako reagovalo v minulosti to českobudějovické, a další útok už nepřijde. 
 
-Jako Piráti je nám téma kyberbezpečnosti blízké. Tohle vážně není legrace. 
+Jako Pirátům je nám téma kyberbezpečnosti blízké. Tohle vážně není legrace. 
 
 Děkujeme za přízeň!
