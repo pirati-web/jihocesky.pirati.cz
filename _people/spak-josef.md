@@ -2,7 +2,6 @@
 uid: josef.spak
 name: Josef Špak
 category:
-- pks
 - zastupitele
 img: people/josef-spak.jpg
 description: předseda krajského sdružení Jihočeského kraje, člen MS Českobudějovicko a zastupitel v Českých Budějovicích
