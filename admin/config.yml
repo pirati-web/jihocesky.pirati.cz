@@ -4,8 +4,13 @@ backend:
   branch: master              # Branch to update
   base_url: https://piraweboauth.herokuapp.com
 
-media_folder: "assets/img"
-lang: "cs"
+media_folder: "assets/img/posts"
+locale: "cs"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -33,11 +38,11 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Kategorie", name: "category", widget: "hidden", default: ""}
       - {label: "Jméno", name: "name", widget: "string", tagname: "h1", required: true}
-      - {label: "Popis", name: "description", widget: "string", required: true}      
+      - {label: "Popis", name: "description", widget: "string", required: true}
       - {label: "Mob", name: "mob", widget: "string", required: true}
       - {label: "E-mail", name: "mail", widget: "text", required: true}
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
       - {label: "Profil", name: "profiles", widget: "markdown", required: true}
-      - {label: "Řazení", name: "ordpms", widget: "number", required: true}          
+      - {label: "Řazení", name: "ordpms", widget: "number", required: true}
     card: {type: "image", image: "image", text: "title", required: true}
