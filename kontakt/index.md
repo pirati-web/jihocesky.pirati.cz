@@ -19,8 +19,7 @@ residences:
 contactPersons:
  - id: klara.bidarova
    position: Krajská koordinátorka<br><span style="font-size:60%">(kontakt pro dobrovolníky a zájemce o členství)</span>
- - id: nikola.mrazova
-   position: Krajská koordinátorka<br><span style="font-size:60%">(kontakt pro dobrovolníky a zájemce o členství)</span>     
+ - id: nikola.mrazova  
  - id: lubos.kudlacek
    position: Mediální odbor<br><span style="font-size:60%">(kontakt pro novináře)</span>
 ---
