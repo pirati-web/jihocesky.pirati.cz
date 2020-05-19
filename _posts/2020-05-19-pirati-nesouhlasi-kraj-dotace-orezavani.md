@@ -5,7 +5,7 @@ published: true
 title: Piráti nesouhlasí s ořezáváním některých programových dotací, může jít o hodně, zvláště v oblastech sociální pomoci a vzdělávání
 date: '2020-05-19'
 author: Luboš Kudláček
-image: 2020/urad2.png.
+image: 2020/urad2.png
 
 description: 'Krajské zastupitelstvo bude ve čtvrtek 21. 5. 2020 hlasovat o snížení množství peněz přidělených na jednotlivé oblasti dotované z krajského rozpočtu. Piráti chápou, že v současné době je potřeba přesunout peníze tam, kde jsou nejvíc potřeba, to ale neznamená, že je dobré brát peníze v oblastech, kde to může citelně zasáhnout ty nejpotřebnější.'
 tags:
