@@ -31,19 +31,19 @@ otevřel jsem územní plán Ševětína. Na první pohled jsem viděl, že are�
 co je v plánu vyznačeno **k výstavbě komerčních ploch**. Ve stejné kategorii jsou totiž také **všechna současná 
 pole v pásu od Švamberka k Ševětínu!”*** říká Dan Leština, garant jihočeských Pirátů pro oblasti životního prostředí a zemědělství.
 
-![Grafická část územního plánu městyse Ševětín.](https://jihocesky.pirati.cz/assets/img/2020/sevetin2.png)
-Grafická část územního plánu městyse Ševětín. Fialově tzv. plochy smíšené výrobní - komerční plochy. 
-[Zdroj](https://www.sevetin.cz/cache/Priloha%20c.%201%20k%20OOP%20-%20UP%20Sevetin%20-%20vykres%20technicke%20infrastruktury.pdf)
+![Grafická část územního plánu městyse Ševětín.](https://jihocesky.pirati.cz/assets/img/2020/sevetin3.png)
+Plochy, které vlastní jeden majitel (červeně) a jeho syn (oranžově). Vybrané plochy vyhrazené v územním plánu jako “smíšené výrobní - 
+komerční” modrou čárkovanou čarou. [Zdroj 1](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1913400301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR31XXL87PNZch_gvauAn8FQkf8Jt6CrFOSS0g0tWwVCtJmJUgeFJrOxxZ8),
+ [zdroj 2](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1937040301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR3uDebsLN82dGxgK3RErwUEGwkzZXuwkrdcaObYQljqac21eXl2Mkv2FnI),
+  [zdroj 3](https://www.sevetin.cz/cache/Priloha%20c.%201%20k%20OOP%20-%20UP%20Sevetin%20-%20vykres%20technicke%20infrastruktury.pdf).
 
 Varovné to je zejména v kombinaci s pohledem do katastru nemovitostí. Většinu těchto ploch územním plánem prozatím odsouzených k výstavbě komerčních areálů vlastní pan 
 [Václav Baštýř](https://cs.wikipedia.org/wiki/V%C3%A1clav_Ba%C5%A1t%C3%BD%C5%99#Politick%C3%A1_kari%C3%A9ra), 
 který je [podle Deníku](https://www.denik.cz/z_domova/lovil-cerne-duse-ted-bude-poslanec20090717.html) napojen na hlubockého kmotra ODS Pavla Dlouhého, stejně jako František Jelen, který jedná jménem investora ohledně výstavby na zmiňovaném Švamberku.
 
-![Grafická část územního plánu městyse Ševětín.](https://jihocesky.pirati.cz/assets/img/2020/sevetin1.png)
-Plochy, které vlastní jeden majitel (červeně) a jeho syn (oranžově). Vybrané plochy vyhrazené v územním plánu jako “smíšené výrobní - 
-komerční” modrou čárkovanou čarou. [Zdroj 1](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1913400301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR31XXL87PNZch_gvauAn8FQkf8Jt6CrFOSS0g0tWwVCtJmJUgeFJrOxxZ8),
- [zdroj 2](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1937040301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR3uDebsLN82dGxgK3RErwUEGwkzZXuwkrdcaObYQljqac21eXl2Mkv2FnI),
-  [Zdroj 3](https://www.sevetin.cz/cache/Priloha%20c.%201%20k%20OOP%20-%20UP%20Sevetin%20-%20vykres%20technicke%20infrastruktury.pdf)
+![Grafická část územního plánu městyse Ševětín.](https://jihocesky.pirati.cz/assets/img/2020/sevetin2.png)
+Grafická část územního plánu městyse Ševětín. Fialově tzv. plochy smíšené výrobní - komerční plochy. 
+[Zdroj](https://www.sevetin.cz/cache/Priloha%20c.%201%20k%20OOP%20-%20UP%20Sevetin%20-%20vykres%20technicke%20infrastruktury.pdf)
 
 ### Co s tím?!
 Pro ty místní občany, kteří si průmyslové areály nepřejí, toto skutečně nevypadá dobře, nicméně lze s tím ještě spoustu věcí udělat. 
