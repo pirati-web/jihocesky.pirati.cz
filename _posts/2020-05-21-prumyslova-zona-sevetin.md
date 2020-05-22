@@ -32,8 +32,7 @@ co je v plánu vyznačeno **k výstavbě komerčních ploch**. Ve stejné katego
 pole v pásu od Švamberka k Ševětínu!”*** říká Dan Leština, garant jihočeských Pirátů pro oblasti životního prostředí a zemědělství.
 
 ![Grafická část územního plánu městyse Ševětín.](https://jihocesky.pirati.cz/assets/img/2020/sevetin3.png)
-Plochy, které vlastní jeden majitel (červeně) a jeho syn (oranžově). Vybrané plochy vyhrazené v územním plánu jako “smíšené výrobní - 
-komerční” modrou čárkovanou čarou. [Zdroj 1](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1913400301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR31XXL87PNZch_gvauAn8FQkf8Jt6CrFOSS0g0tWwVCtJmJUgeFJrOxxZ8),
+Plochy, které vlastní jeden majitel (oranžově) a jeho syn (červeně). Vybrané plochy vyhrazené v územním plánu pro výstavbu komerčních ploch modrou čárkovanou čarou. [Zdroj 1](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1913400301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR31XXL87PNZch_gvauAn8FQkf8Jt6CrFOSS0g0tWwVCtJmJUgeFJrOxxZ8),
  [zdroj 2](http://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3&&MarQueryId=D6B992BE&MarQParam0=1937040301&MarQParamCount=1&MarWindowName=Marushka&fbclid=IwAR3uDebsLN82dGxgK3RErwUEGwkzZXuwkrdcaObYQljqac21eXl2Mkv2FnI),
   [zdroj 3](https://www.sevetin.cz/cache/Priloha%20c.%201%20k%20OOP%20-%20UP%20Sevetin%20-%20vykres%20technicke%20infrastruktury.pdf).
 
@@ -65,6 +64,9 @@ Zdůrazněme, že podnikatelské záměry jsou zcela pochopitelné, skladové a 
 
 ----
 Jak poslat podněty do právě probíhajícího připomínkového řízení právě vznikajícího územního plánu Českých Budějovic, jsme psali [v tomto článku](https://cb.pirati.cz/blog/2020/05/04/navod-jak-podat-pripominku-k-zadani-uzemniho-planu/).
+
+----
+O průmyslové zóně u Soběslavi, kde právě sbírají připomínky, [čtěte zde](http://pirati.sobeslav.cz/uz-je-to-tady-prekladiste-v-sobeslavi/).
 
 ----
 Na kandidátce Pirátů do podzimních voleb do krajského zastupitelstva najdete Veroniku Kovářovou na 4. místě, Dana Leštinu na 7. místě a Pavlu Figurovou na 42. místě.
