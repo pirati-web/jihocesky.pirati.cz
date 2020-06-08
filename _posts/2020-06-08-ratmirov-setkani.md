@@ -16,7 +16,7 @@ situaci nechceme podcenit, takže jsme se sešli, abychom si vzájemně předali
 
 Jiří Roubíček, další z kandidátů, k tomu dodává: *„Jedním z důležitých krajských témat je bezesporu ekonomika, krajské peníze, rozpočet, podpora místních podnikatelů, 
 živnostníků a lokálních producentů. Na to se hodně zaměřujeme v našem programu a zvlášť teď, v době očekávané krize, kdy půjde o hodně. Kraj má poměrně velký rozpočet 
-a dát se s tím dobře pracovat, takže řešíme samozřejmě i úpravy připravovaného programu tak, abychom na krizi dobře a správně reagovali.”*
+a dá se s tím dobře pracovat, takže řešíme samozřejmě i úpravy připravovaného programu tak, abychom na krizi dobře a správně reagovali.”*
 
 Další téma, které Piráti vnímají jako zásadní pro budoucnost, je péče o životní prostředí. Tomu se věnuje další čelní kandidátka, architektka Veronika Kovářová: 
 *“Kemp uprostřed přírody u rybníka přímo vyzývá k řešení otázek sucha, stavu krajiny a životního prostředí. Naší cestou je podpora krajinného plánování. Chceme pestrou krajinu. 
