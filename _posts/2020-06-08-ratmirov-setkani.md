@@ -19,7 +19,7 @@ Jiří Roubíček, další z kandidátů, k tomu dodává: *„Jedním z důlež
 a dá se s tím dobře pracovat, takže řešíme samozřejmě i úpravy připravovaného programu tak, abychom na krizi dobře a správně reagovali.”*
 
 Další téma, které Piráti vnímají jako zásadní pro budoucnost, je péče o životní prostředí. Tomu se věnuje další čelní kandidátka, architektka Veronika Kovářová: 
-*“Kemp uprostřed přírody u rybníka přímo vyzývá k řešení otázek sucha, stavu krajiny a životního prostředí. Naší cestou je podpora krajinného plánování. Chceme pestrou krajinu. 
+*„Kemp uprostřed přírody u rybníka přímo vyzývá k řešení otázek sucha, stavu krajiny a životního prostředí. Naší cestou je podpora krajinného plánování. Chceme pestrou krajinu. 
 Nechceme megalomanské přehrady, které budou realizovány za desítky let, vody zadrží ve skutečnosti málo a rozhodně nevrátí vodu do přírody ani do studní.”*
 
 ![Piráti](https://jihocesky.pirati.cz/assets/img/2020/ratmirov2.jpg)
