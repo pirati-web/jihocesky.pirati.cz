@@ -20,7 +20,8 @@ Srdečně zveme příznivce Pirátů, zájemce o pomoc v kampaních či zájemce
 Krajské fórum je setkání všech členů a příznivců z Jihočeského kraje, tedy i těch z jednotlivých regionů a obcí. 
 
 ### Co se bude dít?
-Na programu máme kromě obvyklých procesních věcí představení zájemců o členství, zpráva předsedkyně Jany Koláříkové a určitě přijde řeč také na blížící se volby. 
+Na programu máme kromě obvyklých procesních věcí představení zájemců o členství, zpráva předsedkyně Jany Koláříkové a určitě přijde řeč také na blížící se volby. Přítomen bude také europoslanec Mikuláš Peksa.
+
 Pro veřejnost a novináře je to možnost podívat se blíže na práci Pirátů a na cokoli se zeptat. Závěr bude patřit již tradičně volné diskuzi.
 
 ### Proč přijít?
