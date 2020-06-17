@@ -25,6 +25,6 @@ Nechceme megalomanské přehrady, které budou realizovány za desítky let, vod
 ![Piráti](https://jihocesky.pirati.cz/assets/img/2020/ratmirov2.jpg)
 
 Společný víkend v kempu byl pro Piráty jednou z mnoha dalších příležitostí, online přes internet i osobně, kdy mohou pracovat na společných postupech a strategiích. 
-Nyní se dále zúčastnili radní z Týna nad Vltavou Jan Novák, soběslavský zastupitel Martin Kákona, Lucie Korytářová, poslanci Lukáš Kolářík a Ondřej Profant, 
+Nyní se dále zúčastnili radní z Týna nad Vltavou Jan Novák, soběslavský zastupitel Martin Kákona, Lucie Korytářová, Jitka Novotná, poslanci Lukáš Kolářík a Ondřej Profant, 
 místostarosta města Tábor Václav Klecanda, předseda místního sdružení Českobudějovicko Tomáš Guth Jarkovský, zastupitel Českých Budějovic Jan Hošek, 
 zastupitel města Písek a kandidát do senátu Michal Horák a předsedkyně krajského sdružení Pirátů Jana Koláříková.
