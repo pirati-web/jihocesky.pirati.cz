@@ -14,7 +14,7 @@ keywords: piráti, česká pirátská strana, svoboda, demokracie, jihočeský k
 url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
+  #email:  # mail kam pujdou chybove vystupy
 
 emptyArray: []
 
