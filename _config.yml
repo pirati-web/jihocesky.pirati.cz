@@ -60,7 +60,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby-2018/program/:path/
+    permalink: /:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -85,7 +85,7 @@ defaults:   # defaults values for collection scope
       rbar:
         - garant
         - program
-      keywords: program, volby, 2018, komunální volby
+      keywords: program, volby, 2020, krajské volby, jihočeský kraj
 
 organization:
   name: Pirátská strana | JIHOČESKÝ KRAJ
