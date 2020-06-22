@@ -52,7 +52,7 @@ bottom:
       - link: /aktuality/
         name: Aktuality
       - link: /piratske-listy/2020-jaro/
-        name: Pirátské listy Praha        
+        name: Pirátské listy        
   - class: small-12 medium-4
     title: Otevřenost
     links:
