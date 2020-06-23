@@ -31,8 +31,4 @@ Kromě krajské kampaně začala v pondělí 22. 6. 2020 oficiálně také kampa
 vize pro působení v horní komoře Parlamentu. Chtějí zde být především hlasem voličů a prosazovat pirátské hodnoty, 
 jako jsou transparentnost, hospodárnost, svoboda a digitalizace. 
 
-*„Senát vnímám jako záruku demokratických principů této země, protože jsme se mohli před nedávnem přesvědčit, 
-*kam až jsou schopny zajít oligarchické skupiny při ohýbání a přizpůsobování si vlády v Česku. 
-*Chci do Senátu, abych mohl pokračovat v odkazu, který nám svým příkladným a nekompromisním postojem zanechal 
-*jeho bývalý předseda pan Kubera. Abych pomohl zaručit bezpečnost ústavy před nebezpečnými útoky některých politických uskupení 
-*a abych dokázal, že politici jsou tu pro lidi a ne naopak,“* vysvětlil Michal Horák, kandidát na senátora za volební obvod č. 12 Strakonicko.
+*„Senát vnímám jako záruku demokratických principů této země, protože jsme se mohli před nedávnem přesvědčit, kam až jsou schopny zajít oligarchické skupiny při ohýbání a přizpůsobování si vlády v Česku. Chci do Senátu, abych mohl pokračovat v odkazu, který nám svým příkladným a nekompromisním postojem zanechal jeho bývalý předseda pan Kubera. Abych pomohl zaručit bezpečnost ústavy před nebezpečnými útoky některých politických uskupení a abych dokázal, že politici jsou tu pro lidi a ne naopak,“* vysvětlil Michal Horák, kandidát na senátora za volební obvod č. 12 Strakonicko.
