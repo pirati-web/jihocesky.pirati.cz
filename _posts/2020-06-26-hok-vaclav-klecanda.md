@@ -6,8 +6,7 @@ title: 'Václav Klecanda: Jsem optimista a věřím, že velkou část programu 
 date: '2020-06-26'
 author: Luboš Kudláček
 image: 2020/vk2.jpg
-
-description: 'Rozhovor s Pirátem Václavem Klecandou, místostarostou města Tábora. Je zodpovědný za agendu životního prostředí, územní rozvoj, vnitřní věci a za agendu Zdravého města a MA21'
+description: 'Rozhovor s Pirátem Václavem Klecandou, místostarostou města Tábora. Je zodpovědný za agendu životního prostředí, územní rozvoj, vnitřní věci a  agendu Zdravého města a MA21'
 tags:
   - Hlášení od kormidel
 ---
