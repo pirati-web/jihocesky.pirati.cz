@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Václav Klecanda: Jsem optimista a věřím, že velkou část programu se podaří naplnit
+title: 'Václav Klecanda: Jsem optimista a věřím, že velkou část programu se podaří naplnit'
 date: '2020-06-26'
 author: Luboš Kudláček
 image: 2020/vk2.jpg
