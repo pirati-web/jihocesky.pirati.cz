@@ -15,8 +15,7 @@ tags:
 
 Jsem druhým rokem místostarosta města Tábora. Byl jsem zvolen na začátku listopadu 2018. Jsem zodpovědný za agendu životního prostředí, územní rozvoj, vnitřní věci a za agendu Zdravého města a MA21.
 
-**To zní docela náročně, dá se to stihnout? A můžeš být konkrétnější třeba ohledně MA21? 
-Co si pod tím můžu představit?**
+**To zní docela náročně, dá se to stihnout? A můžeš být konkrétnější třeba ohledně MA21? Co si pod tím můžu představit?**
 
 Musí se to stihnout. Je to hodně o práci na sobě a schopnosti efektivně organizovat čas, který navíc věnuji nyní i našemu nejmladšímu pirátkovi, synkovi Štěpíkovi.
 
@@ -26,8 +25,7 @@ Musí se to stihnout. Je to hodně o práci na sobě a schopnosti efektivně org
 
 Myslím, že daří. Plnění našeho volebního programu pravidelně monitorujeme a výsledky prezentujeme na našem webu [tabor.pirati.cz](https://tabor.pirati.cz/). Ale je třeba si přiznat, že většina programu je o zlepšování procesů, což je spojeno s malou ochotou věci měnit. Dá to hodně práce přesvědčovat, že postupy, které se dnes běžně a hlavně úspěšně používají v komerčním prostředí, je dobré adoptovat i do chodu města.
 
-**Můžeš vybrat nějaký konkrétní proces, který chtějí Piráti v Táboře zavést nebo změnit? 
-Jen pro ilustraci, abych si ohledně toho mohl něco představit.** 
+**Můžeš vybrat nějaký konkrétní proces, který chtějí Piráti v Táboře zavést nebo změnit? Jen pro ilustraci, abych si ohledně toho mohl něco představit.** 
 
 Rádi bychom mj. ukotvili systém strategického řízení. To ve zkratce znamená, že je nějaký strategický plán města, založený na analýze současného stavu, který z této analýzy extrahuje sadu strategických cílů. Investice města se pak mají řídit tak, že se těmto cílům nějak přibližují. Pro obyvatele je strategický plán deklarace směru, aby věděli, kam jejich město kráčí.
 
@@ -35,7 +33,6 @@ Rádi bychom mj. ukotvili systém strategického řízení. To ve zkratce znamen
 
 Podle mého kráčí po pevné, ale malinko konzervativní cestě. Moderní město řízené na základě aktuálních dat měřených senzorickou sítí zařízeními v internetu věcí, kvalitně komunikující s veřejností, cílící na posilování odolnosti vůči klimatickým extrémům nejen uvnitř města, ale i v okolní krajině - to je má vize. Není to meta, kterou lze splnit za rok, ale myslím, že řada aktivit na cestě k mojí vizi byla započata.
 
-**Znamená to tedy, že se ti při práci místostarosty vyloženě daří? Existuje třeba něco, 
-co ti tu cestu k cíli a plnění volebního programu komplikuje?**
+**Znamená to tedy, že se ti při práci místostarosty vyloženě daří? Existuje třeba něco, co ti tu cestu k cíli a plnění volebního programu komplikuje?**
 
 Ano, myslím, že daří. Jestli si to ale myslí i lidé, se ukáže ve volbách. Nejde však vše tempem, jakým jsem zamýšlel. Hodně to naráží na zaběhlé procesy, nebo nekvalitní legislativu. Jindy na nedostatek lidské kapacity, nebo chuti něco dělat jinak. Jsem ale optimista a věřím, že velkou část programu, se podaří naplnit.
