@@ -37,10 +37,12 @@ bez zmíněných zásahů jen těžko vrátí. A poslední novinkou je, že kraj
 [návrhem přírodní památku úplně zrušit](https://edesky.cz/dokument/3954063), než aby se o ni jakkoli staral. Ve zdůvodnění je navíc zavádějící údaj o vymizení hořečků již “po roce 2002”.
  
 ![Na Vysokém v r. 2011.](https://jihocesky.pirati.cz/assets/img/2020/dl6.png)
-Na Vysokém v r. 2011, než zde hořeček vymizel. (foto © Petr Brož, CC BY-SA 3.0)
+
+*Na Vysokém v r. 2011, než zde hořeček vymizel. (foto © Petr Brož, CC BY-SA 3.0)*
 
 ![Zarostlá louka v PP Na Vysokém dnes.](https://jihocesky.pirati.cz/assets/img/2020/dl7.png)
-Zarostlá louka v PP Na Vysokém dnes.
+
+*Zarostlá louka v PP Na Vysokém dnes.*
 
 Stejný osud má dle [návrhu krajského úřadu](https://edesky.cz/dokument/3954064) potkat i PP Irů dvůr. I zde se prý předměty ochrany již nevyskytují, nemá tedy prý cenu lokalitu dále chránit. Skutečně? Jednak, jeden z nich, kosatec sibiřský, se vyskytuje hned na hranici rezervace u býv. statku - jestli se nejedná o potomky kosatců ze sousední louky, není jasné. Jednak bleskový průzkum botaniků z Přírodovědecké fakulty JU odhalil v přírodní památce i populaci chráněných lilií zlatohlavých. 
 
@@ -49,10 +51,12 @@ Ale hlavně, stejně jako v předchozím případě, hodnota lokality nestojí a
 Spolu s kolegy podáme formální námitku proti rušení obou přírodních památek.
 
 ![Květnatá louka v PP Irů dvůr, v pozadí město Prachatice (foto © Petr Brož, CC BY-SA 3.0).](https://jihocesky.pirati.cz/assets/img/2020/dl8.png)
-Květnatá louka v PP Irů dvůr, v pozadí město Prachatice (foto © Petr Brož, CC BY-SA 3.0).
+
+*Květnatá louka v PP Irů dvůr, v pozadí město Prachatice (foto © Petr Brož, CC BY-SA 3.0).*
 
 ![Lilie zlatohlavá v PP Irů dvůr.](https://jihocesky.pirati.cz/assets/img/2020/dl9.png)
-Lilie zlatohlavá v PP Irů dvůr.
+
+*Lilie zlatohlavá v PP Irů dvůr.*
 
 ### Nová přírodní památka pro Jižní Čechy!
 
@@ -61,4 +65,4 @@ Zakončeme pozitivně: kraj současně navrhuje jednu novou přírodní památku
 Právě bývalé doly, lomy a výsypky jsou často z hlediska ochrany ohrožených druhů to nejcennější, co v naší krajině najdeme. 
 Piráti připravují i legislativní návrhy usnadňující ponechávání těchto míst přírodě. Více o problematice čtěte [zde](http://www.calla.cz/data/hl_stranka/ostatni/sbornik_2_vydani_2015_web.pdf).
 
-Úvodní fotografie: lilie zlatohlavá, ilustrační foto ( © Ilari Stenroth, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
+*Úvodní fotografie: lilie zlatohlavá, ilustrační foto ( © Ilari Stenroth, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))*
