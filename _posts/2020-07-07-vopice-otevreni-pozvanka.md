@@ -23,10 +23,10 @@ Přijďte se s námi seznámit.
 
 **Kdy?**
 
-V neděli 12. 7. 2020 ve 14 hodin 
+V neděli 12. 7. 2020 ve 14 hodin. 
 
 **Kde?**
 
-Palackého 61, 387 01 Volyně, Česká Republika
+Palackého 61, Volyně
 
 [Událost na Facebooku zde.](https://www.facebook.com/events/920065595086020/)
