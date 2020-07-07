@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 - pks
-img: people/lukas-mares.jpg
+img: people/lukas.mares.2020.jpg
 description: člen MS Českobudějovicko a zastupitel v Českých Budějovicích
 mail:
 - lukas.mares@pirati.cz

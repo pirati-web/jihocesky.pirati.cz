@@ -8,7 +8,7 @@ category:
 - psp
 #- pks
 - zastupitele
-img: people/lukas-kolarik.jpg
+img: people/lukas.kolarik.2020.jpg
 description: poslanec PČR, člen MS Strakonicko a zastupitel v Katovicích
 mail:
 - lukas.kolarik@pirati.cz

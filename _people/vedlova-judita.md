@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - all
-#img: people/judita-vedlova.jpg
+img: people/judita.vedlova.2020.jpg
 description: členka Pirátské strany
 mail:
 - judita.vedlova@pirati.cz

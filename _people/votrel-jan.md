@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - all
-#img: people/jan-votrel.jpg
+img: people/jan.votrel.2020.jpg
 description: člen Pirátské strany
 mail:
 - jan.votrel@pirati.cz

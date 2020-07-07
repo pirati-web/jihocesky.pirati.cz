@@ -11,9 +11,9 @@
       {%- capture img -%}
         {%- if include.item.img -%}
           {%- if include.imgSize != 'big' -%}
-            {% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='center' magick:crop='100x100+0+0' @path %}
+            {% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='north' magick:crop='100x100+0+0' @path %}
           {%- else -%}
-            {% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='center' magick:crop='165x165+0+0' @path %}
+            {% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='north' magick:crop='165x165+0+0' @path %}
           {%- endif -%}
         {%- else -%}
           {{ 'assets/img/people/unknown-pirate.svg' | relative_url }}

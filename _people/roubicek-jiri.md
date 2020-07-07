@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - pms
-img: people/jiri-roubicek.jpg
+img: people/jiri.roubicek.2020.jpg
 description: předseda MS Tábor
 mail:
 - jiri.roubicek@pirati.cz

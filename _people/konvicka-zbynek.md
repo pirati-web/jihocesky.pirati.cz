@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-img: people/zbynek-konvicka.jpg
+img: people/zbynek.konvicka.2020.jpg
 description: člen MS Písecko a zastupitel v Písku
 mail:
 - zbynek.konvicka@pirati.cz

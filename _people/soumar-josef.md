@@ -3,7 +3,7 @@ uid: josef.soumar
 name: Josef Soumar
 category:
 - zastupitele
-img: people/josef-soumar.jpg
+img: people/josef.soumar.2020.jpg
 description: člen MS Písecko a zastupitel v Písku 
 mail:
 - josef.soumar@pirati.cz

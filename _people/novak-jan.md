@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-img: people/jan-novak.jpg
+img: people/jan.novak.2020.jpg
 description: člen MS Českobudějovicko a zastupitel v Týně nad Vltavou
 mail:
 - jan.novak@pirati.cz

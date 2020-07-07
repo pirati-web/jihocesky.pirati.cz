@@ -7,7 +7,7 @@ titles:
 category:
 - pms
 - pks
-img: people/veronika-kovarova.jpg
+img: people/veronika.kovarova.2020.jpg
 description: předsedkyně MS Strakonicko
 mail:
 - veronika.kovarova@pirati.cz
