@@ -120,7 +120,7 @@ Piráti počítají s tím, že ve volbách překonají hranici 15 % hlasů.
 <li>Bc. Jan Novák - radní v Týně nad Vltavou, pořadatel kulturních a občanských aktivit</li>
 <li>Josef Soumar - finančník, zastupitel v Písku</li>
 <li>Ing. arch. Veronika Kovářová - architektka, pořadatelka Šperkařského workshopu ve Volyni</li>
-<li>Bc. Jiří Roubíček - živnostník z Tábora, organizátor společenských akcí</li>
+<li>Bc. Jiří Roubíček - provozovatel penzionu v Táboře, organizátor sportovních a kulturních akcí</li>
 <li>Ing. Martin Kákona - vědecký pracovník, výzkumník, vynálezce, zastupitel v Soběslavi</li>
 <li>Mgr. Dan Leština - doktorand na Biologickém centru Akademie věd, zoolog</li>
 <li>Bc. Jan Hošek - SW vývojář, zastupitel v Českých Budějovicích</li>
