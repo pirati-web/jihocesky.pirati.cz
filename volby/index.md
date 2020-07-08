@@ -5,5 +5,5 @@ campaignCategoryUid: kraj2020
 candidateListUid: kraj2020  # uid z `_candidates/kraj.md`
 ---
 
-![Šance změnit budoucnost](/assets/img/2020/kandidatka-baner.jpg)
+![Šance změnit budoucnost - JDE O KRAJ](/assets/img/2020/volby1.jpg)
 
