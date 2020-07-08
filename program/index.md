@@ -13,11 +13,9 @@ rbar:
 
 # JDE O KRAJ
 
-Krajská samospráva je důležitější, než to může na první pohled vypadat. Hospodaří s významným rozpočtem a ovlivňuje životy nás všech.  Zajistíme dostupnost služeb a lepší životní podmínky pro každého obyvatele kraje, a to nejen ve velkých městech, ale i na venkově. 
+Krajská samospráva je důležitější, než to může na první pohled vypadat. Hospodaří s významným rozpočtem a ovlivňuje životy nás všech. Zajistíme dostupnost služeb a lepší životní podmínky pro každého obyvatele kraje, a to nejen ve velkých městech, ale i na venkově. 
 
-## JDE O HODNĚ 
-
-O naše peníze, naši přírodu a krajinu, naše silnice, veřejnou a individuální dopravu, dostupnost bydlení, o vzdělání našich dětí, naše zdraví a celkově kvalitu našich životů. 
+**JDE O HODNĚ.** O naše peníze, naši přírodu a krajinu, naše silnice, veřejnou a individuální dopravu, dostupnost bydlení, o vzdělání našich dětí, naše zdraví a celkově kvalitu našich životů. 
 
 
 ## OBECNÉ PRINCIPY PIRÁTSKÉ POLITIKY
