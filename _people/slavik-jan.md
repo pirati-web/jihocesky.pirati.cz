@@ -17,7 +17,7 @@ profiles:
 ordpms: 15 
 ---
 
-an Slavík (*1989) se narodil v Jindřichově Hradci, po studiu místního gymnázia pokračoval na Právnickou fakultu Univerzity Karlovy, kterou úspěšně zakončil. Poté absolvoval koncipientskou praxi v několika pražských advokátních kancelářích se zaměřením na obchodní právo, korporace a pojišťovnictví. Poté pracoval několik let v pojišťovně nejprve jako právník a následně jako ředitel distribuční sítě. Aktuálně podniká v jižních Čechách, kde provozuje letní chatový tábor.
+Jan Slavík (*1989) se narodil v Jindřichově Hradci, po studiu místního gymnázia pokračoval na Právnickou fakultu Univerzity Karlovy, kterou úspěšně zakončil. Poté absolvoval koncipientskou praxi v několika pražských advokátních kancelářích se zaměřením na obchodní právo, korporace a pojišťovnictví. Poté pracoval několik let v pojišťovně nejprve jako právník a následně jako ředitel distribuční sítě. Aktuálně podniká v jižních Čechách, kde provozuje letní chatový tábor.
 
 Za Piráty kandidoval v roce 2018 do obecního zastupitelstva Jindřichova Hradce a aktuálně je zvolen za Piráty členem kontrolního výboru Jindřichova Hradce.
 
