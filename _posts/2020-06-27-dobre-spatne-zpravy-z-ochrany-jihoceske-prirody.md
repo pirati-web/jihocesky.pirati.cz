@@ -60,7 +60,7 @@ Spolu s kolegy podáme formální námitku proti rušení obou přírodních pam
 
 ### Nová přírodní památka pro Jižní Čechy!
 
-Zakončeme pozitivně: kraj současně navrhuje jednu novou přírodní památku zřídit. Je jí [PP Jehnědno](https://zp.kraj-jihocesky.cz/_files/f615/files/pp/plan_pece_pp_jehnedno_2019-28_opraveny.pdf) na Písecku a vypadá skvěle! Je to bývalý jílový lom se spoustou tůní a otevřených, jen pozvolna obrůstajících ploch, hostících řadu zajímavých živočichů a rostlin. Tip na výlet pro vás! 
+Zakončeme pozitivně: kraj současně navrhuje jednu novou přírodní památku zřídit. Je jí [PP Jehnědno](https://zp.kraj-jihocesky.cz/_files/f615/files/pp/plan_pece_pp_jehnedno_2019-28_opraveny.pdf) na Písecku a vypadá skvěle! Je to bývalý jílový lom se spoustou tůní a otevřených, jen pozvolna obrůstajících ploch, hostících řadu zajímavých živočichů a rostlin. Tip na výlet pro vás! (Ovšem pozor, do samotného aktivního lomu je ještě vstup zakázán, kochejte se jen z cesty :-) )
 
 Právě bývalé doly, lomy a výsypky jsou často z hlediska ochrany ohrožených druhů to nejcennější, co v naší krajině najdeme. 
 Piráti připravují i legislativní návrhy usnadňující ponechávání těchto míst přírodě. Více o problematice čtěte [zde](http://www.calla.cz/data/hl_stranka/ostatni/sbornik_2_vydani_2015_web.pdf).
