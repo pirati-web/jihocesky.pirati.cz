@@ -5,7 +5,7 @@ published: true
 title: 'Budoucnost zdravotnictví? Hlavně nevykrvácet!'
 date: '2020-07-27'
 author: Lukáš Mareš
-image: 2020/lm-pl-2.png
+image: 2020/lm-pl.png
 
 description: 'Jakým výzvám budeme v příštích letech čelit? Rozhodně zcela zásadní bude zajištění financování. Ekonomické dopady krize budou enormní a nehledě na to, kolik si půjčíme, bude následovat utahování opasků.'
 tags:
