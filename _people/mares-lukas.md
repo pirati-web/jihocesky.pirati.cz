@@ -38,11 +38,11 @@ Za své hlavní úspěchy, na kterých jsem se od té doby spolupodílel, považ
 
 Vinou všeobecného zmaru přístupu k demokracii panujícího v zavedených politických stranách se do užšího výběru dostala jen jediná – Piráti. Začal jsem tedy studovat její program, pročítal fórum a zúčastnil se několika setkání členů v Českých Budějovicích. Netrvalo dlouho a na přelomu léta a podzimu 2017 jsem do ní skutečně vstoupil.
 
-Edit 04_12_18 V komunálních volbách v říjnu 2018 jsem byl zvolen zastupitelem města Českých Budějovic, posléze předsedou zastupitelského klubu Pirátů a uvolněným předsedou výboru zastupitelstva pro veřejnou správu a informační technologie.
+V komunálních volbách v říjnu 2018 jsem byl zvolen zastupitelem města Českých Budějovic, posléze předsedou zastupitelského klubu Pirátů a uvolněným předsedou výboru zastupitelstva pro veřejnou správu a informační technologie. Tuto uvolněnou funkci jsem vykonával rok, nyní jsem neuvolněným zastupitelem. 
 
-Tato gesce je jednou z pirátských priorit a město České Budějovice má v tomto směru co dohánět. Věřím proto, že za mnou bude na konci volebního období vidět odvedená práce.
+Na začátku roku 2020 jsme byl členy krajského sdružení zvolen na první místo kandidátky do krajského zastupitelstva.
 
-Budete-li mě chtít kontaktovat, nejlépe na FB, lukas.mares@pirati.cz nebo na telefon 737 905 368.
+Budete-li mě chtít kontaktovat, nejlépe e-mailem na lukas.mares@pirati.cz, nebo na telefonu 737 905 368.
 
 Děkuji všem za přečtení
 
