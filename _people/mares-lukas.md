@@ -40,7 +40,7 @@ Vinou všeobecného zmaru přístupu k demokracii panujícího v zavedených pol
 
 V komunálních volbách v říjnu 2018 jsem byl zvolen zastupitelem města Českých Budějovic, posléze předsedou zastupitelského klubu Pirátů a uvolněným předsedou výboru zastupitelstva pro veřejnou správu a informační technologie. Tuto uvolněnou funkci jsem vykonával rok, nyní jsem neuvolněným zastupitelem. 
 
-Na začátku roku 2020 jsme byl členy krajského sdružení zvolen na první místo kandidátky do krajského zastupitelstva.
+Na začátku roku 2020 jsem byl členy krajského sdružení zvolen na první místo kandidátky do krajského zastupitelstva.
 
 Budete-li mě chtít kontaktovat, nejlépe e-mailem na lukas.mares@pirati.cz, nebo na telefonu 737 905 368.
 
