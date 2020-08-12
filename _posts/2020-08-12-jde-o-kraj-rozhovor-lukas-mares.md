@@ -127,7 +127,7 @@ A pak se budou každé ruce a nohy náramně hodit. Jsem velmi zvědavý,
 kdo to bude všechno dělat, když před personální krizí se tady nejméně deset
 let strká hlava do písku.
 
-**Jak jsi vnímal pomoc veřejnosti, šití roušek a dodávky dalších věcí?*
+**Jak jsi vnímal pomoc veřejnosti, šití roušek a dodávky dalších věcí?**
 
 Jste skvělí. Veškeré doma ušité roušky i další materiál se nám velmi hodí. Sice
 je nelze využít do sterilního prostředí operačních sálů, ale díky nim pošetříme
