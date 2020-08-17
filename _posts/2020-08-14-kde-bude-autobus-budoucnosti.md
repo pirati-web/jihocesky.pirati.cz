@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Kde zastaví PIRÁTSKÝ AUTOBUS BUDOUCNOSTI?'
-date: '2020-08-14'
+date: '2020-08-17'
 author: Piráti Jihočeský kraj
 image: 2020/autobus2.jpg
 
