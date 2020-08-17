@@ -17,10 +17,10 @@ tags:
 Jihočeský kraj navštíví v srpnu a v září několikrát PIRÁTSKÝ AUTOBUS BUDOUCNOSTI, 
 který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Krajů, jak je známe dnes) a veze technologie, které mají přesah do budoucnosti.
 
-**Kde můžete autobus potkat?
+##Kde můžete autobus potkat?
 
 
-***25. 8. 2020
+###25. 8. 2020
 
 <ul>
 <li>10:00 - Jindřichův Hradec</li>
@@ -31,7 +31,7 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 </ul>
 
 
-***26. 8. 2020
+###26. 8. 2020
 
 <ul>
 <li>09:30 - Český Krumlov</li>
@@ -42,7 +42,7 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 <li>15:30 - Strakonice</li>
 </ul>
 
-***1. 9. 2020
+###1. 9. 2020
 
 <ul>
 <li>09:00 - Blatná</li>
@@ -53,7 +53,7 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 <li>17:00 - Tábor</li>
 </ul>
 
-***12. 9. 2020
+###12. 9. 2020
 
 <ul>
 <li>10:00 - Tábor</li>
