@@ -7,12 +7,12 @@ date: '2020-08-14'
 author: Piráti Jihočeský kraj
 image: 2020/autobus2.jpg
 
-description: '👀 Přijďte se podívat na PIRÁTSKÝ AUTOBUS a na moderní technologie, které se v něm skrývají. 🏴 Popovídejte si s námi o tom, jak chceme změnit budoucnost. 2. a 3. 10. 2020 jsou volby a JDE O NÁŠ KRAJ 🖤'
+description: 'Přijďte se podívat na PIRÁTSKÝ AUTOBUS a na moderní technologie, které se v něm skrývají. Popovídejte si s námi o tom, jak chceme změnit budoucnost. 2. a 3. 10. 2020 jsou volby a JDE O NÁŠ KRAJ'
 tags:
   - Volby 2020
 ---
-**👀 Přijďte se podívat na PIRÁTSKÝ AUTOBUS a na moderní technologie, které se v něm skrývají. 🏴 Popovídejte si s námi o tom, jak chceme změnit budoucnost. 
-2. a 3. 10. 2020 jsou volby a JDE O NÁŠ KRAJ 🖤**
+**Přijďte se podívat na PIRÁTSKÝ AUTOBUS a na moderní technologie, které se v něm skrývají. Popovídejte si s námi o tom, jak chceme změnit budoucnost. 
+2. a 3. 10. 2020 jsou volby a JDE O NÁŠ KRAJ**
 
 Jihočeský kraj navštíví v srpnu a v září několikrát PIRÁTSKÝ AUTOBUS BUDOUCNOSTI, 
 který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Krajů, jak je známe dnes) a veze technologie, které mají přesah do budoucnosti.
