@@ -23,10 +23,10 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 **25. 8. 2020**
 
 <ul>
-<li>10:00 - Jindřichův Hradec</li>
-<li>13:30 - Třeboň</li>
-<li>14:30 - Nové Hrady</li>
-<li>15:30 - Velešín</li>
+<li>10:00 - Jindřichův Hradec, Masarykovo náměstí</li>
+<li>13:30 - Třeboň, náměstí</li>
+<li>14:30 - Nové Hrady, Náměstí Republiky</li>
+<li>15:30 - Velešín, autobusové nádraží</li>
 <li>16:30 - České Budějovice u KD Slavie</li>
 </ul>
 
@@ -35,7 +35,7 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 
 <ul>
 <li>09:30 - Český Krumlov</li>
-<li>10:30 - Horní Planá na náměstí</li>
+<li>10:30 - Horní Planá, náměstí</li>
 <li>11:30 - Volary</li>
 <li>12:30 - Volyně</li>
 <li>14:30 - Katovice</li>
