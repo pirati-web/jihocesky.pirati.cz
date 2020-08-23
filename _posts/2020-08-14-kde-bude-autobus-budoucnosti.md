@@ -27,7 +27,7 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 <li>13:30 - Třeboň, náměstí</li>
 <li>14:30 - Nové Hrady, Náměstí republiky</li>
 <li>15:30 - Velešín, autobusové nádraží</li>
-<li>16:30 - České Budějovice u KD Slavie</li>
+<li>16:30 - České Budějovice, u KD Slavie</li>
 </ul>
 
 
@@ -36,28 +36,28 @@ který symbolizuje minulost (rok výroby autobusu je shodný s rokem vzniku Kraj
 <ul>
 <li>10:30 - Horní Planá, náměstí</li>
 <li>11:30 - Volary</li>
-<li>12:30 - Volyně</li>
+<li>12:30 - Volyně, nám. Svobody</li>
 <li>14:30 - Katovice</li>
-<li>15:30 - Strakonice</li>
+<li>15:30 - Strakonice, U Svaté Markéty</li>
 </ul>
 
 **1. 9. 2020**
 
 <ul>
 <li>09:00 - Blatná</li>
-<li>10:00 - Písek</li>
+<li>10:00 - Písek, Fügnerovo náměstí</li>
 <li>12:30 - Vodňany</li>
-<li>13:30 - Týn nad Vltavou</li>
+<li>13:30 - Týn nad Vltavou, náměstí</li>
 <li>14:30 - Soběslav</li>
-<li>17:00 - Tábor</li>
+<li>17:00 - Tábor, Areál Komora</li>
 </ul>
 
 **12. 9. 2020**
 
 <ul>
-<li>10:00 - Tábor</li>
-<li>13:00 - Veselí nad Lužnicí</li>
-<li>16:00 - České Budějovice</li>
+<li>10:00 - Tábor, u autobusového nádraží</li>
+<li>13:00 - Veselí nad Lužnicí, park u kulturního domu</li>
+<li>16:00 - České Budějovice, u KD Slavie</li>
 </ul>
 
 Mrzí nás, že nemůžeme navštívit více míst, ale autobus jezdí po celé České republice a jeho časové možnosti jsou tak omezeny. Potkat jihočeské Piráty ale můžete i
