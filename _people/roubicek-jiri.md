@@ -31,7 +31,7 @@ Pracoval ve firmě Vodafone a spolu založil web www.flipshop.cz. Dnes pracuje j
 
 Aktivně se věnuje rodině a jeho záliby jsou politika, ekonomika, četba a sport.
 
-Kancelář
-Hradební 2995/195
-Tábor, 39001
+Kancelář<br>
+Hradební 2995/195<br>
+Tábor, 39001<br>
 ČR
