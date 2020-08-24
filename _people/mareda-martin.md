@@ -27,4 +27,4 @@ Koníčky : hudba( aktivní hraní v kapele Peshata), vše co se týká nahráv�
 
 V komunální činnosti by viděl svůj přínos v kulturní oblasti (20 let je aktivním hudebníkem), sociální neziskové oblasti a v boji proti tepelnému monopolnímu hospodářství v Táboře. Na celorepublikové bázi by rád vnášel podněty a názory v drogové problematice a zapojil se do diskuse o autorském zákoně.
 
-V roce 2017 kandiduje do sněmovních voleb jako člen Pirátské strany za krajské sdružení Jihočeský kraj. V roce 2018 kandiduje do komunálních voleb v Táboře jako člen Pirátské strany.
+V roce 2017 kandiduje do sněmovních voleb jako člen Pirátské strany za krajské sdružení Jihočeský kraj. V roce 2018 kandiduje do komunálních voleb v Táboře jako člen Pirátské strany. V říjnu 2018 se stává zastupitelem. Je členem Komise sociální a Komise pro pohledávky.
