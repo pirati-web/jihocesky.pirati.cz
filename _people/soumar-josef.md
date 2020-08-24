@@ -25,7 +25,7 @@ Oblastem financí a ekonomie se věnuji od svých studií, od roku 2007 se staly
 
 Mám rád statistiky a podložené postupy. Ve své profesi se věnuji vypracování finančních plánů, odborných analýz a posudků. Dlouhodobě spolupracuji s klienty z řad jednotlivců, rodin, živnostníků i firemních zákazníků. Ve firmě mám na starosti oblast následného vzdělávání, personální a finanční řízení.
 
-Splňuji potřebné certifikace České národní banky (https://apl.cnb.cz/apljerrsdad/JERRS.WEB07.INTRO_PAGE) pro komplexní výkon své činnosti. Jsem držitelem evropského finančně-poradenského profesního titulu – EFA https://efpa.cz/profil/9787.
+Splňuji potřebné certifikace [České národní banky](https://apl.cnb.cz/apljerrsdad/JERRS.WEB07.INTRO_PAGE) pro komplexní výkon své činnosti. Jsem držitelem evropského finančně-poradenského profesního titulu – [EFA](https://efpa.cz/profil/9787).
 
 Mám rád vše, co se točí okolo vědy, přírody a techniky (úroveň: obdivovatel/nadšenec), podporuji kritické myšlení a plnou transparentnost veřejných financí.
 
