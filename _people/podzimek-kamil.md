@@ -2,7 +2,7 @@
 uid: kamil.podzimek
 name: Kamil Podzimek
 titles:
-  before: 
+  before: Bc.
   after:
 category:
 - zastupitele
