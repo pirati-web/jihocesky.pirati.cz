@@ -45,7 +45,11 @@ Zasadíme se o dostavbu základních dopravních spojnic. Zavedeme vstřícný a
 
 Skoncujeme se současnou praxí, kdy se staví nekoncepčně. Zefektivníme a zrychlíme infrastrukturní stavby. Ty budeme koordinovat společně s dalšími organizacemi. Zohledníme požadavky zachování krajinného rázu a přírodních lokalit daného regionu.
 
+<hr>
 
+**[KOMPLETNÍ PROGRAM NAJDETE SI MŮŽETE STÁHNOUT V PDF](https://jihocesky.pirati.cz/assets/img/program.pdf)**
+
+<hr>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
