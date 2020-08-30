@@ -22,15 +22,17 @@ Na místech bude přítomen kandidát na hejtmana MUDr. Lukáš Mareš a další
 **Kde nás můžete potkat?**
 
 Konkrétní místa budeme ještě doplňovat.
+[Sledujte také naše události na Facebooku.](https://www.facebook.com/pirati.jck/events/)
+
 <ul>
-<li>06: 9. - 10:00 - 20:00 - Milevsko, krajské setkání</li>
+<li>06. 9. - 10:00 - 20:00 - Milevsko, krajské setkání</li>
 <li>08. 9. - 18:00 - 20:00 - Vodňany</li>
 <li>09. 9. - 18:00 - 20:00 - Soběslav</li>
 <li>10. 9. - 18:00 - 20:00 - Vimperk</li>
-<li>12. 9. - 10:00 - Tábor - zastávka [PIRÁTSKÉHO AUTOBUSU](https://jihocesky.pirati.cz/tiskove-zpravy/kde-bude-autobus-budoucnosti/)</li>
-<li>12. 9. - 13:00 - Veselí nad Lužnicí - zastávka [PIRÁTSKÉHO AUTOBUSU](https://jihocesky.pirati.cz/tiskove-zpravy/kde-bude-autobus-budoucnosti/)</li>
-<li>12. 9. - 16:00 - České Budějovice, zastávka [PIRÁTSKÉHO AUTOBUSU](https://jihocesky.pirati.cz/tiskove-zpravy/kde-bude-autobus-budoucnosti/)</li>
-<li>12. 9. - 10:00 - 22:00 - Pirátský rodinný festival u KD Slavie ([zde událost na FB](https://www.facebook.com/events/1156806568033679/)</li>
+<li>12. 9. - 10:00 - 12:00 - Tábor - zastávka PIRÁTSKÉHO AUTOBUSU</li>
+<li>12. 9. - 13:00 - 15:00 - Veselí nad Lužnicí - zastávka PIRÁTSKÉHO AUTOBUSU</li>
+<li>12. 9. - 16:00 - 22:00 - České Budějovice, zastávka PIRÁTSKÉHO AUTOBUSU</li>
+<li>12. 9. - 10:00 - 22:00 - Pirátský rodinný festival u KD Slavie</li>
 <li>14. 9. - 18:00 - 20:00 - Dačice</li>
 <li>15. 9. - 18:00 - 20:00 - Týn nad Vltavou</li>
 <li>16. 9. - 18:00 - 20:00 - Třeboň</li>
@@ -40,7 +42,7 @@ Konkrétní místa budeme ještě doplňovat.
 <li>23. 9. - 18:00 - 20:00 - Strakonice</li>
 <li>24. 9. - 18:00 - 20:00 - Český Krumlov</li>
 <li>25. 9. - 18:00 - 20:00 - Jindřichův Hradec</li>
-<li>29. 9. - 17:00 - 19:00 - České Budějovice</li>
+<li>29. 9. - 17:00 - 19:00 - České Budějovice, Horká vana, Česká 222/7</li>
 <li>30. 9. - 18:00 - 20:00 - Tábor</li>
 </ul>
 
