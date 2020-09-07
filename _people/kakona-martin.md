@@ -2,7 +2,7 @@
 uid: martin.kakona
 name: Martin Kákona
 titles:
-  before: Ing.
+  before: Ph.D.
   after:
 category:
 - zastupitele
