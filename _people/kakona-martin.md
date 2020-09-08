@@ -2,8 +2,8 @@
 uid: martin.kakona
 name: Martin Kákona
 titles:
-  before: Ph.D.
-  after:
+  before: Ing.
+  after: Ph.D.
 category:
 - zastupitele
 img: people/martin.kakona.2020.jpg
