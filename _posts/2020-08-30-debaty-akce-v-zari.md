@@ -26,24 +26,24 @@ Konkrétní místa budeme ještě doplňovat.
 
 <ul>
 <li>06. 9. - 10:00 - 20:00 - Milevsko, krajské setkání</li>
-<li>08. 9. - 18:00 - 20:00 - Vodňany</li>
-<li>09. 9. - 18:00 - 20:00 - Soběslav</li>
+<li>08. 9. - 18:00 - 20:00 - Vodňany, Hospůdka V Uličce</li>
+<li>09. 9. - 18:00 - 20:00 - Soběslav, Svákovská hvězdárna</li>
 <li>10. 9. - 18:00 - 20:00 - Vimperk</li>
 <li>12. 9. - 10:00 - 12:00 - Tábor - zastávka PIRÁTSKÉHO AUTOBUSU</li>
 <li>12. 9. - 13:00 - 15:00 - Veselí nad Lužnicí - zastávka PIRÁTSKÉHO AUTOBUSU</li>
 <li>12. 9. - 16:00 - 22:00 - České Budějovice, zastávka PIRÁTSKÉHO AUTOBUSU</li>
 <li>12. 9. - 10:00 - 22:00 - Pirátský rodinný festival u KD Slavie</li>
-<li>14. 9. - 18:00 - 20:00 - Dačice</li>
-<li>15. 9. - 18:00 - 20:00 - Týn nad Vltavou</li>
-<li>16. 9. - 18:00 - 20:00 - Třeboň</li>
-<li>17. 9. - 18:00 - 20:00 - Kaplice</li>
-<li>18. 9. - 18:00 - 20:00 - Prachatice</li>
-<li>22. 9. - 18:00 - 20:00 - Písek</li>
-<li>23. 9. - 18:00 - 20:00 - Strakonice</li>
-<li>24. 9. - 18:00 - 20:00 - Český Krumlov</li>
-<li>25. 9. - 18:00 - 20:00 - Jindřichův Hradec</li>
+<li>14. 9. - 18:00 - 20:00 - Dačice, Restaurace U Koníčka</li>
+<li>15. 9. - 18:00 - 20:00 - Týn nad Vltavou, Art caffe bar</li>
+<li>16. 9. - 18:00 - 20:00 - Třeboň, Plzeňská restaurace</li>
+<li>17. 9. - 18:00 - 20:00 - Kaplice, Pizzerie Pod Kostelem</li>
+<li>18. 9. - 18:00 - 20:00 - Prachatice, Pivovar Prachatice</li>
+<li>22. 9. - 18:00 - 20:00 - Písek, Divadlo Pod čarou</li>
+<li>23. 9. - 18:00 - 20:00 - Strakonice, Hotel a restaurace Splávek</li>
+<li>24. 9. - 18:00 - 20:00 - Český Krumlov, Restaurace Travel hostel</li>
+<li>25. 9. - 18:00 - 20:00 - Jindřichův Hradec, Kozlovna</li>
 <li>29. 9. - 17:00 - 19:00 - České Budějovice, Horká vana, Česká 222/7</li>
-<li>30. 9. - 18:00 - 20:00 - Tábor</li>
+<li>30. 9. - 18:00 - 20:00 - Tábor, Náměstí TGM</li>
 </ul>
 
 Mrzí nás, že nemůžeme navštívit více míst, ale stejně jako u cesty autobusu jsou naše možnosti omezeny. Potkat jihočeské Piráty ale můžete i
