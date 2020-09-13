@@ -5,7 +5,7 @@ published: true
 title: 'Spor o Boubín - válečná sekera znovu napůl vykopána?'
 date: '2020-09-13'
 author: Dan Leština a Michal Just
-    image: 2020/boubin.jpg
+image: 2020/boubin.jpg
 
 description: 'Na pozadí bitvy s virem se odehrávala bitva jedné staré války. Kácet, nebo nekácet? Tentokrát ale v kulisách přímo ikonických: v Boubínském pralese. Na první pohled je vše jasné. Prales je prales, tam se prostě těžit dřevo nemá a basta. Soudit věci podle prvního pohledu bychom ale neměli, podívejme se na problematiku trochu bližším pohledem.'
 tags:
