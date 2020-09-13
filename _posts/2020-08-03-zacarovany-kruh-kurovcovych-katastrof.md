@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Začarovaný kruh kůrovcových katastrof a kudy z něj ven?'
+title: 'Začarovaný kruh kůrovcových katastrof a kudy z něj ven'
 date: '2020-08-03'
 author: Piráti Jihočeský kraj
 image: 2020/les.jpg
@@ -16,7 +16,7 @@ tags:
 Lýkožrout smrkový a lýkožrout severský dělají v poslední době lesníkům velké starosti. Nucené těžby
 představují velké finanční ztráty a pro vodní režim krajiny je to citelná rána. Příčin je více, ale nejsou složité.
 
-*„Strom s nedostatkem vláhy snadněji podlehne útoku brouků. Není náhoda, že s nynějším sušším klimatem máme více napadených stromů,“* vysvětluje
+*„Strom s nedostatkem vláhy snadněji podlehne útoku brouků. Není náhoda, že se sušším klimatem jsme v posledních letech měli více napadených stromů,“* vysvětluje
 Dan Leština, garant programových bodů týkajících se životního prostředí.
 
 Jako druhou důležitou věc vidí následnou rychlou akci lesníků: *„Strom
