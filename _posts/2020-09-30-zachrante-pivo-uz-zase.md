@@ -29,7 +29,7 @@ pro krizové stavy. Piráti zahrnují podporu lokálních producentů, předevš
 
 V tuhle chvíli je to na nás všech. Podpořme samostatnost a přežití lokálních producentů a řemeslníků z jihočeského kraje! 
 
-Připravila jsme webovou stránku www.jihoceskatrznice.cz, která si dává za úkol seznámit vás s nabídkou produktů 
+Připravila jsme webovou stránku [www.jihoceskatrznice.cz](https://www.jihoceskatrznice.cz/), která si dává za úkol seznámit vás s nabídkou produktů 
 jihočeského kraje. Začala jsem ji plnit producenty se značkou Regionální produkt a budu pokračovat dále. 
 Budu ráda i za Vaši pomoc a tipy na jihočeské producenty. 
 
