@@ -17,11 +17,15 @@ Hlavní je se neposekat navzájem a dojít ke kompromisu, který bude funkční.
  Kvetoucí plochy poskytují potravu a útočiště pro hmyz, který jinak z naší krajiny rychle ubývá. Ten na sebe váže další živočichy, například některé ptáky. Jiní ptáci zase vyhledávají semena rostlin, která při odložení seče nebo při vynechání neposekaného ostrůvku mají konečně šanci dozrát. Ve vyprahlých městech pak plochy s omezenou sečí snižují prašnost a svou vlhkostí citelně ochlazují vzduch, protože zadržují mnohem více vody a je zde větší listová plocha. 
 Méně časté sekání trávníků také ušetří peníze z rozpočtů měst a obcí. A to jak za samotné sekání, tak i za nakládání s posekanou trávou.
 
+![travnik](/assets/img/2020/travniky2.jpg)
+
 ## A jak je to s těmi klíšťaty?
 Častou námitkou proti delším a kvetoucím trávníkům jsou klíšťata. Lidé mají obavy, že jich na extenzivně sečených plochách bude více než na “anglických” trávnících. Ve skutečnosti však nezáleží na délce trávníku, ale především na zvířatech, tedy na hostitelích, kteří se na plochách vyskytují. Klíště můžete chytit opravdu kdekoliv při pohybu na trávě a je proto důležité se chránit. Navíc jde především o místa, kde se lidé běžně nepohybují, a proto by neměly takové změny nijak ovlivnit ani četnost napadení klíštětem. 
 
 ## Jak piráti pomáhají změnit anglické trávníky v kvetoucí louky?
 Jednou z iniciativ je pomoc naší kandidátky č. 4, architektky Veroniky Kovářové. Ta se postarala o grafickou podobu cedulek dosazovaných do kvetoucích trávníků. Nechala se volně inspirovat jedním námětem z Anglie a vytvořila řadu návrhů tabulek v češtině. Její návrh používají například městské úřady v Českých Budějovicích, Českém Krumlově nebo v některých pražských městských částech. [Cedulky ve formátu .pdf jsou volně dostupné ke stažení](https://drive.google.com/drive/folders/1fYC5ToULB7iTPzGA6LMm3EPclR4-VyW2).
+
+![travnik](/assets/img/2020/travniky3.jpg)
 
 Další aktivní „trávníkáři“ jsou Dan Leština, kandidát č. 7, a kandidátka č. 9 Lucie Korytářová. Oba spolu se sdružením Calla spolupracují na iniciativě nazvané [„Rozkvetlé trávníky v Českých Budějovicích“](https://www.facebook.com/chcememotyly/photos/a.1485457798343661/2721154824773946/?type=3&theater) (byť tento projekt není pirátský, vznikl jako volné seskupení lidí zabývající se tématem změny přístupu k údržbě trávníků v městském prostředí). Lucie spravuje facebookové stránky projektu. Dan se mj. věnuje samotnému prosazování úpravy managementu trávníků v komisi pro životní prostředí města České Budějovice.
 
