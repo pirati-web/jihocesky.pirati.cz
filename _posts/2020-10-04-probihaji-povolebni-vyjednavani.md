@@ -18,12 +18,9 @@ tags:
 okomentoval výsledky lídr Lukáš Mareš.** 
 
 V současné době probíhají povolební vyjednávání se všemi stranami, které získaly mandáty. Piráti se snaží udělat vše pro to, aby bylo možné naplňovat 
-vlastní program, ale situace není jednoduchá.
+vlastní program.
 
-*„Nejvíc práce můžeme odvést v koalici, ale nemůžeme do ní jít za každou cenu i s lidmi, kteří pro nás nejsou přijatelní. To je zřejmé 
-i z naší povolební strategie, kterou samozřejmě musíme dodržet. Sešli jsme se už se zástupci většiny ostatních stran hned odpoledne po 
-volbách a další jednání probíhají dnes. Shodli jsme se na jasné preferenci: koalice Piráti, KDU+TOP09, ČSSD, STAN a Jihočeši 2012. 
-Teď je to na potenciálních partnerech, jak se k tomu postaví,“* doplnila Veronika Kovářová, nově zvolená předsedkyně zastupitelského klubu jihočeských Pirátů.
+*"Sešli jsme se se zástupci všech stran po uzavření výsledku voleb, jednání probíhala dlouho do noci. Vnímáme snahu ostatních partnerů, abychom s nimi vstoupili do koalice, v současné chvíli se klub usnesl na rozpracování koalice Pirátů, KDU+TOP09, ČSSD, STAN a Jihočeši 2012, kde vnímáme nejvíce programových průniků. Nyní je na potenciálních partnerech, aby tuto myšlenku diskutovali ve svých klubech,"* doplnila Veronika Kovářová, nově zvolená předsedkyně zastupitelského klubu jihočeských Pirátů.
  
 O výsledcích jednání budou Piráti otevřeně informovat.
 
