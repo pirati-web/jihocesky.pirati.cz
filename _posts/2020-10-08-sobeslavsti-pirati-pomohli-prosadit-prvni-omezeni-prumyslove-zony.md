@@ -43,12 +43,12 @@ na výzvu reagovala cca třetina zastupitelů a svůj názor sdělila.
 
 Náš zastupitel a současně člen petičního výboru Ing. Martin Kákona požadoval zařadit na program jednání hlasování o vypořádání petice. Několik týdnů jsme ale od tajemníka Ing. Brylla slyšeli jen jakési byrokratické důvody, proč nemohou být na program zařazeny. Jednotlivé body projednání pak musel předložit jeden po druhém ústně a několik bodů nakonec i díky pirátským hlasům získalo podporu.
 
-  - ✓ Nesouhlasíme s výstavbou v průmyslové zóně bez znalosti budoucích uživatelů a bez znalosti způsobu využití. 
-  - ✓ Zásadně nesouhlasíme s výstavbou čistě skladových prostor v průmyslové zóně. 
-  - ✓ Nesouhlasíme s dopravním řešením navrhovaným v záměru JHC938 a nesouhlasíme s dopravními limity prezentovanými tamtéž. Při návrhu je nutné dbát na bezpečnost a kvalitu pohybu chodců a cyklistů na spojnici Soběslavi a Chlebova. Řešení musí zahrnovat chodníky a cyklostezky, které propojí obě městské části. 
-  - ✓ Zastupitelstvo nesouhlasí se započetím výstavby v průmyslové zóně, dokud nebude vyřešena realizace potřebné infrastruktury a návaznosti na stávající objekty v průmyslové zóně. 
-  - ✓ Ukládáme radě města provést rešerši možností, jakými je možné nyní a v horizontu pěti roků regulovat výstavbu v průmyslové zóně. 
-  - ✓ Požadujeme omezení velikosti záměru z pohledu celkové plochy záměru a maximální velikosti jednotlivých realizovaných budov. 
+  - Nesouhlasíme s výstavbou v průmyslové zóně bez znalosti budoucích uživatelů a bez znalosti způsobu využití. 
+  - Zásadně nesouhlasíme s výstavbou čistě skladových prostor v průmyslové zóně. 
+  - Nesouhlasíme s dopravním řešením navrhovaným v záměru JHC938 a nesouhlasíme s dopravními limity prezentovanými tamtéž. Při návrhu je nutné dbát na bezpečnost a kvalitu pohybu chodců a cyklistů na spojnici Soběslavi a Chlebova. Řešení musí zahrnovat chodníky a cyklostezky, které propojí obě městské části. 
+  - Zastupitelstvo nesouhlasí se započetím výstavby v průmyslové zóně, dokud nebude vyřešena realizace potřebné infrastruktury a návaznosti na stávající objekty v průmyslové zóně. 
+  - Ukládáme radě města provést rešerši možností, jakými je možné nyní a v horizontu pěti roků regulovat výstavbu v průmyslové zóně. 
+  - Požadujeme omezení velikosti záměru z pohledu celkové plochy záměru a maximální velikosti jednotlivých realizovaných budov. 
 
 Ostatní z navrhovaných bodů podporu nezískaly - jedná se především o požadavek na změnu územního plánu, nesouhlas se záborem půdy, realizaci ankety 
 a debaty pro veřejnost či požadavek na firmy s vysokou přidanou hodnotou. Podstatné pro nás ale je, že rada města dostala povinnost o svých jednáních 
