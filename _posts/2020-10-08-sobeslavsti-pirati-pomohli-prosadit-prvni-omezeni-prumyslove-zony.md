@@ -54,4 +54,4 @@ Ostatní z navrhovaných bodů podporu nezískaly - jedná se především o po�
 a debaty pro veřejnost či požadavek na firmy s vysokou přidanou hodnotou. Podstatné pro nás ale je, že rada města dostala povinnost o svých jednáních 
 průběžně informovat zastupitele a rovněž byla pověřena v pokračování jednání s petičním výborem. Uvidíme, kam se projekt přípravy posune v budoucnu 
 a jak jej ovlivní uplynulé krajské volby, kde problematika průmyslových zón budoucí 
-krajské radní evidentně zajímá ([zde](https://www.facebook.com/jihoceskatelevize/videos/711425026383710/) či ([zde](https://www.facebook.com/frantisek.talir/posts/2609801212603070).
+krajské radní evidentně zajímá ([zde](https://www.facebook.com/jihoceskatelevize/videos/711425026383710/) či ([zde](https://www.facebook.com/frantisek.talir/posts/2609801212603070)).
