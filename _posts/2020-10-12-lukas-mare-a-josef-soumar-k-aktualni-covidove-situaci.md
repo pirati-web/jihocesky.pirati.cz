@@ -16,8 +16,8 @@ tags:
 Situace s epidemií nemoci Covid-19 je čím dál vážnější. Nemocných čím dál rychleji přibývá, lůžka v nemocnicích se plní a nejhorší je, 
 že v současné době příliš nevidíme na konec.
 
-Na jaře jsme situaci brali snad až příliš vážně a možná i proto ještě stále velká skupina lidí současný stav bagatelizuje. 
-Bohužel to ničemu příliš neprospívá. Covid-19 není pro mnoho lidí úplně lehká nemoc a to bychom si měli uvědomit všichni. 
+Na jaře jsme situaci brali snad až příliš vážně, a možná i proto ještě stále velká skupina lidí současný stav bagatelizuje. 
+Bohužel to ničemu příliš neprospívá. Covid-19 není pro mnoho lidí úplně lehká nemoc, to bychom si měli uvědomit všichni. 
 
 O vážnosti situace svědčí i to, že dnes proběhlo setkání zástupců všech klubů zvolených v nedávných volbách do krajského zastupitelstva. Setkání proběhlo online a 
 zúčastnili jsme se ho i my, Piráti. Společně s ostatními politiky jsme se shodli, že teď není čas na politické půtky a v první řadě musíme zvládnout výzvu, 
@@ -39,9 +39,9 @@ Věřím, že laiků potřeba nebude, ale říká se, že vyhraje ta armáda, kt
 Také se začíná se rozjíždět komunikace s příhraničními regiony Rakouska a Německa. Až bude nejhůře, přijde jakákoliv pomoc vhod.
 
 Současná situace bude mít bohužel velký dopad i do ekonomické stránky kraje nejen v roce aktuálním, ale i v letech následujících. 
-Bude nutné podrobně a věcně diskutovat všechny projekty, které jsou pro kraj nezbytné a naopak projekty, které budou muset na svou realizaci 
+Bude nutné podrobně a věcně diskutovat o všech projektech, které jsou pro kraj nezbytné, a naopak projekty, které budou muset na svou realizaci 
 několik let počkat. Svých změn dozná krátkodobý, ale i střednědobý výhled rozpočtu. Cílem je zajistit financování projektů, které jsou v současné chvíli 
-ve fázi realizace a podpořit důležité projekty, které mají zajištěna všechna povolení a je možné je realizovat v konkrétním hospodářském období.
+ve fázi realizace, a podpořit důležité projekty, které mají zajištěna všechna povolení a je možné je realizovat v konkrétním hospodářském období.
 
 Všem občanům přejeme pevné zdraví a děkujeme, že dodržujete všechna důležitá nařízení, která povedou zpět ke standardnímu provozu nemocnic i našeho života v Jihočeském kraji.
 
