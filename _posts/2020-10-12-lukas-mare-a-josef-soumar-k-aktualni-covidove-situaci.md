@@ -33,7 +33,7 @@ Klíčové bude to, co udělá s počtem personálu v nemocnicích a sociálníc
 To v tuto chvíli nikdo neví. Na jaře nebyl výpadek rodičů nijak zásadní, ale teď je situace nová a všechno může být jinak. 
 
 O pacienty s mírnějším průběhem se mohou starat studenti zdravotně-sociálních oborů VŠ, které již byly osloveny. Jako záloha pak slouží dobrovolníci - laici. 
-Budete-li chtít přiložit ruku k dílu, najdete více informací [na této stránce](https://www.kraj-jihocesky.cz/nabor-dobrovolniku-v-jihoceskem-kraji), kde můžete vyplnit i formulář. 
+Budete-li chtít přiložit ruku k dílu, najdete více informací [na této stránce](https://www.kraj-jihocesky.cz/nabor-dobrovolniku-v-jihoceskem-kraji){:target="_blank"}, kde můžete vyplnit i formulář. 
 Věřím, že laiků potřeba nebude, ale říká se, že vyhraje ta armáda, která má více záloh.  
 
 Také se začíná se rozjíždět komunikace s příhraničními regiony Rakouska a Německa. Až bude nejhůře, přijde jakákoliv pomoc vhod.
