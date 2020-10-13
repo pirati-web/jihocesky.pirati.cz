@@ -19,7 +19,7 @@ Situace s epidemií nemoci Covid-19 je čím dál vážnější. Nemocných čí
 Na jaře jsme situaci brali snad až příliš vážně a možná i proto ještě stále velká skupina lidí současný stav bagatelizuje. 
 Bohužel to ničemu příliš neprospívá. Covid-19 není pro mnoho lidí úplně lehká nemoc a to bychom si měli uvědomit všichni. 
 
-O vážnosti situace svědčí i to, že dnes proběhlo setkání zástupců všech klubů zvolených v nedávných volbách do krajského zastupitelstva Setkání proběhlo online a 
+O vážnosti situace svědčí i to, že dnes proběhlo setkání zástupců všech klubů zvolených v nedávných volbách do krajského zastupitelstva. Setkání proběhlo online a 
 zúčastnili jsme se ho i my, Piráti. Společně s ostatními politiky jsme se shodli, že teď není čas na politické půtky a v první řadě musíme zvládnout výzvu, 
 která leží před námi. Biologické vlastnosti viru a matematika počtu nakažených je neúprosná, na náš zdravotnický systém se valí vlna covid+ pacientů a musíme 
 se s ní vypořádat. 
