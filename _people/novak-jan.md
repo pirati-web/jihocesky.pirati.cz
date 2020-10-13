@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - zastupitele
+- zastupitelekr
 img: people/jan.novak.2020.jpg
 description: člen MS Českobudějovicko a zastupitel v Týně nad Vltavou
 mail:
@@ -17,6 +18,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 26 
+ordkr: 2
 ---
 
 Jan Novák (*19. 1. 1991) se narodil v Českých Budějovicích a většinu svého života strávil v Týně nad Vltavou. V České pirátské straně je členem Kontrolní komise, založil MS Českobudějovického jehož je místopředsedou, v době parlamentních voleb 2017 byl vedoucím Personálního odboru Pirátů. Pracoval jako projektový manažer v IoT, nyní je „evenťák“ ve firmě prodávající zemědělskou techniku. Vystudoval Střední odbornou školu elektrotechnickou – Centrum odborné přípravy v Hluboké nad Vltavou, kde odmaturoval jako programátor. V dalším vzdělávání se ovšem rozhodl pokračovat jiným směrem, a proto vystudoval bakalářský dvouobor Politologie + Historie na Univerzitě Jana Evangelisty Purkyně v Ústí nad Labem, studium ukončil (včetně státní závěrečné zkoušky) obhájením bakalářské práce na téma Česká pirátská strana. Studoval navazující magisterské studium Politologie na Univerzitě Palackého v Olomouci.

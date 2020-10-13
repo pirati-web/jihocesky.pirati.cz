@@ -5,6 +5,7 @@ titles:
   before: Ing. arch.
   after:
 category:
+- zastupitelekr
 - pms
 - pks
 img: people/veronika.kovarova.2020.jpg
@@ -18,6 +19,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 5 
+ordkr: 4
 ---
 
 Jsem architektka, která se zaměřila na spolupráci komunálních politiků s architekty a urbanisty. Studuji doktorské studium na Fakultě architektury ČVUT v Praze. Zpracovávám disertační práci s cílem popsat možnosti, jak zlepšit kvalitu života na venkově. Pořádám odborné exkurze pro studenty. Angažuji se v osvětě v oblasti udržitelného rozvoje a stavebnictví.

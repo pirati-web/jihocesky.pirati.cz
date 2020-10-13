@@ -5,6 +5,7 @@ titles:
   before: Bc.
   after:
 category:
+- zastupitelekr
 - zastupitele
 img: people/jan.hosek.2020.jpg
 description: člen MS Českobudějovicko a zastupitel v Českých Budějovicích
@@ -17,6 +18,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 8 
+ordkr: 8
 ---
 
 Jan Hošek (* 22. listopadu 1982) je členem místního sdružení Českobudějovicko. Pochází z Přibyslavi a od roku 2014 žije v Českých Budějovicích.

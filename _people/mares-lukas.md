@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - zastupitele
+- zastupitelekr
 - pks
 img: people/lukas.mares.2020.jpg
 description: člen MS Českobudějovicko a zastupitel v Českých Budějovicích
@@ -18,6 +19,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 22 
+ordkr: 1
 ---
 Lukáš Mareš (*17. dubna 1989, Český Krumlov) je lékař - radiolog, předseda místní odborové organizace, zastupitel v Českých Budějovicích, otec jedné dcery a teď aktuálně lídr pro krajské volby v jižních Čechách a kandidát na hejtmana. Kandidovat se rozhodl proto, že věří pirátským myšlenkám a straně. Slušnost, asertivní přístup a zodpovědné rozhodování ve prospěch občanů patří do všech pater české politiky. Stagnace kraje pod současným vedením a pološero při nakládání s veřejnými prostředky ho přesvědčilo, že jít do toho má smysl. 
 

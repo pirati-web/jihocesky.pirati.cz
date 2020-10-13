@@ -2,6 +2,7 @@
 uid: josef.soumar
 name: Josef Soumar
 category:
+- zastupitelekr
 - zastupitele
 img: people/josef.soumar.2020.jpg
 description: člen MS Písecko a zastupitel v Písku 
@@ -15,6 +16,7 @@ profiles:
   flickr:
 ordpks: 32   
 ordpms: 2      		  
+ordkr: 3
 ---
 
 Narodil jsem se 7. srpna 1985 v jihočeském městě Písku, kde v současné době s rodinou žiji a podnikám zároveň.

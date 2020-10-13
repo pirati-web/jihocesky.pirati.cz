@@ -4,8 +4,10 @@ name:  Dan Leština
 titles:
   before: Mgr.
   after:
+category:
+- zastupitelekr
 img: people/dan.lestina.2020.jpg
-description: TODO
+description: Zastupitel Jihočeského kraje
 mail:
 - dan.lestina@pirati.cz
 #mob: +420
@@ -15,6 +17,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 8 
+ordkr: 7
 ---
 Dan Leština (*1989) je garantem pro životní prostředí a zemědělství jihočeského krajského sdružení a člen komise pro životní prostředí Rady města České Budějovice.
 

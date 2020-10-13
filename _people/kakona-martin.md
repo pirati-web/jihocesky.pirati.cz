@@ -5,7 +5,9 @@ titles:
   before: Ing.
   after: Ph.D.
 category:
+- zastupitelekr
 - zastupitele
+- zastupitelekr
 img: people/martin.kakona.2020.jpg
 description: člen MS Soběslav a zastupitel v Soběslavi
 mail:
@@ -17,6 +19,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 10
+ordkr: 6
 ---
 
 Narodil jsem se v Táboře v roce 1967 v učitelské rodině. V tomto městě jsem prožil celé dětství, i když do školky jsem dojížděl do Obrataně (což bylo pro městského kluka hodně drsné), a na základní i na střední školu do Sezimova Ústí (to bylo také drsné, protože máma na té základce učila a věděla známku z diktátu vždycky dřív než já). Byla to doba, kdy lidé létali na Měsíc, objevily se první mikropočítače a z centra města byly tenkrát ještě vidět hvězdy. Od dětství jsem se zajímal o elektroniku a počítače a nechápal jsem, proč nás paní učiteka učí násobilku, když jí mohou počítat stroje a proč nás učí pravopis, i když tenkrát počítač pravopis kontrolovat ještě neuměl. V tomto ohledu jsem trochu předběhl dobu 😉 Svůj první počítač s tříbitovou instrukční sadou jsem zkonstruoval už na základní škole (byl jsem přesvědčen, že stroje mají lidem pomáhat a chytré telefony tehdy ještě neexistovaly). Můj zájem o elektroniku a vesmír mne později přivedl ke konstrukci různých astronomických přístrojů. Mimo jiné jsem zkonstruoval Mrakoměr. Přístroj, který slouží k ochraně robotických dalekohledů před deštěm. Využívají ho dalekohledy na různých místech světa. Například síť robotických dalekohledů BOOTES ve Španělsku, na Novém Zélandu, v Jihoafrické republice, v Číně. S násobilkou mám ale problémy dodnes 😉

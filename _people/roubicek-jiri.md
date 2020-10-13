@@ -5,6 +5,7 @@ titles:
   before: Bc. 
   after:
 category:
+- zastupitelekr
 - pms
 img: people/jiri.roubicek.2020.jpg
 description: předseda MS Tábor
@@ -17,6 +18,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 30 
+ordkr: 5
 ---
 
 *Jiří Roubíček (*6. června 1986 v Písku). Celý život žije v Táboře. Nyní je předseda MS Piráti Tábor.
