@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Ohlédnutí za krajskou kampaní. Kde jihočeští Piráti vyhráli volby?'
-date: '2020-10-12'
+date: '2020-10-15'
 author: Luboš Kudláček
 image: 2020/bs.png
 
