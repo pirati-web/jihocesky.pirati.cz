@@ -7,9 +7,8 @@ titles:
 category:
 - zastupitelekr
 img: people/lucie.korytarova.2020.jpg
-description: Zastupitelka Jihočeského kraje
+description: zastupitelka v Jihočeském kraji
 mail:
-- lucie.korytarova@pirati.cz
 #mob: +420
 profiles:
   github:
