@@ -17,7 +17,7 @@ groups:
   - name: Krajští zastupitelé
     sort: ordkr
     category: zastupitelekr
-  - name: Obecní zastupitelé
+  - name: Komunální zastupitelé
     sort: ord
     category: zastupitele
   #- name: Členové
