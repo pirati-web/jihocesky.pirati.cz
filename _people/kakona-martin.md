@@ -9,7 +9,7 @@ category:
 - zastupitele
 - zastupitelekr
 img: people/martin.kakona.2020.jpg
-description: člen MS Soběslav a zastupitel v Soběslavi
+description: člen MS Soběslav a zastupitel v Jihočeském kraji
 mail:
 - martin.kakona@pirati.cz
 #mob: +420 
