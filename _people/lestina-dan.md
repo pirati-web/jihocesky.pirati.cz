@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitelekr
 img: people/dan.lestina.2020.jpg
-description: Zastupitel Jihočeského kraje
+description: člen MS Českobudějovicko a zastupitel Jihočeského kraje
 mail:
 - dan.lestina@pirati.cz
 #mob: +420
