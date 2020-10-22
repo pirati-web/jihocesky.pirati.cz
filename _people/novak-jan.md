@@ -8,7 +8,7 @@ category:
 - zastupitele
 - zastupitelekr
 img: people/jan.novak.2020.jpg
-description: člen MS Českobudějovicko a zastupitel v Týně nad Vltavou
+description: člen MS Českobudějovicko, zastupitel v Týně nad Vltavou a Jihočeského kraje
 mail:
 - jan.novak@pirati.cz
 #mob: +420777154693
