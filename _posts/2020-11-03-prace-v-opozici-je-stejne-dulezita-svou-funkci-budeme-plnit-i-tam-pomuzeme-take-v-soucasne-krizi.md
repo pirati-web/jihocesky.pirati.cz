@@ -7,7 +7,7 @@ date: '2020-11-03'
 author: Luboš Kudláček
 image: 2020/zastupitelstvo1.jpg
 
-description: 'Situace s epidemií nemoci Covid-19 je čím dál vážnější. Nemocných čím dál rychleji přibývá, lůžka v nemocnicích se plní a nejhorší je, že v současné době příliš nevidíme na konec.'
+description: 'Piráti chtějí s devíti mandáty v krajském zastupitelstvu ujistit širokou veřejnost, že svou funkci budou plnit i v opozici. Budou důstojnou protiváhou koalici a budou také předkládat návrhy s cílem naplňovat vlastní program.'
 tags:
   - Volby
   - Volby 2020
