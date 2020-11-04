@@ -36,7 +36,7 @@ Piráti si rovněž zvolili zástupce jednotlivých gescí, za které budou osob
   - Lukáš Mareš - oblast zdravotnictví
   - Jan Novák - oblast kultury a sociálních služeb
   - Josef Soumar - ekonomika, investice a majetek kraje, podpora podniků a podnikatelů
-  - Veronika Kovářová - územní plánování, rozvoj venkova a památkové péče
+  - Veronika Kovářová - územní plánování, rozvoj venkova a památková péče
   - Jiří Roubíček - oblast sportu, cestovního ruchu, dotační politika a veřejné zakázky
   - Martin Kákona - oblast podpory vědy, výzkumu a vývoje, oblast dopravy a technické infrastruktury
   - Dan Leština - oblast ochrany přírody a krajiny, zemědělství, lesnictví
