@@ -6,7 +6,6 @@ titles:
   after:
 category:
 - zastupitele
-- pks
 img: people/zuzana-kudlackova.jpg
 description: asistentka poslance Lukáše Koláříka, členka MS Českobudějovicko a zastupitelka v Českých Budějovicích
 mail:
