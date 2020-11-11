@@ -5,6 +5,7 @@ titles:
   before: Bc.
   after:
 category:
+- pks
 img: people/kamil.podzimek.2020.jpg
 description: 
 mail:
