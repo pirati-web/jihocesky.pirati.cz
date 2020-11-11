@@ -6,8 +6,6 @@ titles:
   after: Ph.D.
 category:
 - zastupitelekr
-- zastupitele
-- zastupitelekr
 img: people/martin.kakona.2020.jpg
 description: člen MS Soběslav a zastupitel v Jihočeském kraji
 mail:
