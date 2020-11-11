@@ -5,7 +5,6 @@ titles:
   before: Bc.
   after:
 category:
-- zastupitele
 img: people/kamil.podzimek.2020.jpg
 description: 
 mail:
