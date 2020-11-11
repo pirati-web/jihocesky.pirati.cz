@@ -6,7 +6,6 @@ titles:
   after:
 category:
 - zastupitelekr
-- pms
 img: people/jiri.roubicek.2020.jpg
 description: člen MS Tábor a zastupitel v Jihočeském kraji
 mail:
