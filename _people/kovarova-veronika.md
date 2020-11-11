@@ -7,7 +7,6 @@ titles:
 category:
 - zastupitelekr
 - pms
-- pks
 img: people/veronika.kovarova.2020.jpg
 description: předsedkyně MS Strakonicko a zastupitelka v Jihočeském kraji
 mail:
