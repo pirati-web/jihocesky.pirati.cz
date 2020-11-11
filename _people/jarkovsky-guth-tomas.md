@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - pms
+- pks
 img: people/tomas-guth-jarkovsky.jpg
 description: předseda MS Českobudějovicko
 mail:
