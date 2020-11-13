@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after:
 category:
-- pks
 - pms
 - zastupitele
 img: people/michal-horak.jpg
@@ -19,7 +18,6 @@ profiles:
   twitter:
   linkedin:
 ordpms: 7
-ordpks: 2  
 ---
 
 **Michal Horák** narozen 11.6.1965 v Písku.

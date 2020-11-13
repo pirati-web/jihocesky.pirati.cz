@@ -19,6 +19,7 @@ profiles:
   linkedin:
   instagram: https://www.instagram.com/extra_angry_potato/
 ordpms: 1 
+ordpks: 3 
 ---
 
 Tomáš je členem Pirátů od jara 2019 a je členem místního sdružení Českobudějovicko. Ve straně se realizuje v zahraničním odboru jako zástupce vedoucího a také je hlavním koordinátorem týmu Mladých Pirátů.
