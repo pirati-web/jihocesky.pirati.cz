@@ -7,7 +7,7 @@ titles:
 category:
 - pks
 img: people/bohuslav.svehla.jpg
-description: místopředseda krajského sdružení
+description: místopředseda krajského sdružení a člen MS Českobudějovicko
 mail:
 - bohuslav.svehla@pirati.cz
 #mob: +420
