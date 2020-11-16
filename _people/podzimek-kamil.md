@@ -8,6 +8,7 @@ category:
 - pks
 img: people/kamil.podzimek.2020.jpg
 description: 
+- místopředseda krajského sdružení a člen MS Českobudějovicko
 mail:
 - kamil.podzimek@pirati.cz
 mob: +420602570366
