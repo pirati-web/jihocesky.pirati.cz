@@ -12,8 +12,8 @@ tags:
   - Krajské fórum
   - Události
 ---
-Jihočeští Piráti si zvolili nové vedení. Mandát předsedkyně obhájila Jana Koláříková. Další funkce v předsednictvu budou vykonávat Kamil Podzimek
- (1. místopředseda), Tomáš Guth Jarkovský (2. místopředseda), Bohuslav Švehla (3. místopředseda) a Václav Klecanda (4. místopředseda).
+**Jihočeští Piráti si zvolili nové vedení. Mandát předsedkyně obhájila Jana Koláříková. Další funkce v předsednictvu budou vykonávat Kamil Podzimek
+ (1. místopředseda), Tomáš Guth Jarkovský (2. místopředseda), Bohuslav Švehla (3. místopředseda) a Václav Klecanda (4. místopředseda).**
 
 *„S pokorou znovu přijímám funkci krajské předsedkyně a i nadále se vynasnažím plnit všechny povinnosti, které se k této funkci pojí. Stále také platí, 
 že se vynasnažím o co možná největší podporu všech členů, podporu celého krajského sdružení i sdružení místních. V dalších dvou letech nás čekají 
