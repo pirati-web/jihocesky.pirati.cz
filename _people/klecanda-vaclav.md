@@ -3,6 +3,7 @@ uid: vaclav.klecanda
 name: Václav Klecanda
 category:
 - zastupitele
+- pks
 img: people/vaclav-klecanda.jpg
 description: místostarosta v Táboře, člen MS Tábor a zastupitel v Táboře
 mail:
@@ -14,7 +15,7 @@ profiles:
   twitter: 		  
   flickr: 
 ordpms: 11
-ordpks: 2      		  
+ordpks: 5      		  
 ---
 
 Pochází z Tábora, kde vystudoval gymnasium. Posléze, zaujat počítači, pokračoval ve studiích na Univerzitě Karlově, Mat-Fyz, kde získal titul magistr. V průběhu studia se specializoval na vývoj softwarových systémů a později počítačovou grafiku.
