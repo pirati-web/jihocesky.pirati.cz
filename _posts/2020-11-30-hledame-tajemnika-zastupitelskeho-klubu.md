@@ -7,7 +7,7 @@ date: '2020-11-30'
 author: Jana Koláříková
 image: 2020/klub1.jpg
 
-description: 'Zbyněk Konvička byl pirátským zastupitelem v Písku od komunálních voleb v roce 2018, nyní na svou funkci rezignuje a zůstává pouze jako předseda komise pro kulturu a cestovní ruch. Důvodem k rezignaci je snaha věnovat energii do jiných oblastí.'
+description: 'Krajský zastupitelský klub hledá kolegu na pozici s názvem Tajemník/tajemnice zastupitelského klubu - Jihočeský kraj. Pojďte s námi pracovat na prosazování pirátské politiky v krajském zastupitelstvu. Budete mít možnost podílet se na realizaci našeho programu ve skvělém kolektivu předních osobností Pirátů v Jihočeském kraji.'
 tags:
   - Zastupitelstvo
 ---
