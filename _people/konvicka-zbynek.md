@@ -5,7 +5,6 @@ titles:
   before: 
   after:
 category:
-- zastupitele
 img: people/zbynek.konvicka.2020.jpg
 description: člen MS Písecko a zastupitel v Písku
 mail:
