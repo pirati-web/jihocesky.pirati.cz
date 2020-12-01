@@ -30,5 +30,4 @@ Doufáme, že si na těchto stránkách budou žáci, studenti i dospělí surfo
 Nejsou to stránky na dobu covidovou. Jsou to stránky pro potěchu z poznání, k jejichž vzniku nás doba covidová pouze inspirovala. Abychom si opět uvědomili, 
 že internet by měl sloužit především jako prostředek k předávání informací a šíření poznání po celém světě.
 
-  - **[www.ucimesespiraty.cz](http://www.ucimesespiraty.cz/)**
   - **[www.kdeseucit.cz](http://www.kdeseucit.cz/)**
