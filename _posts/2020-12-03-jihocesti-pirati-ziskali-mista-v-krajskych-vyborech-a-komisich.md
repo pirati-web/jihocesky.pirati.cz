@@ -25,7 +25,7 @@ tags:
  v komisi pro cestovní ruch Jiří Roubíček a v sociální komisi Júsuf Traore.**
 
 *„Jsem rád, že koalice se vůči opozici chová demokratičtěji, než bylo v našem kraji zvykem, ovšem stále je co vylepšovat. Například jsem přesvědčený, 
-že opozice by měla mít v kontrolním výboru většinu, stejně tak, že by měla mít předsednictví Finančního výboru,“* okomentoval průběh jednání 
+že opozice by měla mít v kontrolním výboru většinu, stejně tak, že by měla mít předsednictví finančního výboru,“* okomentoval průběh jednání 
 zastupitelstva předseda kontrolního výboru a krajský zastupitel Jan Novák.
 
 Oproti minulosti  Piráti zaznamenali posun k lepšímu, dříve totiž neměly opoziční strany zastoupení ve všech výborech, jak upozorňuje další krajský zastupitel Josef Soumar:
