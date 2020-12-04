@@ -5,7 +5,7 @@ published: true
 title: 'Jihočeští Piráti předali technické vybavení pro distanční výuku dětí'
 date: '2020-12-04'
 author: Luboš Kudláček
-image: 2020/cheiron.jpg
+image: 2020/cheiron2.jpg
 
 description: 'Piráti v Jihočeském kraji se společně s ostatními krajskými sdruženími přidali ke sbírce technického vybavení pro distanční výuku dětí. V minulých dnech došlo k předání notebooků a počítačů do zařízení v Táboře a Týně nad Vltavou, příští týden poputují počítače do nízkoprahových zařízení v Jindřichově Hradci a v Českém Krumlově. Zbytek vybavení bude věnován Českému červenému kříži.'
 tags:
