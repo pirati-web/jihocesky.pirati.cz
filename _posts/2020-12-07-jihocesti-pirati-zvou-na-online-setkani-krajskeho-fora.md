@@ -17,7 +17,7 @@ tags:
 Všichni jsou srdečně zváni.**
 
 **Kde?**
-* 
+ 
 Adresa setkání je [https://meet.jit.si/jck](https://meet.jit.si/jck) – stačí kliknout a okamžitě dojde ke vstupu do virtuální místnosti. 
 Kromě mikrofonu a reproduktorů (případně sluchátek s mikrofonem) není potřeba nic dalšího.
 
@@ -39,7 +39,7 @@ Piráti chtějí být otevřenou stranou, chtějí zůstat v kontaktu se svými 
 Právě setkání Krajského fóra je příležitost podívat se blíže na práci Pirátů, navázat kontakty a třeba i spolupráci. 
  
   - V případě dotazů kontaktujte krajskou koordinátorku Kláru Bidařovou na telefonním čísle 770 199 948, nebo na e-mailové adrese klara.bidarova@pirati.cz
-  - Přidejte se k události na Facebooku:  https://www.facebook.com/events/160861592397263/ (odkaz)
+  - Přidejte se k události na Facebooku:  [https://www.facebook.com/events/160861592397263/](https://www.facebook.com/events/160861592397263/)
  
 Těšíme se na setkání s Vámi!
 
