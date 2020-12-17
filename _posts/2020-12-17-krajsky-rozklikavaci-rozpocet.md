@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Piráti plní program i z opozice, zastupitelům se podařilo prosadit „rozklikávací“ krajský rozpočetm'
+title: 'Piráti plní program i z opozice, zastupitelům se podařilo prosadit „rozklikávací“ krajský rozpočet'
 date: '2020-12-17'
 author: Luboš Kudláček
 image: 2020/rjs.png
