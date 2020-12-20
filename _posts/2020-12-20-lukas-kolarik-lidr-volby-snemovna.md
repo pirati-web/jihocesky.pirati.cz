@@ -16,7 +16,7 @@ tags:
 **V primárních volbách Pirátů v Jihočeském kraji se lídrem kandidátní listiny pro nadcházející volby do Poslanecké sněmovny Parlamentu ČR stal Lukáš Kolářík. Současný poslanec, který se kromě 
 jiného snaží narovnat systém exekucí, byl lídrem za Jihočeský kraj i v předchozích volbách v roce 2017.**
 
-*„Jihočeši mě už podruhé postavili do čela kandidátky, která bude v roce 2021 bojovat o sněmovnu. Získal jsem téměř 90procentní podporu, za kterou děkuji všem, 
+*„Jihočeši mě postavili do čela kandidátky, která bude v roce 2021 bojovat o sněmovnu. Získal jsem téměř 90procentní podporu, za kterou děkuji všem, 
 kteří ve mne vložili svou důvěru. Pozici lídra vnímám jako velkou zodpovědnost nejen vůči krajskému sdružení, ale zejména vůči voličům. Chystám se postavit silný tým, 
 který bude na podzim příštího roku útočit na vítězství ve volbách,“* uvedl Lukáš Kolářík.
 
