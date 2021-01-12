@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Lukáš Mareš k očkovací strategii Jihočeského kraje, proběhlo první jednání výboru pro zdravotnictví'
+title: 'Lukáš Mareš k očkovací strategii Jihočeského kraje, proběhlo první jednání Výboru pro zdravotnictví'
 date: '2021-01-12'
 author: Piráti Jihočeský kraj
 image: 2020/lm-1210.jpg
