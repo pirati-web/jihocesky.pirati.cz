@@ -22,7 +22,7 @@ Piráti chtějí společně s lidmi ve středním věku a seniory vytvořit prog
 V plánu je zakládání Palub, pirátských klubů pro seniory se vzdělávacími i volnočasovými aktivitami, v krajských městech. S tím souvisí i vytvoření 
 sítě ambasadorů a týmů dobrovolníků v jednotlivých krajích. Činností a zájmem těchto aktivních lidí  by mělo být kromě jiného také vyhledávání kontaktů a zastupování Pirátů ve vztahu s veřejností. 
 
-<p align="center"><em>Máte chuť se přidat? Budete vítání. Sledujte nás na Facebooku (odkaz na https://www.facebook.com/seniorinapalube/) nebo se nám ozvěte na e-mail seniori@pirati.cz. Budeme také rádi, když o nás 
+<p align="center"><em>Máte chuť se přidat? Budete vítání. Sledujte nás <a href="https://www.facebook.com/seniorinapalube/">na Facebooku</a> nebo se nám ozvěte na e-mail seniori@pirati.cz. Budeme také rádi, když o nás 
 řeknete svým známým.</em></p>
  
 Aktivity na Palubách mohou být politické i apolitické. Ambasadoři z řad seniorů, pirátští koordinátoři a dobrovolníci mohou organizovat přednášky, kurzy, workshopy, 
