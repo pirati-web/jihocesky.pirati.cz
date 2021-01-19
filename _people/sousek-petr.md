@@ -4,6 +4,8 @@ name: Petr Soušek
 titles:
   before: 
   after:
+category:
+- zastupitele
 img: people/petr.sousek.2020.jpg
 description: 
 mail:
