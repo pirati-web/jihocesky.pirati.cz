@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/lukas.mares.2020.jpg
-description: člen MS Českobudějovicko, zastupitel v Českých Budějovicích a Jihočeském kraji
+description: člen MS Českobudějovicko, zastupitel v Jihočeském kraji
 mail:
 - lukas.mares@pirati.cz
 #mob: +420
