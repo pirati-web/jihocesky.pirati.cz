@@ -6,7 +6,6 @@ titles:
   after:
 category:
 - zastupitele
-- zastupitelekr
 img: people/lukas.mares.2020.jpg
 description: člen MS Českobudějovicko, zastupitel v Českých Budějovicích a Jihočeském kraji
 mail:
