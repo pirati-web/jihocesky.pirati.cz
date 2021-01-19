@@ -16,7 +16,7 @@ profiles:
   facebook:				
   twitter:
   linkedin:
-ordpms: 15
+ordpms: 23
 ---
 Jsem členem a místopředsedou v Pirátské straně v Českých Budějovicích. Jsem členem Komise města pro cestovní ruch. Mám na starosti tvorbu, propagaci a správu webu a Facebooku budějovického místního sdružení. Narodil jsem se a celý život žije v Českých Budějovicích.
 
