@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele
 img: people/jaroslav_hansal.jpg
-description: èlen MS Èeskobudìjovicko a zastupitel v Èeskıch Budìjovicích
+description: Älen MS ÄŒeskobudÄ›jovicko a zastupitel v ÄŒeskÃ½ch BudÄ›jovicÃ­ch
 mail:
 - jaroslav.hansal@pirati.cz
 mob: +420776614499
@@ -16,12 +16,12 @@ profiles:
   facebook:				
   twitter:
   linkedin:
-ordpms: 15 
+ordpms: 15
 ---
-Jsem èlenem a místopøedsedou v Pirátské stranì v Èeskıch Budìjovicích. Jsem èlenem Komise mìsta pro cestovní ruch. Mám na starosti tvorbu, propagaci a správu webu a Facebooku budìjovického místního sdruení. Narodil jsem se a celı ivot ije v Èeskıch Budìjovicích.
+Jsem Älenem a mÃ­stopÅ™edsedou v PirÃ¡tskÃ© stranÄ› v ÄŒeskÃ½ch BudÄ›jovicÃ­ch. Jsem Älenem Komise mÄ›sta pro cestovnÃ­ ruch. MÃ¡m na starosti tvorbu, propagaci a sprÃ¡vu webu a Facebooku budÄ›jovickÃ©ho mÃ­stnÃ­ho sdruÅ¾enÃ­. Narodil jsem se a celÃ½ Å¾ivot Å¾ije v ÄŒeskÃ½ch BudÄ›jovicÃ­ch.
 
-Vystudoval jsem Støední prùmyslovou školu v Èeskıch Budìjovicích (obor Strojírenská technologie) a obor Vıpoèetní technika pøi Gymnáziu Kaplice.
+Vystudoval jsem StÅ™ednÃ­ prÅ¯myslovou Å¡kolu v ÄŒeskÃ½ch BudÄ›jovicÃ­ch (obor StrojÃ­renskÃ¡ technologie) a obor VÃ½poÄetnÃ­ technika pÅ™i GymnÃ¡ziu Kaplice.
 
-Prošel jsem nìkolika budìjovickımi firmami (Grafo, Koh-i-noor, Èeskı telecom), kde jsem se vìnoval pøevánì programování webù a web aplikací, postupnì jsem se vypracoval na vedoucího vıpoèetního støediska. Následnì jsem zaloit vlastní softwarovou a dopravní firmu Bohemiasoft s.r.o., specializovanou na tvorbu web stránek a internetovıch obchodù. V této firmì, která se postupnì rozrostla a na 20 zamìstnancù, pracuje i v souèasnosti na pozici jednatele.
+ProÅ¡el jsem nÄ›kolika budÄ›jovickÃ½mi firmami (Grafo, Koh-i-noor, ÄŒeskÃ½ telecom), kde jsem se vÄ›noval pÅ™evÃ¡Å¾nÄ› programovÃ¡nÃ­ webÅ¯ a web aplikacÃ­, postupnÄ› jsem se vypracoval na vedoucÃ­ho vÃ½poÄetnÃ­ho stÅ™ediska. NÃ¡slednÄ› jsem zaloÅ¾it vlastnÃ­ softwarovou a dopravnÃ­ firmu Bohemiasoft s.r.o., specializovanou na tvorbu web strÃ¡nek a internetovÃ½ch obchodÅ¯. V tÃ©to firmÄ›, kterÃ¡ se postupnÄ› rozrostla aÅ¾ na 20 zamÄ›stnancÅ¯, pracuje i v souÄasnosti na pozici jednatele.
 
-Angauje se v aktivitách souvisejících s cestovním ruchem, IT, propagací, internetem a technologiemi. Mám pomìrnì široké zájmy - kromì rodiny (3 dìti) a IT, turistika, cestování, UL létání, tenis, støelba, motocykl, renovace veteránù…
+AngaÅ¾uje se v aktivitÃ¡ch souvisejÃ­cÃ­ch s cestovnÃ­m ruchem, IT, propagacÃ­, internetem a technologiemi. MÃ¡m pomÄ›rnÄ› Å¡irokÃ© zÃ¡jmy - kromÄ› rodiny (3 dÄ›ti) a IT, turistika, cestovÃ¡nÃ­, UL lÃ©tÃ¡nÃ­, tenis, stÅ™elba, motocykl, renovace veterÃ¡nÅ¯â€¦
