@@ -16,7 +16,7 @@ profiles:
   facebook:				
   twitter:
   linkedin:
-ordpms: 15 
+ordpms: 24 
 ---
 
 Petr Soušek je členem místního sdružení Piráti Písecko a místopředseda stejného sdružení. Do strany vstoupil v roce 2014 a tentýž rok za Piráty kandidoval poprvé ve volbách do zastupitelstva.
