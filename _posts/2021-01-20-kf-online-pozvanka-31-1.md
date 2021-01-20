@@ -16,22 +16,28 @@ tags:
 Všichni jste srdečně zváni, přijďte si poslechnout něco o práci a činnosti Pirátů v Jihočeském kraji.**
 
 **Kdo tam bude?**
+
 Krajské fórum je setkání všech členů a příznivců Pirátů z Jihočeského kraje, tedy i těch z jednotlivých regionů a obcí. Zvána je také veřejnost a zástupci médií.
 
 **Co se bude dít?**
+
 Na programu bude kromě obvyklých záležitostí také představení zástupců hnutí STAN v Jihočeském kraji, představení zájemců o členství v České pirátské straně, zpráva o 
 proběhlé kampani ke krajským volbám a představení projektu Senioři na palubě.
 
 Závěr setkání bude již tradičně patřit volné diskuzi.
 
 **Proč přijít?**
+
 Chceme zůstat otevřenou stranou a zůstat v kontaktu s příznivci a voliči. Právě setkání krajského fóra je příležitost podívat se blíže na naši práci, navázat kontakty a třeba i spolupráci.
 
 **Kdy?**
+
 V neděli 31. 1. 2021 od 18 hodin.
 
 **Kde?**
+
 Adresa setkání je [https://meet.jit.si/jck](https://meet.jit.si/jck) – stačí kliknout a okamžitě dojde ke vstupu do virtuální místnosti. Kromě mikrofonu a reproduktorů (případně sluchátek s mikrofonem) není potřeba nic dalšího.
+
 Pokud chcete využít spojení přes mobilní zařízení s OS Android, nainstalujte si aplikaci [Jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=cs&gl=US).
 
 Tip: Pokud zrovna nemluvíte, vypněte si mikrofon (na displeji budete mít ikonku, stačí na ni kliknout a mikrofon tak vypnout nebo zapnout, to samé platí i pro webkameru).
