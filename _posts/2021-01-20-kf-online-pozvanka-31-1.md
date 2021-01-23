@@ -5,7 +5,7 @@ published: true
 title: 'Zveme na online setkání krajského fóra 31. 1. 2021'
 date: '2021-01-20'
 author: Piráti Jihočeský kraj
-image: 2020/kf311.png
+image: 2020/kf31ledna.jpg
 
 description: 'Zveme na další setkání jihočeského krajského fóra, které se uskuteční online a účastnit se může kdokoli jednoduchým kliknutím na odkaz. Všichni jste srdečně zváni, přijďte si poslechnout něco o práci a činnosti Pirátů v Jihočeském kraji.'
 tags:
