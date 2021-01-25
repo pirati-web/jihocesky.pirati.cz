@@ -8,7 +8,7 @@ category:
 - pks
 img: people/jana-kolarikova.jpg 
 #img: https://www.pirati.cz/assets/img/people/jana-kolarikova.jpg
-description: Vedoucí personálního odboru, předsedkyně krajského sdružení Jihočeského kraje a místopředsedkyně MS Strakonicko
+description: vedoucí personálního odboru, předsedkyně krajského sdružení Jihočeského kraje a místopředsedkyně MS Strakonicko
 mail:
 - jana.kolarikova@pirati.cz
 #mob: +420
@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 12
-ordpks: 4 
+ordpks: 1 
 ---
 
 **Jana Kolaříková (* 30. září 1986) spolupracuje s Pirátskou stranou od roku 2011, členkou je od roku 2013. Narodila se v Šumperku, již od útlého dětství žije v jižních Čechách, převážně v okolí Strakonic. Působila jako koordinátorka dobrovolníků pro Jihočeský kraj a nyní je vedoucím Personálního odboru Pirátů.

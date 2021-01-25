@@ -11,8 +11,8 @@ residences:
      370 01 České Budějovice
      mobil: +420 727 853 151
      
-     <strong>Kancelář je pro Vás otevřena:</strong>
-     Každé pondělí 9:00 - 17:00 po telefonické domluvě s asistentkou.
+     <strong>Kancelář poslance je pro Vás otevřena:</strong>
+     Každé pondělí 9:00 - 17:00 po telefonické domluvě s asistentkou poslance.
    spravce: zuzana.kudlackova
    mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
 

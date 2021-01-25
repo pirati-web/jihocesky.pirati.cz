@@ -14,7 +14,10 @@ groups:
   - name: Předsedové místních sdružení
     sort: ordpms
     category: pms
-  - name: Zastupitelé
+  - name: Krajští zastupitelé
+    sort: ordkr
+    category: zastupitelekr
+  - name: Komunální zastupitelé
     sort: ord
     category: zastupitele
   #- name: Členové

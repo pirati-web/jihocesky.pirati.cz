@@ -5,7 +5,6 @@ titles:
   before: 
   after:
 category:
-- zastupitele
 img: people/martin.kucera.2020.jpg
 description:
 mail:

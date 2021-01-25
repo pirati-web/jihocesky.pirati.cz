@@ -4,10 +4,11 @@ name:  Lucie Korytářová
 titles:
   before: Mgr.
   after:
+category:
+- zastupitelekr
 img: people/lucie.korytarova.2020.jpg
-description: TODO
+description: zastupitelka v Jihočeském kraji
 mail:
-- lucie.korytarova@pirati.cz
 #mob: +420
 profiles:
   github:
@@ -15,6 +16,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 8 
+ordkr: 9
 ---
 
 Jak jsem se ocitla na pirátské lodi?
