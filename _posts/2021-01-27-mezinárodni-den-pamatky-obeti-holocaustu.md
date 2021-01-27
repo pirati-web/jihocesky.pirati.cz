@@ -5,7 +5,7 @@ published: true
 title: 'Mezinárodní den památky obětí holocaustu'
 date: '2021-01-27'
 author: Jan Novák
-image: 2020/osvětim.png
+image: 2020/osvetim.png
 
 description: '27. ledna si připomínáme 76. výročí dne, kdy Sověti osvobodili nacistický koncentrační a vyhlazovací tábor Osvětim-Březinka (Auschwitz-Birkenau). Tento den je symbolicky věnován všem obětem šoa, na něž i dnes musíme s pokorou vzpomínat. Nikdy nesmíme dopustit, aby se něco tak strašlivého a nelidského opakovalo.'
 tags:
