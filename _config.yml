@@ -16,8 +16,6 @@ url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 administrator:
   email:  jan.suchanek@pirati.cz
 
-mediaStorage: jihocesky
-
 emptyArray: []
 
 theme: jekyll-theme-pirati
