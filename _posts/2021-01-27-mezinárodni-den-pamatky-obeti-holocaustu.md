@@ -11,7 +11,7 @@ description: '27. ledna si připomínáme 76. výročí dne, kdy Sověti osvobod
 tags:
   - Události
 ---
-27. ledna si připomínáme 76. výročí dne, kdy Sověti osvobodili nacistický koncentrační a vyhlazovací tábor Osvětim-Březinka (Auschwitz-Birkenau). 
+Dne 27. ledna si připomínáme 76. výročí dne, kdy Sověti osvobodili nacistický koncentrační a vyhlazovací tábor Osvětim-Březinka (Auschwitz-Birkenau). 
 Tento den je symbolicky věnován všem obětem šoa, na něž i dnes musíme s pokorou vzpomínat. Nikdy nesmíme dopustit, aby se něco tak strašlivého a nelidského opakovalo. 
 
 My i budoucí generace musíme nést ideál humanity, podporovat víru v lidství a mít úctu k lidskému životu. Nemůžeme přivírat oči před útlakem druhých, kteří jen mají jiný názor, jinak vypadají, 
