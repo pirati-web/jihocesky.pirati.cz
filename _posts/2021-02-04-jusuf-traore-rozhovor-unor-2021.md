@@ -22,7 +22,8 @@ oblasti sociálně-právní ochrany dětí a školství u vzdělávací agentury
 Přesně tak, v rámci poskytování služeb rodinám a dětem jsem zjistil, že mnozí komunální politici mluví o pomoci, ale málokdo něco dělá (naštěstí to neplatí o všech). 
 A právě z tohoto důvodu jsem se rozhodl v roce 2010 poprvé kandidovat do prachatického zastupitelstva.
 
-**Vyšlo to? Tenkrát jsi ale nekandidoval za Piráty, že? **
+**Vyšlo to? Tenkrát jsi ale nekandidoval za Piráty, že?**
+
 Jak se to vezme. V roce 2010 jsme pro sdružení nezávislých kandidátů PRO Prachatice, za které jsem kandidoval, získali možnost podílet na vedení našeho města prostřednictvím pozice místostarosty a 3 radních. 
 Já sám jsem se stal prvním náhradníkem, jelikož tehdy mi to „uteklo“ asi o 10–20 hlasů. Od roku 2018 jsem ale zastupitelem za stejné sdružení.
 
