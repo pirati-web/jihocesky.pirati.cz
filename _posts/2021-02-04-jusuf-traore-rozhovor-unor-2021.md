@@ -32,11 +32,9 @@ Od roku 2015 jsem byl registrovaným příznivcem a Piráty jsem tak po očku sl
 Celý svůj pracovní život se snažím věci kolem sebe posouvat žádoucím a potřebným směrem a Piráti se dle mého názoru snaží poctivým a otevřeným způsobem o to samé. 
  
 **Můžeš ještě trochu přiblížit, čím se přesně zabýváš, o jaké služby pro rodiny a děti se jedná?**
-* 
+
 To bude trochu složitější. Služby, o kterých jsem hovořil, jsme spolu s kolegyní zakládali v roce 2006, kdy jsme začali primární prevencí společensky nežádoucích jevů na školách. 
-Následně jsem ale dospěl k závěru, že je třeba se dětem věnovat i v odpoledních hodinách, takže jsme založili nízkoprahové zařízení pro děti a mládež ve věku 6 až 15 let, následovalo 
-mateřské centrum, poté jsme se pustili v roce 2008 do krizového centra, kde byla poskytována psychologická a psychoterapetická pomoc. V roce 2009 jsme naši organizaci rozšířili o 
-nízkoprahové zařízení pro děti a mládež ve věku 15 až 26 let a konečně v roce 2011 jsme vše zakončili sociálněaktivizačními službami pro rodiny s dětmi. Do toho jsem ještě organizoval 
+Následně jsem ale dospěl k závěru, že je třeba se dětem věnovat i v odpoledních hodinách, takže jsme založili nízkoprahové zařízení pro děti a mládež ve věku 6 až 15 let, následovalo mateřské centrum, poté jsme se pustili v roce 2008 do krizového centra, kde byla poskytována psychologická a psychoterapetická pomoc. V roce 2009 jsme naši organizaci rozšířili o nízkoprahové zařízení pro děti a mládež ve věku 15 až 26 let a konečně v roce 2011 jsme vše zakončili sociálněaktivizačními službami pro rodiny s dětmi. Do toho jsem ještě organizoval 
 pro naši cílovou skupinu spoustu jednorázových volnočasových aktivit. Vše bylo samozřejmě zdarma. 
 
 Od roku 2015 ale pracuji jako vedoucí odboru sociálních věcí, zdravotnictví a školství, kde se snažím nerealizovat pouze strohé „ouřední“ aktivity, ale nabízet trochu víc.
