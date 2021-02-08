@@ -7,12 +7,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.8.5"
+gem "jekyll", "~> 3.7.3"
 
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "7.7.0"
+gem "jekyll-theme-pirati", "7.7.1"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -45,3 +45,6 @@ gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
+group :development, :test do
+  gem "html-proofer"
+end

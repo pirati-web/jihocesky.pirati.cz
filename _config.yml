@@ -1,9 +1,5 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 title: Pirátská strana | JIHOČESKÝ KRAJ
@@ -16,76 +12,9 @@ url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 administrator:
   email:  jan.suchanek@pirati.cz
 
+mediaStorage: jihocesky #obrazky a pdf jsou na https://a.pirati.cz/jihomoravsky/
+
 emptyArray: []
-
-theme: jekyll-theme-pirati
-
-sass:
-  style: compressed
-  sass_dir: _sass
-
-# Build settings
-markdown: kramdown
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-environment-variables
-
-paginate_path: "/aktuality/:num/"
-paginate: 15
-
-pagination:
-  per_page: 2
-  limit: false
-
-exclude:
-  - Dockerfile
-  - docker-compose.yml
-  - deploy_rsa_sandbox.enc
-  - deploy_rsa_sandbox.pub
-  - navod.md
-  - readme.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-permalink: /tiskove-zpravy/:title/
-collections:
-  people:
-    output: true
-    root: /clenove/
-    permalink: /clenove/:path/
-
-  program:
-    output: true
-    permalink: /:path/
-
-  # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
-
-defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "person"
-      rbar:
-        - foto
-        - personContact
-        - people
-      keywords: členové, příznivci, lidé
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar:
-        - garant
-        - program
-      keywords: program, volby, 2020, krajské volby, jihočeský kraj
 
 organization:
   name: Pirátská strana | JIHOČESKÝ KRAJ
@@ -97,7 +26,6 @@ organization:
     Jihočeské pirátské centrum
     Na Moráni 3
     120 00 Praha 2
-
   mapLink: https://goo.gl/maps/AwzVF2nHw3cNnR4L6
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
@@ -155,6 +83,69 @@ github:
 
 github_username:  pirati-web
 
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
+markdown: kramdown
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-environment-variables
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor  
+
+permalink: /tiskove-zpravy/:title/
+collections:
+  people:
+    output: true
+    root: /clenove/
+    permalink: /clenove/:path/
+
+  program:
+    output: true
+    permalink: /:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
+      keywords: členové, příznivci, lidé
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar:
+        - garant
+        - program
+      keywords: program, volby, 2020, krajské volby, jihočeský kraj
+
 emptyArray: []
 
 assets:
@@ -162,9 +153,8 @@ assets:
   compression: true
   gzip: false
   plugins:
-    css: { 
-      #autoprefixer: {}
-    }
+    css: { }
+    #autoprefixer: {}
     img:
       optim:
         jpegoptim:
@@ -175,7 +165,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
