@@ -9,7 +9,6 @@ category:
 img: people/jaromir-kopriva.jpg
 description: zastupitel v Jindřichově Hradci
 mail:
-- jaromir.kopriva@pirati.cz
 #mob: +420
 profiles:
   github:
