@@ -9,7 +9,6 @@ category:
 img: people/milos-tuhacek.jpg
 description: zastupitel v Táboře
 mail:
-- milos.tuhacek@pirati.cz
 #mob: +420
 profiles:
   github:
