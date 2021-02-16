@@ -12,8 +12,7 @@ mob:
 - 737 838 263
 profiles:
   github:                 
-  facebook: 
-  - https://www.facebook.com/soumar.josef 		  
+  facebook: https://www.facebook.com/soumar.josef 		  
   twitter: 		  
   flickr:
 ordpks: 32   
