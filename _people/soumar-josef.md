@@ -36,7 +36,9 @@ Od října 2018 jsem zastupitel a předseda finančního výboru města Písku, 
 Mám poměrně dobré logické a analytické smýšlení, mám rád řád a systém. Mezi mé zájmy patří sport (cyklistika, fitness, týmové hry), hudba a hra na bicí (začátečník), lukostřelba, finance a vývoj kapitálových trhů.
 
 Na republikové úrovni se věnuji ochraně spotřebitele, jsem členem rezortního týmu finance.
+
 ——————————————————————
+
 Zastupitel města Písku
 
 Zastupitel Jihočeského kraje
