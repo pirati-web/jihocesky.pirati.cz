@@ -30,7 +30,7 @@ Ve svém povolání Wealth managera aktivně propaguji bezprovizní ekonomické 
 Mám rád vše, co se točí okolo vědy, přírody a techniky (úroveň: obdivovatel/nadšenec), podporuji kritické myšlení a plnou transparentnost veřejných financí.
 Ve volebním období 2014-2018 jsem byl členem finančního výboru města Písku. V roce 2015 jsem v Písku zavedl tzv. Sdílené neděle, tedy pravidelná otevřená setkání občanů s místními politiky za Piráty. 
 
-V roce 2017 jsem společně s poslancem Lukášem Koláříkem a kolegou Tomášem Posekaným stál u zrodu Krajských expertních týmů uvnitř Pirátské strany, které se rozšířili po celé republice a napojily se na rezortní týmy na úrovni Poslanecké sněmovny.
+V roce 2017 jsem společně s poslancem Lukášem Koláříkem a kolegou Tomášem Posekaným stál u zrodu Krajských expertních týmů uvnitř Pirátské strany, které se rozšířily po celé republice a napojily se na rezortní týmy na úrovni Poslanecké sněmovny.
 
 Od října 2018 jsem zastupitel a předseda finančního výboru města Písku, v současné době jsem také členem zastupitelstva a členem finančního a hospodářského výboru Jihočeského kraje.
 
