@@ -12,7 +12,7 @@ url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 administrator:
   email:  jan.suchanek@pirati.cz
 
-mediaStorage: jihocesky #obrazky a pdf jsou na https://a.pirati.cz/jihomoravsky/
+mediaStorage: jihocesky #obrazky a pdf jsou na https://a.pirati.cz/jihocesky/
 
 emptyArray: []
 
