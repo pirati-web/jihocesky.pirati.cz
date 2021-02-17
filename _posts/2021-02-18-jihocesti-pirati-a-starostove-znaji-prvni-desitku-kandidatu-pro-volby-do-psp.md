@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Jihočeští Piráti a Starostové znají první desítku kandidátů pro volby do Poslanecké sněmovny Parlamentu ČR'
-date: '2021-02-18'
+date: '2021-02-17'
 author: Piráti a Starostové
 image: 2021/pirati-stan.png
 
