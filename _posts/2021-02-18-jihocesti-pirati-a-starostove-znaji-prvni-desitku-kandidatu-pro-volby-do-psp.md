@@ -22,8 +22,7 @@ Jana Koláříková (Piráti), Josef Knot (STAN) a první desítku uzavírá Ver
 
 Pokračování sestavování koaliční kandidátní listiny okomentovali Lukáš Kolářík a Viktor Vojtko.
 
-*„Členům Pirátů a Starostů v Jihočeském kraji se povedlo postavit silný a pestrý tým lidí z různých oborů, kteří jsou díky svým kompetencím připraveni odvádět kvalitní práci v Poslanecké sněmovně. 
-Lokální zkušenost Starostů, energie a dynamičnost Pirátů a společný zájem posunout zemi konečně k lepšímu, kombinuje to nejlepší z obou stran. Všichni kandidáti nabízejí jasné vize, 
+*„Členům Pirátů a Starostů v Jihočeském kraji se povedlo postavit silný a pestrý tým lidí z různých oborů, kteří jsou díky svým kompetencím připraveni odvádět kvalitní práci v Poslanecké sněmovně. Lokální zkušenost Starostů, energie a dynamičnost Pirátů a společný zájem posunout zemi konečně k lepšímu, kombinuje to nejlepší z obou stran. Všichni kandidáti nabízejí jasné vize, 
 co budou ve Sněmovně prosazovat v zájmu našich lidí, firem i krajiny, a taky dostatečné zkušenosti a odhodlání k tomu, aby se jim to podařilo. V blížících se sněmovních 
 volbách hodláme společně se STAN uspět a dosáhnout nejvyšší mety - být jejich vítězem, abychom mohli prosazovat náš společný program a pomoci naší zemi. Chceme přiblížit stát občanům, 
 digitalizaci, nízké daně, dostupnou zdravotní péči i v regionech, řešení exekučního systému, respekt k samosprávě, ochranu klimatu a přírody, inovace a samozřejmě, aby celé vládnutí probíhalo transparentně 
