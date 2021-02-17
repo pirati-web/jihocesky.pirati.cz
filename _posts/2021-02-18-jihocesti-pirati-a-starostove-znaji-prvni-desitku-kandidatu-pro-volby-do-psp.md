@@ -5,7 +5,7 @@ published: true
 title: 'Jihočeští Piráti a Starostové znají první desítku kandidátů pro volby do Poslanecké sněmovny Parlamentu ČR'
 date: '2021-02-17'
 author: Piráti a Starostové
-image: 2021/pirati-stan.png
+image: 2021/pirati-stan-2.png
 
 description: 'V primárních volbách Pirátů v Jihočeském kraji se lídrem kandidátní listiny pro nadcházející volby do Poslanecké sněmovny Parlamentu ČR stal současný poslanec Lukáš Kolářík. Po primárních volbách hnutí Starostové a nezávislí (STAN) známe další kandidáty, na druhé pozici bude Viktor Vojtko.'
 tags:
