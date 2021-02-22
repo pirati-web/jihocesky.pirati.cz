@@ -5,7 +5,7 @@ published: true
 title: 'Máme plán činnosti Kontrolního výboru Zastupitelstva Jihočeského kraje na rok 2021'
 date: '2021-02-22'
 author: Piráti Jihočeský kraj
-image: 2020/jan_novak.jpg
+image: 2021/jan-novak-2.jpg
 
 description: 'Na posledním jednání Zastupitelstva Jihočeského kraje byl schválen plán činnosti kontrolního výboru, jehož předsedou je pirátský neuvolněný zastupitel Jan Novák. Ten byl také předkladatelem návrhu, který počítá s dokončením již započaté kontroly Jihočeské centrály cestovního ruchu (JCCR), prověření podnětu ohledně dotačního programu „Podpora sportovní činnosti dětí a mládeže“, dále s kontrolou poskytování odměn zaměstnancům krajského úřadu v roce 2020 a vyřizování stížností a podnětů občanů a petic.'
 tags:
