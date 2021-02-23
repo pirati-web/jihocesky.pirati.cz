@@ -47,6 +47,6 @@ Skoncujeme se současnou praxí, kdy se staví nekoncepčně. Zefektivníme a zr
 
 <hr>
 
-**[KOMPLETNÍ PROGRAM JE KE STAŽENÍ V PDF ZDE](https://jihocesky.pirati.cz/assets/img/program.pdf)**
+**[KOMPLETNÍ PROGRAM JE KE STAŽENÍ V PDF ZDE](https://a.pirati.cz/jihocesky/img/program.pdf)**
 
 <hr>
