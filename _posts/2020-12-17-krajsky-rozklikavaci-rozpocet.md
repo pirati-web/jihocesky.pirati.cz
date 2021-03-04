@@ -16,7 +16,7 @@ tags:
 ---
 **Na dnešním jednání zastupitelstva se Pirátům podařilo navrhnout a prosadit zásadní součást vlastního programu a jednu z hlavních pirátských myšlenek o transparenci a správě veřejných financí. Veřejnost tak bude mít možnost kontrolovat hospodaření s penězi Jihočeského kraje, a to ve formě „rozklikávacího“ krajského rozpočtu až na úroveň jednotlivých faktur. Záměr zveřejnění „rozklikávacího“ rozpočtu byl usnesením Zastupitelstva Jihočeského kraje svěřen finančnímu výboru, který má nyní připravit návrh realizace a předložit jej zastupitelstvu do dubna 2021.**
 
-![Hlasování o rozpočtu](/assets/img/2020/hlasovani.png)
+![Hlasování o rozpočtu](https://a.pirati.cz/jihocesky/img/2020/hlasovani.png)
 
 Předložený a schválený návrh zastupitelského klubu Pirátů okomentoval místopředseda klubu Josef Soumar, který se věnuje ekonomice, investicím, majetku kraje a právě rozpočtu: 
 
