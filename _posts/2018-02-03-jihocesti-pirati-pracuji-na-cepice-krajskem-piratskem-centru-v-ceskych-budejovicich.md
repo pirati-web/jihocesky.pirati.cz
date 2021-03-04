@@ -20,8 +20,8 @@ Jako nejvhodnější objekt byl vybrán historický dům v Hradební ulici čp. 
 
 Pokud máte vlastní nápady či návrhy na program ČePiCe či vlastního zapojení se do aktivit Pirátského centra, dejte nám o nich určitě vědět;), na [**FACEBOOKU**](https://www.facebook.com/pirati.jck/) Piráti Jihočeský kraj.
 
-![Vizualizace ČePICE](/assets/img/posts/cepice3.jpg)
+![Vizualizace ČePICE](https://a.pirati.cz/jihocesky/img/posts/cepice3.jpg)
 
-![Vizualizace ČePICE](/assets/img/posts/cepice4.jpg)
+![Vizualizace ČePICE](https://a.pirati.cz/jihocesky/img/posts/cepice4.jpg)
 
-![Vizualizace ČePICE](/assets/img/posts/cepice2.jpg)
+![Vizualizace ČePICE](https://a.pirati.cz/jihocesky/img/posts/cepice2.jpg)

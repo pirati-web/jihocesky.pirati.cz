@@ -36,4 +36,4 @@ Těšíme se na vás, vaši jihočeští Piráti!
 
 
 
-![Pozvánka na zasedání krajského sdružení](/assets/img/pozvanka-pod-text.jpg)
+![Pozvánka na zasedání krajského sdružení](https://a.pirati.cz/jihocesky/img/pozvanka-pod-text.jpg)

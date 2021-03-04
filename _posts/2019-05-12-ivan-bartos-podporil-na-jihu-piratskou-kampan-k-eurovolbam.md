@@ -26,20 +26,20 @@ Doufáme že jste si to i přes chvílemi nepříznivé počasí užili, a věř
 
 [EVROPA POTŘEBUJE PIRÁTY!](https://evropapotrebuje.cz/)
 
-![null](/assets/img/posts/tabor-2.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/tabor-2.jpg)
 
-![null](/assets/img/posts/tabor-1.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/tabor-1.jpg)
 
-![null](/assets/img/posts/sobeslav-8.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/sobeslav-8.jpg)
 
-![null](/assets/img/posts/sobeslav-20.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/sobeslav-20.jpg)
 
-![null](/assets/img/posts/sobeslav-10.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/sobeslav-10.jpg)
 
-![null](/assets/img/posts/cb-1.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/cb-1.jpg)
 
-![null](/assets/img/posts/cb-4.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/cb-4.jpg)
 
-![null](/assets/img/posts/cb-40.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/cb-40.jpg)
 
-![null](/assets/img/posts/cb-99.jpg)
+![null](https://a.pirati.cz/jihocesky/img/posts/cb-99.jpg)

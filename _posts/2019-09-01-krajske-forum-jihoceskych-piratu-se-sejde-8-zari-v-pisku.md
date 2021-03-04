@@ -24,6 +24,6 @@ Registrovat se můžete [**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScc3H
 
 Akce na [**FACEBOOKU**](https://www.facebook.com/events/912877739046097/).
 
-![Hotel OTava Arena se nachází u sportovišť ve čtvrti Svatý Václav. (ilustrační foto Otava Arena)](/assets/img/posts/otava-arena.jpg)
+![Hotel OTava Arena se nachází u sportovišť ve čtvrti Svatý Václav. (ilustrační foto Otava Arena)](https://a.pirati.cz/jihocesky/img/posts/otava-arena.jpg)
 
 Hotel [Otava Arena](https://www.otavarena.cz/)

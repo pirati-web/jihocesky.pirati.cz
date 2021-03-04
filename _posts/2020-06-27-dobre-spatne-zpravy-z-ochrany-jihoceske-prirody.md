@@ -36,11 +36,11 @@ naposled v r. 2012. Poté ale lokalita zarostla náletem stromů a vysokých byl
 bez zmíněných zásahů jen těžko vrátí. A poslední novinkou je, že kraj minulý týden přišel s 
 [návrhem přírodní památku úplně zrušit](https://edesky.cz/dokument/3954063), než aby se o ni jakkoli staral. Ve zdůvodnění je navíc zavádějící údaj o vymizení hořečků již “po roce 2002”.
  
-![Na Vysokém v r. 2011.](/assets/img/2020/dl6.jpg)
+![Na Vysokém v r. 2011.](https://a.pirati.cz/jihocesky/img/2020/dl6.jpg)
 
 *Na Vysokém v r. 2011, než zde hořeček vymizel. (foto © Petr Brož, CC BY-SA 3.0)*
 
-![Zarostlá louka v PP Na Vysokém dnes.](/assets/img/2020/dl7.jpg)
+![Zarostlá louka v PP Na Vysokém dnes.](https://a.pirati.cz/jihocesky/img/2020/dl7.jpg)
 
 *Zarostlá louka v PP Na Vysokém dnes.*
 
@@ -50,11 +50,11 @@ Ale hlavně, stejně jako v předchozím případě, hodnota lokality nestojí a
 
 Spolu s kolegy podáme formální námitku proti rušení obou přírodních památek.
 
-![Květnatá louka v PP Irů dvůr, v pozadí město Prachatice (foto © Petr Brož, CC BY-SA 3.0).](/assets/img/2020/dl8.jpg)
+![Květnatá louka v PP Irů dvůr, v pozadí město Prachatice (foto © Petr Brož, CC BY-SA 3.0).](https://a.pirati.cz/jihocesky/img/2020/dl8.jpg)
 
 *Květnatá louka v PP Irů dvůr, v pozadí město Prachatice (foto © Petr Brož, CC BY-SA 3.0).*
 
-![Lilie zlatohlavá v PP Irů dvůr.](/assets/img/2020/dl9.jpg)
+![Lilie zlatohlavá v PP Irů dvůr.](https://a.pirati.cz/jihocesky/img/2020/dl9.jpg)
 
 *Lilie zlatohlavá v PP Irů dvůr.*
 
