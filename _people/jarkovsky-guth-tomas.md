@@ -5,7 +5,6 @@ titles:
   before: 
   after:
 category:
-- pms
 - pks
 img: people/tomas-guth-jarkovsky.jpg
 description: místopředseda krajského sdružení
