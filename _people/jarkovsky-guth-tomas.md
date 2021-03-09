@@ -8,7 +8,7 @@ category:
 - pms
 - pks
 img: people/tomas-guth-jarkovsky.jpg
-description: místopředseda krajského sdružení a předseda MS Českobudějovicko
+description: místopředseda krajského sdružení
 mail:
 - tomas.guth.jarkovsky@pirati.cz
 mob: +420 778 111 487
@@ -18,7 +18,6 @@ profiles:
   twitter: https://twitter.com/TGuthJarkovsky
   linkedin:
   instagram: https://www.instagram.com/extra_angry_potato/
-ordpms: 1 
 ordpks: 3 
 ---
 
