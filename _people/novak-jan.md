@@ -7,6 +7,7 @@ titles:
 category:
 - zastupitele
 - zastupitelekr
+- pms
 img: people/jan.novak.2020.jpg
 description: předseda MS Českobudějovicko, zastupitel v Týně nad Vltavou a Jihočeském kraji
 mail:
