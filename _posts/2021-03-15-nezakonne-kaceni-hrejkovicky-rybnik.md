@@ -7,12 +7,12 @@ date: '2021-03-15'
 author: Dan Leština
 image: 2021/hrejkovice.jpg
 
-description: 'Několik let se vleče povolování rekonstrukce Hrejkovického rybníka v okrese Písek, a to z dobrých důvodů. Na hrázi je, nebo teď již spíše byla, alej starých dubů. Kácení bylo nakonec povoleno pod podmínkou, že bude provedeno za teplého počasí a ohroženým živočišným druhům se tak dá alespoň šance uniknout. Firma Orlík nad Vltavou Jana Schwarzenberga ale tyto podmínky ignorovala a stromy začala dnes začala kácet. A to navíc přesto, že jí bylo uloženo, aby zpracovala vliv projektu na krajinný ráz, než s ním bude pokračovat.'
+description: 'Několik let se vleče povolování rekonstrukce Hrejkovického rybníka v okrese Písek, a to z dobrých důvodů. Na hrázi je, nebo teď již spíše byla, alej starých dubů. Kácení bylo nakonec povoleno pod podmínkou, že bude provedeno za teplého počasí a ohroženým živočišným druhům se tak dá alespoň šance uniknout. Firma Orlík nad Vltavou Jana Schwarzenberga ale tyto podmínky ignorovala a stromy dnes začala kácet. A to navíc přesto, že jí bylo uloženo, aby zpracovala vliv projektu na krajinný ráz, než s ním bude pokračovat.'
 tags:
   - Životní prostředí
 ---
 **Několik let se vleče povolování rekonstrukce Hrejkovického rybníka v okrese Písek, a to z dobrých důvodů. Na hrázi je, nebo teď již spíše byla, alej starých dubů. Kácení bylo nakonec povoleno pod podmínkou, 
-že bude provedeno za teplého počasí a ohroženým živočišným druhům se tak dá alespoň šance uniknout. Firma Orlík nad Vltavou Jana Schwarzenberga ale tyto podmínky ignorovala a stromy začala dnes začala kácet. 
+že bude provedeno za teplého počasí a ohroženým živočišným druhům se tak dá alespoň šance uniknout. Firma Orlík nad Vltavou Jana Schwarzenberga ale tyto podmínky ignorovala a stromy dnes začala kácet. 
 A to navíc přesto, že jí bylo uloženo, aby zpracovala vliv projektu na krajinný ráz, než s ním bude pokračovat.**
 
 Piráti se o kauzu zajímají ve spolupráci s místními obyvateli již delší dobu a na zasedání zastupitelstva jsme vyzvali příslušného náměstka hejtmana, aby ji spolu s námi dále řešil. Táhne se již od roku 2017, 
