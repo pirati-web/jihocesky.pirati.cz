@@ -19,7 +19,7 @@ kraj by se měl chovat jako řádný hospodář s ohledem na budoucnost. Již ny
 může se stát, že dočkáme toho, že plány na těžbu se také zintenzivní a my už nebudeme mít možnost to ovlivnit. Je třeba, aby kraj umožňoval těžbu kamene s myšlenkou na budoucnost. Stavební kámen v České 
 republice dochází a je třeba vytvářet především podmínky pro recyklaci stavebních materiálů. Proto bych na všech úrovních strategického plánování přemýšlela nad tím, jak čerpat zdroje opatrně. 
 Recyklovanými materiály nelze nahradit kámen zcela a dovoz kameniva z ciziny bude mít jak finanční, tak ekologické důsledky. Již nyní bychom měli vyvíjet politický tlak na to, aby se stavební 
-materiály recyklovali a kámen se používal hospodárně převážně pouze tam, kde je nenahraditelný,“* okomentovala své rozhodnutí při hlasování Veronika Kovářová.
+materiály recyklovaly a kámen se používal hospodárně převážně pouze tam, kde je nenahraditelný,“* okomentovala své rozhodnutí při hlasování Veronika Kovářová.
 
 Piráti ve svém programu dlouhodobě prosazují šetrné zacházení s přírodními zdroji a ochranu životního prostředí. Tomu odpovídá i dnešní hlasování na zastupitelstvu.
 
