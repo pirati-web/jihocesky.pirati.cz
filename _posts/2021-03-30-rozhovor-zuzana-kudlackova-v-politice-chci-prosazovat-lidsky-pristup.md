@@ -50,7 +50,7 @@ No, práce zastupitelky mě neživí, za to mám jednotky tisíc korun po zdaně
 
 **Když se dostaneš do Sněmovny, co tam budeš dělat?**
 
-Zůstanu především u svých oborů a ve všem, co budu moci ovlivnit, se budu snažit prosazovat lidský přístup. Právě ten bych chtěl přenášet do politiky. 
+Zůstanu především u svých oborů a ve všem, co budu moci ovlivnit, se budu snažit prosazovat lidský přístup. Právě ten bych chtěla přenášet do politiky. 
 Když se na mě někdo obrátí s reálným problémem, už v současné době se snažím najít a navrhnout systémové řešení, které by ho řešilo. Jak jsem říkala, 
 respekt si zaslouží každý občan, ke všem by mělo být přistupováno stejně. O to se chci zasazovat.
 
