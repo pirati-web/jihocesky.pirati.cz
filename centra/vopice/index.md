@@ -6,8 +6,8 @@ shortdesc:
 rbar:
   - kodo
   - calendar
-keywords: zastupitelé kraj
-description: Krajští zastupitelé
+keywords: VoPiCe,centrum
+description: Pice
 ---
 
 ## Detailni info

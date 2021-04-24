@@ -50,7 +50,7 @@ regiony:
 <div>
 {% for r in page.regiony %}
   <div>
-    <h3>{{r.nazev}}</h3>
+    <a href="{{r.url}}"><h3>{{r.nazev}}</h3></a>
     <img src="{{r.fotka}}" />
   </div>
 {% endfor %}
