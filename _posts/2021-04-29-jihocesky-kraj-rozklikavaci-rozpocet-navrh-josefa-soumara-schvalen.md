@@ -5,6 +5,8 @@ published: true
 title: 'Jihočeský kraj bude mít veřejný rozklikávací rozpočet na úroveň faktur, návrh Josefa Soumara byl schválen zastupitelstvem'
 date: '2021-04-29'
 author: Luboš Kudláček
+image: 2021/rr.png
+description: 'Na dnešním jednání zastupitelstva byla dle původního návrhu Josefa Soumara (Piráti) zde dne 17. prosince 2021 schválena podoba veřejného rozklikávacího rozpočtu Jihočeského kraje až na úroveň jednotlivých faktur. Transparence je jednou ze základních součástí pirátského programu a jednou z jeho hlavních myšlenek. Jakýkoli občan bude mít od května 2021 na webových stránkách Jihočeského kraje možnost podívat se na hospodaření s veřejnými penězi. K dalšímu vylepšení dojde do konce roku.'
 tags:
   - zastupitelstvo
   - Finance
