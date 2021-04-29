@@ -36,9 +36,5 @@ uživatelsky přívětivá, další vylepšení tedy bude následovat a k jeho r
 Vzhledem k ochraně osobních údajů bude krajský rozklikávací rozpočet upravován i v mezidobí a průběžně tak, aby byly zveřejněné údaje v souladu se zákonem.
 Rozklikávací rozpočet bude k dispozici na webových stránkách kraje [https://kraj-jihocesky.cz/](https://kraj-jihocesky.cz/)
 
-O práci v krajském zastupitelstvu budou Piráti dále informovat, sledovat je můžete na Facebooku, Twitteru a na webu. V případě dotazů 
-se můžete obrátit přímo na krajského zastupitele Josefa Soumara na telefonním čísle 737 838 263.
-
 O práci v krajském zastupitelstvu budou Piráti dále informovat, sledovat je můžete na [na Facebooku](https://www.facebook.com/pirati.jck) a 
 [na webu](https://jihocesky.pirati.cz/).
-
