@@ -13,7 +13,7 @@ tags:
   - transparentnost
 ---
 
-**Na dnešním jednání zastupitelstva byla dle původního návrhu Josefa Soumara (Piráti) zde dne 17. prosince 2021 ([tisková zpráva zde](https://jihocesky.pirati.cz/tiskove-zpravy/krajsky-rozklikavaci-rozpocet/)) 
+**Na dnešním jednání zastupitelstva byla dle původního návrhu Josefa Soumara (Piráti) ze dne 17. prosince 2021 ([tisková zpráva zde](https://jihocesky.pirati.cz/tiskove-zpravy/krajsky-rozklikavaci-rozpocet/)) 
 schválena podoba veřejného rozklikávacího rozpočtu Jihočeského kraje až na úroveň jednotlivých faktur. Transparence je jednou ze 
 základních součástí pirátského programu a jednou z jeho hlavních myšlenek. Jakýkoli občan bude mít od května 2021 na webových stránkách 
 Jihočeského kraje možnost podívat se na hospodaření s veřejnými penězi. K dalšímu vylepšení dojde do konce roku.**
