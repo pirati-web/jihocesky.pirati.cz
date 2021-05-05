@@ -22,9 +22,11 @@ clenove:
   mob: 737 838 263
 ---
 
-## Jak fungujeme?
+## Kdo jsme
 
-Pár slov o fungování klubu. Redmine, program a jejich vztah .. plneni atd.
+Zastupitelský klub je tvořen úspěšnými kandidáty krajských voleb v roce 2020.
+Hájí [politický program](/program/), který komunikovali v kampani.
+Přestože jsou v opozižní roli, již nyní mají za sebou [cenné úspěchy](/tags/#zastupitelstvo).
 
 ### Členové
 
