@@ -26,7 +26,7 @@ clenove:
 
 Zastupitelský klub je tvořen úspěšnými kandidáty krajských voleb v roce 2020.
 Hájí [politický program](/program/), který komunikovali v kampani.
-Přestože jsou v opozižní roli, již nyní mají za sebou [cenné úspěchy](/tags/#zastupitelstvo).
+Přestože jsou v opoziční roli, již nyní mají za sebou [cenné úspěchy](/tags/#zastupitelstvo).
 
 ### Členové
 
