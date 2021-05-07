@@ -43,4 +43,4 @@ ale neopomenout zcela  konkrétní (někdy i krátkodobé) cesty, které k nim s
 (např. méně intenzivní sečení). Také proto se naše připomínky většinově týkaly 
 doplnění či zpřesnění jednotlivých opatření.
 
-**[Dokument s připomínkami ke stažení v PDF](https://jihocesky.pirati.cz/assets/img/2020/program-rozvoje-prip.pdf)**
+**[Dokument s připomínkami ke stažení v PDF](https://a.pirati.cz/jihocesky/img/2020/program-rozvoje-prip.pdf)**
