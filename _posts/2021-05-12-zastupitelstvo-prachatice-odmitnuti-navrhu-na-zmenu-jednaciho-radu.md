@@ -14,7 +14,7 @@ tags:
 ---
 **Prachatický zastupitel Júsuf Traore předložil na dnešním jednání Zastupitelstva města Prachatice návrh na změnu jednacího řádu. Nově navržená úprava by umožnila občanům vyjádřit své názory ještě před přistoupením k bodům řádně schváleného programu namísto toho, aby čekali na blíže časově neurčený konec jednání. Stávající koalice (Nezávislí, ANO, ČSSD a KSČM) však tento návrh opět odmítla a dále tvrdošíjně prosazuje doposud běžnou, pro občany nevýhodnou, praxi.**
 
-Júsuf Traore předložil podobný návrh již v minulosti, dnes opět přednesl své stanovisko a připravil návrh usnesení. Upozornil především na to, že občané nemohou čekat do pozdních nočních novin, kdy jednání zastupitelstva běžně končí.
+Júsuf Traore předložil podobný návrh již v minulosti, dnes opět přednesl své stanovisko a připravil návrh usnesení. Upozornil především na to, že občané nemohou čekat do pozdních nočních hodin, kdy jednání zastupitelstva běžně končí.
 
 *„Právo vyjádřit svůj názor patří k základním stavebním kamenům každé demokratické společnosti. Současný jednací řád Zastupitelstva města Prachatice 
 však umožňuje občanům vyjádřit se pouze v rámci projednávaných bodů nebo jim nabízí teoretickou možnost k vyslovení svých potřeb na konci 
