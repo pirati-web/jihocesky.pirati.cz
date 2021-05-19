@@ -19,4 +19,4 @@ součástí jsou ale také další články na téma práce v krajském zastupit
 
 **Koaliční noviny můžete získat v tištěné podobě na ulicích od našich kandidátů a dobrovolníků, případně je najdete k odběru na spřátelených místech.**
 
-ČTĚTE ZDE - [https://jihocesky.pirati.cz/piratske-listy/2021-jck-pas-listy/#plisty/page1)
+[NOVINY MŮŽETE ČÍST TAKÉ ZDE V ONLINE PROHLÍŽEČI](https://jihocesky.pirati.cz/piratske-listy/2021-jck-pas-listy/#plisty/page1)
