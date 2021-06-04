@@ -38,6 +38,14 @@ návrhů byl například ten od Josefa Soumara.
 Díky rozklikávacímu rozpočtu na úroveň jednotlivých faktur, tedy návrhu, který Josef Soumar předložil všem zastupitelům krátce
 po minulých volbách, se náš kraj stal vysoce transparentním a odpovědným vůči občanům. Děkujeme všem zastupitelům, že tento
 návrh podpořili.
- 
+
+---
+
+**Tento článek vyšel v jarním vydání tištěných Koaličních novin, které můžete získat na ulicích od našich kandidátů a dobrovolníků, případně je najdete k odběru na spřátelených místech.**
+
+**[NOVINY MŮŽETE ČÍST TAKÉ ZDE V ONLINE PROHLÍŽEČI](https://jihocesky.pirati.cz/piratske-listy/2021-jck-pas-listy/#plisty/page1)**
+
+---
+
 O práci v krajském zastupitelstvu budou Piráti dále informovat, sledovat je můžete na [na Facebooku](https://www.facebook.com/pirati.jck) a 
 [na webu](https://jihocesky.pirati.cz/).
