@@ -337,7 +337,7 @@ progress {
 summary {
 	display: list-item
 }
-blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+blockquote, dd, dl, figure {
 	margin: 0
 }
 button {
@@ -352,11 +352,7 @@ fieldset {
 	margin: 0;
 	padding: 0
 }
-ol, ul {
-	list-style: none;
-	margin: 0;
-	padding: 0
-}
+
 html {
 	font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 	line-height: 1.5
