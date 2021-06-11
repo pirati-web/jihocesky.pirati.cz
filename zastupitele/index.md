@@ -11,15 +11,35 @@ description: Krajští zastupitelé
 clenove:
 - uid: kovarova-veronika
   name: Ing. arch. Veronika Kovářová
-  img: people/veronika.kovarova.2020.jpg
+  img: people/volby2021/verkov.jpg
   description: předsedkyně klubu
   mail: veronika.kovarova@pirati.cz
   mob: +420603397164
 - uid: soumar-josef
   name: Josef Soumar
-  img: people/josef-soumar-3.jpg
+  img: people/volby2021/pepasou.jpg
   mail: josef.soumar@pirati.cz
   mob: 737 838 263
+- uid: martin.kakona
+  name: Martin Kákona
+  img: people/volby2021/martinka.jpg
+  mail: martin.kakona@pirati.cz
+- uid: lukas.mares
+  name: Lukáš Mareš
+  img: people/volby2021/lukasm.jpg
+  mail: lukas.mares@pirati.cz
+- uid: lucie.korytarova
+  name: Lucie Korytářová
+  img: people/volby2021/luckak.jpg
+  mail: lucie.korytarova@pirati.cz
+- uid: jan.hosek
+  name: Jan Hošek
+  img: people/volby2021/honzaho.jpg
+  mail: jan.hosek@pirati.cz
+- uid: jiri.roubicek
+  name: Jan Hošek
+  img: people/volby2021/jirkar.jpg
+  mail: jiri.roubicek@pirati.cz
 ---
 
 ## Kdo jsme
