@@ -37,9 +37,17 @@ clenove:
   img: people/volby2021/honzaho.jpg
   mail: jan.hosek@pirati.cz
 - uid: jiri.roubicek
-  name: Jan Hošek
+  name: Jiří Roubíček
   img: people/volby2021/jirkar.jpg
   mail: jiri.roubicek@pirati.cz
+- uid: dan.lestina
+  name: Dan Leština
+  img: people/volby2021/dan.jpg
+  mail: dan.lestina@pirati.cz
+- uid: jan.novak
+  name: Jan Novák
+  img: people/volby2021/honzano.jpg
+  mail: jan.novak@pirati.cz
 ---
 
 ## Kdo jsme
@@ -57,3 +65,7 @@ Přestože jsou v opoziční roli, již nyní mají za sebou [cenné úspěchy](
     class='c-profile-badge--centered' %}
 {% endfor %}
 </div>
+
+## Agenda
+
+<iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTa7kG2lk8z7Sy487BRAVfcua_GRn9lBYK5QVL4VlipuQQOeAC9MmUkhyfJ7YiUT7ty61zoFeaNi4rF/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
