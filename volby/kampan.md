@@ -1,34 +1,34 @@
 ---
 layout: page
 img:
-title: Kampaò je tu! Rezervuj si místo!
+title: KampaÅˆ je tu! Rezervuj si mÃ­sto!
 shortdesc:
 rbar:
   - kodo
   - calendar
-keywords: kampaò dobrovolníci 2021
-description: Pøed letošními volbami do Poslanecké snìmovny (8. a 9. øíjna 2021) chystáme nejvìtší kontaktní kampaò 
-v historii naší zemì. To však dokáeme jen s dobrovolníky, kteøí nám a našim kandidátùm pomùou v ulicích!
+keywords: kampaÅˆ dobrovolnÃ­ci 2021
+description: PÅ™ed letoÅ¡nÃ­mi volbami do PoslaneckÃ© snÄ›movny (8. a 9. Å™Ã­jna 2021) chystÃ¡me nejvÄ›tÅ¡Ã­ kontaktnÃ­ kampaÅˆ 
+v historii naÅ¡Ã­ zemÄ›. To vÅ¡ak dokÃ¡Å¾eme jen s dobrovolnÃ­ky, kteÅ™Ã­ nÃ¡m a naÅ¡im kandidÃ¡tÅ¯m pomÅ¯Å¾ou v ulicÃ­ch!
 ---
 
-![Kampaò 2021](https://a.pirati.cz/jihocesky/img/2021/kampan-2021.jpg)
+![KampaÅˆ 2021](https://a.pirati.cz/jihocesky/img/2021/kampan-2021.jpg)
 
-Pøed letošními volbami do Poslanecké snìmovny (8. a 9. øíjna 2021) chystáme nejvìtší kontaktní kampaò 
-v historii naší zemì. To však dokáeme jen s dobrovolníky, kteøí nám a našim kandidátùm pomùou v ulicích! 
+PÅ™ed letoÅ¡nÃ­mi volbami do PoslaneckÃ© snÄ›movny (8. a 9. Å™Ã­jna 2021) chystÃ¡me nejvÄ›tÅ¡Ã­ kontaktnÃ­ kampaÅˆ 
+v historii naÅ¡Ã­ zemÄ›. To vÅ¡ak dokÃ¡Å¾eme jen s dobrovolnÃ­ky, kteÅ™Ã­ nÃ¡m a naÅ¡im kandidÃ¡tÅ¯m pomÅ¯Å¾ou v ulicÃ­ch! 
 
-**Máme zcela reálnou šanci letošní volby vyhrát a obrátit tak kurz Èeské republiky koneènì tím správnım smìrem. Bez Vás to ale nedáme!** Jdete do toho s námi? Jenom díky Vaší pomoci zvládneme oslovit dostateènı poèet volièù a pøedat jim náš program a naše vize skrze koalièní noviny.
+**MÃ¡me zcela reÃ¡lnou Å¡anci letoÅ¡nÃ­ volby vyhrÃ¡t a obrÃ¡tit tak kurz ÄŒeskÃ© republiky koneÄnÄ› tÃ­m sprÃ¡vnÃ½m smÄ›rem. Bez VÃ¡s to ale nedÃ¡me!** Jdete do toho s nÃ¡mi? Jenom dÃ­ky VaÅ¡Ã­ pomoci zvlÃ¡dneme oslovit dostateÄnÃ½ poÄet voliÄÅ¯ a pÅ™edat jim nÃ¡Å¡ program a naÅ¡e vize skrze koaliÄnÃ­ noviny.
 
-Místo a èas tvého zapojení si prosím vyber [v našem rezervaèním systému](https://nalodeni.pirati.cz/?next=/akce/). S jakoukoliv nejasností 
-ti rády pomùou naše koordinátorky. Neváhej se jim ozvat, [kontakty najdeš zde](https://jihocesky.pirati.cz/kontakt/).
-Obracet se na nì mùete v jakékoliv související situaci, s kadou otázkou èi potenciálním zádrhelem. Rády vám poradí, pomùou, nasmìrují.
+MÃ­sto a Äas tvÃ©ho zapojenÃ­ si prosÃ­m vyber [v naÅ¡em rezervaÄnÃ­m systÃ©mu](https://nalodeni.pirati.cz/?next=/akce/). S jakoukoliv nejasnostÃ­ 
+ti rÃ¡dy pomÅ¯Å¾ou naÅ¡e koordinÃ¡torky. NevÃ¡hej se jim ozvat, [kontakty najdeÅ¡ zde](https://jihocesky.pirati.cz/kontakt/).
+Obracet se na nÄ› mÅ¯Å¾ete v jakÃ©koliv souvisejÃ­cÃ­ situaci, s kaÅ¾dou otÃ¡zkou Äi potenciÃ¡lnÃ­m zÃ¡drhelem. RÃ¡dy vÃ¡m poradÃ­, pomÅ¯Å¾ou, nasmÄ›rujÃ­.
 
-##Koalièní noviny k pøeètení online
+## KoaliÄnÃ­ noviny k pÅ™eÄtenÃ­ online
 
-![Jarní Koalièní noviny](https://a.pirati.cz/crop/751x422/jihocesky/img/2021/listy2.jpg)
+![JarnÃ­ KoaliÄnÃ­ noviny](https://a.pirati.cz/crop/751x422/jihocesky/img/2021/listy2.jpg)
 
-V ulicích rozdáváme koalièní noviny, jejich jarní verze je i u nás na webu. [Pøeèíst si ji tak mùete okamitì zde](https://jihocesky.pirati.cz/piratske-listy/2021-jck-pas-listy).
+V ulicÃ­ch rozdÃ¡vÃ¡me koaliÄnÃ­ noviny, jejichÅ¾ jarnÃ­ verze je i u nÃ¡s na webu. [PÅ™eÄÃ­st si ji tak mÅ¯Å¾ete okamÅ¾itÄ› zde](https://jihocesky.pirati.cz/piratske-listy/2021-jck-pas-listy).
 
-##Program a kandidáti koalice Pirátù a Starostù
+## Program a kandidÃ¡ti koalice PirÃ¡tÅ¯ a StarostÅ¯
 
-Celı program najdete na našem spoleèném celostátním webu [www.piratiastarostove.cz/](https://www.piratiastarostove.cz/), naše jihoèeské kandidáty
-konkrétnì na adrese [www.piratiastarostove.cz/kandidati/kraj/jihocesky/](https://www.piratiastarostove.cz/kandidati/kraj/jihocesky/)
+CelÃ½ program najdete na naÅ¡em spoleÄnÃ©m celostÃ¡tnÃ­m webu [www.piratiastarostove.cz/](https://www.piratiastarostove.cz/), naÅ¡e jihoÄeskÃ© kandidÃ¡ty
+konkrÃ©tnÄ› na adrese [www.piratiastarostove.cz/kandidati/kraj/jihocesky/](https://www.piratiastarostove.cz/kandidati/kraj/jihocesky/)
