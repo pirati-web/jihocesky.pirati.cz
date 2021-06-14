@@ -1,14 +1,8 @@
 ---
-layout: page
-img:
+layout: default
 title: Kampaň je tu! Rezervuj si místo!
-shortdesc:
-rbar:
-  - kodo
-  - calendar
 keywords: kampaň dobrovolníci 2021
-description: Před letošními volbami do Poslanecké sněmovny (8. a 9. října 2021) chystáme největší kontaktní kampaň 
-v historii naší země. To však dokážeme jen s dobrovolníky, kteří nám a našim kandidátům pomůžou v ulicích!
+description: 'Před letošními volbami do Poslanecké sněmovny (8. a 9. října 2021) chystáme největší kontaktní kampaň v historii naší země. To však dokážeme jen s dobrovolníky, kteří nám a našim kandidátům pomůžou v ulicích!'
 ---
 
 ![Kampaň 2021](https://a.pirati.cz/jihocesky/img/2021/kampan-2021.jpg)
