@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Kampaň je tu! Rezervuj si místo!
 keywords: kampaň dobrovolníci 2021
 description: 'Před letošními volbami do Poslanecké sněmovny (8. a 9. října 2021) chystáme největší kontaktní kampaň v historii naší země. To však dokážeme jen s dobrovolníky, kteří nám a našim kandidátům pomůžou v ulicích!'
