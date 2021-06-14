@@ -16,13 +16,13 @@ Místo a čas tvého zapojení si prosím vyber [v našem rezervačním systému
 ti rády pomůžou naše koordinátorky. Neváhej se jim ozvat, [kontakty najdeš zde](https://jihocesky.pirati.cz/kontakt/).
 Obracet se na ně můžete v jakékoliv související situaci, s každou otázkou či potenciálním zádrhelem. Rády vám poradí, pomůžou, nasměrují.
 
-## Koaliční noviny k přečtení online
+<h2>Koaliční noviny k přečtení online</h2>
 
 ![Jarní Koaliční noviny](https://a.pirati.cz/crop/751x422/jihocesky/img/2021/listy2.jpg)
 
 V ulicích rozdáváme koaliční noviny, jejichž jarní verze je i u nás na webu. [Přečíst si ji tak můžete okamžitě zde](https://jihocesky.pirati.cz/piratske-listy/2021-jck-pas-listy).
 
-## Program a kandidáti koalice Pirátů a Starostů
+<h2>Program a kandidáti koalice Pirátů a Starostů</h2>
 
 Celý program najdete na našem společném celostátním webu [www.piratiastarostove.cz/](https://www.piratiastarostove.cz/), naše jihočeské kandidáty
 konkrétně na adrese [www.piratiastarostove.cz/kandidati/kraj/jihocesky/](https://www.piratiastarostove.cz/kandidati/kraj/jihocesky/)
