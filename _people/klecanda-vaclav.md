@@ -4,7 +4,7 @@ name: Václav Klecanda
 category:
 - zastupitele
 - pks
-img: people/vaclav-klecanda.jpg
+img: people/vaclav-klecanda-2021.jpg
 description: místostarosta v Táboře, zastupitel v Táboře, místopředseda krajského sdružení a člen MS Tábor
 mail:
 - vaclav.klecanda@pirati.cz
