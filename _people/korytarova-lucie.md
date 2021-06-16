@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitelekr
-img: people/lucie.korytarova.2020.jpg
+img: people/lucie-korytarova-2021.jpg
 description: zastupitelka v Jihočeském kraji
 mail:
 #mob: +420
