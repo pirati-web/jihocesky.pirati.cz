@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-img: people/jaroslav_hansal.jpg
+img: people/jaroslav-hansal-2021.jpg
 description: člen MS Českobudějovicko a zastupitel v Českých Budějovicích
 mail:
 - jaroslav.hansal@pirati.cz
