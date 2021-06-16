@@ -21,31 +21,31 @@ clenove:
   mail: josef.soumar@pirati.cz
   mob: 737 838 263
 - uid: martin.kakona
-  name: Martin Kákona
+  name: Ing. Martin Kákona, Ph.D.
   img: people/volby2021/martinka.jpg
   mail: martin.kakona@pirati.cz
 - uid: lukas.mares
-  name: Lukáš Mareš
+  name: MUDr. Lukáš Mareš
   img: people/volby2021/lukasm.jpg
   mail: lukas.mares@pirati.cz
 - uid: lucie.korytarova
-  name: Lucie Korytářová
+  name: Mgr. Lucie Korytářová
   img: people/volby2021/luckak.jpg
-  mail: lucie.korytarova@pirati.cz
+  mail: lucie.korytar@gmail.com
 - uid: jan.hosek
-  name: Jan Hošek
+  name: Bc. Jan Hošek
   img: people/volby2021/honzaho.jpg
   mail: jan.hosek@pirati.cz
 - uid: jiri.roubicek
-  name: Jiří Roubíček
+  name: Mgr. Jiří Roubíček
   img: people/volby2021/jirkar.jpg
   mail: jiri.roubicek@pirati.cz
 - uid: dan.lestina
-  name: Dan Leština
+  name: Mgr. Dan Leština
   img: people/volby2021/dan.jpg
   mail: dan.lestina@pirati.cz
 - uid: jan.novak
-  name: Jan Novák
+  name: Bc. Jan Novák
   img: people/volby2021/honzano.jpg
   mail: jan.novak@pirati.cz
 ---
