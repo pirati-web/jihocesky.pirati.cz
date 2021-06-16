@@ -7,7 +7,7 @@ titles:
 category:
 - pms
 - zastupitele
-img: people/milos-bucinsky.jpg
+img: people/milos-bucinsky-2021.jpg
 mob: 
  - +420 728 467 440
 description: předseda MS Soběslav a zastupitel v Soběslavi
