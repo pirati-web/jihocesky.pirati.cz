@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitelekr
-img: people/jiri.roubicek.2020.jpg
+img: people/jiri-roubicek-2021.jpg
 description: člen MS Tábor a zastupitel v Jihočeském kraji
 mail:
 - jiri.roubicek@pirati.cz
