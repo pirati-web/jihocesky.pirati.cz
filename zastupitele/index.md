@@ -20,7 +20,7 @@ clenove:
   img: people/volby2021/pepasou.jpg
   mail: josef.soumar@pirati.cz
   mob: 737 838 263
-  - uid: lukas.mares
+- uid: lukas.mares
   name: MUDr. Lukáš Mareš
   img: people/volby2021/lukasm.jpg
   mail: lukas.mares@pirati.cz
