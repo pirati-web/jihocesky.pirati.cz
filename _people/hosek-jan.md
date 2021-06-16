@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitelekr
 - zastupitele
-img: people/jan.hosek.2020.jpg
+img: people/jan-hosek-2021.jpg
 description: člen MS Českobudějovicko, zastupitel v Českých Budějovicích a Jihočeském kraji
 mail:
 - jan.hosek@pirati.cz
