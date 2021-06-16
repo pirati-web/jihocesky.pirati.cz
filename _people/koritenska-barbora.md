@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele
-img: people/barbora.koritenska.2020.jpg
+img: people/barbora-koritenska-2021.jpg
 description: členka KS a zastupitelka v Prachaticích
 mail:
 - barbora.koritenska@pirati.cz
