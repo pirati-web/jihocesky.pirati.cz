@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - pks
-img: people/tomas-guth-jarkovsky.jpg
+img: people/tomas-guth-jarkovsky-2021.jpg
 description: místopředseda krajského sdružení
 mail:
 - tomas.guth.jarkovsky@pirati.cz
