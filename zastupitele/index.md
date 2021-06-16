@@ -14,7 +14,7 @@ clenove:
   img: people/volby2021/verkov.jpg
   description: předsedkyně klubu
   mail: veronika.kovarova@pirati.cz
-  mob: +420603397164
+  mob: 603 397 164
 - uid: soumar-josef
   name: Josef Soumar
   img: people/volby2021/pepasou.jpg
