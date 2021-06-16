@@ -6,7 +6,7 @@ titles:
   after: Ph.D.
 category:
 - zastupitelekr
-img: people/martin.kakona.2020.jpg
+img: people/martin-kakona-2021.jpg
 description: člen MS Soběslav a zastupitel v Jihočeském kraji
 mail:
 - martin.kakona@pirati.cz
