@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - pks
-img: people/jana-kolarikova.jpg 
+img: people/jana-kolarikova-2021.jpg 
 #img: https://www.pirati.cz/assets/img/people/jana-kolarikova.jpg
 description: vedoucí personálního odboru, předsedkyně krajského sdružení Jihočeského kraje a místopředsedkyně MS Strakonicko
 mail:
