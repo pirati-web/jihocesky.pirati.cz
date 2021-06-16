@@ -18,10 +18,12 @@ clenove:
 - uid: soumar-josef
   name: Josef Soumar
   img: people/volby2021/pepasou.jpg
+  description: místopředseda klubu
   mail: josef.soumar@pirati.cz
   mob: 737 838 263
 - uid: lukas.mares
   name: MUDr. Lukáš Mareš
+  description: místopředseda klubu
   img: people/volby2021/lukasm.jpg
   mail: lukas.mares@pirati.cz
 - uid: martin.kakona
