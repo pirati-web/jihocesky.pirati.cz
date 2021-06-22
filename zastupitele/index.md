@@ -9,13 +9,13 @@ rbar:
 keywords: zastupitelé kraj
 description: Krajští zastupitelé
 clenove:
-- uid: kovarova-veronika
+- uid: kovarova.veronika
   name: Ing. arch. Veronika Kovářová
   img: people/volby2021/verkov.jpg
   description: předsedkyně klubu
   mail: veronika.kovarova@pirati.cz
   mob: 603 397 164
-- uid: soumar-josef
+- uid: soumar.josef
   name: Josef Soumar
   img: people/volby2021/pepasou.jpg
   description: místopředseda klubu
