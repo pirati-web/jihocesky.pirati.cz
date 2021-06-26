@@ -39,7 +39,7 @@ clenove:
   img: people/volby2021/honzaho.jpg
   mail: jan.hosek@pirati.cz
 - uid: jiri.roubicek
-  name: Mgr. Jiří Roubíček
+  name: Ing. Jiří Roubíček
   img: people/volby2021/jirkar.jpg
   mail: jiri.roubicek@pirati.cz
 - uid: dan.lestina
