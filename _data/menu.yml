@@ -27,7 +27,7 @@ main:
   #      name: Kde kandidujeme?
   #      match: radnice
   - link: /zastupitele/
-    name: Zastupitelé
+    name: Krajští zastupitelé
     match: zastupitele
   - link: /pripoj-se/
     name: Připoj se
