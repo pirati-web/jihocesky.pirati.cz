@@ -15,41 +15,42 @@ clenove:
   description: předsedkyně klubu
   mail: veronika.kovarova@pirati.cz
   mob: 603 397 164
+- uid: lukas.mares
+  name: MUDr. Lukáš Mareš
+  description: 1. místopředseda klubu
+  img: people/volby2021/lukasm.jpg
+  mail: lukas.mares@pirati.cz
+  mob: 737 905 368
 - uid: soumar.josef
   name: Josef Soumar
   img: people/volby2021/pepasou.jpg
-  description: místopředseda klubu
+  description: 2. místopředseda klubu
   mail: josef.soumar@pirati.cz
   mob: 737 838 263
-- uid: lukas.mares
-  name: MUDr. Lukáš Mareš
-  description: místopředseda klubu
-  img: people/volby2021/lukasm.jpg
-  mail: lukas.mares@pirati.cz
-- uid: martin.kakona
-  name: Ing. Martin Kákona, Ph.D.
-  img: people/volby2021/martinka.jpg
-  mail: martin.kakona@pirati.cz
-- uid: lucie.korytarova
-  name: Mgr. Lucie Korytářová
-  img: people/volby2021/luckak.jpg
-  mail: lucie.korytar@gmail.com
-- uid: jan.hosek
-  name: Bc. Jan Hošek
-  img: people/volby2021/honzaho.jpg
-  mail: jan.hosek@pirati.cz
-- uid: jiri.roubicek
-  name: Ing. Jiří Roubíček
-  img: people/volby2021/jirkar.jpg
-  mail: jiri.roubicek@pirati.cz
-- uid: dan.lestina
-  name: Mgr. Dan Leština
-  img: people/volby2021/dan.jpg
-  mail: dan.lestina@pirati.cz
 - uid: jan.novak
   name: Bc. Jan Novák
   img: people/volby2021/honzano.jpg
   mail: jan.novak@pirati.cz
+- uid: jiri.roubicek
+  name: Ing. Jiří Roubíček
+  img: people/volby2021/jirkar.jpg
+  mail: jiri.roubicek@pirati.cz
+- uid: martin.kakona
+  name: Ing. Martin Kákona, Ph.D.
+  img: people/volby2021/martinka.jpg
+  mail: martin.kakona@pirati.cz
+- uid: dan.lestina
+  name: Mgr. Dan Leština
+  img: people/volby2021/dan.jpg
+  mail: dan.lestina@pirati.cz
+- uid: jan.hosek
+  name: Bc. Jan Hošek
+  img: people/volby2021/honzaho.jpg
+  mail: jan.hosek@pirati.cz
+- uid: lucie.korytarova
+  name: Mgr. Lucie Korytářová
+  img: people/volby2021/luckak.jpg
+  mail: lucie.korytar@gmail.com
 ---
 
 ## Kdo jsme
@@ -68,6 +69,6 @@ Přestože jsou v opoziční roli, již nyní mají za sebou [cenné úspěchy](
 {% endfor %}
 </div>
 
-## Kalendář činnosti zastupitelského klubu
+## Přehled činnosti zastupitelského klubu
 
 <iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTa7kG2lk8z7Sy487BRAVfcua_GRn9lBYK5QVL4VlipuQQOeAC9MmUkhyfJ7YiUT7ty61zoFeaNi4rF/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false"></iframe>
