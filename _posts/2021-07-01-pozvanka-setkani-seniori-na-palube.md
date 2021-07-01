@@ -5,7 +5,7 @@ published: true
 title: 'Pozvánka na setkání jihočeského týmu Seniorů na palubě'
 date: '2021-07-01'
 author: Piráti Jihočeský kraj
-image: 2020/senior1.jpg
+image: 2021/seniori2.jpg
 
 description: 'V pondělí 19. 7. 2021 se bude v Českobudějovickém pirátském centru ČePiCe (Hradební 13, České Budějovice) konat setkání jihočeského týmu Seniorů na palubě. Zveme všechny lidi, kteří se chtějí zapojit do mezigenerační diskuze, seznámit se a neformálně si popovídat o dalším směřování společného projektu.'
 tags:
