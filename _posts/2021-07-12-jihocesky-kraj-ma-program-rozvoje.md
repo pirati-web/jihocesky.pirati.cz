@@ -10,6 +10,7 @@ image: 2021/krajsky-urad-2.jpg
 description: 'Na jednání zastupitelstva byl schválen Program rozvoje Jihočeského kraje na období let 2021 až 2027. Piráti svými hlasy tento program podpořili poté, co se sami poslední rok aktivně účastnili jeho přípravy. Oceňují, že většina jejich podnětů, týkajících se například ochrany přírody, krajiny a dopravy, byla zapracována.'
 tags:
   - Zastupitelstvo
+  - Životní prostředí
 ---
 **Na jednání zastupitelstva byl schválen Program rozvoje Jihočeského kraje na období let 2021 až 2027. Piráti svými hlasy tento program podpořili poté, co se sami poslední rok aktivně účastnili jeho přípravy. Oceňují, že většina jejich podnětů, týkajících se například ochrany přírody, krajiny a dopravy, byla zapracována.** 
 
