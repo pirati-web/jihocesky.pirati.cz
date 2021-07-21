@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Jihočeský kraj má svůj Program rozvoje, zapracována byla většina podnětů pirátských zastupitelů'
+title: 'Občané Volar sami musí rozhodnout o obchodní zóně v kasárnách'
 date: '2021-07-21'
 author: Tomáš Válek
 image: 2021/volary-21-7.png
