@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Víme, že ekonomické krize se pravidelně opakují, přesto na ně stát není připraven'
-date: '2021-07-21'
+date: '2021-07-29'
 author: Josef Soumar, Ondřej Pumpr
 image: 2021/JS2021.jpg
 
