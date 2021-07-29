@@ -25,23 +25,19 @@ nepočítáme s předpokládaným schodkem ve výši 500 miliard korun pro rok 2
 Vše, co vláda „ukryla“ do výdajů, na což upozornil i Nejvyšší kontrolní úřad (NKÚ),
 fakt, že vláda nebyla ani po měsících jasných predikcí schopna reagovat na
 zpomalení ekonomiky, a tím zadlužila generace našich dětí, je něco, s čím se
-budeme muset vyrovnávat ještě dlouhou dobu. Až polovina výdajů schodku
-totiž dle NKÚ s pandemií nesouvisela a ministerstvo financí, které se zaštiťuje
-vysokými výdaji na pomoc občanům i podnikatelům, promítlo do covidových
-výdajů například plánovaný jednorázový příspěvek penzistům nebo finance na
+budeme muset vyrovnávat ještě dlouhou dobu. Až polovina výdajů schodku totiž dle NKÚ s pandemií nesouvisela a ministerstvo financí, které se zaštiťuje
+vysokými výdaji na pomoc občanům i podnikatelům, promítlo do covidových výdajů například plánovaný jednorázový příspěvek penzistům nebo finance na
 oddlužení nemocnic. Skutečné obrysy reálných dopadů tohoto nezodpovědného jednání mohou být velmi vážné. Výběr daňových
 příjmů totiž v současnosti nestačí ani na pokrytí běžných výdajů státu, tj.
 především penzí a platů.
 
 V současné době patří mezi prioritu Pirátů a Starostů soustředění pozornosti
-na Národní plán obnovy, znění tzv. Odškodňovacího
-zákona a férové rozdělení unijních dotací na úrovni České republiky
+na Národní plán obnovy, znění tzv. Odškodňovacího zákona a férové rozdělení unijních dotací na úrovni České republiky
 tak, aby na příspěvky a záruky dosáhli i běžní živnostníci a podnikatelé, ne pouze
 vybrané nadnárodní podniky.
 
 Prioritami práce s veřejnými financemi by měla být transparentnost, zodpovědnost,
-pravidelné audity hospodárnosti výdajů, rozklikávací rozpočty na úrovni
-jednotlivých faktur a současně efektivita a modernizace veřejné správy a zeštíhlení
+pravidelné audity hospodárnosti výdajů, rozklikávací rozpočty na úrovni jednotlivých faktur a současně efektivita a modernizace veřejné správy a zeštíhlení
 výdajů na její provoz.
 
 ---
