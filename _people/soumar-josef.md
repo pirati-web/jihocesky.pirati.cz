@@ -43,4 +43,4 @@ Na republikové úrovni se věnuji ochraně spotřebitele, jsem členem rezortn�
 
 člen Zastupitelstva Jihočeského kraje
 
-člen hospodářského a finančních výborů
+člen hospodářského výboru a finančních výborů
