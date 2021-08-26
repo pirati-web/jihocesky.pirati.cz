@@ -19,7 +19,7 @@ Piráti dlouhodobě prosazují uplatnění regionálních potravin v institucíc
 
 *„V dnešní prezentaci na Zemi živitelce mi chybělo jen rozlišení, jaké regionální podniky bude kraj podporovat. Bude to otázka pečlivého nastavení detailů tak, aby z projektu nakonec neprofitovalo především několik místních velkoproducentů zemědělských výrobků, drůbeže nebo ryb. Proto jsme jednali s vedením kraje o tom, aby systém označoval a propagoval například produkty ekologického zemědělství. Jídelny rozhodně nemohou hned začít vařit pouze z biopotravin, ale ze studií z jiných krajů vyplývá, že jejich určitý podíl je reálné uplatnit i bez citelného navýšení ceny. Připravovaný software by jim to mohl značně usnadnit, budou-li k tomu vedoucí jídelen motivováni,“* dodal Dan Leština.
 
-Úplný volební program Pirátů pro volby do Jihočeského krajského zastupitelstva [najdete zde](https://a.pirati.cz/jihocesky/img/program.pdf).
+Úplný volební program Pirátů pro volby do Zastupitelstva Jihočeského kraje [najdete zde](https://a.pirati.cz/jihocesky/img/program.pdf).
 
 O práci v krajském zastupitelstvu budou Piráti dále informovat, sledovat je můžete [na Facebooku](https://www.facebook.com/pirati.jck) a 
 [na webu](https://jihocesky.pirati.cz/).
