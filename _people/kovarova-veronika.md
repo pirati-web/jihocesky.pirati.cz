@@ -11,7 +11,7 @@ img: people/veronika-kovarova.jpg
 description: předsedkyně MS Strakonicko a zastupitelka v Jihočeském kraji
 mail:
 - veronika.kovarova@pirati.cz
-mob: +420603397164
+mob: +420 603 397 164
 profiles:
   github:
   facebook:				
