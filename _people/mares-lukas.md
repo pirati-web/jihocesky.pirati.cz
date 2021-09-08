@@ -10,7 +10,7 @@ img: people/lukas-mares-2021.jpg
 description: člen MS Českobudějovicko, zastupitel v Jihočeském kraji
 mail:
 - lukas.mares@pirati.cz
-#mob: +420
+mob: +420 737 905 368
 profiles:
   github:
   facebook:				
