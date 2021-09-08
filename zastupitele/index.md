@@ -15,26 +15,27 @@ clenove:
   img: people/volby2021/verkov.jpg
   description: předsedkyně klubu
   mail: veronika.kovarova@pirati.cz
-  mob: 603 397 164
+  mob: +420 603 397 164
 - uid: lukas.mares
   url: /clenove/mares-lukas/
   name: MUDr. Lukáš Mareš
   description: 1. místopředseda klubu
   img: people/volby2021/lukasm.jpg
   mail: lukas.mares@pirati.cz
-  mob: 737 905 368
+  mob: +420 737 905 368
 - uid: soumar.josef
   url: /clenove/soumar-josef/
   name: Josef Soumar
   img: people/volby2021/pepasou.jpg
   description: 2. místopředseda klubu
   mail: josef.soumar@pirati.cz
-  mob: 737 838 263
+  mob: +420 737 838 263
 - uid: jan.novak
   url: /clenove/novak-jan/
   name: Bc. Jan Novák
   img: people/volby2021/honzano.jpg
   mail: jan.novak@pirati.cz
+  mob: + 420 777 154 693
 - uid: jiri.roubicek
   url: /clenove/roubicek-jiri/
   name: Ing. Jiří Roubíček
