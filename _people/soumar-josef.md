@@ -8,8 +8,7 @@ img: people/josef-soumar-2021.jpg
 description: člen MS Písecko, zastupitel v Písku a Jihočeském kraji
 mail:
 - josef.soumar@pirati.cz
-mob:
-- 737 838 263
+mob: + 420 737 838 263
 profiles:
   github:                 
   facebook: https://www.facebook.com/soumar.josef 		  
