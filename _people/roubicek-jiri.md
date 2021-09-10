@@ -13,7 +13,7 @@ mail:
 #mob: +420775010651
 profiles:
   github:
-  facebook:				
+  facebook:	https://www.facebook.com/JiriRoubicekTabor
   twitter:
   linkedin:
 ordpms: 30 
