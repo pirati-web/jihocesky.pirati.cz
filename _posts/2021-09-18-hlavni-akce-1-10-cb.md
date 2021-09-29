@@ -20,6 +20,8 @@ Na místě budou zábavné aktivity pro děti i dospělé, tvořivé dílny, div
 
 Těšit se můžete i na výbornou zmrzlinu a my se těšíme na vás! 🖤
 
+![Program 1. 10.](https://a.pirati.cz/jihocesky/img/2021/pirstan_cb_web2.jpg)
+
 Kandidátní listinu Jihočeského kraje najdete na [piratiastarostove.cz/kandidati/kraj/jihocesky/](https://www.piratiastarostove.cz/kandidati/kraj/jihocesky/)
 
 Náš volební program najdete na [piratiastarostove.cz/program/](https://www.piratiastarostove.cz/program/)
