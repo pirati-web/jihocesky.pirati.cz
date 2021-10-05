@@ -7,12 +7,12 @@ date: '2021-10-04'
 author: Ivana Hlušičková
 image: 2021/5220.jpg
 
-description: 'Budoucnost bez korupce a bez dluhů, s obnovením důvěry v právní stát, prosperity a ekonomické stability, s pestrou krajinou, moderním školstvím a dostupným bydlením a zdravotnictvím. Lidé v naší zemi, Jihočeský kraj nevyjímaje, si zkrátka zaslouží vyšší životní úroveň a kvalitní veřejné služby ve městech i na venkově.'
+description: 'Poslanec za Jihočeský kraj Lukáš Kolářík patří mezi ty, kteří ve sněmovně dlouhodobě bojují proti exekučním pastem a zrušení dětských exekucí je vizitkou jeho soustavné práce. V době pandemie patřil mezi ty zákonodárce, kteří se zasadili o přiznání kompenzačního bonusu dohodářům, přestože si to následně jako zásluhu přivlastnila Babišova vláda. Zabývá se obšírně bezpečnostními otázkami a potřebným rozvojem vzdělávacího sytému v ČR. Jak vidí některé aktuální otázky v souvislosti s nadcházejícími volbami? A jak se dá skloubit soukromí a rodina s prací poslance? Také o tom je následující rozhovor Ivany Hlušičkové.'
 tags:
   - Lukáš Kolářík
   - Volby 2021
 ---
-**Poslanec za Jihočeský kraj Lukáš Kolářík patří mezi ty, kteří ve sněmovně dlouhodobě bojují proti exekučním pastem a zrušení dětských exekucí je vizitkou jeho soustavné práce. V době pandemie patřil mezi ty zákonodárce, kteří se zasadili o přiznání kompenzačního bonusu dohodářům, přestože si to následně jako zásluhu přivlastnila Babišova vláda. Zabývá se obšírně bezpečnostními otázkami a potřebným rozvojem vzdělávacího sytému v ČR. Jak vidí něěkteré aktuální otázky v souvislosti s nadcházejícími volbami? A jak se dá skloubit soukromí a rodina s prací poslance? Také o tom je následující rozhovor Ivany Hlušičkové.**
+**Poslanec za Jihočeský kraj Lukáš Kolářík patří mezi ty, kteří ve sněmovně dlouhodobě bojují proti exekučním pastem a zrušení dětských exekucí je vizitkou jeho soustavné práce. V době pandemie patřil mezi ty zákonodárce, kteří se zasadili o přiznání kompenzačního bonusu dohodářům, přestože si to následně jako zásluhu přivlastnila Babišova vláda. Zabývá se obšírně bezpečnostními otázkami a potřebným rozvojem vzdělávacího sytému v ČR. Jak vidí některé aktuální otázky v souvislosti s nadcházejícími volbami? A jak se dá skloubit soukromí a rodina s prací poslance? Také o tom je následující rozhovor Ivany Hlušičkové.**
 
 **Jak jsi se dostal k Piratům? A co je ti na nich blízké?**
 
