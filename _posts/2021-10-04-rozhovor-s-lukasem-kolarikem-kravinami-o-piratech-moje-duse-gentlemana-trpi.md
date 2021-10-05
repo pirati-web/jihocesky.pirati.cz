@@ -26,7 +26,7 @@ Rozhodně je úplně jiná, a to hned v několika rovinách. Tenkrát jsme šli 
 
 **Jihočeský kraj je velmi specifický? Co si myslíš, že můžeš ze své pozice poslance změnit a v čem pomoct?**
 
-Jihočeský kraj má samozřejmě podobné problémy, jako celá země. Naštěstí ne tak hluboké jako jiné kraje. Ale záležitosti jako nedostatečné propojení dopravních sítí mezi kraji, rozdíly v dostupnosti vzdělávání a zdravotní péče a obecně sociální rozdíly se nevyhýbají ani nám v Jižních Čechách. Řešení je většinou v konkrétních krocích. Například vidíme, že mapa školních výsledků se nápadně překrývá s mapou exekucí. To znamená, že nám postupně vznikají lokality, které mohou být znevýhodněné jak ekonomicky, tak z hlediska budoucích příležitostí pro děti, které tam vyrostou. To se nesmí dít. Proto mě zajímá zpackaný exekuční řád a jeho náprava. I děti, které vyrůstají s takovým znevýhodněním, musejí dostat v životě šanci.
+Jihočeský kraj má samozřejmě podobné problémy, jako celá země. Naštěstí ne tak hluboké jako jiné kraje. Ale záležitosti jako nedostatečné propojení dopravních sítí mezi kraji, rozdíly v dostupnosti vzdělávání a zdravotní péče a obecně sociální rozdíly se nevyhýbají ani nám v jižních Čechách. Řešení je většinou v konkrétních krocích. Například vidíme, že mapa školních výsledků se nápadně překrývá s mapou exekucí. To znamená, že nám postupně vznikají lokality, které mohou být znevýhodněné jak ekonomicky, tak z hlediska budoucích příležitostí pro děti, které tam vyrostou. To se nesmí dít. Proto mě zajímá zpackaný exekuční řád a jeho náprava. I děti, které vyrůstají s takovým znevýhodněním, musejí dostat v životě šanci.
 
 **Ve sněmovně se ti podařilo spousta dobrých věcí,co považuješ za úspěch a co tě naopak hodně mrzí z toho, co se nepovedlo?**
 
