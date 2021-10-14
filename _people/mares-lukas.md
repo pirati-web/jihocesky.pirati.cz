@@ -10,7 +10,7 @@ img: people/lukas-mares-2021.jpg
 description: člen MS Českobudějovicko, zastupitel v Jihočeském kraji
 mail:
 - lukas.mares@pirati.cz
-#mob: +420
+mob: +420 737 905 368
 profiles:
   github:
   facebook:				
@@ -18,8 +18,10 @@ profiles:
   linkedin:
 ordkr: 1
 ---
-Lukáš Mareš (*17. dubna 1989, Český Krumlov) je lékař - radiolog, předseda místní odborové organizace, zastupitel v Českých Budějovicích, otec jedné dcery a teď aktuálně lídr pro krajské volby v jižních Čechách a kandidát na hejtmana. Kandidovat se rozhodl proto, že věří pirátským myšlenkám a straně. Slušnost, asertivní přístup a zodpovědné rozhodování ve prospěch občanů patří do všech pater české politiky. Stagnace kraje pod současným vedením a pološero při nakládání s veřejnými prostředky ho přesvědčilo, že jít do toho má smysl. 
+Narodil jsem se v roce 1989 v Českém Krumlově a dětství a mládí prožil na sídlišti Máj v Českých Budějovicích. Vystudoval jsem gymnázium Jírovcova a poté 3. lékařskou fakultu UK v Praze. Předatestační praxi jsem absolvoval v českobudějovické nemocnici.
 
-Jeho přirozeným tématem je zdravotnictví, které se dlouhodobě potácí na hranici bytí a nebytí. Dostupnost zdravotní péče se dlouhodobě nelepší, doktorů a sestřiček rozhodně nepřibývá, okresní nemocnice a periferní oblasti naopak trpí rok od roku více. Nepřípustné jsou počty přesčasových hodin zdravotnických pracovníků v nemocnicích výrazně překračující zákonem povolenou hranici. V našem systému sice máme teoretický nárok na špičkovou péči všichni, reálně ovšem rozhoduje to, kdo koho zná, nebo zda náhodou natrefíme na schopného lékaře. Náš systém má rozhodně co zlepšovat, což potvrdí každý, kdo zná nějakého zdravotníka osobně. 
+Pirátem jsem od roku 2017. Ve volbách v roce 2018 jsem získal mandát zastupitele Českých Budějovic a posléze rok pracoval na radnici jako předseda výboru pro veřejnou správu a IT. Z profesních důvodů jsem posléze na tuto funkci rezignoval.
 
-Dalším tématem je pro něj kvalita prostředí v porodnicích a práva pacientů. Kromě zdravotnictví mu jde o zlepšení ekonomiky kraje, přeměnit ho z montovny na mozkovnu. Zkrátka je třeba změnit náš mind-set a posunout se do 21. století.
+Za největší politický „úspěch“ mého působení považuji [zastavení projektu bourání staré a výstavby nové sportovní haly na Dlouhé louce](https://pirati-web.github.io/cb.pirati.cz/blog/2019/06/26/rozhovor-hala/). Městu jsem tím ušetřil bezmála 700 milionů Kč. Vedlejším efektem této politické akce bylo [odvolání kontoverzního náměstka pro dopravu](https://cb.pirati.cz/blog/2019/03/26/pirati-dotlacili-koalici-k-odvolani-namestka-zodpovedneho-za-vystavbu-nove-haly-v-ceskych-budejovicich/).
+
+Ve volbách 2020 jsem byl zvolen zastupitelem Jihočeského kraje. Posléze pak členem zdravotního výboru a dozorčí rady společnosti Jihočeské nemocnice a.s. (tzv. holdingu). Z důvodu kumulace funkce jsem se pak vzdal mandátu zastupitele města.

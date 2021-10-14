@@ -8,7 +8,7 @@ category:
 - zastupitelekr
 img: people/lucie-korytarova-2021.jpg
 description: zastupitelka v Jihočeském kraji
-mail:
+mail: lucie.korytar@gmail.com
 #mob: +420
 profiles:
   github:
