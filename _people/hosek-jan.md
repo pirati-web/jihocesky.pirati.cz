@@ -11,7 +11,7 @@ img: people/jan-hosek-2021.jpg
 description: člen MS Českobudějovicko, zastupitel v Českých Budějovicích a Jihočeském kraji
 mail:
 - jan.hosek@pirati.cz
-#mob: +420
+mob: +420 608 525 789
 profiles:
   github:
   facebook:				
