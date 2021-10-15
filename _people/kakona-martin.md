@@ -10,7 +10,7 @@ img: people/martin-kakona-2021.jpg
 description: místopředseda MS Soběslav a zastupitel v Jihočeském kraji
 mail:
 - martin.kakona@pirati.cz
-#mob: +420 
+mob: +420 774 711 333
 profiles:
   github:
   facebook:				
