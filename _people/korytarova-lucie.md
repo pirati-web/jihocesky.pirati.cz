@@ -9,7 +9,7 @@ category:
 img: people/lucie-korytarova-2021.jpg
 description: zastupitelka v Jihočeském kraji
 mail: lucie.korytar@gmail.com
-#mob: +420
+mob: +420 777 211 421
 profiles:
   github:
   facebook:				
