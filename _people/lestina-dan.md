@@ -9,7 +9,7 @@ img: people/dan-lestina-2021.jpg
 description: člen MS Českobudějovicko a zastupitel v Jihočeském kraji
 mail:
 - dan.lestina@pirati.cz
-#mob: +420
+mob: +420 737 346 354
 profiles:
   github:
   facebook:				
