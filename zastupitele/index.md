@@ -41,26 +41,31 @@ clenove:
   name: Ing. Jiří Roubíček
   img: people/volby2021/jirkar.jpg
   mail: jiri.roubicek@pirati.cz
+  mob: + 420 775 010 651
 - uid: martin.kakona
   url: /clenove/kakona-martin/
   name: Ing. Martin Kákona, Ph.D.
   img: people/volby2021/martinka.jpg
   mail: martin.kakona@pirati.cz
+  mob: + 420 774 711 333
 - uid: dan.lestina
   url: /clenove/lestina-dan/
   name: Mgr. Dan Leština
   img: people/volby2021/dan.jpg
   mail: dan.lestina@pirati.cz
+  mob: + 420 737 346 354
 - uid: jan.hosek
   url: /clenove/hosek-jan/
   name: Bc. Jan Hošek
   img: people/volby2021/honzaho.jpg
   mail: jan.hosek@pirati.cz
+  mob: + 420 608 525 789
 - uid: lucie.korytarova
   url: /clenove/korytarova-lucie/
   name: Mgr. Lucie Korytářová
   img: people/volby2021/luckak.jpg
   mail: lucie.korytar@gmail.com
+  mob: + 420 777 211 421
 ---
 
 ## Kdo jsme
