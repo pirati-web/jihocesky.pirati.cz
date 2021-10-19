@@ -26,4 +26,4 @@ Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a 
 Finanční dary můžete posílat na [zde](https://dary.pirati.cz/podpor-kraj/jihocesky/).
 
 
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
+
