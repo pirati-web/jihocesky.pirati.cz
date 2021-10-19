@@ -23,7 +23,4 @@ contactPersons:
 
 Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
 
-Finanční dary můžete posílat na [zde](https://dary.pirati.cz/podpor-kraj/jihocesky/).
-
-
-
+Finanční dary můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/jihocesky/).
