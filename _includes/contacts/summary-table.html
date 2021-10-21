@@ -3,7 +3,7 @@
     {% if site.contactSummaryItems %}
       {% for line in site.contactSummaryItems %}
         <tr>
-          {% elsif line.type == 'organizationTransparentAccount' %}
+          {% if line.type == 'organizationTransparentAccount' %}
             <td><i class="fa fa-university"></i>&nbsp;&nbsp;Transparentní {% if line.includeMoreLink %}účty{% else %}účet{% endif %}</td>
             <td>{{ site.organization.transparentAccount }}{% if line.includeMoreLink %} a <a class="c-emphasized-anchor" href="https://wiki.pirati.cz/fo/seznam_uctu">další účty</a>{% endif %}</td>
           {% elsif line.type == 'organizationDataBox' %}
