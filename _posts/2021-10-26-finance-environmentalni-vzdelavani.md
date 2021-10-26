@@ -6,7 +6,6 @@ title: 'Podařilo se navýšit finance do environmentálního vzdělávání!'
 date: '2021-10-26'
 author: Lucie Korytářová
 image: 2021/lk3.jpg
-
 description: 'O environmentálním vzdělávání se mimo jiné jednalo na posledním krajském zastupitelstvu. V rámci programových dotací Jihočeského kraje pro rok 2022 se váhalo, zda dotaci na environmentální vzdělávání po loňském výpadku obnovit. A to i přes to, že to doporučovala nově schválená koncepce pro environmentální vzdělávání v kraji. Na navrácení dotace se také jednohlasně shodl i Výbor pro výchovu, vzdělávání a zaměstnanost, kam jsem tento bod o výpadku ve financování přinesla.'
 tags:
   - zastupitelstvo
