@@ -11,13 +11,6 @@ residences:
      370 01 České Budějovice
      
    mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
-   
-   TAPICE - Táborské pirátské centrum
-   Budějovická
-   390 01  Tábor
-   
-   VOPICE - Volyňské pirátské centrum
-   Volyně
 
 contactPersons:
  - id: klara.bidarova
