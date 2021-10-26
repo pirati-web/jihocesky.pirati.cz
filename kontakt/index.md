@@ -6,11 +6,12 @@ residences:
  - name: Pirátská strana | JIHOČESKÝ KRAJ
    url:
    address: |
-     ČEPICE - Českobudějovické Pirátské centrum
+     ČEPICE - Českobudějovické pirátské centrum
      Hradební 13
      370 01 České Budějovice
      
    mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
+   
 
 contactPersons:
  - id: klara.bidarova
