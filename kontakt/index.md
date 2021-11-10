@@ -11,6 +11,10 @@ residences:
      370 01 České Budějovice
      
    mapLink: "https://goo.gl/maps/BumUenmcVBiGZYN48"
+   
+    Tapice - Táborské pirátské centrum
+    Budějovická, 1997/12
+    39002  Tábor
 
 contactPersons:
  - id: klara.bidarova
