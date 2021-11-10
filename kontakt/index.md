@@ -6,13 +6,17 @@ residences:
  - name: Pirátská strana | JIHOČESKÝ KRAJ
    url:
    address: |
-     ČEPICE - Českobudějovické pirátské centrum
+     **ČEPICE - Českobudějovické pirátské centrum**
      Hradební 13
      370 01 České Budějovice
    
-     Tapice - Táborské pirátské centrum
+     **Tapice - Táborské pirátské centrum**
      Budějovická, 1997/12
      39002  Tábor
+     
+     **VoPiCe - Volyňské pirátské centrum**
+     Palackého 61
+     387 01 Volyně
 
 contactPersons:
  - id: klara.bidarova
