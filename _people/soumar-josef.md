@@ -5,7 +5,7 @@ category:
 - zastupitelekr
 - zastupitele
 img: people/josef-soumar-2021.jpg
-description: èlen MS Písecko, zastupitel v Písku a Jihoèeském kraji
+description: Älen MS PÃ­secko, zastupitel v PÃ­sku a JihoÄeskÃ©m kraji
 mail:
 - josef.soumar@pirati.cz
 mob: + 420 737 838 263
@@ -18,3 +18,4 @@ ordpks: 32
 ordpms: 2      		  
 ordkr: 3
 ---
+
