@@ -7,6 +7,7 @@ titles:
 category:
 - zastupitelekr
 - pms
+- - pks
 img: people/veronika-kovarova.jpg
 description: předsedkyně MS Strakonicko a zastupitelka v Jihočeském kraji
 mail:
@@ -19,6 +20,7 @@ profiles:
   linkedin:
 ordpms: 5 
 ordkr: 4
+ordpks: 2
 ---
 
 Jsem architektka, která se zaměřila na spolupráci komunálních politiků s architekty a urbanisty. Studuji doktorské studium na Fakultě architektury ČVUT v Praze. Zpracovávám disertační práci s cílem popsat možnosti, jak zlepšit kvalitu života na venkově. Pořádám odborné exkurze pro studenty. Angažuji se v osvětě v oblasti udržitelného rozvoje a stavebnictví.
