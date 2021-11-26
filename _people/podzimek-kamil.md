@@ -5,7 +5,7 @@ titles:
   before: Bc.
   after:
 category:
-- pks
+#- pks
 img: people/kamil-podzimek-2021.jpg
 description: 
 - místopředseda krajského sdružení a člen MS Českobudějovicko
