@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- pks
+#- pks
 img: people/tomas-guth-jarkovsky-2021.jpg
 description: místopředseda krajského sdružení
 mail:
