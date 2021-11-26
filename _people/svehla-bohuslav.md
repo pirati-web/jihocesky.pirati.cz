@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:
-- pks
+#- pks
 img: people/bohuslav-svehla-2021.jpg
 description: místopředseda krajského sdružení a člen MS Českobudějovicko
 mail:
