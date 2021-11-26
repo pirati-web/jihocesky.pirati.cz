@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-#- pks
+- pks
 - zastupitele
 img: people/lukas-kolarik-2021.jpg
 description: člen MS Strakonicko a zastupitel v Katovicích
@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 12
-ordpks: 2 
+ordpks: 1 
 ---
 
 **Lukáš Kolářík** (* 5. března 1984, Strakonice) podporuje Piráty od jejich vzniku a od roku 2013 je jejich aktivním členem. Pochází z jihočeského městečka Katovice, kde pobýval většinu svého života a nyní žije, z pracovních důvodů, v Písku.
