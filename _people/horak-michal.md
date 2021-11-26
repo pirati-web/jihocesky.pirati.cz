@@ -9,7 +9,7 @@ category:
 - zastupitele
 - pks
 img: people/michal-horak-2021.jpg
-description: předseda MS Písecko a zastupitel v Písku
+description: místopředseda krajského sdružení, předseda MS Písecko a zastupitel v Písku
 mail:
 - michal.horak@pirati.cz
 #mob: +420
