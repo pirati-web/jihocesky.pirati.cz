@@ -8,7 +8,7 @@ category:
 - pks
 - zastupitele
 img: people/lukas-kolarik-2021.jpg
-description: člen MS Strakonicko a zastupitel v Katovicích
+description: předseda krajského sdružení, člen MS Strakonicko a zastupitel v Katovicích
 mail:
 - lukas.kolarik@pirati.cz
 #mob: +420
