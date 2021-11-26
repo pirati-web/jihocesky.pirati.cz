@@ -7,6 +7,7 @@ titles:
 category:
 - pms
 - zastupitele
+- pks
 img: people/michal-horak-2021.jpg
 description: předseda MS Písecko a zastupitel v Písku
 mail:
@@ -18,6 +19,7 @@ profiles:
   twitter:
   linkedin:
 ordpms: 7
+ordpks: 4
 ---
 
 **Michal Horák** narozen 11.6.1965 v Písku.
