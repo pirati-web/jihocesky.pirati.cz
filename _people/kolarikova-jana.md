@@ -8,7 +8,7 @@ category:
 - pks
 img: people/jana-kolarikova-2021.jpg 
 #img: https://www.pirati.cz/assets/img/people/jana-kolarikova.jpg
-description: místopředsedkyně krajského sdružení Jihočeského kraje a místopředsedkyně MS Strakonicko
+description: místopředsedkyně krajského sdružení, místopředsedkyně MS Strakonicko
 mail:
 - jana.kolarikova@pirati.cz
 #mob: +420
