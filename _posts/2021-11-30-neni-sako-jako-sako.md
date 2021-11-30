@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Jana Koláříková: Není sako jako SAKO - základní výbava komunálního zastupitele
+title: 'Jana Koláříková: Není sako jako SAKO - základní výbava komunálního zastupitele'
 date: '2021-11-30'
 author: Luboš Kudláček
 image: 2021/jana-kolarikova-sako.png
