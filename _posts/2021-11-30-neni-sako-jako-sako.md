@@ -7,11 +7,11 @@ date: '2021-11-30'
 author: Luboš Kudláček
 image: 2021/jana-kolarikova-sako.png
 
-description: 'Cílem politiky Pirátů je svobodná, vzdělaná a digitálně propojená společnost. Vzdělávání je tedy logicky i jednou z oblastí, kterou se zabývají i sami u sebe. Jana Koláříková pracovala 5 let jako vedoucí Personálního odboru. Nyní již tuto pozici nezastává, nadále se však u Pirátů věnuje projektům určeným ke zvyšování kompetencí kandidátů, jakými jsou například LARP (Lídrovský Alternativní Rozvojový Program) nebo SAKO (Skvělá Akademie pro KOmunální zastupitele).'
+description: 'Cílem politiky Pirátů je svobodná, vzdělaná a digitálně propojená společnost. Vzdělávání je tedy logicky i jednou z oblastí, kterou se zabývají i sami u sebe. Jana Koláříková pracovala 4 roky jako vedoucí Personálního odboru. Nyní již tuto pozici nezastává, nadále se však u Pirátů věnuje projektům určeným ke zvyšování kompetencí kandidátů, jakými jsou například LARP (Lídrovský Alternativní Rozvojový Program) nebo SAKO (Skvělá Akademie pro KOmunální zastupitele).'
 tags:
   - rozhovory
 ---
-**Cílem politiky Pirátů je svobodná, vzdělaná a digitálně propojená společnost. Vzdělávání je tedy logicky i jednou z oblastí, kterou se zabývají i sami u sebe. Jana Koláříková pracovala 5 let jako vedoucí Personálního odboru. Nyní již tuto pozici nezastává, nadále se však u Pirátů věnuje projektům určeným ke zvyšování kompetencí kandidátů, jakými jsou například LARP (Lídrovský Alternativní Rozvojový Program) nebo SAKO (Skvělá Akademie pro KOmunální zastupitele).**
+**Cílem politiky Pirátů je svobodná, vzdělaná a digitálně propojená společnost. Vzdělávání je tedy logicky i jednou z oblastí, kterou se zabývají i sami u sebe. Jana Koláříková pracovala 4 roky jako vedoucí Personálního odboru. Nyní již tuto pozici nezastává, nadále se však u Pirátů věnuje projektům určeným ke zvyšování kompetencí kandidátů, jakými jsou například LARP (Lídrovský Alternativní Rozvojový Program) nebo SAKO (Skvělá Akademie pro KOmunální zastupitele).**
 
 **Jano, jak vznikla myšlenka založit vzdělávací program pro komunální politiky?**
 
