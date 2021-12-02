@@ -2,7 +2,7 @@
 uid: jiri.roubicek
 name: Jiří Roubíček
 titles:
-  before: Bc. 
+  before: Ing. 
   after:
 category:
 - zastupitelekr
