@@ -71,7 +71,7 @@ Budeme se dál snažit prosazovat věci z našeho programu. Věříme, že to po
 
 <hr>
 
-##Tiskové zprávy týkající se práce v krajském zastupitelstvu:
+## Tiskové zprávy týkající se práce v krajském zastupitelstvu:
 
   - [Kampaň Jihočeského kraje na podporu cestovního ruchu se podle Jiřího Roubíčka minula účinkem a nijak nepomohla](https://jihocesky.pirati.cz/tiskove-zpravy/jiri-roubicek-kampan-cestovni-ruch/)
   - [Jihočeští Piráti chtějí, aby kraj finančně podpořil neorganizovaný sport, obce by mohly žádat o peníze od roku 2023](https://jihocesky.pirati.cz/tiskove-zpravy/pirati-chteji-podporu-neorganizovaneho-sportu/)
