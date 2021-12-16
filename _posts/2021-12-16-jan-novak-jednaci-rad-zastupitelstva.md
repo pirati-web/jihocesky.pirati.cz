@@ -11,7 +11,6 @@ description: 'Na dnešním jednání Zastupitelstva Jihočeského kraje byl schv
 tags:
   - zastupitelstvo
   - transparence
-  - výbory
 ---
 **Na dnešním jednání Zastupitelstva Jihočeského kraje byl schválen nový jednací řád, který ani přes opakované připomínky ze strany zastupitelského klubu Pirátů neobsahuje větší otevřenost výborů. Ty fungují jako poradní orgány zastupitelstva, přesto se jejich jednání nemohou účastnit ani sami zastupitelé, natož pak veřejnost.**
 
