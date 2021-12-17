@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Piráti nepodpořili snížení rozpočtu JIKORDu o 1,8 milionu korun, upozorňují na to, že v kraji stále chybí integrovaný dopravní systém'
-date: '2021-12-16'
+date: '2021-12-17'
 author: Piráti Jihočeský kraj
 image: 2021/mk_web12.jpg
 
