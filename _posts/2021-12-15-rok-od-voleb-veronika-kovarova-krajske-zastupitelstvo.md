@@ -21,7 +21,7 @@ Hlavní rozdíl mezi vládou a opozicí vidím v přístupu k informacím, kter�
 
 **Má krajský zastupitel v opozici nějakou finanční odměnu?**
 
-Ano, většina našich zastupitelů má měsíční odměnu v přibližné výši 6 až 9 tisíc korun, ta se odvíjí od toho, v kolika výborech, komisích, případně dozorčích radách zastupitel působí. Jedná se tak zpravidla přibližně o čtvrtinový úvazek a to odpovídá časové náročnosti 5 až 6 pracovních dní v měsíci. Při více pracovních povinnostech (např. předseda výboru) pak může být odměna až 18 tisíc a tomu zase odpovídá pracovní vytížení.
+Ano, většina našich zastupitelů má měsíční odměnu v přibližné výši 6 až 9 tisíc korun, ta se odvíjí od toho, v kolika výborech, komisích, případně dozorčích radách zastupitel působí. Jedná se tak zpravidla přibližně o čtvrtinový úvazek a to odpovídá časové náročnosti 5 až 6 pracovních dní v měsíci. Při více pracovních povinnostech (např. předseda výboru) pak může být odměna až 18 tisíc korun a tomu zase odpovídá pracovní vytížení.
 
 **Daří se plnit pirátský program? Prosadil krajský klub Pirátů něco konkrétního a zásadního?**
 
