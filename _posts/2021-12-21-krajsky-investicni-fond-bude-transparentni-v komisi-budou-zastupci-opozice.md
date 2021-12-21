@@ -16,7 +16,7 @@ tags:
 
 Krajský investiční fond byl původně odsouhlasen současným vedením kraje bezprostředně po  volbách v roce 2020, součástí hodnotící komise bylo však jen pět členů rady kraje, tedy nejužšího vedení. Současné zastupitelstvem odsouhlasené usnesení počítá s rozšířením o zástupce všech politických klubů, tedy i členy klubů opozičních (Piráti, ANO, STAN).
 
-*„Dlouhodobě upozorňujeme na nutnost transparence a jsem rád, že po úspěchu s rozklikávacím rozpočtem na úroveň jednotlivých faktur se nám daří plnit náš program částečně i z opozičních lavic. Je to ukázkou naší houževnaté práce a poslání, ke kterému jsme se zvolením jihočeskými zastupiteli našim voličům i všem občanům kraje zavázali,“* okomentoval úspěch opozice zastupitel Josef Soumar.
+*„Dlouhodobě upozorňujeme na nutnost transparence a jsem rád, že po úspěchu s [rozklikávacím rozpočtem na úroveň jednotlivých faktur](https://rr.kraj-jihocesky.gov.cz/) se nám daří plnit náš program částečně i z opozičních lavic. Je to ukázkou naší houževnaté práce a poslání, ke kterému jsme se zvolením jihočeskými zastupiteli našim voličům i všem občanům kraje zavázali,“* okomentoval úspěch opozice zastupitel Josef Soumar.
 
 I v následujícím roce plánují zastupitelé Jihočeského kraje podpořit obce dalšími více než 200 miliony korun na konkrétní projekty. Piráti svými hlasy rozpočet pro rok 2022 podpořili.
 
