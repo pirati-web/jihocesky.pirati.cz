@@ -22,3 +22,7 @@ tags:
 *„Jak velké je poškození chráněných rostlin, uvidíme na jaře. Narušení povrchu může paradoxně těmto druhům i pomáhat, jsou přizpůsobeny pohybu zvířat po pastvinách, ale to je potřeba dělat odborně a s rozmyslem, zde se jednalo jednoznačně o velmi rizikovou chybu,”* dodal Dan Leština.
 
 Místo těžby na mapě: [https://mapy.cz/s/jedebemodo](https://mapy.cz/s/jedebemodo) 
+
+**Související články:**
+  - [Komentář Dana Leštiny ke kácení dubové aleje na Zavadilce](https://cb.pirati.cz/blog/2021/03/04/komentar-dana-lestiny-ke-kaceni-dubove-aleje-na-zavadilce/)
+  - [Začarovaný kruh kůrovcových katastrof a kudy z něj ven](https://jihocesky.pirati.cz/tiskove-zpravy/zacarovany-kruh-kurovcovych-katastrof/) 
