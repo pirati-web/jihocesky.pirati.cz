@@ -27,7 +27,7 @@ Vyrostl v Praze, ale v r. 2009 emigroval do Českých Budějovic, kam ho přilá
 
 Kromě cestování za prací cestuje i za poznáním, odpočinkem a hlavně kvůli pocitu volnosti, který mu to dodává, ať už je to na druhém konci planety nebo jen budějckého okresu. Zajímá se o historii, zahraniční a různou další politiku, správu veřejného prostoru, zdravotnictví, vzdělávání.
 
-
+[Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/dan.lestina)
 
   <h2 class="head-alt-sm mt-12 mb-4">kam kandiduji a proč</h2>
   <div class="content-block">
