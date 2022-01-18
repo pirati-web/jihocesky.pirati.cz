@@ -30,4 +30,4 @@ Věřím, že společně můžeme prosazovat trvale udržitelný rozvoj, a to ja
 
 Vyplouvám tedy s vámi do divokých politických vod s vírou ve změnu, zároveň s chladnout hlavou a sílou společně se postavit zavedeným nepořádkům.
 
-[Mé příjmy z veřejných rozpočtů](https://nalodeni.pirati.cz/odmeny/lucie.korytarova)
+[Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/lucie.korytarova)
