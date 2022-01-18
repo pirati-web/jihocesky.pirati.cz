@@ -41,3 +41,5 @@ Zajímá se o politologii, ať již co se týká politické filosofie, sociologi
  - 2020–doposud neuvolněný předseda Kontrolního výboru zastupitelstva Jihočeského kraje
  - 2020-doposud člen kulturní komise rady kraje
  - 2021-doposud Předseda MS Českobudějovicko
+
+[Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/jan.novak)
