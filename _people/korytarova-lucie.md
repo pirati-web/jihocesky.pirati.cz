@@ -29,3 +29,5 @@ V současné době jsem se vrátila k systému Montessori a učím děti na prvn
 Věřím, že společně můžeme prosazovat trvale udržitelný rozvoj, a to jak na úrovni krajské, kde letos kandiduji do zastupitelstva, tak i na té státní, evropské či celosvětové. Chci naslouchat odborníkům a využívat jejich rad k budování kvalitního, zdravého prostředí pro nás i pro generace budoucí. Životním prostředím se zabývám také v rámci jihočeského krajského expertního týmu jako zástupce garanta.
 
 Vyplouvám tedy s vámi do divokých politických vod s vírou ve změnu, zároveň s chladnout hlavou a sílou společně se postavit zavedeným nepořádkům.
+
+[Mé příjmy z veřejných rozpočtů](https://nalodeni.pirati.cz/odmeny/lucie.korytarova)
