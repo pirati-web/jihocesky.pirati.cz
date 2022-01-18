@@ -17,3 +17,4 @@ profiles:
   linkedin:
 ordpms: 14 
 ---
+[Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/jaromir.kopriva)
