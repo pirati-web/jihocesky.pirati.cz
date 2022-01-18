@@ -27,3 +27,5 @@ Tomáš by chtěl, aby jeho město jen vzkvétalo a místní politika byla čest
 Mezi jeho zájmy patří sport, ekonomika, politika, marketing a analýza dat.
 
 3. Místopředseda Místního sdružení Pirátské strany - Piráti Písecko
+
+[Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/tomas.posekany)
