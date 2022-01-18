@@ -18,4 +18,4 @@ ordpks: 32
 ordpms: 2      		  
 ordkr: 3
 ---
-
+[Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/josef.soumar)
