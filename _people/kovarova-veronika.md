@@ -32,3 +32,5 @@ Opakovaný lockdown mě inspiroval k vytvoření vzdělávacího rozcestníku zd
 Již více než deset let organizuji Šperkařské a Řemeslné workshopy ve Volyni, tvůrčí dílny pro děti i dospělé. [www.sperkarskyworkshop.cz](http://www.sperkarskyworkshop.cz/)
 
 Nejvíce mě baví práce s dětmi a jejich vzdělávání formou her, které rovnou testuji na mých třech ratolestech.
+
+**[Moje příjmy z veřejných rozpočtů](https://nalodeni.pirati.cz/odmeny/veronika.kovarova)**
