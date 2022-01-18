@@ -33,4 +33,4 @@ Již více než deset let organizuji Šperkařské a Řemeslné workshopy ve Vol
 
 Nejvíce mě baví práce s dětmi a jejich vzdělávání formou her, které rovnou testuji na mých třech ratolestech.
 
-**[Moje příjmy z veřejných rozpočtů](https://nalodeni.pirati.cz/odmeny/veronika.kovarova)**
+[Mé příjmy z veřejných rozpočtů](https://nalodeni.pirati.cz/odmeny/veronika.kovarova)
