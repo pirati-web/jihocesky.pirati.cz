@@ -9,7 +9,7 @@ category:
 - zastupitelekr
 - pms
 img: people/martin-mareda-2021.jpg
-description: předseda MS Tábor, zastupitel v Táboře a Jihočeském kraji
+description: předseda MS Tábor, zastupitel v Táboře a v Jihočeském kraji
 mail:
 - martin.mareda@pirati.cz
 mob: +420 777 650 782
