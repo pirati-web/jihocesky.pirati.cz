@@ -16,32 +16,26 @@ clenove:
   description: předsedkyně klubu
   mail: veronika.kovarova@pirati.cz
   mob: +420 603 397 164
-- uid: lukas.mares
-  url: /clenove/mares-lukas/
-  name: MUDr. Lukáš Mareš
-  description: 1. místopředseda klubu
-  img: people/volby2021/lukasm.jpg
-  mail: lukas.mares@pirati.cz
-  mob: +420 737 905 368
 - uid: soumar.josef
   url: /clenove/soumar-josef/
   name: Josef Soumar
   img: people/volby2021/pepasou.jpg
-  description: 2. místopředseda klubu
+  description: 1. místopředseda klubu
   mail: josef.soumar@pirati.cz
   mob: +420 737 838 263
+- uid: jiri.roubicek
+  url: /clenove/roubicek-jiri/
+  name: Ing. Jiří Roubíček
+  img: people/volby2021/jirkar.jpg
+  description: 2. místopředseda klubu
+  mail: jiri.roubicek@pirati.cz
+  mob: + 420 775 010 651
 - uid: jan.novak
   url: /clenove/novak-jan/
   name: Bc. Jan Novák
   img: people/volby2021/honzano.jpg
   mail: jan.novak@pirati.cz
   mob: + 420 777 154 693
-- uid: jiri.roubicek
-  url: /clenove/roubicek-jiri/
-  name: Ing. Jiří Roubíček
-  img: people/volby2021/jirkar.jpg
-  mail: jiri.roubicek@pirati.cz
-  mob: + 420 775 010 651
 - uid: martin.kakona
   url: /clenove/kakona-martin/
   name: Ing. Martin Kákona, Ph.D.
@@ -66,6 +60,12 @@ clenove:
   img: people/volby2021/luckak.jpg
   mail: lucie.korytar@gmail.com
   mob: + 420 777 211 421
+- uid: martin.mareda
+  url: /clenove/mareda-martin/
+  name: Mgr. Martin Mareda
+  img: people/volby2021/martinm.jpg
+  mail: martin.mareda@pirati.cz
+  mob: +420 777 650 782
 ---
 
 ## Kdo jsme
