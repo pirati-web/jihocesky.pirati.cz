@@ -63,7 +63,7 @@ clenove:
 - uid: martin.mareda
   url: /clenove/mareda-martin/
   name: Mgr. Martin Mareda
-  img: people/volby2021/martinm.jpg
+  img: people/martin-mareda-2021.jpg
   mail: martin.mareda@pirati.cz
   mob: +420 777 650 782
 ---
