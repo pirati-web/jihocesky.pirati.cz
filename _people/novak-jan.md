@@ -9,7 +9,7 @@ category:
 - zastupitelekr
 - pms
 img: people/jan-novak-2021.jpg
-description: předseda MS Českobudějovicko, zastupitel v Týně nad Vltavou a Jihočeském kraji
+description: předseda MS Českobudějovicko, zastupitel v Týně nad Vltavou a v Jihočeském kraji
 mail:
 - jan.novak@pirati.cz
 mob: +420 777 154 693
