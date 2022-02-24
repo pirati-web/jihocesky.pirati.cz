@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Martin Mareda je novým krajským pirátských zastupitelem, nahradil Lukáše Mareše'
+title: 'Martin Mareda je novým krajským pirátským zastupitelem, nahradil Lukáše Mareše'
 date: '2022-02-24'
 author: Piráti Jihočeský kraj
 image: 2022/martin-mareda-web.jpg
