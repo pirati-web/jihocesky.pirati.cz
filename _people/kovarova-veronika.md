@@ -15,8 +15,8 @@ mail:
 mob: +420 603 397 164
 profiles:
   github:
-  facebook:				
-  twitter:
+  facebook:
+  twitter: https://twitter.com/veronikakovaro1
   linkedin:
 ordpms: 5 
 ordkr: 4
