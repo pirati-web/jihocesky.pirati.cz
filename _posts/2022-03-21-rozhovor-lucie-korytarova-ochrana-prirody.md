@@ -7,11 +7,13 @@ date: '2022-03-21'
 author: Piráti Jihočeský kraj
 image: 2022/lk-rozhovor.png
 
-description: 'Krajská zastupitelka Lucie Korytářová vystudovala učitelství biologie a výtvarné výchovy. Ve své kariéře se věnovala vzdělávání dětí a návštěvníků zoologických zahrad v zahraničí i u nás. Ve studiu teď pokračuje jako doktorandka na Karlově univerzitě v oboru Vzdělávání v biologii a zabývá se návratem velkých šelem do české krajiny z pohledu environmentálního vzdělávání. Kromě politické funkce krajské zastupitelky působí v krajském výboru pro výchovu, vzdělávání a zaměstnanost a v pirátském zastupitelském klubu má kromě těchto témat na starosti ještě odpadové hospodářství a klimatickou změnu.'
+description: 'Krajská zastupitelka Lucie Korytářová vystudovala učitelství biologie a výtvarné výchovy a v minulosti se věnovala vzdělávání dětí a návštěvníků zoologických zahrad v zahraničí i u nás. Ve studiu teď pokračuje jako doktorandka na Karlově univerzitě v oboru Vzdělávání v biologii a zabývá se návratem velkých šelem do české krajiny z pohledu environmentálního vzdělávání. Kromě politické funkce krajské zastupitelky působí v krajském výboru pro výchovu, vzdělávání a zaměstnanost a v pirátském zastupitelském klubu má kromě těchto témat na starosti ještě odpadové hospodářství a klimatickou změnu.'
 tags:
 
 ---
-**Krajská zastupitelka Lucie Korytářová vystudovala učitelství biologie a výtvarné výchovy. Ve své kariéře se věnovala vzdělávání dětí a návštěvníků zoologických zahrad v zahraničí i u nás. Ve studiu teď pokračuje jako doktorandka na Karlově univerzitě v oboru Vzdělávání v biologii a zabývá se návratem velkých šelem do české krajiny z pohledu environmentálního vzdělávání. Kromě politické funkce krajské zastupitelky působí v krajském výboru pro výchovu, vzdělávání a zaměstnanost a v pirátském zastupitelském klubu má kromě těchto témat na starosti ještě odpadové hospodářství a klimatickou změnu.**
+**Krajská zastupitelka Lucie Korytářová vystudovala učitelství biologie a výtvarné výchovy a v minulosti se věnovala vzdělávání dětí a návštěvníků zoologických zahrad v zahraničí i u nás.**
+
+**Ve studiu teď pokračuje jako doktorandka na Karlově univerzitě v oboru Vzdělávání v biologii a zabývá se návratem velkých šelem do české krajiny z pohledu environmentálního vzdělávání. Kromě politické funkce krajské zastupitelky působí v krajském výboru pro výchovu, vzdělávání a zaměstnanost a v pirátském zastupitelském klubu má kromě těchto témat na starosti ještě odpadové hospodářství a klimatickou změnu.**
 
 **Lucie, začneme tvou politickou prací. Jsi krajská zastupitelka a členka krajského výboru, čím se výbor pro výchovu, vzdělávání a zaměstnanost konkrétně zabývá?**
 
