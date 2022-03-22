@@ -16,7 +16,7 @@ mob: +420 603 397 164
 profiles:
   github:
   facebook:
-  twitter: https://twitter.com/veronikakovaro1
+  twitter: https://twitter.com/piratkaVeronika
   linkedin:
 ordpms: 5 
 ordkr: 4
