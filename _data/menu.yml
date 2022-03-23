@@ -28,7 +28,7 @@ main:
   #      match: radnice
   - link: /zastupitele/
     name: Krajská politika
-    match: zastupitele
+    match: krajska-politika
   - link: /pripoj-se/
     name: Připoj se
     match: pripoj-se
