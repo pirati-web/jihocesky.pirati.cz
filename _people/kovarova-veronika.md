@@ -15,7 +15,7 @@ mail:
 mob: +420 603 397 164
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/veronika.kovarova.315
   twitter: https://twitter.com/piratkaVeronika
   linkedin:
 ordpms: 5 
