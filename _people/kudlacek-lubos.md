@@ -7,7 +7,7 @@ titles:
 category:
 - koordinator
 img: people/lubos-kudlacek.jpg
-description: vedoucí mediálního odboru JčK
+description: PR manažer Pirátů v Jihočeském kraji
 mail:
 - lubos.kudlacek@pirati.cz
 mob: +420 725 427 429
