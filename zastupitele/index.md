@@ -66,6 +66,13 @@ clenove:
   img: people/martin-mareda-2021.jpg
   mail: martin.mareda@pirati.cz
   mob: +420 777 650 782
+tajemnik:
+- uid: sandrik.bednar
+  url: /lide/sandrik-bednar/
+  name: Sandrik Bednář
+  img: 
+  mail: sandrik.bednar@pirati.cz
+  mob: +420 
 ---
 
 ## Kdo jsme
@@ -78,6 +85,16 @@ Přestože jsou v opoziční roli, již nyní mají za sebou [cenné úspěchy](
 
 <div>
 {% for person in page.clenove %}
+  {% include people/profile-badge.html
+    item=person imgSize='big' imgStyle='round'
+    class='c-profile-badge--centered' %}
+{% endfor %}
+</div>
+
+### Tajemník
+
+<div>
+{% for person in page.tajemnik %}
   {% include people/profile-badge.html
     item=person imgSize='big' imgStyle='round'
     class='c-profile-badge--centered' %}
