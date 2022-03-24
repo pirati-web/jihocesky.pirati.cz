@@ -23,7 +23,7 @@ groups:
   #- name: Členové
   #  sort: ordall
   #  category: all
-  - name: Krajské koordinátorky a mediální odbor JčK
+  - name: Krajské koordinátorky, tajemník a mediální odbor JčK
     sort: ordkoord
     category: koordinator
   #- name: Naši členové
