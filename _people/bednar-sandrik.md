@@ -1,4 +1,3 @@
-
 ---
 uid: sandrik.bednar
 name: Sandrik Bednář
