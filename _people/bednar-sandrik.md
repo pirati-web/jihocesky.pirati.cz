@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - koordinator
-img: people/
+img: people/sandrik.bednar.jpg
 description: tajemník zastupitelského klubu Jihočeského kraje
 mail:
 - sandrik.bednar@pirati.cz
