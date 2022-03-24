@@ -70,7 +70,7 @@ tajemnik:
 - uid: sandrik.bednar
   url: /clenove/bednar-sandrik/
   name: Sandrik Bednář
-  img: people/sandrik.bednar.jpg
+  img:
   mail: sandrik.bednar@pirati.cz
   mob: +420 774 801 694
 ---
