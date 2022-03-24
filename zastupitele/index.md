@@ -68,11 +68,11 @@ clenove:
   mob: +420 777 650 782
 tajemnik:
 - uid: sandrik.bednar
-  url: /clenove/sandrik-bednar/
+  url: /clenove/bednar-sandrik/
   name: Sandrik Bednář
-  img: 
+  img: people/sandrik.bednar.jpg
   mail: sandrik.bednar@pirati.cz
-  mob: +420 
+  mob: +420 774 801 694
 ---
 
 ## Kdo jsme
