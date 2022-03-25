@@ -13,7 +13,7 @@ mob: +420 737 346 354
 profiles:
   github:
   facebook: https://www.facebook.com/DanLestinaStranka
-  twitter:
+  twitter: https://twitter.com/Pan_Dan_L
   linkedin:
 ordpms: 8 
 ordkr: 7
