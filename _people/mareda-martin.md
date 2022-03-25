@@ -15,7 +15,7 @@ mail:
 mob: +420 777 650 782
 profiles:
   github:
-  facebook:				
+  facebook:	https://www.facebook.com/martin.mareda
   twitter:
   linkedin:
 ordpms: 21 
