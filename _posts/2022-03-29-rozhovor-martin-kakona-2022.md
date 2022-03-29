@@ -21,7 +21,7 @@ Měření radiace nás dovedlo také k bouřkám, a tak se snažíme zjistit, kd
 
 No a jak jsi řekl, že moje práce nesouvisí s politikou, tak možná ne, ale politika ji určitě velmi ovlivňuje. Nelze být prostě apolitický, a proto po večerech dělám i politiku.
 
-**V krajském zastupitelstvu se zabýváš nejvíc dopravou že? Jak jsme na tom v Jihočeském kraji?
+**V krajském zastupitelstvu se zabýváš nejvíc dopravou že? Jak jsme na tom v Jihočeském kraji?**
 
 Jednoduchá odpověď je - špatně. Špatně po stránce velkých infrastrukturních staveb, jako jsou dálnice nebo vysokorychlostní železnice. Škoda, že Piráti nezískali větší slovo v posledních parlamentních volbách, protože tyto věci z mé pozice v zastupitelstvu kraje nemohu téměř ovlivnit. Česku kromě dálnic chybí zejména VRT (vysokorychlostní tratě). Je velkou ostudou, že v centru Evropy vlaky stále jezdí rychlostí 170 km/h a ani uvažovaná modernizace na 200 km/h není dnes nic moc. Prostě ostuda.
 
