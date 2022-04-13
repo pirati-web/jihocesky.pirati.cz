@@ -14,7 +14,7 @@ mail:
 mob: +420 608 525 789
 profiles:
   github:
-  facebook:				
+  facebook:	https://www.facebook.com/honza.hosek
   twitter:
   linkedin:
 ordpms: 8 
