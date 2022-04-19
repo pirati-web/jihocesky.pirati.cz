@@ -32,7 +32,7 @@ A za druhé se mi líbil ten princip spoluúčasti veřejnosti na politickém ro
 
 Jsem člověk spíš diplomatického ražení, snažím se s lidmi domluvit a jsem otevřený kompromisům. Politika o tomto je, takže bych řekl, že mě nic závažného zas tak nepřekvapilo. Musel jsem si ale zvyknout na to, že je tu takové kolbiště, což v komunální politice představuje zastupitelstvo a jeho zasedání. Na tomto kolbišti se nejvíc ukazují ty opoziční i další strany a i když se snažíme z pohledu koalice s opozicí dojednávat všechny záležitosti předem a hledat kompromisy, tak stejně si to někteří zastupitelé nechávají až na jednání zastupitelstva. Ale to k tomu patří, neříkám to jako chybu, ale musel jsem si zvyknout na to, že to je v podstatě trošku divadlo.
 
-Místostarostou nejsi ale od začátku že? Jak jsi se jím stal? 
+**Místostarostou nejsi ale od začátku že? Jak jsi se jím stal?** 
 
 V koalici jsme byli od začátku. Původně jsem se stal jenom zastupitelem, ale pak, v březnu 2021, došlo ke koaličnímu zemětřesení ohledně autonehody místostarostky. Ta nedokázala svým politickým partnerům okolnosti této nehody vysvětlit, byla odvolána a koalice se tak stala menšinovou, protože její hnutí koalici poté opustilo. Následně bývalá koaliční strana po smírčích jednáních navrhla jako nového místostarostu mě a ostatní koaliční strany s tím souhlasily.
 
