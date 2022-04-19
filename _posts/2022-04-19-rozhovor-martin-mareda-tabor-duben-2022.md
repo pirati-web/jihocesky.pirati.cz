@@ -20,7 +20,7 @@ Vždycky říkám, že jsem měl asi krizi středního věku, protože ve čtyř
 
 **Proč zrovna k Pirátům?**
 
-Ten zájem o politiku jsme měli společný s Martinem Kučerou, což je teď také člen Pirátů. V té době jsme se tedy společně zamýšleli, jestli vstoupit do nějakého táborského hnutí, nebo se přidat k nějaké straně, která působí celostátně. Vyhrála u nás ta druhá možnost, ale zároveň jsme nechtěli do nějaké, řekněme, populární strany. Na takové jsme se koukali tak trochu skrz prsty a hledali jsme spíš něco alternativního, punkovějšího. No a to byli Piráti, jejich programové cíle nás táhly nejvíc.
+Ten zájem o politiku jsme měli společný s Martinem Kučerou, což je teď také člen Pirátů. V té době jsme se tedy společně zamýšleli, jestli vstoupit do nějakého táborského hnutí, nebo se přidat k nějaké straně, která působí celostátně. Vyhrála u nás ta druhá možnost, ale zároveň jsme nechtěli do nějaké, řekněme, populární strany. Hledali jsme spíš něco alternativního, punkovějšího. No a to byli Piráti, jejich programové cíle nás táhly nejvíc.
 
 **Které cíle konkrétně myslíš?**
 
