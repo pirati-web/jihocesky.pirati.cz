@@ -17,6 +17,7 @@ profiles:
   github:
   facebook: https://www.facebook.com/veronika.kovarova.315
   twitter: https://twitter.com/piratkaVeronika
+  instagram: https://www.instagram.com/veronika.kovarova.piratka/
   linkedin:
 ordpms: 5 
 ordkr: 4
