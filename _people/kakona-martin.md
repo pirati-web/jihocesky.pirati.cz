@@ -13,7 +13,7 @@ mail:
 mob: +420 774 711 333
 profiles:
   github:
-  facebook:				
+  facebook: https://www.facebook.com/martinkakona
   twitter:
   linkedin:
 ordpms: 10
