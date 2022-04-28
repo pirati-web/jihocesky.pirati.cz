@@ -11,8 +11,8 @@ mail:
 mob: + 420 737 838 263
 profiles:
   github:                 
-  facebook:		  
-  twitter: 		  
+  facebook: https://www.facebook.com/josef.soumar
+  twitter: https://twitter.com/SoumarJosef
   flickr:
 ordpks: 32   
 ordpms: 2      		  
