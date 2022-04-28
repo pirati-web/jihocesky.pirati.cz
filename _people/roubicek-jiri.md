@@ -14,7 +14,7 @@ mob: +420 775 010 651
 profiles:
   github:
   facebook:	https://www.facebook.com/JiriRoubicekTabor
-  twitter:
+  twitter: https://twitter.com/JirkaRoubicek
   linkedin:
 ordpms: 30 
 ordkr: 5
