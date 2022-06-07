@@ -2,7 +2,7 @@
 uid: jan.nepomuk.piskac
 name:  Jan Nepomuk Piskač
 titles:
-  before: Bc.
+  before: MgA.
   after:
 category:
 - zastupitele
