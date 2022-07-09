@@ -14,7 +14,8 @@ mob: +420 774 711 333
 profiles:
   github:
   facebook: https://www.facebook.com/martinkakona
-  twitter:
+  twitter: https://twitter.com/MKakona
+  instagram: https://www.instagram.com/martin.kakona/
   linkedin:
 ordpms: 10
 ordkr: 6
