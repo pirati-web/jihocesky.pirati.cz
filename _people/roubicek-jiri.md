@@ -15,6 +15,7 @@ profiles:
   github:
   facebook:	https://www.facebook.com/JiriRoubicekTabor
   twitter: https://twitter.com/JirkaRoubicek
+  instagram: https://www.instagram.com/roubicek_jiri/
   linkedin:
 ordpms: 30 
 ordkr: 5
