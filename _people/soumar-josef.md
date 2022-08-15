@@ -14,7 +14,7 @@ profiles:
   facebook: https://www.facebook.com/josef.soumar
   twitter: https://twitter.com/SoumarJosef
   web: https://cs.wikipedia.org/wiki/Josef_Soumar
-  linkedin: https://www.linkedin.com/in/josefsoumar/
+  wiki: https://www.linkedin.com/in/josefsoumar/
 ordpks: 32   
 ordpms: 2      		  
 ordkr: 3
