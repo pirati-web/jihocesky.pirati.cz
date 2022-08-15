@@ -13,8 +13,7 @@ profiles:
   github:                 
   facebook: https://www.facebook.com/josef.soumar
   twitter: https://twitter.com/SoumarJosef
-  web: https://cs.wikipedia.org/wiki/Josef_Soumar
-  wiki: https://www.linkedin.com/in/josefsoumar/
+  web: 
 ordpks: 32   
 ordpms: 2      		  
 ordkr: 3
@@ -51,3 +50,10 @@ Na republikové úrovni se věnuji státnímu rozpočtu a ochraně spotřebitele
   * Člen dozorčí rady Nemocnice Písek, a.s.
 
 [Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/josef.soumar)
+
+----
+
+**Další kontakty**
+
+  * [Stránka na Wikipepedii](https://cs.wikipedia.org/wiki/Josef_Soumar)
+  * [Profil na LinkedIN](https://www.linkedin.com/in/josefsoumar/)
