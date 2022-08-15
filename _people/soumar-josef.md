@@ -55,5 +55,5 @@ Na republikové úrovni se věnuji státnímu rozpočtu a ochraně spotřebitele
 
 **Další kontakty**
 
-  * [Stránka na Wikipepedii](https://cs.wikipedia.org/wiki/Josef_Soumar)
-  * [Profil na LinkedIN](https://www.linkedin.com/in/josefsoumar/)
+  * [Stránka na Wikipedii](https://cs.wikipedia.org/wiki/Josef_Soumar)
+  * [Profil na LinkedIn](https://www.linkedin.com/in/josefsoumar/)
