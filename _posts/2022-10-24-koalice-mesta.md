@@ -11,7 +11,7 @@ description: 'Pirátští zastupitelé se po komunálních volbách ujali svých
 tags:
 
 ---
-**Pirátští zastupitelé se po komunálních volbách ujali svých mandátů a po vyjednávání podepsali koaliční smlouvy v Písku, Táboře a v Českých Budějovicích. **
+**Pirátští zastupitelé se po komunálních volbách ujali svých mandátů a po vyjednávání podepsali koaliční smlouvy v Písku, Táboře a v Českých Budějovicích.**
 
 V Písku je součástí vedení města Josef Soumar, který má jako místostarosta na starosti finance a rozpočet, digitalizaci, čistotu a pořádek, dopravu a participativní rozpočet a Martin Brož jako neuvolněný radní pro životní prostředí.
 
