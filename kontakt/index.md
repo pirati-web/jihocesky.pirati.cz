@@ -15,7 +15,7 @@ residences:
      39002  Tábor
      
      VoPiCe - Volyňské pirátské centrum
-     Palackého 61
+     Palackého 100
      387 01 Volyně
 
 contactPersons:
