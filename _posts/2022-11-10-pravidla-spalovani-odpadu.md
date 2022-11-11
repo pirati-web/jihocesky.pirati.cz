@@ -12,7 +12,7 @@ tags:
   - zastupitelstvo
   - životní prostředí
 ---
-**Na dnešním jednání Zastupitelstva Jihočeského kraje bylo rozhodnuto o zahájení aktualizace Zásad územního rozvoje Jihočeského kraje s cílem nastavit pravidla a podmínky pro výstavbu ZEVO (zařízení pro energetické využití odpadu) v kraji. **
+**Na dnešním jednání Zastupitelstva Jihočeského kraje bylo rozhodnuto o zahájení aktualizace Zásad územního rozvoje Jihočeského kraje s cílem nastavit pravidla a podmínky pro výstavbu ZEVO (zařízení pro energetické využití odpadu) v kraji.**
 
 Pirátští krajští zastupitelé vnímají aktuální potřebu vyřešit nakládání s odpady a jedno z možných řešení je ZEVO. Dlouhodobě ale upozorňují, že je potřeba dávat pozor na celkovou kapacitu spaloven odpadů, aby byl spalován odpad jen z nejbližšího okolí (a nemusel se dovážet kamiony z ostatních krajů) a abychom spalováním nepřišli o motivaci ke třídění odpadů. To vyplývá i z budoucích závazků na zpracování a množství vytříděnosti odpadu v Evropě – je potřeba omezit skládkování, ne ale za cenu toho, že budeme spalovat všechno.
 
