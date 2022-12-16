@@ -4,7 +4,7 @@ category: blog
 published: true
 title: 'Jihočeští Piráti odmítají škrty v dotacích pro sociální služby, Pirát Martin Mareda předložil návrh na dnešním jednání krajského zastupitelstva'
 date: '2022-12-15'
-author: Luboš Kudláček
+author: Piráti Jihočeský kraj
 image: 2022/mm-socialni-dotace.jpg
 
 description: 'Krajský zastupitel Martin Mareda (Piráti) předložil na dnešním jednání Zastupitelstva Jihočeského kraje návrh na zvýšení objemu prostředků v dotačních programech sloužících pro financování sociálních služeb. Zastupitelstvo v hlasování tento návrh odmítlo.'
