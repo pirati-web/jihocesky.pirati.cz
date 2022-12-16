@@ -5,7 +5,7 @@ published: true
 title: 'Jihočeský kraj bude vymáhat škodu způsobenou bývalým ředitelem Jihočeské centrály cestovního ruchu, na případ upozornil zastupitel Jiří Roubíček'
 date: '2022-12-16'
 author: Piráti Jihočeský kraj
-image: 2022/jr-jccr2.jpg
+image: 2022/jr-jccr3.jpg
 
 description: 'Na prosincovém jednání Rady Jihočeského kraje bylo rozhodnuto o vymáhání škody způsobené Jihočeské centrále cestovního ruchu (JCCR) jejím bývalým ředitelem Jaromírem Poláškem. Na situaci původně během jednání zastupitelstva upozornil Jiří Roubíček (Piráti).'
 tags:
