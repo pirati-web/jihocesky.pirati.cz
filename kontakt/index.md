@@ -22,8 +22,6 @@ contactPersons:
  - id: klara.bidarova
    position: Krajské koordinátorky<br><span style="font-size:60%">(kontakt pro dobrovolníky a zájemce o členství)</span>
  - id: nikola.mrazova  
- - id: lubos.kudlacek
-   position: Mediální odbor<br><span style="font-size:60%">(kontakt pro novináře)</span>
  - id: sandrik.bednar
    position: Tajemník krajského zastupitelského klubu<br><span style="font-size:60%">(kontakt na krajský zastupitelský klub)</span>
 ---
