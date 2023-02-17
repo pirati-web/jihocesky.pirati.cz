@@ -26,12 +26,10 @@ ordpks: 2
 
 Jsem architektka, která se zaměřila na spolupráci komunálních politiků s architekty a urbanisty. Studuji doktorské studium na Fakultě architektury ČVUT v Praze. Zpracovávám disertační práci s cílem popsat možnosti, jak zlepšit kvalitu života na venkově. Pořádám odborné exkurze pro studenty. Angažuji se v osvětě v oblasti udržitelného rozvoje a stavebnictví.
 
-Jedním z mých cílů je vytvoření platformy pro aktivní spolupráci a synergii mezi odborníky z krajinné ekologie, zemědělství, lesnictví, ochrany přírody a urbanismu venkova a aplikace této platformy do strategických plánů municipalit.
+Jedním z mých cílů je vytvoření platformy pro aktivní spolupráci a synergii mezi odborníky z krajinné ekologie, zemědělství, lesnictví, ochrany přírody a urbanismu venkova a aplikace této platformy do strategických plánů municipalit. Jsem součástí týmu připravujícího konferenci Pojďme dělat město (nebo ves), která se zabývá problematikou menších měst a obcí - přínosy architektů do jejich správy. 
 Při studiích na vysoké škole jsem brigádničila jako průvodce na zámcích, doučovala matematiku a pracovala jako grafik pro komerční i nekomerční klienty.
-Opakovaný lockdown mě inspiroval k vytvoření vzdělávacího rozcestníku zdarma přístupných online zdrojů [www.kdeseucit.cz](https://www.kdeseucit.cz/), kam soustřeďuji odkazy nejen z běžného učiva, ale i z učiva uměleckých škol, volnočasových vzdělávacích aktivit a kulturních institucí.
+Opakovaný lockdown mě inspiroval k vytvoření vzdělávacího rozcestníku zdarma přístupných online zdrojů [www.kdeseucit.cz](https://www.kdeseucit.cz/), kkam soustřeďuji odkazy nejen z běžného učiva, ale i z učiva uměleckých škol, volnočasových vzdělávacích aktivit a kulturních institucí.
 
 Již více než deset let organizuji Šperkařské a Řemeslné workshopy ve Volyni, tvůrčí dílny pro děti i dospělé. [www.sperkarskyworkshop.cz](http://www.sperkarskyworkshop.cz/)
-
-Nejvíce mě baví práce s dětmi a jejich vzdělávání formou her, které rovnou testuji na mých třech ratolestech.
 
 [Mé příjmy z veřejných zdrojů](https://nalodeni.pirati.cz/odmeny/veronika.kovarova)
