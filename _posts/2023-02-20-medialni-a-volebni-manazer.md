@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Hledáme mediální a volební manažer/ku pro Jihočeský kraj'
+title: 'Hledá se mediální a volební manažer/ka pro Jihočeský kraj'
 date: '2023-02-20'
 author: Piráti Jihočeský kraj
 image: 2023/volebni-a-medialni-manazer.jpg
