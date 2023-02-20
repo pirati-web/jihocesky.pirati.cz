@@ -46,4 +46,4 @@ V oblasti strategické bude náplní Tvé práce:
 -schopnost plánování, samostatnost a svědomitost
 -schopnost pracovat pod tlakem
 
-**Další informace s možností přihlasit se do výběrového řízení (pozor, do 15. 3. 2023) najdete [zde](https://forum.pirati.cz/viewtopic.php?t=63816).**
+**Další informace s možností přihlásit se do výběrového řízení (pozor, do 15. 3. 2023) najdete [zde](https://forum.pirati.cz/viewtopic.php?t=63816).**
