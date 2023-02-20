@@ -5,7 +5,7 @@ published: true
 title: 'Hledáme mediální a volební manažer/ku pro Jihočeský kraj'
 date: '2023-02-20'
 author: Piráti Jihočeský kraj
-image: 2023/volebni-a-medialni-manaze.jpg
+image: 2023/volebni-a-medialni-manazer.jpg
 
 description: 'Předsednictvo krajského sdružení Pirátské strany Jihočeského kraje vyhlašuje otevřené výběrové řízení na pozici PR, mediální a volební manažer/ka pro Jihočeský kraj.'
 tags:
