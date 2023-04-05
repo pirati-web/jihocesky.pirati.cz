@@ -100,7 +100,3 @@ Přestože jsou v opoziční roli, již nyní mají za sebou [cenné úspěchy](
     class='c-profile-badge--centered' %}
 {% endfor %}
 </div>
-
-## Přehled činnosti zastupitelského klubu
-
-<iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTa7kG2lk8z7Sy487BRAVfcua_GRn9lBYK5QVL4VlipuQQOeAC9MmUkhyfJ7YiUT7ty61zoFeaNi4rF/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false"></iframe>
