@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: 'Pondělní zastupitelstvo v Třeboni smetlo ze stolu převzetí parku kolem Schwarzenberské hrobky. Pirátští zastupitelé s tímto rozhodnutím nesouhlasí.'
+title: 'Pondělní zastupitelstvo v Třeboni smetlo ze stolu převzetí parku kolem Schwarzenberské hrobky. Pirátští zastupitelé s tímto rozhodnutím nesouhlasí'
 date: '2023-04-25'
 author: Jana Pincová
 image: 2023/schwarzenbergska-hrobka.jpg
